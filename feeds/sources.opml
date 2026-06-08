@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>港美股雷达 信源清单</title>
+    <!--
+      分组用 <outline text="组名" id="site_id"> 包裹；
+      每个源 <outline title="源名" xmlUrl="RSS地址" market="HK|US|CN|GLOBAL"/>
+      market 为可选的市场提示，用于无明确标的时归类与加权。
+      用户私有源后续追加即可。
+    -->
+  </head>
+  <body>
+    <outline text="美股 / 全球财经" id="us_global">
+      <outline title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" market="US"/>
+      <outline title="MarketWatch Top Stories" xmlUrl="http://feeds.marketwatch.com/marketwatch/topstories/" market="US"/>
+      <outline title="MarketWatch Real-time" xmlUrl="http://feeds.marketwatch.com/marketwatch/realtimeheadlines/" market="US"/>
+      <outline title="CNBC Top News" xmlUrl="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100003114" market="US"/>
+      <outline title="CNBC Markets" xmlUrl="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=20910258" market="US"/>
+      <outline title="CNBC Earnings" xmlUrl="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=15839135" market="US"/>
+      <outline title="Nasdaq Stocks" xmlUrl="https://www.nasdaq.com/feed/rssoutbound?category=Stocks" market="US"/>
+      <outline title="The Motley Fool" xmlUrl="https://www.fool.com/feeds/index.aspx" market="US"/>
+      <outline title="Seeking Alpha Market News" xmlUrl="https://seekingalpha.com/market_currents.xml" market="US"/>
+    </outline>
+
+    <outline text="港股 / 中概" id="hk_china">
+      <outline title="SCMP Business" xmlUrl="https://www.scmp.com/rss/92/feed" market="HK"/>
+      <outline title="SCMP Companies" xmlUrl="https://www.scmp.com/rss/318198/feed" market="HK"/>
+      <outline title="Investing.com 中文" xmlUrl="https://cn.investing.com/rss/news_25.rss" market="HK"/>
+    </outline>
+
+    <!--
+      下面这些中文财经源走 RSSHub。把 RSSHUB 换成你自建/公共实例域名后启用，
+      例如 https://rsshub.app 或自部署实例。删除注释即可生效。
+
+    <outline text="中文财经 (RSSHub)" id="cn_finance">
+      <outline title="华尔街见闻" xmlUrl="https://RSSHUB/wallstreetcn/live/global" market="GLOBAL"/>
+      <outline title="财联社 电报" xmlUrl="https://RSSHUB/cls/telegraph" market="CN"/>
+      <outline title="格隆汇" xmlUrl="https://RSSHUB/gelonghui/home" market="HK"/>
+      <outline title="雪球今日话题" xmlUrl="https://RSSHUB/xueqiu/today" market="GLOBAL"/>
+    </outline>
+    -->
+  </body>
+</opml>

@@ -1,0 +1,50 @@
+name: Update Stock Radar
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每 30 分钟
+  workflow_dispatch: {}        # 支持手动触发
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "feeds/**"
+      - ".github/workflows/update-radar.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run radar
+        run: python scripts/update_radar.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: update radar data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
