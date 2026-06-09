@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-06-09T00:07:26.332444+00:00",
+  "generated_at": "2026-06-09T03:14:58.772992+00:00",
   "sites": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "status": "error",
-      "count": 20,
+      "count": 11,
       "errors": [
+        "MarketWatch Top Stories: 400 Client Error: Bad Request for url: https://feeds.marketwatch.com/marketwatch/topstories/",
         "Nasdaq Stocks: HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=20)"
       ]
     },
@@ -14,12 +15,12 @@
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "errors": []
     }
   ],
   "successful_sites": 1,
   "failed_sites": 1,
-  "fetched_raw_items": 326,
-  "items_in_window": 26
+  "fetched_raw_items": 312,
+  "items_in_window": 17
 }
