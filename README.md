@@ -19,12 +19,13 @@ feeds/
   sources.opml             # 信源清单（RSS/OPML），改这里增删源
 scripts/
   update_radar.py          # 抓取 → 标的/市场/分类打分 → 去重 → 合并事件线 → 写 JSON
+  requirements.txt         # Python 依赖（放 scripts/ 下，避免 Vercel 误判为 Python 项目）
 data/                      # 自动生成的产物（前端读取）
   latest.json              # 资讯流 + 统计
   stories.json             # 焦点事件线
   movers.json              # 量价异动（占位，待行情源填充）
   source-status.json       # 信源健康度
-requirements.txt
+vercel.json                # 声明为纯静态站，关闭构建
 .github/workflows/update-radar.yml
 ```
 
@@ -43,7 +44,7 @@ feeds/sources.opml ─┐
 ## 本地运行
 
 ```bash
-python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+python3 -m venv .venv && .venv/bin/pip install -r scripts/requirements.txt
 .venv/bin/python scripts/update_radar.py        # 生成 data/*.json
 .venv/bin/python -m http.server 8777            # 打开 http://localhost:8777
 ```
