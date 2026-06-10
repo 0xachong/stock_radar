@@ -1,44 +1,37 @@
 {
-  "generated_at": "2026-06-10T03:38:02.497575+00:00",
+  "generated_at": "2026-06-10T08:07:17.557006+00:00",
   "window_hours": 48,
-  "total_items": 30,
+  "total_items": 28,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
+    "US": 23,
     "CN": 1,
-    "US": 29
+    "HK": 4
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 14
-    },
-    {
-      "key": "ipo",
-      "count": 6
+      "count": 13
     },
     {
       "key": "macro",
-      "count": 3
+      "count": 5
     },
     {
-      "key": "earnings",
-      "count": 2
-    },
-    {
-      "key": "product",
-      "count": 1
+      "key": "ipo",
+      "count": 5
     },
     {
       "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "earnings",
       "count": 1
     },
     {
       "key": "capital",
-      "count": 1
-    },
-    {
-      "key": "policy",
       "count": 1
     },
     {
@@ -50,74 +43,188 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 26
+      "count": 22
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "bbe799f5876d0ec344eecfa3cb8b1e1425ac6477",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "今年的牛股被谁承包了？科技浪下的A股版图重塑",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3409867",
-      "summary": "",
-      "published_at": "2026-06-10T03:05:48+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "CN",
+      "id": "58a3093f0a43498bceb1a1caa3a249c4fc991f5d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SoftBank sinks over 8% as Asia tech stocks tumble, tracking Wall Street losses",
+      "url": "https://www.cnbc.com/2026/06/10/softbank-samsung-skhynix-asia-tech-stocks-ai-ipo.html",
+      "summary": "Asian semiconductor and technology stocks fell on Wednesday, tracking overnight losses on Wall Street.",
+      "published_at": "2026-06-10T08:03:31+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "US",
       "markets": [
-        "CN"
+        "US"
       ],
       "tickers": [],
       "category": "company",
       "score": 0.52
     },
     {
-      "id": "35e2d0beb2c00183ac9d6189d2f68ef8fb034b0a",
+      "id": "b4fe9dd964e76aaa1c31e790f7cf704e95b05d53",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "Meta Platforms与信实工业公司合作，在印度建设AI数据中心",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3409863",
+      "title": "A股失守4000点！沪指收跌0.42%，深成指、创业板指双双跌超2%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3410186",
       "summary": "",
-      "published_at": "2026-06-10T02:58:43+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
+      "published_at": "2026-06-10T07:37:39+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "CN",
       "markets": [
-        "US"
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "6853954d99b01768a06a671d6e31d837b5ca6ee5",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股黄金股齐挫赤峰黄金跌超7% 机构热议“海峡不开，黄金难涨”",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3410172",
+      "summary": "",
+      "published_at": "2026-06-10T07:35:34+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "d75c89b342795b2e4791ef602f115d340affc1e6",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股评级汇总：广发证券维持美团买入评级",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3410171",
+      "summary": "",
+      "published_at": "2026-06-10T07:35:33+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
       ],
       "tickers": [
         {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
+          "symbol": "03690",
+          "name": "美团",
+          "market": "HK"
         }
       ],
-      "category": "product",
-      "score": 0.85
+      "category": "rating",
+      "score": 1.0
     },
     {
-      "id": "4053df18f14bf56046109f28e699f975795217b7",
+      "id": "b3d77c35d9683e2b84aa566d477028e740bebd7b",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "Citrini看多美股医疗板块新行情，更新“卖铲人”篮子：AI利好叠加周期性改善，复苏信号更明确",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3409826",
+      "title": "花旗：全国AI建设蓝图利好中芯国际(00981)等 AI芯片国产化逾80%目标料可实现",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3410168",
       "summary": "",
-      "published_at": "2026-06-10T02:06:27+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "published_at": "2026-06-10T07:35:13+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "00981",
+          "name": "中芯国际",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "f8652488b3971fe91c143243a7858e81989e6106",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 中国旺旺(00151)跌超3% 股价自3月以来跑输同业同期表现 原材料成本上升对公司实际影响有限",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3410167",
+      "summary": "",
+      "published_at": "2026-06-10T07:35:13+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "f45c49c226e5955116d18f02dfae467cb93d869b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Blowout Jobs Numbers Just Made Kevin Warsh's Job Much Harder -- and Put a Showdown With Trump in Motion",
+      "url": "https://www.fool.com/investing/2026/06/10/blowout-jobs-numbers-just-made-kevin-warshs-job-mu/?source=iedfolrf0000001",
+      "summary": "The new Fed chair is caught between the proverbial rock and a hard place.",
+      "published_at": "2026-06-10T07:15:00+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.64
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "ff0758777e114e3e7522c4849383902641570039",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "XCF Global retains Nasdaq listing via approved 180-day compliance extension",
+      "url": "https://seekingalpha.com/news/4602039-xcf-global-retains-nasdaq-listing-via-approved-180-day-compliance-extension?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-06-10T07:14:45+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "2f860e0b78dc64d2f4efc941873dd4dcfa6f8def",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: SpaceX Stock Will Hit This Price in July",
+      "url": "https://www.fool.com/investing/2026/06/10/prediction-spacex-stock-will-hit-this-price-in-jul/?source=iedfolrf0000001",
+      "summary": "Is the SpaceX IPO overhyped?",
+      "published_at": "2026-06-10T04:00:00+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
     },
     {
       "id": "99ddbf89c82a51dcb48cb782164e1f366b1b1ffe",
@@ -128,7 +235,7 @@
       "url": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
       "summary": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into effect.",
       "published_at": "2026-06-10T01:31:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -146,7 +253,7 @@
       "url": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
       "summary": "Super Micro looks to raise equity as it faces staggering AI demand but also an intense cash burn",
       "published_at": "2026-06-10T00:12:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -164,7 +271,7 @@
       "url": "https://www.cnbc.com/2026/06/09/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
       "summary": "The S&amp;P 500 and Nasdaq Composite fell in Tuesday's trading as chip stocks went back to their losing ways.",
       "published_at": "2026-06-09T23:58:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -182,7 +289,7 @@
       "url": "https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
       "summary": "Eric Trump and Donald Trump Jr. celebrated a deal with Alt5 Sigma that generated roughly $500 million for the Trump family. The company's shares are down 93%.",
       "published_at": "2026-06-09T22:28:48+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -200,7 +307,7 @@
       "url": "https://www.fool.com/investing/2026/06/09/apple-just-joined-the-ai-revolution-investors-could-be-in-for-a-windfall-according-to-several-wall-street-analysts/?source=iedfolrf0000001",
       "summary": "Many believed the AI boom had passed Apple by. The company was just biding its time.",
       "published_at": "2026-06-09T22:03:02+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -218,7 +325,7 @@
       "url": "https://www.marketwatch.com/story/tech-stocks-dive-as-fridays-incoming-spacex-ipo-creates-bad-psychology-9e50510e?mod=mw_rss_topstories",
       "summary": "Technology stocks tumbled on Tuesday, extending a swoon that began in early June, as investors anxiously await the historic SpaceX IPO later this week and retreat from hot parts of the AI playbook.",
       "published_at": "2026-06-09T21:14:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,6 +333,24 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "2c807c0fb4ad3ba178b78ab7b0bb371d0442abbc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Isn't Joining the S&P 500 Right Away. Why That's Good News for the Market",
+      "url": "https://www.fool.com/investing/2026/06/09/spacex-isnt-joining-the-sp-500-right-away-why-that/?source=iedfolrf0000001",
+      "summary": "The S&amp;P 500 is already looking expensive; it definitely doesn't need another overpriced stock.",
+      "published_at": "2026-06-09T21:00:00+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "ecb637f3db2d5d95b50e4c87213ebca9375ea2f1",
@@ -236,7 +361,7 @@
       "url": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
       "summary": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available.",
       "published_at": "2026-06-09T20:43:46+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -254,7 +379,7 @@
       "url": "https://www.fool.com/investing/2026/06/09/down-14-time-buy-crowdstrike-stock-answer-surprise/?source=iedfolrf0000001",
       "summary": "CrowdStrike just reported a spectacular set of quarterly results, but its stock plummeted.",
       "published_at": "2026-06-09T20:15:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -272,7 +397,7 @@
       "url": "https://www.cnbc.com/2026/06/09/these-dividend-stocks-have-slashed-their-payments-morgan-stanley-says.html",
       "summary": "Shares of some companies could turn around if they clean up their act after cutting their dividend payments.",
       "published_at": "2026-06-09T20:06:36+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -282,81 +407,57 @@
       "score": 0.61
     },
     {
-      "id": "f0079f9bfb37c7a90adbe22e2b431524238dbfd3",
+      "id": "5b505e3fabc58db3570fea34aad0c0fdddada06e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Intel Is Up 168% in 2026 and Analysts Say Earnings Could Jump 159% This Year. Here's Whether Intel Is a Bargain or a Trap at These Levels",
-      "url": "https://www.fool.com/investing/2026/06/09/intel-is-up-168-in-2026-and-analysts-say-earnings/?source=iedfolrf0000001",
-      "summary": "Although Intel's comeback looks real, investors need to ask whether the stock already prices in too much success.",
-      "published_at": "2026-06-09T19:00:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "baf68099d058d72d66b00339f26978de5d5adef4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Marvell the Next Micron?",
-      "url": "https://www.fool.com/investing/2026/06/09/is-marvell-the-next-micron/?source=iedfolrf0000001",
-      "summary": "The data center memory supercycle has propelled a few semiconductor companies into the trillion-dollar club.",
-      "published_at": "2026-06-09T18:50:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "source": "Yahoo Finance",
+      "title": "Meta funds skilled trades jobs program for AI data center buildout",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/meta-funds-skilled-trades-jobs-211629365.html",
+      "summary": "",
+      "published_at": "2026-06-08T21:16:29+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "MRVL",
-          "name": "Marvell",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "macro",
       "score": 0.85
     },
     {
-      "id": "245038e52e7fae6e2429c01c66a0c6427fd87b7d",
+      "id": "4e906b4b0ca2f4e9c812b0c7184de72399525f9c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Palantir Stock Is Plunging Today",
-      "url": "https://www.fool.com/investing/2026/06/09/why-palantir-stock-is-plunging-today/?source=iedfolrf0000001",
-      "summary": "Following a fresh round of sell-offs, Palantir stock is now down 26% this year.",
-      "published_at": "2026-06-09T18:10:52+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Ends Higher In Recovery Move, Dow Dips; Apple Sinks On AI News",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-06-08T20:42:46+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
+      "tickers": [],
       "category": "company",
-      "score": 1.0
+      "score": 0.64
     },
     {
-      "id": "b5259ac6f3c4359b9faeb4a0c5d08f0d03af040f",
+      "id": "86393a0ecdbbd4b0891ce0228cb92594f6facc0b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Apple Stock Is Sinking Today",
-      "url": "https://www.fool.com/investing/2026/06/09/why-apple-stock-is-sinking-today/?source=iedfolrf0000001",
-      "summary": "What does SpaceX's upcoming IPO have to do with Apple stock?",
-      "published_at": "2026-06-09T16:58:43+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "source": "Yahoo Finance",
+      "title": "Bitcoin Price Rebounds From 2-Month Low. SpaceX IPO Siphons Capital, Analyst Says.",
+      "url": "https://www.investors.com/news/bitcoin-price-rebound-liquidations-etf-flows-spacex-ipo-capital/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-06-08T20:30:13+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -366,77 +467,23 @@
       "score": 0.61
     },
     {
-      "id": "b688d8dce4da76666d66ebaafded520021aa3661",
+      "id": "d8e1c35269ace0b9cff1ee265f9f15d70f272d82",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Sandisk Stock Is Sinking Today After Being Up 10%",
-      "url": "https://www.fool.com/investing/2026/06/09/why-sandisk-stock-is-sinking-today-after-being-up/?source=iedfolrf0000001",
-      "summary": "Is SpaceX's upcoming IPO pressuring Sandisk stock?",
-      "published_at": "2026-06-09T16:30:49+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "27720de42685fc00366fe16c1e3059a47d9bcfc0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: Broadcom Stock Is Going to $1,000 by 2028",
-      "url": "https://www.fool.com/investing/2026/06/09/prediction-broadcom-stock-is-going-to-1000-by-2028/?source=iedfolrf0000001",
-      "summary": "Shares of Broadcom fell after its latest quarterly report, but the AI semiconductor giant could soar impressively due to its terrific prospects.",
-      "published_at": "2026-06-09T16:23:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "123231ecf74ad90375f9d16c91875c82b84e9817",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "U.S. customs agency, trade judge to seek path to final tariff refunds",
-      "url": "https://www.cnbc.com/2026/06/09/us-customs-agency-trade-judge-to-seek-path-to-final-tariff-refunds.html",
-      "summary": "The U.S. Customs and Border Protection agency head to a federal trade court find a way to refund the tariffs that were deemed illegal by the Supreme Court.",
-      "published_at": "2026-06-09T16:05:53+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "policy",
-      "score": 0.52
-    },
-    {
-      "id": "19fd4802999d6272aaf3237dfbc8049f0da7d907",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Up 300%, Is AMD Stock Still a Buy?",
-      "url": "https://www.fool.com/investing/2026/06/09/up-300-is-amd-stock-still-a-buy/?source=iedfolrf0000001",
-      "summary": "The generative AI megatrend isn't over yet.",
-      "published_at": "2026-06-09T15:30:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "source": "Yahoo Finance",
+      "title": "Michael Saylor Blames AI Capital Rotation for MSTR Stock Slide",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-saylor-blames-ai-capital-200546238.html",
+      "summary": "",
+      "published_at": "2026-06-08T20:05:46+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "AMD",
-          "name": "AMD",
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
           "market": "US"
         }
       ],
@@ -444,15 +491,15 @@
       "score": 0.97
     },
     {
-      "id": "4d0322641c7b8dd613375ce1aefcdd8abf82068a",
+      "id": "a22da424cfc0d61bdf9c1e7265846ec199af3074",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nvidia CEO Jensen Huang Believes That Marvell Technology Could Become a $1 Trillion Company. Here's Why He Is Right",
-      "url": "https://www.fool.com/investing/2026/06/09/nvidia-ceo-jensen-huang-believes-that-marvell-tech/?source=iedfolrf0000001",
-      "summary": "Marvell Technology is solving an important bottleneck in the AI infrastructure space.",
-      "published_at": "2026-06-09T12:45:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "source": "Yahoo Finance",
+      "title": "Marvell is joining the S&P 500 — but history says the early bump comes with a big catch: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/marvell-is-joining-the-sp-500--but-history-says-the-early-bump-comes-with-a-big-catch-chart-of-the-day-174839173.html",
+      "summary": "",
+      "published_at": "2026-06-08T17:48:39+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -461,48 +508,6 @@
         {
           "symbol": "MRVL",
           "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "2b3ffe9cf465339b94e45163c0c36820fc9af5a7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Quantum Computing Just Had Its First Big IPO, but Is the Stock a Buy?",
-      "url": "https://www.fool.com/investing/2026/06/09/quantum-computing-just-had-its-first-big-ipo-but-i/?source=iedfolrf0000001",
-      "summary": "Quantinuum was the first quantum computing pure play to go public via a traditional IPO.",
-      "published_at": "2026-06-09T10:50:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "f05634cd09c8aedb987478149b863599532742aa",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning",
-      "url": "https://www.fool.com/investing/2026/06/09/ai-nvda-pltr-mu-avgo-wall-st-13-billion-warning/?source=iedfolrf0000001",
-      "summary": "The people who knows these foundational artificial intelligence (AI) companies best are sending all the wrong signals.",
-      "published_at": "2026-06-09T09:06:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
           "market": "US"
         }
       ],
@@ -518,7 +523,7 @@
       "url": "https://www.scmp.com/news/china/diplomacy/article/3356419/us-adds-alibaba-byd-and-other-chinese-tech-champions-military-company-list?utm_source=rss_feed",
       "summary": "The Pentagon signalled on Monday that it was adding Alibaba, BYD, Baidu and dozens of other Chinese companies to its list of entities it says are linked to China’s military, widening a blacklist that increasingly targets sectors at the heart of US-China technological competition.\nIn a Federal Register notice scheduled for publication on Wednesday, the US Department of Defence designated a broad ra",
       "published_at": "2026-06-08T17:37:23+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -536,7 +541,7 @@
       "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html",
       "summary": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
       "published_at": "2026-06-08T16:13:12+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -546,57 +551,15 @@
       "score": 0.64
     },
     {
-      "id": "4b7801c5ea83d85c19c6b095d3228bca848f220c",
+      "id": "338a7703337547f2b3819215f8b0c56633e4963a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "This Analyst Just Upgraded Chipotle Stock. Here's Why.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-chipotle-stock-155330577.html",
+      "title": "Marvell stock surges on S&P 500 inclusion",
+      "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-on-sp-500-inclusion-121242713.html",
       "summary": "",
-      "published_at": "2026-06-08T15:53:30+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.65
-    },
-    {
-      "id": "f3abd82aba1629f9fbf254a78e8e739ec86f5bc4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Marvell the Next Nvidia?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-next-nvidia-155000536.html",
-      "summary": "",
-      "published_at": "2026-06-08T15:50:00+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "55dbe840632b6a5c44f064f82e421c2ad1ce5566",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Marvell's S&P 500 Inclusion Could Spark Fresh ETF Buying Despite Valuation Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-p-500-inclusion-could-154641065.html",
-      "summary": "",
-      "published_at": "2026-06-08T15:46:41+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "published_at": "2026-06-08T12:12:42+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -612,15 +575,15 @@
       "score": 1.0
     },
     {
-      "id": "dfebdd079c2706224a3b73f3e3e5493685f5a0fd",
+      "id": "7881e43e46384e0dbe15cfc87228d2b8849bad77",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is United Rentals Stock Outperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-stock-outperforming-nasdaq-154111092.html",
+      "title": "Stock market today: S&P 500, Nasdaq rise on chip stock rebound, Dow slips",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-june-8-dow-sp-500-nasdaq-jump-085310403.html",
       "summary": "",
-      "published_at": "2026-06-08T15:41:11+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
+      "published_at": "2026-06-08T08:53:10+00:00",
+      "first_seen_at": "2026-06-10T08:07:17.557006+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -628,24 +591,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "b1ec555f70759b362a6a29d81dcc5ddfa6580b92",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on Occidental Petroleum: “If the War Ends, That Stock’s Going to Go Down”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-occidental-petroleum-war-153448990.html",
-      "summary": "",
-      "published_at": "2026-06-08T15:34:48+00:00",
-      "first_seen_at": "2026-06-10T03:38:02.497575+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     }
   ]
 }
