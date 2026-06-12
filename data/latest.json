@@ -1,49 +1,44 @@
 {
-  "generated_at": "2026-06-12T06:43:59.652049+00:00",
+  "generated_at": "2026-06-12T11:01:04.697546+00:00",
   "window_hours": 48,
-  "total_items": 38,
+  "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "CN": 1,
-    "HK": 7,
-    "US": 31
+    "HK": 5,
+    "US": 15
   },
   "category_stats": [
     {
       "key": "ipo",
-      "count": 14
-    },
-    {
-      "key": "company",
-      "count": 9
+      "count": 6
     },
     {
       "key": "earnings",
-      "count": 4
-    },
-    {
-      "key": "product",
-      "count": 3
-    },
-    {
-      "key": "capital",
-      "count": 2
+      "count": 5
     },
     {
       "key": "macro",
+      "count": 3
+    },
+    {
+      "key": "company",
       "count": 2
     },
     {
-      "key": "rating",
-      "count": 2
-    },
-    {
-      "key": "policy",
+      "key": "capital",
       "count": 1
     },
     {
-      "key": "guidance",
+      "key": "rating",
+      "count": 1
+    },
+    {
+      "key": "ma",
+      "count": 1
+    },
+    {
+      "key": "product",
       "count": 1
     }
   ],
@@ -51,223 +46,43 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 29
+      "count": 13
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "23d9a24e005fe9d35f4e2d2a4d17cb785eaf5c8f",
+      "id": "2ef11a9695cb91311d47f0666808ab09b093605c",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "A股异动 | 华大智造(688114.SH)涨超14% 拟不超过5亿元回购股份 计划于年内持续提速国产替换落地节奏",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3414562",
-      "summary": "",
-      "published_at": "2026-06-12T06:35:13+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.76
-    },
-    {
-      "id": "4b61fb3d4951f2c98d61b16a17fd2a3dcebbaea5",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 招金矿业(01818)盘中涨近9% 全球央行购金潮仍在持续 海域金矿未来贡献可期",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3414561",
-      "summary": "",
-      "published_at": "2026-06-12T06:35:12+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "source": "SCMP Business",
+      "title": "The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO",
+      "url": "https://www.scmp.com/business/china-business/article/3356899/spacex-factor-hong-kong-stocks-face-liquidity-test-mega-ipo?utm_source=rss_feed",
+      "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble.\nWhile the world witnesses a new fundraising record in the coming listing of SpaceX – and the emergence of its CEO Elon Musk as the first-ever trillionaire – Hong Kong",
+      "published_at": "2026-06-12T11:00:07+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "HK",
       "markets": [
         "HK"
-      ],
-      "tickers": [],
-      "category": "policy",
-      "score": 0.64
-    },
-    {
-      "id": "3fbdb8cd416a6259f8fefdf17269afef8669ed79",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 泡泡玛特(09992)涨超4% LABUBU亮相2026世界杯开幕式 公司多元化业务加速推进",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3414558",
-      "summary": "",
-      "published_at": "2026-06-12T06:35:11+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "4c351aae3ee9d3710f642f777a922591e5fb0424",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 京东集团-SW(09618)涨超3% 京东A2P2协议正式发布 明确智能体支付定义",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3414556",
-      "summary": "",
-      "published_at": "2026-06-12T06:35:11+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "HK",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "09618",
-          "name": "京东集团",
-          "market": "HK"
-        },
-        {
-          "symbol": "JD",
-          "name": "京东",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 1.0
-    },
-    {
-      "id": "c4f5193709f6797b6390c438d4fe8aa57a31090e",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 百威亚太(01876)午后涨超4% 美加墨世界杯正式开幕 百威英博与国际足联续签合作协议",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3414555",
-      "summary": "",
-      "published_at": "2026-06-12T06:35:10+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "product",
-      "score": 0.64
-    },
-    {
-      "id": "41550ba3205704936df8c49e1eb68cbd554294d9",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 雅迪控股(01585)现涨近5% 两轮车迎来出海新机遇 公司盈利能力具备提升空间",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3414553",
-      "summary": "",
-      "published_at": "2026-06-12T06:35:09+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
-    },
-    {
-      "id": "d23cba75af605565cf23f4fcddd097423fa4d9da",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Nasdaq-100 rebalance: CoreWeave and Rocket Lab added; Zscaler and Charter removed",
-      "url": "https://seekingalpha.com/news/4602843-nasdaq-100-rebalance-coreweave-and-rocket-lab-added-zscaler-and-charter-removed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-06-12T06:01:10+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "530cfa9409bb6cf8afce3204b5ba19f3728d9646",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "I'm Sitting Out the SpaceX IPO. Here's What I'm Buying Instead.",
-      "url": "https://www.fool.com/investing/2026/06/12/im-sitting-out-the-spacex-ipo-heres-what-im-buying/?source=iedfolrf0000001",
-      "summary": "While everyone else is fighting to own a stock that's likely to be down significantly in the foreseeable future, I'll be stepping into this overlooked, discounted opportunity.",
-      "published_at": "2026-06-12T05:30:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
       ],
       "tickers": [],
       "category": "ipo",
-      "score": 0.76
+      "score": 0.61
     },
     {
-      "id": "1b07df21ee70216035d8a3d74af4f7ba6decd62a",
+      "id": "7dd4733de52cf0b2c1201b639ebb4cf675b5a6c8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Stock futures tick higher as Wall Street gears up for SpaceX’s historic IPO: Live updates",
-      "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
-      "summary": "Elon Musk's rocket maker is set to debut on the Nasdaq on Friday in what will be the largest IPO in history.",
-      "published_at": "2026-06-12T04:37:38+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "00cb6158b851e6d68895e085d2392f78eac57369",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is it Too Late to Buy Marvell Stock?",
-      "url": "https://www.fool.com/investing/2026/06/12/is-it-too-late-to-buy-marvell-stock/?source=iedfolrf0000001",
-      "summary": "Investors are concerned about the valuation after the huge rally in its share price.",
-      "published_at": "2026-06-12T04:02:05+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "6bbab8b19f63b59390c2233e0a014e29edadd2c4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Robinhood Just Won Approval to Underwrite IPOs, Right Before SpaceX's Blockbuster Market Debut. Here's Why the Timing Matters.",
-      "url": "https://www.fool.com/investing/2026/06/11/robinhood-just-won-approval-to-underwrite-ipos-rig/?source=iedfolrf0000001",
-      "summary": "The brokerage's newest business line could be a catalyst for the stock.",
-      "published_at": "2026-06-12T03:52:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "title": "SpaceX IPO live updates: Everything you need to know about the SPCX record debut",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+      "summary": "Follow SpaceX IPO live updates on price, ticker, broker access, valuation and what investors need to know before shares trade.",
+      "published_at": "2026-06-12T10:52:07+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -277,135 +92,33 @@
       "score": 0.61
     },
     {
-      "id": "15acb08bbb6ee2b3c96e6985308f78dfb9e30092",
+      "id": "ea79a3f1118e72a75ea7c10ef0a197ea1709e48a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
-      "url": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
-      "summary": "The Nasdaq 100 could imminently include SpaceX, but first it’s getting a shakeup that will usher in another space-technology company and four flashy AI plays.",
-      "published_at": "2026-06-12T01:56:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "source": "Seeking Alpha Market News",
+      "title": "Chow Tai Fook stock jumps on stellar earnings and strong dividend payout",
+      "url": "https://seekingalpha.com/news/4602892-chow-tai-fook-stock-jumps-on-stellar-earnings-and-strong-dividend-payout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-06-12T10:52:04+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.64
+      "category": "earnings",
+      "score": 0.61
     },
     {
-      "id": "924691b801f70bd8d0f81819f2ee4bac7810a591",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Salesforce's AI Business Is Growing More Than 200%, but the Stock Is Near a 52-Week Low. Something Has to Give.",
-      "url": "https://www.fool.com/investing/2026/06/11/salesforces-ai-business-is-growing-more-than-200-b/?source=iedfolrf0000001",
-      "summary": "Investors seem convinced artificial intelligence will disrupt the software giant. Its most recent results tell a different story.",
-      "published_at": "2026-06-12T01:42:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "bb9c14f9b3c40eb1789debe58366e99199c5c299",
+      "id": "2c3a8720e241177f9a1cfe5fcb6be5bbf138c929",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
-      "url": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
-      "summary": "In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders.",
-      "published_at": "2026-06-12T00:19:38+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "9decb4517bbe721147ec8669e40d09d20fb06d5f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This Dirt-Cheap \"Magnificent Seven\" Stock Is Priced Lower Than the S&P 500",
-      "url": "https://www.fool.com/investing/2026/06/11/this-dirt-cheap-magnificent-seven-stock-is-priced/?source=iedfolrf0000001",
-      "summary": "Meta Platforms looks like a screaming bargain right now.",
-      "published_at": "2026-06-12T00:00:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "dbd2b41fdeb0a85b42f57430e6f660bb3a48d6e9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-      "url": "https://www.cnbc.com/2026/06/11/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "summary": "Oil prices fell and the Dow Industrials soared more than 900 points Thursday after President Trump said the U.S. will soon sign a deal with Iran.",
-      "published_at": "2026-06-11T23:44:13+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "product",
-      "score": 0.52
-    },
-    {
-      "id": "e559a3cd1a2684e23c694e458b34ec4a19ea324d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-      "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
-      "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
-      "published_at": "2026-06-11T23:35:43+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "6427ee3d6da9623742fc669ff69429f93833cc83",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why AMD Stock Crushed it on Thursday",
-      "url": "https://www.fool.com/investing/2026/06/11/why-amd-stock-crushed-it-on-thursday/?source=iedfolrf0000001",
-      "summary": "An analyst lifted his estimate for a crucial segment of the chip market.",
-      "published_at": "2026-06-11T23:14:18+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "title": "Buy AMD shares as graphics chip sales boost earnings, says Citi",
+      "url": "https://www.cnbc.com/2026/06/12/buy-amd-shares-as-graphics-chip-sales-boost-earnings-says-citi.html",
+      "summary": "The bank thinks Advanced Micro Devices is set to see an improving AI outlook, with both a stronger GPU business and increasing demand for CPUs.",
+      "published_at": "2026-06-12T10:36:07+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -417,32 +130,140 @@
           "market": "US"
         }
       ],
-      "category": "rating",
+      "category": "earnings",
       "score": 1.0
     },
     {
-      "id": "7f23ddd53d59d121eb839499d076cbe63f0bdec1",
+      "id": "3d20f3fedda72f7091f7c3a451d3291757f95e50",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "周黑鸭(01458)6月12日斥资50万港元回购37.7万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3415017",
+      "summary": "",
+      "published_at": "2026-06-12T10:35:21+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "7c29cb34b3e6a25e23c99e81fc001d44c57d99fe",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "龙翼航空科技(00918)发布年度业绩 股东应占亏损554.1万港元 同比收窄73.98%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3415016",
+      "summary": "",
+      "published_at": "2026-06-12T10:35:21+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
+    },
+    {
+      "id": "2fd14be1dba19919765a59c6d0c36a7afb85a846",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Adobe (ADBE) Q2 2026 Earnings Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/06/11/adobe-adbe-q2-2026-earnings-transcript/?source=iedfolrf0000001",
-      "summary": "Image source: The Motley Fool.Thursday, June 11, 2026 at 5 p.m. ETNeed a quote from a Motley Fool analyst? Email pr@fool.comContinue reading",
-      "published_at": "2026-06-11T22:30:28+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "source": "CNBC Top News",
+      "title": "For Warsh as Fed chair, silence may be the point",
+      "url": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
+      "summary": "Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve.",
+      "published_at": "2026-06-12T10:00:01+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "0ce5b40ea2be98a47eafc9e7373c3ee3665a2496",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021",
+      "url": "https://www.scmp.com/economy/china-economy/article/3356909/not-crackdown-china-regulators-signal-more-neutral-enforcement-shift-2021?utm_source=rss_feed",
+      "summary": "Chinese regulators are stepping up public enforcement against the nation’s corporate giants, marking a departure from the low-key approach adopted after a bruising 2021 tech crackdown.\nIn recent months, agencies have summoned company representatives, launched high-profile investigations, and named and shamed offenders.\nHowever, while the uptick in activity has rattled investors, some analysts and ",
+      "published_at": "2026-06-12T09:14:31+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "e02b6b65b7181bca0b419033eb936228404210da",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
+      "url": "https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html",
+      "summary": "Meta has reportedly begun dismantling its acquisition of Manus, moving to comply with Beijing's unprecedented order to hand back the Chinese-founded AI startup.",
+      "published_at": "2026-06-12T07:41:11+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "ADBE",
-          "name": "Adobe",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
-      "category": "earnings",
-      "score": 1.0
+      "category": "ma",
+      "score": 0.97
+    },
+    {
+      "id": "15acb08bbb6ee2b3c96e6985308f78dfb9e30092",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
+      "url": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
+      "summary": "The Nasdaq 100 could imminently include SpaceX, but first it’s getting a shakeup that will usher in another space-technology company and four flashy AI plays.",
+      "published_at": "2026-06-12T01:56:00+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "bb9c14f9b3c40eb1789debe58366e99199c5c299",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
+      "url": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
+      "summary": "In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders.",
+      "published_at": "2026-06-12T00:19:38+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "0d2513a643a319f331bb699d89044c1625f907c4",
@@ -453,7 +274,7 @@
       "url": "https://www.cnbc.com/2026/06/11/warren-spacex-ipo-exchanges.html",
       "summary": "Sen. Elizabeth Warren seeking answers on changes to index provider waiting periods, protections for retail investors, in a letter obtained first by CNBC.",
       "published_at": "2026-06-11T22:26:44+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -461,113 +282,17 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "0ab5ea150b3e6e5c69b6619dea9b739abb80d2ee",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Adobe is losing another top executive, and investors don’t like it",
-      "url": "https://www.marketwatch.com/story/adobe-is-losing-another-top-executive-and-investors-dont-like-it-587603e9?mod=mw_rss_topstories",
-      "summary": "Adobe’s stock falls further, after closing Thursday at the lowest price in more than seven years.",
-      "published_at": "2026-06-11T22:00:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "034376280a83914d50d1e1efa1bb823c02bf95d4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The SpaceX IPO is drawing historic demand from foreign investors. But don’t expect a dollar-buying frenzy.",
-      "url": "https://www.marketwatch.com/story/the-spacex-ipo-is-drawing-historic-demand-from-foreign-investors-but-dont-expect-a-dollar-buying-frenzy-ce66b056?mod=mw_rss_topstories",
-      "summary": "Foreign investors are willing to bet on U.S. companies that are IPO-bound, but not on the dollar itself, according to FX analysts",
-      "published_at": "2026-06-11T21:59:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "1cdf2c97cf7cd607b82c40db330d6a2b01a2e8ef",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Crocs Stock a Buy After a Recent Analyst Upgrade?",
-      "url": "https://www.fool.com/investing/2026/06/11/is-crocs-stock-a-buy-after-a-recent-analyst-upgrad/?source=iedfolrf0000001",
-      "summary": "Crocs recently got an analyst upgrade from Baird.",
-      "published_at": "2026-06-11T21:25:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.61
-    },
-    {
-      "id": "5a3caad865dc1ee0d76ef13f9eb1fab44fb1cbfa",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, June 11: Oracle Falls After AI Spending Guidance Sparks Cash Flow Concerns",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/11/stock-market-today-june-11-oracle-falls-after-ai-spending-guidance-sparks-cash-flow-concerns/?source=iedfolrf0000001",
-      "summary": "Today, June 11, 2026, investors weigh surging AI build-out costs against rapid cloud growth and resilient Wall Street optimism.",
-      "published_at": "2026-06-11T21:09:23+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.64
-    },
-    {
-      "id": "1d43dffbd30aa75f06cce5c303c7c4f18018e538",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, June 11: Micron, Intel, and Nvidia Lead Rebound and SpaceX IPO Approaches",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/11/stock-market-today-june-11-micron-intel-and-nvidia-lead-rebound-and-spacex-ipo-approaches/?source=iedfolrf0000001",
-      "summary": "Today, June 11, 2026, markets recovered on revived peace talk hopes, and chips helped power the S&amp;P 500 and Nasdaq.",
-      "published_at": "2026-06-11T20:58:29+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
     },
     {
       "id": "0b7152d0c5626003e8019742aee8d357feaaa1fd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
+      "source": "CNBC Top News",
       "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
       "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
       "summary": "Oracle beat on earnings and revenue, but negative free cash flow and the company's plan to raise more capital is weighing on the stock.",
       "published_at": "2026-06-11T20:25:16+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -585,7 +310,7 @@
       "url": "https://www.cnbc.com/2026/06/11/iran-strait-hormuz-oil-tanker-traffic-frontline.html",
       "summary": "Many shipowners are just waiting for the threat assessment to be downgraded before crossing Hormuz, Frontline CEO Lars Barstad said.",
       "published_at": "2026-06-11T19:00:47+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -595,22 +320,28 @@
       "score": 0.76
     },
     {
-      "id": "d73f71c4ac9dba15eb61966cf8904f7dbc9b8b2e",
+      "id": "c1c80e266695a51e7192479fb34a005b0a2e2ac5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "SpaceX IPO won’t ‘break’ the bull market. But investors are worried about what comes next",
-      "url": "https://www.cnbc.com/2026/06/11/spacex-ipo-wont-break-the-bull-market-but-investors-are-worried-about-what-comes-next.html",
-      "summary": "As far as Wall Street is concerned, the stock market has what it takes to absorb the new supply.",
-      "published_at": "2026-06-11T18:26:15+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "title": "Coinbase launches tool to let AI agents manage trading and payments",
+      "url": "https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
+      "summary": "Coinbase is betting that AI agents will become the primary interface for people's financial activity.",
+      "published_at": "2026-06-11T17:00:38+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.76
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
     },
     {
       "id": "cd85c5384eddc74b49f80388c1cddad2c4d9af90",
@@ -621,7 +352,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3356760/chinas-byd-claims-germanys-plug-hybrid-crown-disrupting-market-iconic-auto-giants?utm_source=rss_feed",
       "summary": "One out of every seven plug-in hybrid vehicles registered in Germany in May came from BYD, as the Chinese carmaker’s registrations surged 232 per cent in Europe’s largest auto market from a year earlier.\nWith 6,169 vehicles registered there in May, BYD held a 2.6 per cent share of Germany’s new-car registrations, according to data from the country’s Federal Motor Transport Authority.\nOf those, 4,2",
       "published_at": "2026-06-11T13:30:05+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -639,7 +370,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3356694/china-resources-new-energys-us36-billion-ipo-smashes-records-shenzhen-exchange?utm_source=rss_feed",
       "summary": "China Resources New Energy Holdings, the spin-off of a state-backed power producer, has smashed multiple records on the Shenzhen Stock Exchange, as it prepares to become the biggest initial public offering (IPO) and the first so-called red-chip company to trade on the bourse.\nThe wind and solar power producer, carved out of China Resources Power, planned to raise 24.5 billion yuan (US$3.6 billion)",
       "published_at": "2026-06-11T03:57:02+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -647,6 +378,30 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "00f8c13cacf34f0f7b5c0e95f1aa99e41bc6559c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nvidia Corp (NVDA) Strengthens AI Platform with Micron HBM4",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-strengthens-ai-005824804.html",
+      "summary": "",
+      "published_at": "2026-06-11T00:58:24+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "eac3af1d8c8e6dabef07aa5c9d579cf80955e752",
@@ -657,7 +412,7 @@
       "url": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html",
       "summary": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects.",
       "published_at": "2026-06-11T00:19:00+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -675,7 +430,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3356617/global-ai-trade-flashing-signals-reminiscent-dotcom-bust-analysts-warn?utm_source=rss_feed",
       "summary": "The global artificial intelligence trade is flashing signals reminiscent of past market tops, with winners outpacing the broader market by a wide margin and a slew of jumbo initial public offerings (IPOs) in the pipeline.\nThe gap between richly valued stocks and cheaper ones had reached extremes seen only before the dotcom bust in March 2000, according to Bank of America.\nAt the same time, the pac",
       "published_at": "2026-06-10T23:00:06+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
+      "first_seen_at": "2026-06-12T11:01:04.697546+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -683,126 +438,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.65
-    },
-    {
-      "id": "3af60d783ce076084f92fd9e558321992837d80a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SMCI Shares Dump 28% as AI Trade Gets Tested",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-shares-dump-28-ai-201822784.html",
-      "summary": "",
-      "published_at": "2026-06-10T20:18:22+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "SMCI",
-          "name": "超微",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "babb8599e5d4a6d1febc328169a9c3f5a4548e6f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX IPO To Boost U.S. Dollar, University Endowments. Valuation Takes A Hit.",
-      "url": "https://www.investors.com/news/spacex-ipo-valuation-us-deficit-dollar-university-endowments-spacex-launches-starlink/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-06-10T20:09:56+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.64
-    },
-    {
-      "id": "d1cbf0a79b4fc7bd5a75bbf59e6e1c22e5fe72fb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dear Marvell Technology Stock Fans, Mark Your Calendars for June 22",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-marvell-technology-stock-fans-194231397.html",
-      "summary": "",
-      "published_at": "2026-06-10T19:42:31+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "078d7eb9d31d8f1a49da9bcebb2b37b53c8e0f3c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "The SpaceX IPO Is Closer Than You Think. These Are the Stocks That Win When It Happens.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-closer-think-stocks-183849779.html",
-      "summary": "",
-      "published_at": "2026-06-10T18:38:49+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "61e95faa7e5c6e9eb0f4d0d188c03386e3cb66cb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Top Dividend Stock T. Rowe Entices As Shares Trade In Buy Zone",
-      "url": "https://www.investors.com/research/the-income-investor/dividend-stocks-t-rowe-price-trow-stock/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-06-10T18:36:55+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.61
-    },
-    {
-      "id": "829385d1a23ef07824ccc481b31234fea37d0883",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "OpenAI IPO: 6 things to know before you buy the stock",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/openai-ipo-6-things-to-know-before-you-buy-the-stock-151122363.html",
-      "summary": "",
-      "published_at": "2026-06-10T15:11:22+00:00",
-      "first_seen_at": "2026-06-12T06:43:59.652049+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
     }
   ]
 }
