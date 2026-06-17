@@ -1,33 +1,45 @@
 {
-  "generated_at": "2026-06-17T18:41:14.475754+00:00",
+  "generated_at": "2026-06-17T21:05:44.833466+00:00",
   "window_hours": 48,
-  "total_items": 32,
+  "total_items": 41,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 30,
-    "CN": 1,
-    "HK": 1
+    "US": 37,
+    "HK": 3,
+    "CN": 1
   },
   "category_stats": [
     {
-      "key": "macro",
-      "count": 11
+      "key": "company",
+      "count": 13
     },
     {
-      "key": "company",
-      "count": 9
+      "key": "macro",
+      "count": 10
     },
     {
       "key": "ipo",
-      "count": 7
+      "count": 9
     },
     {
       "key": "rating",
-      "count": 4
+      "count": 5
+    },
+    {
+      "key": "earnings",
+      "count": 1
+    },
+    {
+      "key": "ma",
+      "count": 1
     },
     {
       "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "product",
       "count": 1
     }
   ],
@@ -35,25 +47,349 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 28
+      "count": 34
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "cea3dd4b8247634bc85e05d0f429a864107ea503",
+      "id": "fb39209fec4b6f00c70034fd029c7c63fdfb66f9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Fed meeting live updates: Kevin Warsh holds first press conference as chairman",
+      "title": "Analysis: Chairman Kevin Warsh’s task forces are the key to understanding the new Fed",
+      "url": "https://www.cnbc.com/2026/06/17/kevin-warsh-fed-interest-rates-risk-analysis.html",
+      "summary": "The new leader of the Fed left interest rates alone but made clear how he plans to rewire the central bank.",
+      "published_at": "2026-06-17T21:04:15+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "d8c6ef3ca84026ee967c953876b452fdb9e9be69",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Smart Digital Group faces Nasdaq delisting on June 24",
+      "url": "https://seekingalpha.com/news/4604611-smart-digital-group-faces-nasdaq-delisting-on-june-24?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-06-17T20:52:34+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "a5b786ba1db075c9ca627a79080a49a0df84f93d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+      "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+      "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
+      "published_at": "2026-06-17T20:42:42+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "fb8c65a7372a1ee2053dcf98d821f48cd033e28d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Innodata任命新任首席财务官，股价盘后上涨1.8%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3422736",
+      "summary": "",
+      "published_at": "2026-06-17T20:41:27+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.61
+    },
+    {
+      "id": "cdcbd97f189f459677dbb072a3c964d520ebff97",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "钢铁动态公司股价下跌，因第二季度业绩指引逊于预期",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3422723",
+      "summary": "",
+      "published_at": "2026-06-17T20:36:18+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "0d2a7ce9e001b66379fd7dab64ba006108e8dd53",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美国股市收低；截至收盘道琼斯工业平均指数下跌0.97%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3422719",
+      "summary": "",
+      "published_at": "2026-06-17T20:31:20+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "a5ddf14bb64d4256f50dc38635d1e0c1f69adb17",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌0.75%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3422717",
+      "summary": "",
+      "published_at": "2026-06-17T20:30:41+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "81d060e7d06db869f4219a2eafaf703135608362",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "巴西股市收低；截至收盘巴西IBOVESPA股指下跌0.70%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3422713",
+      "summary": "",
+      "published_at": "2026-06-17T20:30:14+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "e1e5fe4f725d23c7cae35fc10da8c455ddc35dfe",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "How Pizza Hut fell from stuffed-crust glory to corporate castoff",
+      "url": "https://www.marketwatch.com/story/how-pizza-hut-fell-from-stuffed-crust-glory-to-corporate-castoff-094b4ede?mod=mw_rss_topstories",
+      "summary": "“They struggled to figure out what the next big thing was,” an analyst says in the wake of a recently announced private-equity buyout.",
+      "published_at": "2026-06-17T20:28:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.64
+    },
+    {
+      "id": "54dbd4f47513e61e0ee70fe0eda99331a94a23dc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
+      "url": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
+      "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
+      "published_at": "2026-06-17T20:26:56+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "b819453b59bc0b8ae77350c2fd4de91b13e2c311",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Snap breaks from the pack with heavy $2,195 smart glasses. Wall Street is panning the move.",
+      "url": "https://www.marketwatch.com/story/snap-breaks-from-the-pack-with-heavy-2-195-smart-glasses-wall-street-is-panning-the-move-99e77ae6?mod=mw_rss_topstories",
+      "summary": "Snap’s stock was extending its declines, as the weight of its new ultraexpensive augmented-reality glasses is seen as a potential “nonstarter for mass appeal.”",
+      "published_at": "2026-06-17T20:25:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "404d02d0f6fc7a76819cd29eaad61cc7d62efc81",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Fed holds interest rates steady: Here's what that means for credit cards, savings rates, mortgages and car loans",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rates-unchanged-june.html",
+      "summary": "Here’s a look at how the Fed's June interest rate decision may affect your finances.",
+      "published_at": "2026-06-17T20:24:24+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "62e75c5d117948843c99b3e944e0692ed3f2dcad",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SpaceX posts first losing day as stock sinks 5%, losing momentum after a multiday rally",
+      "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
+      "summary": "Elon Musk's space and AI company has seen its stock surge since its blockbuster IPO on Friday.",
+      "published_at": "2026-06-17T20:10:12+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "9c8168da9385ec97db0a5e8de6efd9a3822f468a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+      "summary": "The Federal Reserve on Wednesday released its interest rate decision.",
+      "published_at": "2026-06-17T20:04:22+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "2f6eea4e5575b25436a4d0229463579e7d9a08d0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "2-year Treasury yield rockets higher as many Fed officials signal possible hike this year",
+      "url": "https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html",
+      "summary": "U.S. Treasury yields rose on Wednesday after the Fed held interest rates steady during Kevin Warsh's first policy meeting as chairman.",
+      "published_at": "2026-06-17T20:02:51+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "0c88c8025dac1b12b16a8870e94cf4e6a4d11fc9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Micron Stock Is Up After the SpaceX IPO",
+      "url": "https://www.fool.com/investing/2026/06/17/why-micron-stock-is-up-after-the-spacex-ipo/?source=iedfolrf0000001",
+      "summary": "AI companies like SpaceX need lots of AI chips -- and lots of memory chips from Micron to help them work.",
+      "published_at": "2026-06-17T19:56:09+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "e89ad63c0ed1d59161a4c442023a6c1e35f17d45",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX IPO Priced at $135: What It Means for Investors",
+      "url": "https://www.fool.com/investing/2026/06/17/spacex-ipo-priced-at-135-what-it-means-for-investo/?source=iedfolrf0000001",
+      "summary": "SpaceX had a strong debut, but is the stock a long-term buy?",
+      "published_at": "2026-06-17T19:53:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "773f104961b6f78fef12796fb1bdb56a7898957c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Intel Stock Is Up After the SpaceX IPO",
+      "url": "https://www.fool.com/investing/2026/06/17/why-intel-stock-is-up-after-the-spacex-ipo/?source=iedfolrf0000001",
+      "summary": "SpaceX is more of an AI stock than a space stock -- and that's great news for Intel.",
+      "published_at": "2026-06-17T19:43:14+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "0d832728f315f3060e15f5c6e811ee71353413e1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Fed meeting recap: Warsh announces task forces to overhaul major Federal Reserve operations",
       "url": "https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html",
       "summary": "The Federal Reserve’s rate decision on Wednesday marks the first one with Kevin Warsh at the helm.",
-      "published_at": "2026-06-17T18:41:01+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "published_at": "2026-06-17T19:32:54+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -70,50 +406,14 @@
       "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
       "url": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
       "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
-      "published_at": "2026-06-17T18:40:44+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "published_at": "2026-06-17T19:27:43+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "guidance",
-      "score": 0.52
-    },
-    {
-      "id": "2f6eea4e5575b25436a4d0229463579e7d9a08d0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "2-year Treasury yield rockets higher as many Fed officials signal possible hike this year",
-      "url": "https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html",
-      "summary": "U.S. Treasury yields rose on Wednesday after the Fed held interest rates steady during Kevin Warsh's first policy meeting as chairman.",
-      "published_at": "2026-06-17T18:36:30+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "263312b49e2310744cd5847249e3d92d28218405",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Treasury yields climb after Fed keeps rates unchanged",
-      "url": "https://seekingalpha.com/news/4604580-treasury-yields-climb-after-fed-keeps-rates-unchanged?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-06-17T18:35:49+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
       "score": 0.52
     },
     {
@@ -124,8 +424,8 @@
       "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
       "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
       "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
-      "published_at": "2026-06-17T18:34:02+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "published_at": "2026-06-17T19:25:18+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -135,15 +435,33 @@
       "score": 0.52
     },
     {
-      "id": "d9ce11121389cc79bff7d4ca7966db8671ecc6ea",
+      "id": "147938aa5a6b26804ecabe046a71cca07f41f18f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Fed statement gets a Warsh-era rewrite",
-      "url": "https://seekingalpha.com/news/4604578-fed-statement-gets-a-warsh-era-rewrite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-06-17T18:28:29+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "source": "The Motley Fool",
+      "title": "2 Reasons This Is a Once-in-a-Decade Industrial Stock Pick for Long-Term Investors",
+      "url": "https://www.fool.com/investing/2026/06/17/reasons-once-decade-industrial-stock-kraken/?source=iedfolrf0000001",
+      "summary": "Shares are down 33% from highs, but the company is growing like a weed.",
+      "published_at": "2026-06-17T19:15:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "a0965da3ffad5d6b9770d05991208378cc9d380b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Warsh launches his push to change how the Fed operates",
+      "url": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
+      "summary": "Federal Reserve Chairman Kevin Warsh made waves on Wednesday while hosting his first press conference as head of the U.S. central bank.",
+      "published_at": "2026-06-17T19:09:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -151,6 +469,78 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "263efca76b0f16da008c984aea4267a0d24566e7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "CoreWeave Jumped Again. Is the AI Cloud Stock Still Worth Buying After Its Wild Ride?",
+      "url": "https://www.fool.com/investing/2026/06/17/coreweave-jumped-again-is-the-ai-cloud-stock-still/?source=iedfolrf0000001",
+      "summary": "The fast-growing AI cloud specialist is about to join the Nasdaq-100, and its contracted backlog keeps swelling. But building the infrastructure behind it is getting more expensive by the quarter.",
+      "published_at": "2026-06-17T19:06:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "product",
+      "score": 0.64
+    },
+    {
+      "id": "2cfc857d6ef9da0da52166a2e416d59163a15a31",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Vanguard ETF Showdown: Is The Fund Giant's Growth ETF or Russell 1000 Growth ETF Better?",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/17/vanguard-etf-showdown-is-the-fund-giant-s-growth-etf-or-russell-1000-growth-etf-better/?source=iedfolrf0000001",
+      "summary": "Portfolio concentration and diversification take center stage as these two funds reveal distinct approaches to capturing U.S. growth stocks.",
+      "published_at": "2026-06-17T18:58:13+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "9391afbfaeedd7b0152bc96147258dca034631cb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Strait of Hormuz threat level downgraded after Iran deal, says U.S.-led maritime security group",
+      "url": "https://www.cnbc.com/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html",
+      "summary": "The behavior of Iranian forces \"has become less volatile\" and the U.S. Navy continues to provide oversight, the Joint Maritime Information Center said.",
+      "published_at": "2026-06-17T18:46:12+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "9b448e4cc23398063943f3792eda1c7e0715639b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Want to Invest in SpaceX? These 2 Unstoppable ETFs Could Be Your Ticket.",
+      "url": "https://www.fool.com/investing/2026/06/17/want-invest-spacex-unstoppable-etf-qqq-vti/?source=iedfolrf0000001",
+      "summary": "SpaceX had the biggest initial public offering (IPO) in history. These two ETFs are structured to provide you with strong indirect exposure to the stock.",
+      "published_at": "2026-06-17T18:30:00+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
     },
     {
       "id": "d3a9a0a1fa110a4a55a28c0df3ed7aa8e22fb3cc",
@@ -161,49 +551,7 @@
       "url": "https://www.marketwatch.com/story/im-20-and-ill-be-watching-kevin-warsh-and-the-fed-this-week-heres-why-you-should-too-73c3e34d?mod=mw_rss_topstories",
       "summary": "What the Fed’s interest-rate decision really means for your borrowing, savings and financial future",
       "published_at": "2026-06-17T18:26:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "92963703dfa571df7667fb12302630dc036c4c03",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Meta Platforms股价今日为何下滑？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3422613",
-      "summary": "",
-      "published_at": "2026-06-17T18:06:36+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "404d02d0f6fc7a76819cd29eaad61cc7d62efc81",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Fed holds interest rates steady: Here's what that means for credit cards, savings rates, mortgages and car loans",
-      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rates-unchanged-june.html",
-      "summary": "Here’s a look at how the Fed's June interest rate decision may affect your finances.",
-      "published_at": "2026-06-17T18:05:47+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -221,7 +569,7 @@
       "url": "https://www.fool.com/investing/2026/06/17/the-spacex-ipo-could-trigger-a-massive-rotation-ac/?source=iedfolrf0000001",
       "summary": "The biggest IPO in history could send shockwaves across the AI market.",
       "published_at": "2026-06-17T18:05:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -239,7 +587,7 @@
       "url": "https://www.fool.com/investing/2026/06/17/1-unstoppable-stock-to-buy-before-it-soars-848-to-join-nvidia-in-the-usd5-trillion-club-according-to-1-wall-street-analyst/?source=iedfolrf0000001",
       "summary": "This semiconductor specialist has emerged as an odds-on favorite to produce the next generation of AI chips. Can it deliver?",
       "published_at": "2026-06-17T18:01:37+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -247,60 +595,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "93e009d94436fc5dc25fa1b6e0738f598c2e8313",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "iHeartMedia股价今日为何持续下跌？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3422596",
-      "summary": "",
-      "published_at": "2026-06-17T17:44:43+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "9391afbfaeedd7b0152bc96147258dca034631cb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Strait of Hormuz threat level downgraded after Iran deal, says U.S.-led maritime security group",
-      "url": "https://www.cnbc.com/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html",
-      "summary": "The behavior of Iranian forces \"has become less volatile\" and the U.S. Navy continues to provide oversight, the Joint Maritime Information Center said.",
-      "published_at": "2026-06-17T17:15:30+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "b819453b59bc0b8ae77350c2fd4de91b13e2c311",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Snap breaks from the pack with heavy $2,195 smart glasses. Wall Street is panning the move.",
-      "url": "https://www.marketwatch.com/story/snap-breaks-from-the-pack-with-heavy-2-195-smart-glasses-wall-street-is-panning-the-move-99e77ae6?mod=mw_rss_topstories",
-      "summary": "Snap’s stock was extending its declines, as the weight of its new ultraexpensive augmented-reality glasses is seen as a potential “nonstarter for mass appeal.”",
-      "published_at": "2026-06-17T17:06:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "93df8319a2dbb9e6951e871a29ebc4b70b8a0469",
@@ -311,7 +605,7 @@
       "url": "https://www.fool.com/investing/2026/06/17/salesforce-stocks-sell-off-keeps-getting-worse-is/?source=iedfolrf0000001",
       "summary": "The software giant just posted record results, yet its shares keep sinking to new lows.",
       "published_at": "2026-06-17T17:02:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -335,7 +629,7 @@
       "url": "https://www.fool.com/investing/2026/06/17/spacex-had-the-biggest-ipo-in-history-that-doesnt/?source=iedfolrf0000001",
       "summary": "Put the superlatives aside and treat SpaceX like any other investment.",
       "published_at": "2026-06-17T16:28:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -353,7 +647,7 @@
       "url": "https://www.fool.com/investing/2026/06/17/prediction-tmc-the-metals-company-will-soar-over/?source=iedfolrf0000001",
       "summary": "The Metals Company may have found a workaround regarding international rules regarding mining on the sea floor.",
       "published_at": "2026-06-17T16:07:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -377,7 +671,7 @@
       "url": "https://www.fool.com/investing/2026/06/17/amd-stock-up-150-ytd-ai-chip-rally-run/?source=iedfolrf0000001",
       "summary": "Explosive AI demand, accelerating financial results, and growing market share suggest AMD's next leg higher could still be ahead.",
       "published_at": "2026-06-17T15:33:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -393,96 +687,6 @@
       "score": 0.85
     },
     {
-      "id": "e9fc95ce190fb9331bb73a8d195da66afbf20ec3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nasdaq Just Landed the Largest IPO in History. Here's Why the Exchange Stock Could Keep Winning.",
-      "url": "https://www.fool.com/investing/2026/06/17/nasdaq-just-landed-the-largest-ipo-in-history-here/?source=iedfolrf0000001",
-      "summary": "The Nasdaq was chosen as SpaceX's home, and more big names could be on the way.",
-      "published_at": "2026-06-17T15:15:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "f586dbb22a989888d19c090f7135fbbc2b768d48",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Here’s how stocks performed under different Fed chairs — and how much influence Warsh really has",
-      "url": "https://www.marketwatch.com/story/heres-how-stocks-performed-under-different-fed-chairs-and-how-much-influence-warsh-really-has-e8a10d87?mod=mw_rss_topstories",
-      "summary": "A look at stock-market performance under Fed chairs going back to the 1930s.",
-      "published_at": "2026-06-17T15:08:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "a1a6440c1deda56b68fa5806635234c75e5208d3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX stock sinks 5%, losing momentum after a multiday rally",
-      "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
-      "summary": "Elon Musk's space and AI company has seen its stock surge since its blockbuster IPO on Friday.",
-      "published_at": "2026-06-17T14:55:46+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "9b4454409e7e6d6b5d2932c22d7ac3a92734162f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SoFi Just Helped Everyday Investors Buy Into the Largest IPO Ever. Here's Why It Matters More Than One Hot Deal.",
-      "url": "https://www.fool.com/investing/2026/06/17/sofi-help-investors-buy-spacex-ipo-why/?source=iedfolrf0000001",
-      "summary": "SoFi stock is down, but it's unlikely to stay that way for long.",
-      "published_at": "2026-06-17T14:45:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.76
-    },
-    {
-      "id": "e81b9dc9222cd72d8a35baeb8ea7886d5cc26339",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Best Stock to Buy Right Now: Dutch Bros vs. Sweetgreen",
-      "url": "https://www.fool.com/investing/2026/06/17/best-stock-to-buy-now-sweetgreen-vs-dutch-bros/?source=iedfolrf0000001",
-      "summary": "Dutch Bros and Sweetgreen both built cult followings, but only one is a clear buy right now. Here's the winner of this head-to-head stock showdown.",
-      "published_at": "2026-06-17T12:41:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "6d56bda395e857a1b1b6acf14a3e58824595a2a1",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -491,7 +695,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3357411/hsbc-china-pioneers-cross-border-fund-services-mainland-investors?utm_source=rss_feed",
       "summary": "HSBC China has become the first foreign bank to provide custodian services for a cross-border fund product that can help mainland clients invest in foreign markets, the lender said.\nDespite the recent crackdown on illegal cross-border trading, analysts believed that the move was a sign that Beijing would continue to allow mainland investors to put their money into overseas markets via legal channe",
       "published_at": "2026-06-17T09:15:04+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -509,7 +713,7 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html",
       "summary": "",
       "published_at": "2026-06-16T21:58:01+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -525,69 +729,15 @@
       "score": 0.85
     },
     {
-      "id": "11f14b58e6e5f554d219d604cbaf7e8ec771e571",
+      "id": "27ebc9a408d7135e0bf152c0b6134feb81b854f7",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Anthropic IPO: What to know before you buy the stock",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/anthropic-ipo-what-to-know-before-you-buy-the-stock-170741665.html",
+      "title": "Is Pacific Biosciences of California, Inc. (PACB) One of the Best Genomics Stocks to Buy According to Wall Street?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pacific-biosciences-california-inc-pacb-125325195.html",
       "summary": "",
-      "published_at": "2026-06-16T17:07:41+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "0a705927a077474427630f40b01366260a6e907e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Silver prices today, Tuesday, June 16: Best opening price in over a week ahead of Fed meeting",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-june-16-best-opening-price-in-over-a-week-ahead-of-fed-meeting-110523343.html",
-      "summary": "",
-      "published_at": "2026-06-16T11:05:23+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "67f759c67f1ea3722932e787426289bf0483ba31",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Gold prices today, Tuesday, June 16: Prices firming ahead of Fed meeting",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-16-prices-firming-ahead-of-fed-meeting-105335448.html",
-      "summary": "",
-      "published_at": "2026-06-16T10:53:35+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "6af944d9d84e64a5d49e27b96b11d291713f3941",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Ball Corporation Stock Underperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ball-corporation-stock-underperforming-dow-093746093.html",
-      "summary": "",
-      "published_at": "2026-06-16T09:37:46+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "published_at": "2026-06-16T12:53:25+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -597,15 +747,15 @@
       "score": 0.52
     },
     {
-      "id": "21e5db67c4f06b6fac03efe4f98389b2012defc3",
+      "id": "ac89c9cb3b87a2a1d7283ccb1f7b497609ba90a5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "These 3 Beaten-Down Growth Stocks Look Like Long-Term Comeback Candidates",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-growth-stocks-093500343.html",
+      "title": "Is Tyson Foods Stock Underperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-p-125258310.html",
       "summary": "",
-      "published_at": "2026-06-16T09:35:00+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "published_at": "2026-06-16T12:52:58+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -615,22 +765,46 @@
       "score": 0.52
     },
     {
-      "id": "9ba64d07f795648bd930dca11bdc5066583ebafb",
+      "id": "81d6dad7a0d8cd27c1d208337bd37102fc0ef8b9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "U.S.-Iran Agreement, BOJ Rate Hike and SpaceX Rally Drive Market Attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-iran-agreement-boj-rate-093052780.html",
+      "title": "Is Tyler Technologies Stock Underperforming the Nasdaq?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tyler-technologies-stock-underperforming-nasdaq-122307417.html",
       "summary": "",
-      "published_at": "2026-06-16T09:30:52+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "published_at": "2026-06-16T12:23:07+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "score": 0.64
+    },
+    {
+      "id": "629e65f6dc3fcb33dbe7ae5031a4bbd7cce4c54f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "This Analyst Believes Salesforce (CRM) Stock Is Trading At A 52% Discount",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-believes-salesforce-crm-stock-120509086.html",
+      "summary": "",
+      "published_at": "2026-06-16T12:05:09+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
     },
     {
       "id": "872ac91d8f2b6f18f7cf60532b870315d177fac4",
@@ -641,7 +815,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3357165/how-ride-out-hong-kongs-us274-billion-lock-expiry-wave-hitting-stocks-year?utm_source=rss_feed",
       "summary": "Investors will soon need to contend with a side effect of Hong Kong’s initial public offering (IPO) boom over the past year, as an unprecedented number of shares are expected to flood the market once lock-up restrictions expire.\nOver the next 12 months, shares worth US$274 billion could potentially be freed, including those from the city’s hottest IPOs such as MiniMax Group and Knowledge Atlas Tec",
       "published_at": "2026-06-15T23:00:06+00:00",
-      "first_seen_at": "2026-06-17T18:41:14.475754+00:00",
+      "first_seen_at": "2026-06-17T21:05:44.833466+00:00",
       "market": "HK",
       "markets": [
         "HK"
