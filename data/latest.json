@@ -1,36 +1,32 @@
 {
-  "generated_at": "2026-06-20T15:02:44.009533+00:00",
+  "generated_at": "2026-06-20T17:00:29.522061+00:00",
   "window_hours": 48,
-  "total_items": 25,
+  "total_items": 21,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
+    "US": 20,
     "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 12
-    },
-    {
-      "key": "ipo",
-      "count": 5
+      "count": 8
     },
     {
       "key": "macro",
-      "count": 4
+      "count": 7
     },
     {
-      "key": "ma",
-      "count": 2
+      "key": "ipo",
+      "count": 4
     },
     {
       "key": "guidance",
       "count": 1
     },
     {
-      "key": "product",
+      "key": "ma",
       "count": 1
     }
   ],
@@ -38,7 +34,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 20
     },
     {
       "site_id": "hk_china",
@@ -48,33 +44,93 @@
   ],
   "items": [
     {
-      "id": "918b1824aa99b0530afb6f3c53fe39c11ad86e8e",
+      "id": "c511f29e3dbae6adb90a6cedb98e68ff1df8b54e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "This Space Stock Will Beat SpaceX to the Nasdaq-100 — And It’s the One to Buy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/space-stock-beat-spacex-nasdaq-144433375.html",
+      "title": "Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall Street Missing Something With This Beaten-Down Stock?",
+      "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisks-wegovy-pill-just-163500105.html",
       "summary": "",
-      "published_at": "2026-06-20T14:44:33+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "published_at": "2026-06-20T16:35:00+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.52
     },
     {
-      "id": "2bf710844b5186fcec436c106241fd4373f656bb",
+      "id": "ec8cfbc47d321381d35585f24df57455049cb080",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Bank ETF Showdown: Invesco Crushes iShares",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-etf-showdown-invesco-crushes-142001172.html",
+      "title": "2 Industrial Stocks to Buy After the SpaceX IPO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-industrial-stocks-buy-spacex-160500504.html",
       "summary": "",
-      "published_at": "2026-06-20T14:20:01+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "published_at": "2026-06-20T16:05:00+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "4a68c7d0ca0184fa842ea5238e954c64e35b8bee",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Michael Saylor Touts $48 Billion Bitcoin Turnaround, But Can MicroStrategy’s STRC Survive 2026?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-touts-48-billion-160303599.html",
+      "summary": "",
+      "published_at": "2026-06-20T16:03:03+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "e9672cbf8d017b267e82d546f5f83dc3c332fb9b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "The Fed is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
+      "url": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
+      "summary": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+      "published_at": "2026-06-20T15:36:00+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "ff224ad76861217e52cc9f4b0f4d0d1402df176d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Bank ETF Showdown: Invesco Crushes iShares",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/20/bank-etf-showdown-invesco-crushes-ishares/?source=iedfolrf0000001",
+      "summary": "Lower concentration risk and deeper liquidity set these two financial sector ETFs apart.",
+      "published_at": "2026-06-20T14:00:01+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -92,7 +148,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/why-does-donald-trump-marvell-133141323.html",
       "summary": "",
       "published_at": "2026-06-20T13:31:41+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -116,7 +172,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/fed-inflation-outlook-wall-street-relief-interest/?source=iedfolrf0000001",
       "summary": "The FOMC says things aren't as miserable as they look, seem, or feel on the surface.",
       "published_at": "2026-06-20T13:16:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -134,7 +190,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/06/20/state-street-spdr-vs-ishares-which-bank-etf-wins-this-showdown/?source=iedfolrf0000001",
       "summary": "Take concentration risk and amplify it, and one ETF ends up looking far more attractive.",
       "published_at": "2026-06-20T12:36:01+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -152,7 +208,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/cerebras-vs-spacex-which-is-the-better-ai-ipo-stoc/?source=iedfolrf0000001",
       "summary": "Both offer exposure to the AI infrastructure build-out, but investors need to understand the very different risks behind each stock.",
       "published_at": "2026-06-20T12:23:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,102 +216,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "b0aa4b0e6e37c579278867afb3a13d0a8b1c78c1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here’s What JPMorgan Thinks of Alibaba Group Holding Ltd (BABA)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-thinks-alibaba-group-holding-122002850.html",
-      "summary": "",
-      "published_at": "2026-06-20T12:20:02+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "BABA",
-          "name": "阿里巴巴",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "aeb5885dea34918fdc458fdc29901138f82596fe",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Netflix, Inc. (NFLX) Still One of the Best Falling Stocks to Buy despite Roku and Warner Bros Acquisition Blows",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-inc-nflx-still-one-121151037.html",
-      "summary": "",
-      "published_at": "2026-06-20T12:11:51+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "ma",
-      "score": 1.0
-    },
-    {
-      "id": "9f9e78d947deb9aae2f3ab73b7add0d82cc82b96",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Microsoft Corporation (MSFT): One of the Best Falling Stocks Despite Getting Out of Oracle Data Center Deal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-one-best-121118404.html",
-      "summary": "",
-      "published_at": "2026-06-20T12:11:18+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.97
-    },
-    {
-      "id": "d778ad07f1844a4503f2ea4ed111f465874118d0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here’s why Palantir Technologies Inc. (PLTR) is Still One of the Best Falling Stocks to Invest In",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-inc-pltr-120948256.html",
-      "summary": "",
-      "published_at": "2026-06-20T12:09:48+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "bd4dd404a86ac3207eb25e6e2dda22b015da5eb4",
@@ -266,7 +226,7 @@
       "url": "https://www.cnbc.com/2026/06/20/goldman-sachs-bets-a-recent-merger-will-drive-sharp-gains-for-this-travel-stock.html",
       "summary": "The bank this week upgraded the airline to buy from neutral.",
       "published_at": "2026-06-20T11:04:17+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -284,7 +244,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/fed-chair-warns-major-risk-derail-bull-market/?source=iedfolrf0000001",
       "summary": "Jerome Powell just shone the light on a threat facing the world's most important central bank.",
       "published_at": "2026-06-20T11:01:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,7 +262,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/marvell-here-next-trillion-semiconductor-stocks/?source=iedfolrf0000001",
       "summary": "AMD and ASML look set to hit trillion-dollar market caps before Marvell.",
       "published_at": "2026-06-20T10:50:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -331,7 +291,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-broke-record-what-it-means-voo/?source=iedfolrf0000001",
       "summary": "In June, the Vanguard S&amp;P 500 ETF (VOO) became the first exchange-traded fund to top $1 trillion in assets under management (AUM).",
       "published_at": "2026-06-20T10:25:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -349,7 +309,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/why-i-think-this-vanguard-etf-will-beat-the-sp-500/?source=iedfolrf0000001",
       "summary": "International stocks are trading for a steep discount, and here's a great way to invest.",
       "published_at": "2026-06-20T10:24:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -359,100 +319,22 @@
       "score": 0.52
     },
     {
-      "id": "d519d40f851e9ea982babad65f631314ec2e734d",
+      "id": "e0a25aa1b244b144805b91ea792537f2eb40be38",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "After Receiving $100 Million From the Trump Administration, Is Rigetti Computing Stock a Screaming Buy?",
-      "url": "https://www.fool.com/investing/2026/06/20/after-receiving-100-million-from-the-trump-adminis/?source=iedfolrf0000001",
-      "summary": "The federal government is using $2 billion from the CHIPS Act to fund research in quantum computing.",
-      "published_at": "2026-06-20T10:05:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "source": "Yahoo Finance",
+      "title": "HELOC and home equity loan rates Saturday, June 20, 2026: Fed signals higher rates are likely",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-20-2026-100000980.html",
+      "summary": "",
+      "published_at": "2026-06-20T10:00:00+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "d6abb0d96a8ece5b5c7e00bf6af894ae57022876",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SpaceX Stock Surged 30% After Its IPO. Here's Where It's Going Next, According to 2 Wall Street Analysts",
-      "url": "https://www.fool.com/investing/2026/06/20/spacex-stock-has-already-surged-30-since-its-ipo-p/?source=iedfolrf0000001",
-      "summary": "SpaceX stock is currently hovering near $190 per share.",
-      "published_at": "2026-06-20T10:00:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "619e4dcef43e872859ef7ec2f94c1714f1376d47",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Marvell Technology Going to $1 Trillion?",
-      "url": "https://www.fool.com/investing/2026/06/20/is-marvell-technology-going-to-1-trillion/?source=iedfolrf0000001",
-      "summary": "Nvidia's CEO thinks so, but what are the actual chances?",
-      "published_at": "2026-06-20T09:15:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "402f9ce7f698d53186cd143e5967ef982106feab",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This Artificial Intelligence (AI) Stock Is Up 4,800% in the Past Year. Wall Street Says This Will Happen Next.",
-      "url": "https://www.fool.com/investing/2026/06/20/ai-stock-up-4800-wall-street-says-this-next/?source=iedfolrf0000001",
-      "summary": "Sandisk shares have rocketed higher amid an unprecedented memory chip supply shortage.",
-      "published_at": "2026-06-20T08:48:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "1541bbba9c3d9e1e62a3323fd98bcc3af3093e53",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is It Too Late to Buy SpaceX?",
-      "url": "https://www.fool.com/investing/2026/06/20/is-it-too-late-to-buy-spacex/?source=iedfolrf0000001",
-      "summary": "SpaceX stock has climbed in the double digits since its IPO last week.",
-      "published_at": "2026-06-20T08:03:00+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
+      "score": 0.52
     },
     {
       "id": "49fa25b753b1418faa8f04089270234f1b1dcef5",
@@ -463,7 +345,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3425554",
       "summary": "",
       "published_at": "2026-06-20T03:35:09+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -481,7 +363,7 @@
       "url": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html",
       "summary": "Tech giants including Meta and Alphabet, along with upstarts such as Anthropic and OpenAI, are locked in a talent war as they race to build next-gen AI systems.",
       "published_at": "2026-06-19T20:35:32+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -505,7 +387,7 @@
       "url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
       "summary": "The S&amp;P 500 surged on Thursday, making up for losses seen after central bankers convened.",
       "published_at": "2026-06-19T17:24:10+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -523,7 +405,7 @@
       "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
       "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
       "published_at": "2026-06-19T15:53:11+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -531,6 +413,24 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "8d44294abc3730767b54f0c80916d0b7c27b1274",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Friday, June 19, 2026: Prices keep falling post-Fed decision",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-19-2026-prices-keep-falling-post-fed-decision-123239380.html",
+      "summary": "",
+      "published_at": "2026-06-19T12:32:39+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "a5b786ba1db075c9ca627a79080a49a0df84f93d",
@@ -541,7 +441,7 @@
       "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
       "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
       "published_at": "2026-06-18T19:17:55+00:00",
-      "first_seen_at": "2026-06-20T15:02:44.009533+00:00",
+      "first_seen_at": "2026-06-20T17:00:29.522061+00:00",
       "market": "US",
       "markets": [
         "US"
