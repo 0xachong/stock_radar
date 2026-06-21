@@ -1,30 +1,26 @@
 {
-  "generated_at": "2026-06-21T17:04:13.936706+00:00",
+  "generated_at": "2026-06-21T18:59:21.902474+00:00",
   "window_hours": 48,
-  "total_items": 13,
+  "total_items": 15,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 10,
+    "US": 12,
     "HK": 1,
     "CN": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 4
+      "count": 6
     },
     {
       "key": "macro",
-      "count": 3
+      "count": 4
     },
     {
       "key": "capital",
       "count": 2
-    },
-    {
-      "key": "earnings",
-      "count": 1
     },
     {
       "key": "policy",
@@ -43,7 +39,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 9
+      "count": 11
     },
     {
       "site_id": "hk_china",
@@ -53,15 +49,81 @@
   ],
   "items": [
     {
-      "id": "7808044176cbd7839970d5958f16e7f85481c183",
+      "id": "cad92ec09ca629a7941b421aada4be8c44471117",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Wall Street Just Sold Off These IT-Services Stocks on AI Fears. Is the Sell-Off Overdone?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-sold-off-162000358.html",
+      "title": "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Match for Costco Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-why-feds-decision-182000215.html",
       "summary": "",
-      "published_at": "2026-06-21T16:20:00+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "published_at": "2026-06-21T18:20:00+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "c3b2f994842746dc3d2a2c51155fb5db5f157b83",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Highlights How CEO Lip-Bu Tan Solved Intel (INTC) Foundry Issues",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ceo-lip-132817505.html",
+      "summary": "",
+      "published_at": "2026-06-21T17:47:17+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "0ff60dffa4a1c4cba9c099d7402ec803f40c9d38",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Highlights Oracle (ORCL)’s Heavy Debt Load",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-oracle-heavy-132824568.html",
+      "summary": "",
+      "published_at": "2026-06-21T17:44:24+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ORCL",
+          "name": "甲骨文",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "31446808d1f9210985115c26b1ec59e5b8f762f7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-10-peak-amazon-stock-173900906.html",
+      "summary": "",
+      "published_at": "2026-06-21T17:39:00+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -71,33 +133,15 @@
       "score": 0.52
     },
     {
-      "id": "c86d425cfefc8d7f279e247cea61ee19c27479b3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "智通港股投资日志|6月22日",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3425835",
-      "summary": "",
-      "published_at": "2026-06-21T16:05:11+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "ddeab89d4b4e1318e17953251babff5a4e3a0409",
+      "id": "2c32b8cdda8b9406e482fb3cfdbb20cccb50f817",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Meta’s Recent Pullback Creates an Attractive Buying Opportunity",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-recent-pullback-creates-attractive-154509860.html",
+      "title": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-looks-unbelievably-cheap-170500860.html",
       "summary": "",
-      "published_at": "2026-06-21T15:45:09+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "published_at": "2026-06-21T17:05:00+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -110,7 +154,25 @@
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
+    },
+    {
+      "id": "c86d425cfefc8d7f279e247cea61ee19c27479b3",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股投资日志|6月22日",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3425835",
+      "summary": "",
+      "published_at": "2026-06-21T16:05:11+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "039143ff597107edf696e0c9707907f13f161555",
@@ -121,7 +183,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-corp-fdx-bold-dividend-134710528.html",
       "summary": "",
       "published_at": "2026-06-21T13:47:10+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -139,7 +201,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3425814",
       "summary": "",
       "published_at": "2026-06-21T13:05:12+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -157,31 +219,13 @@
       "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
       "summary": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
       "published_at": "2026-06-21T13:00:00+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.76
-    },
-    {
-      "id": "e656c581002f1dfa295a7c51b57c1e6156fc07c0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Here are 3 big things to watch in the stock market this coming week",
-      "url": "https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html",
-      "summary": "FedEx reports earnings, and the Fed's preferred inflation gauge is due out.",
-      "published_at": "2026-06-21T12:36:03+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
       "score": 0.76
     },
     {
@@ -193,7 +237,7 @@
       "url": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html",
       "summary": "TipRanks discusses three dividend-paying stocks.",
       "published_at": "2026-06-21T11:19:06+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -211,7 +255,7 @@
       "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
       "summary": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
       "published_at": "2026-06-21T11:14:02+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -229,7 +273,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3425793",
       "summary": "",
       "published_at": "2026-06-21T11:05:12+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -247,7 +291,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links?utm_source=rss_feed",
       "summary": "Cross-border biotech deals between China and the United States are becoming more complicated and could face a modest slowdown as Washington steps up efforts to restrict investment and technology transfers, according to industry analysts.\n“There will be more geopolitical scrutiny going forward. This scrutiny may lead to slightly fewer deals than without it,” said Diederik Stadig, senior healthcare ",
       "published_at": "2026-06-21T01:30:08+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -265,7 +309,7 @@
       "url": "https://www.cnbc.com/2026/06/20/goldman-sachs-bets-a-recent-merger-will-drive-sharp-gains-for-this-travel-stock.html",
       "summary": "The bank this week upgraded the airline to buy from neutral.",
       "published_at": "2026-06-20T11:04:17+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -283,7 +327,7 @@
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-20-2026-100000980.html",
       "summary": "",
       "published_at": "2026-06-20T10:00:00+00:00",
-      "first_seen_at": "2026-06-21T17:04:13.936706+00:00",
+      "first_seen_at": "2026-06-21T18:59:21.902474+00:00",
       "market": "US",
       "markets": [
         "US"
