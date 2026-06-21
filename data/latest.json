@@ -1,24 +1,20 @@
 {
-  "generated_at": "2026-06-21T06:57:28.170790+00:00",
+  "generated_at": "2026-06-21T10:34:17.584502+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 18,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 21
+    "US": 18
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 7
+      "count": 6
     },
     {
       "key": "macro",
-      "count": 5
-    },
-    {
-      "key": "capital",
-      "count": 2
+      "count": 6
     },
     {
       "key": "ipo",
@@ -26,14 +22,14 @@
     },
     {
       "key": "product",
-      "count": 2
-    },
-    {
-      "key": "rating",
       "count": 1
     },
     {
-      "key": "earnings",
+      "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "rating",
       "count": 1
     },
     {
@@ -45,7 +41,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 16
     },
     {
       "site_id": "hk_china",
@@ -55,6 +51,114 @@
   ],
   "items": [
     {
+      "id": "7d8b93c8a07f7ad5ba989d54e806d3a0858f6f59",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智微智能(001339.SZ)：与英伟达不涉及芯片设计等核心技术领域合作",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3425775",
+      "summary": "",
+      "published_at": "2026-06-21T09:35:13+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "084fcfd530a55fbd3800048c79b7bc0cd40dfbbf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Is Everyone Talking About Adobe Stock?",
+      "url": "https://www.fool.com/investing/2026/06/21/why-is-everyone-talking-about-adobe-stock/?source=iedfolrf0000001",
+      "summary": "Investors want to know how Adobe will beat back the threat from AI.",
+      "published_at": "2026-06-21T09:15:00+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "166501b6dd68ab48e8e03cdb16cd54ab531bfb03",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "3 Reasons Why Netflix Is Down 31% Since Completing Its 10-For-1 Stock Split",
+      "url": "https://www.fool.com/investing/2026/06/21/3-reasons-why-netflix-is-down-31-since-completing/?source=iedfolrf0000001",
+      "summary": "The stock split has not stemmed the downtrend in Netflix stock.",
+      "published_at": "2026-06-21T08:05:00+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "56aabbe24280d7523e63b29a8fe3811738ad30b9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is It Too Late to Buy Palantir Stock? Here Is What Its Valuation Says About Its Future.",
+      "url": "https://www.fool.com/investing/2026/06/21/too-late-buy-palantir-stock-what-valuation-future/?source=iedfolrf0000001",
+      "summary": "Palantir has a ton of success already priced into the stock.",
+      "published_at": "2026-06-21T07:55:00+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "ccbb99fd936640f162b80bc6080735bf3e3e7488",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Better S&P 500 ETF: VOO vs. SPY",
+      "url": "https://www.fool.com/investing/2026/06/21/better-sp-500-etf-voo-vs-spy/?source=iedfolrf0000001",
+      "summary": "The margins between these two iconic stock market funds are razor-thin, but one does make more sense for most investors.",
+      "published_at": "2026-06-21T07:00:00+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
       "id": "1bb8466f6439e4862990adaf225a238cfe766d5b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -63,7 +167,7 @@
       "url": "https://www.fool.com/investing/2026/06/21/the-pullback-created-bargains-dirt-cheap-consumer/?source=iedfolrf0000001",
       "summary": "While Wall Street chases AI headlines, these three food stocks offer a compelling mix of growth, dividends, and stability.",
       "published_at": "2026-06-21T05:05:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -81,7 +185,7 @@
       "url": "https://www.fool.com/investing/2026/06/20/whats-going-on-with-adobe-stock/?source=iedfolrf0000001",
       "summary": "Investors want to know whether the strategy shift toward including more freemium content will work well.",
       "published_at": "2026-06-21T02:39:23+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -97,24 +201,6 @@
       "score": 0.97
     },
     {
-      "id": "196712b925c661f60fc5956dac00fe5462e365e0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "华创证券：加息门槛仍然较高 美联储今年或维持利率不变",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3425699",
-      "summary": "",
-      "published_at": "2026-06-21T01:35:11+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
       "id": "871f183f353662836b036f7706a82c8db508173c",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -123,7 +209,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links?utm_source=rss_feed",
       "summary": "Cross-border biotech deals between China and the United States are becoming more complicated and could face a modest slowdown as Washington steps up efforts to restrict investment and technology transfers, according to industry analysts.\n“There will be more geopolitical scrutiny going forward. This scrutiny may lead to slightly fewer deals than without it,” said Diederik Stadig, senior healthcare ",
       "published_at": "2026-06-21T01:30:08+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -141,49 +227,13 @@
       "url": "https://www.fool.com/investing/2026/06/20/spacex-stocks-biggest-test-isnt-its-post-ipo-drop/?source=iedfolrf0000001",
       "summary": "The pullback in the largest public debut in history is the easy story to tell. But two events this summer may say far more about where the stock heads next.",
       "published_at": "2026-06-20T23:03:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "46c9107fa192a236557d31c4c4475b1bb2700a89",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "FedEx Reports Earnings Tuesday. Is the Delivery Giant a Buy?",
-      "url": "https://www.fool.com/investing/2026/06/20/fedex-reports-earnings-tuesday-is-the-delivery-gia/?source=iedfolrf0000001",
-      "summary": "The shipping giant gives investors an insightful view into the economy, and it reports just days after a hawkish turn from the Federal Reserve.",
-      "published_at": "2026-06-20T20:05:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "2a477b85689947b2096ea5a40eb6a295e613b399",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Here's How Many Shares of Home Depot You'd Need to Generate $10,000 in Yearly Dividends",
-      "url": "https://www.fool.com/investing/2026/06/20/how-many-shares-home-depot-10000-yearly-dividends/?source=iedfolrf0000001",
-      "summary": "Income investors might find this retail stock to be a worthy portfolio addition.",
-      "published_at": "2026-06-20T19:39:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
       "score": 0.61
     },
     {
@@ -195,7 +245,7 @@
       "url": "https://www.cnbc.com/2026/06/20/goldman-sachs-bets-a-recent-merger-will-drive-sharp-gains-for-this-travel-stock.html",
       "summary": "The bank this week upgraded the airline to buy from neutral.",
       "published_at": "2026-06-20T11:04:17+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -203,6 +253,24 @@
       "tickers": [],
       "category": "ma",
       "score": 0.61
+    },
+    {
+      "id": "c9221f09577b59fe7a37308d42c4ae01dc78af2b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The Fed's Warsh era clearly has a new vibe — and that's not all bad for investors",
+      "url": "https://finance.yahoo.com/markets/article/the-feds-warsh-era-clearly-has-a-new-vibe--and-thats-not-all-bad-for-investors-110147708.html",
+      "summary": "",
+      "published_at": "2026-06-20T11:01:47+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "e0a25aa1b244b144805b91ea792537f2eb40be38",
@@ -213,7 +281,7 @@
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-20-2026-100000980.html",
       "summary": "",
       "published_at": "2026-06-20T10:00:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,7 +299,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/pool-corporation-stock-underperforming-nasdaq-025637635.html",
       "summary": "",
       "published_at": "2026-06-20T02:56:37+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -249,7 +317,7 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-slumps-fed-224000383.html",
       "summary": "",
       "published_at": "2026-06-20T01:40:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -257,150 +325,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "d7f02eab7ae9c6931431dbcc86513b1b93f20283",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Robinhood Markets Stock Outperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-stock-outperforming-p-002040795.html",
-      "summary": "",
-      "published_at": "2026-06-20T00:20:40+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "966e0d1966a426b0aeaa0f800e1d7200ac057e10",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Coinbase (COIN) Launches SEC-Registered AI Investment Advisor for Coinbase One Subscribers",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coinbase-coin-launches-sec-registered-235905636.html",
-      "summary": "",
-      "published_at": "2026-06-19T23:59:05+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "e2671cd31bdb4429e715422da402d9fdf25dacc3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Constellation Energy (CEG): 12 Best NASDAQ Stocks with High Upside Potential",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-12-best-235858232.html",
-      "summary": "",
-      "published_at": "2026-06-19T23:58:58+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "ca7f37be3eb2f677df88e68af51b49d59213a42e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry",
-      "url": "https://finance.yahoo.com/technology/ai/articles/y-combinator-microsoft-msft-expand-235842538.html",
-      "summary": "",
-      "published_at": "2026-06-19T23:58:42+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "fc389136fa11451b293c38a698e4dba5e1786e5f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here is Why CoStar Group (CSGP) is One of the Best NASDAQ Stocks with High Upside Potential",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-costar-group-csgp-one-235822247.html",
-      "summary": "",
-      "published_at": "2026-06-19T23:58:22+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "15ba0b5882eeb17e898e3f6eb4968b15bef1502c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Axon Enterprise (AXON) on of the Best NASDAQ Stocks with High Upside Potential?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-best-nasdaq-235814427.html",
-      "summary": "",
-      "published_at": "2026-06-19T23:58:14+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "f35661fdc84b4ddac2e7778f761b4bd7340ddb2e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Better Buy: AMD vs. Intel After Intel's Monster Run",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/better-buy-amd-vs-intel-230300916.html",
-      "summary": "",
-      "published_at": "2026-06-19T23:03:00+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "d846e505c7b85f8a5ec3b7b8f826c53489270ac6",
@@ -411,7 +335,7 @@
       "url": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html",
       "summary": "Tech giants including Meta and Alphabet, along with upstarts such as Anthropic and OpenAI, are locked in a talent war as they race to build next-gen AI systems.",
       "published_at": "2026-06-19T20:35:32+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -435,7 +359,7 @@
       "url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
       "summary": "The S&amp;P 500 surged on Thursday, making up for losses seen after central bankers convened.",
       "published_at": "2026-06-19T17:24:10+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -453,7 +377,7 @@
       "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
       "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
       "published_at": "2026-06-19T15:53:11+00:00",
-      "first_seen_at": "2026-06-21T06:57:28.170790+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -461,6 +385,24 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "8d44294abc3730767b54f0c80916d0b7c27b1274",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Friday, June 19, 2026: Prices keep falling post-Fed decision",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-19-2026-prices-keep-falling-post-fed-decision-123239380.html",
+      "summary": "",
+      "published_at": "2026-06-19T12:32:39+00:00",
+      "first_seen_at": "2026-06-21T10:34:17.584502+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     }
   ]
 }
