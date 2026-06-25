@@ -1,28 +1,32 @@
 {
-  "generated_at": "2026-06-24T22:46:44.932284+00:00",
+  "generated_at": "2026-06-25T00:11:56.048911+00:00",
   "window_hours": 48,
-  "total_items": 33,
+  "total_items": 34,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 32,
-    "HK": 1
+    "HK": 3,
+    "US": 31
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 13
     },
     {
       "key": "earnings",
-      "count": 9
-    },
-    {
-      "key": "macro",
       "count": 7
     },
     {
+      "key": "macro",
+      "count": 5
+    },
+    {
       "key": "ipo",
+      "count": 3
+    },
+    {
+      "key": "capital",
       "count": 2
     },
     {
@@ -30,27 +34,59 @@
       "count": 2
     },
     {
-      "key": "capital",
-      "count": 1
-    },
-    {
       "key": "rating",
-      "count": 1
+      "count": 2
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 28
+      "count": 30
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 4
     }
   ],
   "items": [
+    {
+      "id": "f155d4cae1f5ee49a6652c13328fb660d0b77523",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 紫讯技术递表港交所 为中国最大电商安全营运产品提供商",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3432135",
+      "summary": "",
+      "published_at": "2026-06-24T23:35:10+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "fa3a641f487928497961c0dd3efb630f935fcfeb",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "兆科眼科-B(06996)6月23日斥资3.38万港元回购1.3万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3432133",
+      "summary": "",
+      "published_at": "2026-06-24T23:35:09+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
     {
       "id": "afd6d03d1accdc01ebea4fd2816e27f20ed434ae",
       "site_id": "us_global",
@@ -60,7 +96,7 @@
       "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
       "summary": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
       "published_at": "2026-06-24T22:39:58+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -78,7 +114,7 @@
       "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
       "summary": "Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.",
       "published_at": "2026-06-24T22:33:45+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -102,7 +138,7 @@
       "url": "https://www.marketwatch.com/story/qualcomms-stock-is-soaring-as-these-big-numbers-excite-wall-street-316d41f4?mod=mw_rss_topstories",
       "summary": "Shares of Qualcomm soared on Wednesday after the company announced new revenue targets and a partership with Meta Platforms.",
       "published_at": "2026-06-24T22:06:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -126,7 +162,7 @@
       "url": "https://www.marketwatch.com/story/cerebrass-stock-sinks-below-ipo-price-in-a-major-blow-to-early-investors-8a55f2ff?mod=mw_rss_topstories",
       "summary": "The once-high-flying AI chip maker’s stock has now dropped more than 50% from its all-time intraday high hit six weeks ago.",
       "published_at": "2026-06-24T22:06:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -144,7 +180,7 @@
       "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
       "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
       "published_at": "2026-06-24T21:42:05+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -152,66 +188,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.76
-    },
-    {
-      "id": "4c6170dcfda42890a81a0555ca298d82063f66ca",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "NETSTREIT股价因纳入标普小盘600指数而大涨",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3432053",
-      "summary": "",
-      "published_at": "2026-06-24T21:39:49+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "6916c8a5fe9de18a3fbd68d8a65c1ec16d9c563e",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.85%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3432046",
-      "summary": "",
-      "published_at": "2026-06-24T21:30:13+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "d7f52faf798b1f89089049289aa38ed2c6afb638",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美光科技创史上最强季报，芯片股盘后全线飙升",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3432042",
-      "summary": "",
-      "published_at": "2026-06-24T21:22:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MU",
-          "name": "美光",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
     },
     {
       "id": "10803b2e13ca7b61650049eb9f5fda8081de84af",
@@ -222,7 +198,7 @@
       "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
       "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
       "published_at": "2026-06-24T21:19:27+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -240,7 +216,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-micron-surges-after-hours-as-nasdaq-stems-losses/?source=iedfolrf0000001",
       "summary": "Today, June 24, 2026, the Dow edged upwards as falling crude prices helped offset tech valuation worries.",
       "published_at": "2026-06-24T21:00:58+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -248,24 +224,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "d5fbc353b9e12cc62fd7fe63e638cbd734f26363",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
-      "url": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
-      "summary": "A strategy that feels like free money actually lags the stock market over the long term.",
-      "published_at": "2026-06-24T20:51:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "018fa542003c138b991a9244c6eb388411e81f6d",
@@ -276,7 +234,7 @@
       "url": "https://www.fool.com/investing/2026/06/24/should-you-buy-conocophillips-with-wti-below-75/?source=iedfolrf0000001",
       "summary": "Wall Street analysts are wrong, and Conoco's earnings will grow faster than you think.",
       "published_at": "2026-06-24T20:38:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +252,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/06/24/vanguard-s-and-p-500-growth-etf-vs-ishares-russell-2000-growth-etf-which-growth-stock-fund-is-the-better-buy/?source=iedfolrf0000001",
       "summary": "Sector concentration and risk profiles set these two growth ETFs apart, offering distinct approaches for investors seeking capital appreciation.",
       "published_at": "2026-06-24T20:29:32+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +270,7 @@
       "url": "https://www.cnbc.com/2026/06/24/buy-verizon-over-alphabet-if-a-history-of-dow-changes-is-any-guide.html",
       "summary": "Verizon's removal from the Dow may not be bad news for investors. Historical data shows deleted stocks often outperform the companies replacing them",
       "published_at": "2026-06-24T20:01:44+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -330,7 +288,7 @@
       "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
       "summary": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
       "published_at": "2026-06-24T20:01:14+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -348,7 +306,7 @@
       "url": "https://www.fool.com/investing/2026/06/24/a-more-hawkish-fed-changes-the-math-for-big-bank-s/?source=iedfolrf0000001",
       "summary": "Would rising rates change the calculus for the big banks?",
       "published_at": "2026-06-24T19:37:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -366,7 +324,7 @@
       "url": "https://www.fool.com/investing/2026/06/24/prediction-this-will-be-nvidias-stock-price-by-the/?source=iedfolrf0000001",
       "summary": "So far in 2026, Nvidia stock has only gained about 8% -- slightly lagging the Nasdaq Composite's performance.",
       "published_at": "2026-06-24T19:31:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -384,7 +342,7 @@
       "url": "https://www.fool.com/investing/2026/06/24/a-higher-for-longer-fed-cuts-both-ways-for-sp-glob/?source=iedfolrf0000001",
       "summary": "Higher interest rates will generate tailwinds and headwinds for the financial data giant.",
       "published_at": "2026-06-24T19:08:09+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -392,24 +350,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "161e77d5792348eeb220258561119f3cfc043e2c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nokia Acquired Infinera and Is Now Quietly Becoming an AI Infrastructure Play. Wall Street Hasn't Caught On Yet.",
-      "url": "https://www.fool.com/investing/2026/06/24/nokia-infinera-ai-infrastructure-play-wall-street/?source=iedfolrf0000001",
-      "summary": "The stock has more than doubled, but it still trades at a reasonable valuation relative to future earnings.",
-      "published_at": "2026-06-24T18:30:00+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "6f6ab293f8f340e8ac2835a74caad46a3354e8f0",
@@ -420,7 +360,7 @@
       "url": "https://www.cnbc.com/2026/06/24/googles-youtube-settles-case-over-social-media-harm-to-children.html",
       "summary": "A Los Angeles jury found Meta and Google's Youtube negligent in another social media addiction trial that ended in March.",
       "published_at": "2026-06-24T16:44:11+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -444,7 +384,7 @@
       "url": "https://www.cnbc.com/2026/06/24/student-loan-borrowers-interest-rate-discount.html",
       "summary": "To qualify for the U.S. Department of Education's new interest rate discount on student loans, borrowers must meet several requirements. Here's what to know.",
       "published_at": "2026-06-24T15:53:43+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -462,7 +402,7 @@
       "url": "https://www.cnbc.com/2026/06/23/why-fedex-is-down-after-a-strong-quarter-and-its-impact-on-our-rating.html",
       "summary": "We knew this report would be transitional, even messy, given the separation of FedEx Freight.",
       "published_at": "2026-06-24T15:36:22+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -480,7 +420,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3358082/chinas-biotech-surge-sparks-us-security-concerns-drug-trials-break-records-2025?utm_source=rss_feed",
       "summary": "Clinical drug trial registrations in China hit a record last year, the country’s drug regulator said, with more than 5,000 trials reported in the latest sign of the nation’s growing pipeline of novel drug candidates.\nThe total number of clinical drug trials reached 5,215 in 2025, more than double the figure recorded in 2020, according to a report released by the National Medical Products Administr",
       "published_at": "2026-06-23T23:00:06+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -504,7 +444,7 @@
       "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
       "summary": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
       "published_at": "2026-06-23T22:11:21+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -522,7 +462,7 @@
       "url": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
       "summary": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off.",
       "published_at": "2026-06-23T21:58:31+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -540,7 +480,7 @@
       "url": "https://www.scmp.com/opinion/china-opinion/article/3357898/us-anthropic-ban-best-advert-chinese-ai?utm_source=rss_feed",
       "summary": "Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been miffed when they were shut off from using artificial intelligence (AI) models from Anthropic, a pioneering American firm in the field.\nGoldman Sachs and JPMorgan Chase pulled the plug in April and last week respectively, based on a strict interpretation of Anthropic’s terms of use, which reflect Washington’s stringent",
       "published_at": "2026-06-23T21:30:07+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -550,135 +490,225 @@
       "score": 0.52
     },
     {
-      "id": "bbd1000d51ecce2defd9cb5f59fcc2e5de0fbfa4",
+      "id": "ceec7eacfa6836f4d3873af21bc5da9040dc5f59",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on Palantir: “The Growth Hasn’t Slowed Down, Just the Stock”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-growth-hasn-143150499.html",
+      "title": "Marvell Just Got a New Street-High Price Target. Wall Street Thinks Networking Is a Huge Growth Opportunity.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-got-street-high-130003889.html",
       "summary": "",
-      "published_at": "2026-06-23T14:31:50+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "published_at": "2026-06-23T13:00:03+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "PLTR",
-          "name": "Palantir",
+          "symbol": "MRVL",
+          "name": "Marvell",
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "rating",
       "score": 1.0
     },
     {
-      "id": "a157a9f6570733fe2a5c24c68007ef78f71ddb50",
+      "id": "00aa15ae819183456976c69a510afc5c1b87c2ff",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is Henry Schein Stock Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/henry-schein-stock-underperforming-nasdaq-143149767.html",
+      "title": "Intel Will Design and Manufacture Chips for Apple. What This Really Means for INTC Stock Investors.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-design-manufacture-chips-apple-130003701.html",
       "summary": "",
-      "published_at": "2026-06-23T14:31:49+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "94f8d9c943965197ebbc39a1ac18ac45cfa1dcbd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Why Jim Cramer Believes FedEx Freight Will Cash In on the E-Commerce Boom",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-believes-fedex-143144119.html",
-      "summary": "",
-      "published_at": "2026-06-23T14:31:44+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "21fa8d925f029c8af819887b3115d5dc46e582e7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on FedEx: “Buy It, Put It Away”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-fedex-buy-put-143133809.html",
-      "summary": "",
-      "published_at": "2026-06-23T14:31:33+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "376d8e8f12dbf587b9276a73a0438a5039b7916a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Huntington Ingalls Industries Stock Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-stock-underperforming-143129672.html",
-      "summary": "",
-      "published_at": "2026-06-23T14:31:29+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "02d20cc316d86eece901ecae21e50cdba13cc96f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Coinbase Is Offering Pre-IPO Perpetual Futures on OpenAI and Anthropic. That’s Better News for COIN Stock Than It Is for You.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-offering-pre-ipo-perpetual-142645858.html",
-      "summary": "",
-      "published_at": "2026-06-23T14:26:45+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "published_at": "2026-06-23T13:00:03+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "COIN",
-          "name": "Coinbase",
+          "symbol": "INTC",
+          "name": "英特尔",
           "market": "US"
         }
       ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "6d51afee6cb4891dfa9f56de75cf28aeede17768",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Texas Pacific Land Stock Underperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/texas-pacific-land-stock-underperforming-124956597.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:49:56+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "464e7dcc4c534f73fe72439eeae286a9a78c7568",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "What Makes Microsoft (MSFT) a Strong Position Amid Challenges?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-msft-strong-position-124902924.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:49:02+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "978de2ca93f6712cab55baf1403005b6451ba769",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Intel Corporation (INTC) Lagged Behind Tech Shifts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-lagged-behind-124649677.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:46:49+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "1074bd7f0402c89dab19885f4102de6f38554ea6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Mosaic Stock Underperforming the Dow?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-stock-underperforming-dow-124459829.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:44:59+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "5cb0aed037ab00301bc639189c5bdd1968827a82",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Federal Realty Investment Trust Stock: Is FRT Outperforming the Real Estate Sector?",
+      "url": "https://finance.yahoo.com/real-estate/articles/federal-realty-investment-trust-stock-124349328.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:43:49+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "34b44945398168e3cceeb17fb29f7ca35dff1415",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX stock price drops again as post-IPO gains for retail investors get nearly wiped out",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-price-drops-again-123500449.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:35:00+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
       "category": "ipo",
-      "score": 1.0
+      "score": 0.61
     },
     {
-      "id": "c8457eeccc52412eb59d761361ba6d25cca4e2e0",
+      "id": "a7b97d98599692be28a6324e44a1e417d04c475e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is Generac Holdings Stock Outperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/generac-holdings-stock-outperforming-p-142547418.html",
+      "title": "Is BXP Stock Underperforming the Nasdaq?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bxp-stock-underperforming-nasdaq-122818837.html",
       "summary": "",
-      "published_at": "2026-06-23T14:25:47+00:00",
-      "first_seen_at": "2026-06-24T22:46:44.932284+00:00",
+      "published_at": "2026-06-23T12:28:18+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "90e5ad7033c3b5dfe16d065ba42f5ce1744222b4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX isn't the only Big Tech stock getting crushed — check out the destruction in Salesforce",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-isnt-the-only-big-tech-stock-getting-crushed--check-out-the-destruction-in-salesforce-122756818.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:27:56+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "3e7ad4db103628a88419b1ad897a629fab4e4b14",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Ciena Stock Outperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-stock-outperforming-p-500-121245167.html",
+      "summary": "",
+      "published_at": "2026-06-23T12:12:45+00:00",
+      "first_seen_at": "2026-06-25T00:11:56.048911+00:00",
       "market": "US",
       "markets": [
         "US"
