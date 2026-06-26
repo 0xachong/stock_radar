@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-26T10:50:17.392220+00:00",
+  "generated_at": "2026-06-26T13:10:20.416394+00:00",
   "window_hours": 48,
-  "total_items": 26,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
-    "HK": 2
+    "US": 28,
+    "HK": 1
   },
   "category_stats": [
     {
-      "key": "earnings",
-      "count": 7
+      "key": "company",
+      "count": 10
     },
     {
-      "key": "company",
-      "count": 5
+      "key": "earnings",
+      "count": 6
     },
     {
       "key": "macro",
@@ -30,55 +30,69 @@
       "count": 2
     },
     {
-      "key": "ma",
-      "count": 2
-    },
-    {
       "key": "capital",
-      "count": 1
+      "count": 2
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 27
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 2
     }
   ],
   "items": [
     {
-      "id": "58f1ae46d9977336801141e225e95f763c5edea5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Why this earnings exuberance may be a problem for the stock market, according to this Wall Street veteran",
-      "url": "https://www.marketwatch.com/story/why-this-earnings-exuberance-may-be-a-problem-for-the-stock-market-according-to-this-wall-street-veteran-20431488?mod=mw_rss_topstories",
-      "summary": "Optimism about corporate profits often comes before a fall, says Jim Paulsen",
-      "published_at": "2026-06-26T10:47:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "107fdf3edea5372ea2a5134e40569eb9d1eb0572",
+      "id": "a79ffb5693210dae4808402541271f1c9e1e251a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Nasdaq futures fall as tech sell-off continues: Live updates",
+      "title": "The Club's top 10 things to watch in the stock market Friday",
+      "url": "https://www.cnbc.com/2026/06/26/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "summary": "OpenAI is reportedly considering delaying its IPO until 2027, and SpaceX is weighing a deeper push into mobile services.",
+      "published_at": "2026-06-26T13:03:40+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "e45b5e7cc753fe266849055e3d4e2b2e490251b8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "S&P 500 futures decline with chip stocks weak after OpenAI IPO delay report: Live updates",
       "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
       "summary": "The technology-dominant Nasdaq Composite and broad S&amp;P 500 index are both on pace to end the trading week in the red.",
-      "published_at": "2026-06-26T10:41:21+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "published_at": "2026-06-26T12:55:39+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
+    },
+    {
+      "id": "abbd35a9ea417ba5a946ffda3b47bb75103bd640",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Broadcom Stock Is Down More Than 22% From Its Peak and Worth a Closer Look",
+      "url": "https://www.fool.com/investing/2026/06/26/broadcom-stock-is-down-more-than-22-from-its-peak/?source=iedfolrf0000001",
+      "summary": "Broadcom looks like a great stock to buy after its recent pullback.",
+      "published_at": "2026-06-26T12:30:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,75 +102,33 @@
       "score": 0.52
     },
     {
-      "id": "125ae7792cf70aeef557b3ee050c8deaa3d7f2cb",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "孩子王二次递表港交所，66岁江苏富豪有个“万店梦”，3年入股4家公司后仍想“买买买”",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3435311",
-      "summary": "",
-      "published_at": "2026-06-26T10:36:10+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "HK",
+      "id": "00e71215c5e432112e2f3483b1fe873713197d2a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Imposter scams led fraud reports to the FTC for fifth straight year in 2025, causing $3.5 billion in losses",
+      "url": "https://www.cnbc.com/2026/06/26/imposter-scams-led-fraud-reports-to-ftc-in-2025-3point5-billion-losses.html",
+      "summary": "The amount lost to imposter scams is part of $15.9 billion in total fraud losses reported to the Federal Trade Commission in 2025",
+      "published_at": "2026-06-26T12:21:26+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
-      "category": "ipo",
+      "category": "macro",
       "score": 0.52
     },
     {
-      "id": "af9d7995833219425694ac2c5f4b5a89ede2417a",
+      "id": "27ee41651912eb6903432b1b7cbb15caf8bacbc6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Palantir tops list of oversold mega cap tech companies",
-      "url": "https://seekingalpha.com/news/4607657-palantir-tops-list-of-oversold-mega-cap-tech-companies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-06-26T10:13:28+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "c6fea755f23df0463981b496372584bdd46be84e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Why a reported delay for OpenAI’s listing complicates further the picture for tech stocks",
-      "url": "https://www.marketwatch.com/story/the-tech-selloff-has-a-new-worry-and-it-involves-openais-ipo-timeline-ea9f0276?mod=mw_rss_topstories",
-      "summary": "SoftBank shares slumped Friday following a report that OpenAi may delay its IPO until next year.",
-      "published_at": "2026-06-26T09:31:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.65
-    },
-    {
-      "id": "e8d4d863c376a975ef28b97cd8e75795aeb9a57c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The Wall Street equivalent of roster-cut day happens Friday. It’ll be one of the biggest volume days of the year.",
-      "url": "https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496?mod=mw_rss_topstories",
-      "summary": "FTSE Russell is undertaking its semi-annual rebalancing — what the index provider calls its reconstitution — and the size of the undertaking could impact markets, say analysts.",
-      "published_at": "2026-06-26T04:47:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "source": "CNBC Top News",
+      "title": "Here are Friday's biggest analyst calls: SpaceX, Nvidia, Apple, Tesla, Crocs, Microsoft, Robinhood & more",
+      "url": "https://www.cnbc.com/2026/06/26/friday-stocks-by-analyst-calls-like-spacex.html",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "published_at": "2026-06-26T12:14:23+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -166,33 +138,15 @@
       "score": 0.52
     },
     {
-      "id": "ae2d57b0783079782c5d6bbc0210ce03fa7c0875",
+      "id": "03e4f95db183cd41e84eab4ef895f094244b4ec4",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "2 Beaten-Down Artificial Intelligence (AI) Stocks for Contrarian Investors to Consider Buying",
-      "url": "https://www.fool.com/investing/2026/06/26/2-beaten-down-artificial-intelligence-ai-stocks-to/?source=iedfolrf0000001",
-      "summary": "These aren't for the faint of heart.",
-      "published_at": "2026-06-26T04:15:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "5b3395347bb634cc23dd6250e79f9baba3ef2b8f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
-      "url": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
-      "summary": "Overhyped IPOs rarely make you money in the short term. That doesn’t mean it’s time to sell your stocks..",
-      "published_at": "2026-06-25T23:12:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "title": "Staying Away From SpaceX? Here Are 3 Other Stocks That Can Boost Your Portfolio's Satellite Economy Exposure.",
+      "url": "https://www.fool.com/investing/2026/06/26/staying-away-from-spacex-here-are-3-other-stocks-t/?source=iedfolrf0000001",
+      "summary": "SpaceX just became the largest IPO in history, but its lofty valuation has left many investors searching for alternatives.",
+      "published_at": "2026-06-26T11:29:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -202,33 +156,63 @@
       "score": 0.61
     },
     {
-      "id": "3345c3689952f370eeac6df51f965557a9153f7a",
+      "id": "b943473b5c0a5e59f5284c5add709bea454a7f1d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "FedEx Freight takes a step forward in its independent journey. Here's why we like the stock",
-      "url": "https://www.cnbc.com/2026/06/25/fedex-freight-takes-a-step-forward-in-its-independent-journey-heres-why-we-like-the-stock.html",
-      "summary": "FedEx Freight had plenty of encouraging things to say on its first earnings call as a standalone company.",
-      "published_at": "2026-06-25T23:04:46+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "source": "The Motley Fool",
+      "title": "Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now",
+      "url": "https://www.fool.com/investing/2026/06/26/tsm-smartest-infrastructure-ai-buy-right-now/?source=iedfolrf0000001",
+      "summary": "This is a dominant chip foundry with pricing power.",
+      "published_at": "2026-06-26T11:25:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
+      "tickers": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
-      "id": "43a6b0888684645fa9970ebfafade32d61d8a6a3",
+      "id": "247bba42398792dbd421063bb1ad8fc618c67555",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead.",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories",
-      "summary": "The S&amp;P 500 on Thursday finished right on the cusp of a critical support line that, if broken, could portend more losses for stocks in the coming days and weeks.",
-      "published_at": "2026-06-25T21:33:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "source": "The Motley Fool",
+      "title": "Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",
+      "url": "https://www.fool.com/investing/2026/06/26/ranking-faang-stocks-from-most-to-least-attractive/?source=iedfolrf0000001",
+      "summary": "Among Meta Platforms (formerly Facebook), Apple, Amazon, Netflix, and Alphabet (formerly Google), there are two standout bargains and one historically expensive stock.",
+      "published_at": "2026-06-26T11:06:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "308ad7ddb8fe7a3f07490eeaa2abbf04e4a7c483",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SoundHound AI Stock Is Down 70% From Its 52-Week High. Time to Buy?",
+      "url": "https://www.fool.com/investing/2026/06/26/soundhound-ai-stock-is-down-70-from-its-52-week-hi/?source=iedfolrf0000001",
+      "summary": "SoundHound AI is a volatile stock again, closing in on 52-week lows.",
+      "published_at": "2026-06-26T10:26:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -238,22 +222,112 @@
       "score": 0.52
     },
     {
-      "id": "18e508cc56b6e0402f6c965f5e1b6c4d8cc4d0e2",
+      "id": "3ffd39d83dbe24c917a60e13ad3936d3d82c1136",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Stock Market Today, June 25: Bio-Techne Surges After Merck KGaA Announces $73-Per-Share Cash Acquisition Offer",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-bio-techne-surges-after-merck-kgaa-announces-73-per-share-cash-acquisition-offer/?source=iedfolrf0000001",
-      "summary": "On June 25, 2026, investors tracked deal progress as Bio-Techne shares responded to the proposed buyout terms.",
-      "published_at": "2026-06-25T21:23:42+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "title": "Wall Street Scrapped a 25-Year-Old Rule. Does It Make Robinhood Stock a Buy Right Now?",
+      "url": "https://www.fool.com/investing/2026/06/26/wall-street-scrapped-a-25-year-old-rule-does-it-ma/?source=iedfolrf0000001",
+      "summary": "Eliminating this rule could boost trading volumes at Robinhood.",
+      "published_at": "2026-06-26T10:05:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ma",
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "d608a5f730d0d0c36fb7d24eb9f3294d87dcd92b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's How Many Shares of Realty Income Stock You'd Need to Make $500 in Yearly Dividends",
+      "url": "https://www.fool.com/investing/2026/06/26/shares-realty-income-stock-earn-500-income/?source=iedfolrf0000001",
+      "summary": "This top dividend stock is a solid real estate play.",
+      "published_at": "2026-06-26T09:47:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
       "score": 0.61
+    },
+    {
+      "id": "79e90a71f95650e0dbc9864f62ec6a7618c6a2b2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is Buying a Single S&P 500 ETF Enough for Your Portfolio?",
+      "url": "https://www.fool.com/investing/2026/06/26/is-buying-single-sp-500-etf-enough-for-portfolio/?source=iedfolrf0000001",
+      "summary": "Owning the S&amp;P 500 is one of the most popular ways to invest in stocks. You might need more than that.",
+      "published_at": "2026-06-26T08:40:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "a7ed487b3d36bc3e20ce271564521462e4fc7841",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street",
+      "url": "https://www.fool.com/investing/2026/06/26/probability-fed-rate-hike-soaring-problem-wall-st/?source=iedfolrf0000001",
+      "summary": "Half of the Federal Open Market Committee (FOMC) members expect interest rates to rise before the year ends.",
+      "published_at": "2026-06-26T08:06:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "d361165f630170a40780b5a4f7271fbca4676ff3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Cerebras' First Earnings Report Since Its IPO Just Highlighted 1 Crucial Point All AI Investors Shouldn't Ignore",
+      "url": "https://www.fool.com/investing/2026/06/26/cerebras-first-earnings-report-since-its-ipo-just/?source=iedfolrf0000001",
+      "summary": "Cerebras soared 68% on its first day of trading.",
+      "published_at": "2026-06-26T08:02:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "3345c3689952f370eeac6df51f965557a9153f7a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Earnings",
+      "title": "FedEx Freight takes a step forward in its independent journey. Here's why we like the stock",
+      "url": "https://www.cnbc.com/2026/06/25/fedex-freight-takes-a-step-forward-in-its-independent-journey-heres-why-we-like-the-stock.html",
+      "summary": "FedEx Freight had plenty of encouraging things to say on its first earnings call as a standalone company.",
+      "published_at": "2026-06-25T23:04:46+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
     },
     {
       "id": "304c8adf18a3baba6922bd7213cf5a325526887a",
@@ -264,7 +338,7 @@
       "url": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
       "summary": "In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.",
       "published_at": "2026-06-25T21:03:16+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -282,7 +356,7 @@
       "url": "https://www.cnbc.com/2026/06/25/judge-blocks-trumps-rule-limiting-student-loans-for-grad-students-.html",
       "summary": "A federal judge temporarily blocked Trump's limits on how much certain graduate students can borrow. That policy was set to go into effect July 1.",
       "published_at": "2026-06-25T18:47:36+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -295,12 +369,12 @@
       "id": "586dc491d626f7018e000933c86ea51a557731e5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Markets",
       "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
       "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
       "summary": "The personal consumption expenditures price index was expected to show a 4.1% annual increase.",
       "published_at": "2026-06-25T13:30:56+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -318,7 +392,7 @@
       "url": "https://www.scmp.com/tech/article/3358354/chinas-tripcom-faces-revenue-slowdown-warns-significant-fine-antitrust-probe?utm_source=rss_feed",
       "summary": "Trip.com Group, China’s largest online travel agency, says it expects second-quarter revenue growth to be the slowest in more than three years and warns of a “significant fine” from an ongoing antitrust probe by the country’s top market regulator.\nThe company reported on Thursday that first-quarter revenue rose 17 per cent to 16.2 billion yuan (US$2.4 billion), but forecast growth of 3 to 8 per ce",
       "published_at": "2026-06-25T11:30:05+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -326,6 +400,30 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
+    },
+    {
+      "id": "b44cc82b9a220412b681cb55c9d57a3bd50d0236",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "NVIDIA (NVDA) in Spotlight for Facilitating France’s AI Advancement Efforts",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-spotlight-facilitating-france-060159607.html",
+      "summary": "",
+      "published_at": "2026-06-25T06:01:59+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "63bded413171822cffabd8f3fbf6c31a96e08017",
@@ -336,7 +434,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-takes-invesco-qqq-040300282.html",
       "summary": "",
       "published_at": "2026-06-25T04:03:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +452,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-one-top-10-034749129.html",
       "summary": "",
       "published_at": "2026-06-25T03:47:49+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +476,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3358201/southbound-stock-connect-flows-surge-record-us152b-driven-hong-kongs-ipo-revival?utm_source=rss_feed",
       "summary": "Southbound Stock Connect flows, through which mainland Chinese investors buy Hong Kong listed shares, hit a record high in the past year, reflecting strong confidence in the city’s market on the back of a booming pipeline of initial public offerings (IPO).\nIn the 12 months to March this year, mainland investors snapped up HK$1.19 trillion (US$151.8 billion) worth of shares in Hong Kong, according ",
       "published_at": "2026-06-25T02:00:08+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -388,22 +486,52 @@
       "score": 0.65
     },
     {
-      "id": "d8abbdd23c2023dd872c67636bfc6d8b1f31b752",
+      "id": "63c1b8690c82e0c366d00e6d871073e1d6a32031",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-plunges-earnings-ceo-224141302.html",
+      "title": "Where Will Palantir Stock Be in 5 Years?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/where-palantir-stock-5-years-013200324.html",
       "summary": "",
-      "published_at": "2026-06-24T22:41:41+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "published_at": "2026-06-25T01:32:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "b236f0132190dfe8ea8da2949f9a64decee5df7e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "TMC The Metals Company Is Poised to Surge: 2 Catalysts That Could Drive Gains Over the Next Year",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tmc-metals-company-poised-surge-012500481.html",
+      "summary": "",
+      "published_at": "2026-06-25T01:25:00+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "afd6d03d1accdc01ebea4fd2816e27f20ed434ae",
@@ -414,7 +542,7 @@
       "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
       "summary": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
       "published_at": "2026-06-24T22:39:58+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -432,7 +560,7 @@
       "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
       "summary": "Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.",
       "published_at": "2026-06-24T22:33:45+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -456,7 +584,7 @@
       "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
       "summary": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
       "published_at": "2026-06-24T20:01:14+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -464,42 +592,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "0f185d3abb433d7e7269bce2e5554ea86478bfee",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Danaher Is Down 22% This Year. Is the Masimo Acquisition the Entry Point Investors Have Been Waiting for?",
-      "url": "https://www.fool.com/investing/2026/06/24/danaher-is-down-22-this-year-is-the-masimo-acquisi/?source=iedfolrf0000001",
-      "summary": "The life sciences giant is transforming its diagnostics segment with its acquisition of Masimo Corporation, shifting from traditional laboratory testing into patient-connected, real-time data streams.",
-      "published_at": "2026-06-24T17:35:00+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.52
-    },
-    {
-      "id": "a3b4f9646a5f18a67b128d865e28ca29cf869253",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "What happens if you consolidate federal student loans after July 1?",
-      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-student-loan-consolidation-after-july-1-165518668.html",
-      "summary": "",
-      "published_at": "2026-06-24T16:55:18+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "7028403851a7f862fe86a7a1fc430861fdf9f294",
@@ -510,7 +602,7 @@
       "url": "https://www.cnbc.com/2026/06/23/why-fedex-is-down-after-a-strong-quarter-and-its-impact-on-our-rating.html",
       "summary": "We knew this report would be transitional, even messy, given the separation of FedEx Freight.",
       "published_at": "2026-06-24T15:36:22+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
+      "first_seen_at": "2026-06-26T13:10:20.416394+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -518,24 +610,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "8e25869eae869c7c6d25ea6111291ab5f3d8b833",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "New student loan limits are here. Here's what to do when federal aid isn't enough.",
-      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-student-loan-limits-when-federal-aid-isnt-enough-140723743.html",
-      "summary": "",
-      "published_at": "2026-06-24T14:07:23+00:00",
-      "first_seen_at": "2026-06-26T10:50:17.392220+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
