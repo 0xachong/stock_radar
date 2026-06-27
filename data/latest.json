@@ -1,25 +1,29 @@
 {
-  "generated_at": "2026-06-27T15:14:50.934735+00:00",
+  "generated_at": "2026-06-27T16:38:13.746589+00:00",
   "window_hours": 48,
-  "total_items": 20,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17,
+    "US": 20,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 14
     },
     {
       "key": "macro",
-      "count": 6
+      "count": 3
+    },
+    {
+      "key": "product",
+      "count": 2
     },
     {
       "key": "ipo",
-      "count": 3
+      "count": 2
     },
     {
       "key": "capital",
@@ -34,7 +38,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 18
+      "count": 21
     },
     {
       "site_id": "hk_china",
@@ -44,15 +48,206 @@
   ],
   "items": [
     {
-      "id": "f6ad6bc3d2e798ab26e10b0bb1035f8c1c4d6cf5",
+      "id": "6605d79adba6611f44325e457dc73ae15fe445ba",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "TMC The Metals Company vs. MP Materials: 1 of These Industrial Stocks Is a Far Better Bet Right Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tmc-metals-company-vs-mp-143500706.html",
+      "title": "Microchip Tech (MCHP) Armenia Office Receives U.S. Export License for Advanced FPGA Development",
+      "url": "https://finance.yahoo.com/technology/articles/microchip-tech-mchp-armenia-office-161638953.html",
       "summary": "",
-      "published_at": "2026-06-27T14:35:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "published_at": "2026-06-27T16:16:38+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "74a2b58ecbc7e80a87c6702ab6d5c34212e66bda",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Palantir (PLTR) Selected as Data Architecture for US Army’s NGC2 Program",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-selected-data-architecture-161608120.html",
+      "summary": "",
+      "published_at": "2026-06-27T16:16:08+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        },
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.95
+    },
+    {
+      "id": "34995a4ae7dbecc358391a005e6904f57e543be0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Micron Technology (MU): 10 Best Future Stocks to Buy and Hold for 10 Years",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-10-best-161550139.html",
+      "summary": "",
+      "published_at": "2026-06-27T16:15:50+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "8e403e7b5a65d8c8059d115a8bedb60895b93dc9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Broadcom (AVGO) One of the Best Future Stocks to Buy and Hold for 10 Years?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-best-future-161542137.html",
+      "summary": "",
+      "published_at": "2026-06-27T16:15:42+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "3a76433cd134f00da019f2e247717ef8ad1c656a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Taiwan Semiconductor (TSM), Amkor (AMKR) Form 10-Year Partnership for Advanced Semiconductor Packaging in Arizona",
+      "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-tsm-amkor-amkr-161535396.html",
+      "summary": "",
+      "published_at": "2026-06-27T16:15:35+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "234be8bb3e49fde97fd038ef594dd87fd1c5f92a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Multiverse Computing Launches Pulsar 16B Reasoning Model Powered by NVIDIA (NVDA) Architecture",
+      "url": "https://finance.yahoo.com/technology/ai/articles/multiverse-computing-launches-pulsar-16b-161527515.html",
+      "summary": "",
+      "published_at": "2026-06-27T16:15:27+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "a63e66399cff5f9d7e132d9193406f1f570dc7bf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is NVIDIA Corporation (NVDA) One of the Best Brain-Computer Interface Stocks to Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-153245819.html",
+      "summary": "",
+      "published_at": "2026-06-27T15:32:45+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "85cdcc83e273914f9fd252e32879097c905a1ac2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "2 Oil Stocks Still Worth Buying With Oil Down to $70 a Barrel",
+      "url": "https://www.fool.com/investing/2026/06/27/2-oil-stocks-still-worth-buying-with-oil-down-to/?source=iedfolrf0000001",
+      "summary": "Oil is around $70 a barrel, well off the $112.95 it was back in April. With the Strait of Hormuz reopening, oil stocks have slumped, but in the long run, countries will be looking to build up their reserves.",
+      "published_at": "2026-06-27T15:30:00+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "34ad941e4d234bc354c29668db8f4126473f8a18",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "TMC The Metals Company vs. MP Materials: 1 of These Industrial Stocks Is a Far Better Bet Right Now",
+      "url": "https://www.fool.com/investing/2026/06/27/stock-a-vs-stock-b-1-of-these-industrial-stocks-is/?source=iedfolrf0000001",
+      "summary": "When it comes to building a business around rare-earth metals, one of these companies is much further along.",
+      "published_at": "2026-06-27T14:15:00+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -76,7 +271,7 @@
       "url": "https://www.cnbc.com/2026/06/27/american-couple-left-united-states-bought-italy-house-cassandra-tresl-alex-ninman.html",
       "summary": "Cassandra Tresl and Alex Ninman moved in with Tresl's grandfather in the Czech Republic in 2020 and closed on a house in Abruzzo, Italy, in 2022.",
       "published_at": "2026-06-27T14:00:02+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -100,7 +295,7 @@
       "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
       "summary": "The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.",
       "published_at": "2026-06-27T13:17:30+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -118,7 +313,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/what-a-kevin-warsh-led-fed-could-mean-for-mortgage/?source=iedfolrf0000001",
       "summary": "The new Fed chief could be a headwind for AGNC and Annaly in the near term, but a positive over the longer term.",
       "published_at": "2026-06-27T13:15:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -136,7 +331,7 @@
       "url": "https://www.cnbc.com/2026/06/27/australia-toughens-kids-social-media-ban-doubles-tech-firm-fines.html",
       "summary": "eSafety is actively investigating ⁠possible non-compliance by five platforms: Meta's Instagram and Facebook, Google's YouTube, Snap's Snapchat, and TikTok.",
       "published_at": "2026-06-27T13:03:43+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +355,7 @@
       "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
       "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
       "published_at": "2026-06-27T12:32:54+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -178,7 +373,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3436521",
       "summary": "",
       "published_at": "2026-06-27T12:05:10+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -196,7 +391,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/why-spacex-stock-plummeted-this-week/?source=iedfolrf0000001",
       "summary": "SpaceX stock is now down roughly 24% from its high. What comes next?",
       "published_at": "2026-06-27T11:31:16+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,7 +409,7 @@
       "url": "https://www.marketwatch.com/story/its-a-tale-of-two-s-p-500s-as-rotation-out-of-top-tech-stocks-shifts-into-overdrive-5254207f?mod=mw_rss_topstories",
       "summary": "The equal-weighted version of the S&amp;P 500 outperformed its traditional capitalization-weighted sibling this week by the widest margin in six years.",
       "published_at": "2026-06-27T11:30:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -222,30 +417,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "d8e51502e366672696d6c61098328cacf7649e79",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html",
-      "summary": "",
-      "published_at": "2026-06-27T11:21:42+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.85
     },
     {
       "id": "f895e046adf8f0391f89c2e36390bf0a02951fd5",
@@ -256,7 +427,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3436513",
       "summary": "",
       "published_at": "2026-06-27T11:05:09+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -274,7 +445,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/?source=iedfolrf0000001",
       "summary": "The new Fed chair signaled a major policy shift, and not everyone was happy.",
       "published_at": "2026-06-27T11:00:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -292,7 +463,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/wall-st-unbreakable-record-155-years-stock-market/?source=iedfolrf0000001",
       "summary": "The priciness of the stock market during the dot-com era was unrivaled... until now.",
       "published_at": "2026-06-27T10:36:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -300,66 +471,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "732290edec02dbe7d5272a1eb1f1e6fd1f194061",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Kevin Warsh Just Suggested the Fed May Bring Down the Hammer on Inflation. Could It Spell Trouble for Wall Street?",
-      "url": "https://www.fool.com/investing/2026/06/27/kevin-warsh-just-suggested-the-fed-may-bring-down/?source=iedfolrf0000001",
-      "summary": "The market wasn't happy with the new Fed chair's fighting words.",
-      "published_at": "2026-06-27T09:45:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "a685b8303164fccab261338bb5fa74521209e784",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Where Will SpaceX's Price Be in September? Here's What the Options Market Says.",
-      "url": "https://www.fool.com/investing/2026/06/27/where-will-spacexs-price-be-in-september-heres-wha/?source=iedfolrf0000001",
-      "summary": "SpaceX stock has advanced in the double digits since its IPO.",
-      "published_at": "2026-06-27T09:10:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "eaae1be5a254bc76fb0f97ab5412d838913bbc84",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Would You Let an AI Agent Trade Crypto For You? Here's What to Know About Coinbase's New AI Agent Tool.",
-      "url": "https://www.fool.com/investing/2026/06/27/would-you-let-an-ai-agent-trade-crypto-for-you-her/?source=iedfolrf0000001",
-      "summary": "Automating your investing process won't save you from poorly defined goals or bad decisions.",
-      "published_at": "2026-06-27T08:52:00+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "6cabe6a5169d3478c32bc6fb7bb16f16298fdcd5",
@@ -370,7 +481,7 @@
       "url": "https://www.cnbc.com/2026/06/26/boost-income-in-the-second-half-of-2026-with-these-cheap-dividend-payers.html",
       "summary": "In an expensive stock market, these stocks pay investors to wait for potential upside. They are also well-liked by Wall Street.",
       "published_at": "2026-06-26T18:21:17+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -388,25 +499,7 @@
       "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
       "summary": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
       "published_at": "2026-06-26T17:39:09+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "f1b1271c8f6cd1f526844a9c3941205477d6b155",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Economists say the Fed committee will ‘act as a brake’ on Kevin Warsh’s ‘regime change’. Investors take heed",
-      "url": "https://finance.yahoo.com/economy/policy/articles/economists-fed-committee-act-brake-132541457.html",
-      "summary": "",
-      "published_at": "2026-06-26T13:25:41+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -424,7 +517,7 @@
       "url": "https://www.cnbc.com/2026/06/25/fedex-freight-takes-a-step-forward-in-its-independent-journey-heres-why-we-like-the-stock.html",
       "summary": "FedEx Freight had plenty of encouraging things to say on its first earnings call as a standalone company.",
       "published_at": "2026-06-25T23:04:46+00:00",
-      "first_seen_at": "2026-06-27T15:14:50.934735+00:00",
+      "first_seen_at": "2026-06-27T16:38:13.746589+00:00",
       "market": "US",
       "markets": [
         "US"
