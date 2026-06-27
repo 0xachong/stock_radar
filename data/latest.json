@@ -1,36 +1,32 @@
 {
-  "generated_at": "2026-06-27T11:53:55.505195+00:00",
+  "generated_at": "2026-06-27T13:40:30.011166+00:00",
   "window_hours": 48,
-  "total_items": 39,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 36,
-    "HK": 3
+    "US": 24,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 15
+      "count": 13
     },
     {
       "key": "macro",
-      "count": 10
+      "count": 6
     },
     {
       "key": "ipo",
-      "count": 5
-    },
-    {
-      "key": "rating",
       "count": 4
     },
     {
-      "key": "capital",
-      "count": 3
+      "key": "rating",
+      "count": 1
     },
     {
-      "key": "ma",
+      "key": "capital",
       "count": 1
     },
     {
@@ -42,7 +38,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 37
+      "count": 24
     },
     {
       "site_id": "hk_china",
@@ -52,6 +48,138 @@
   ],
   "items": [
     {
+      "id": "88713aef87ee48733e4675eea1d5714e1dc1ab86",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn't",
+      "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
+      "summary": "The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.",
+      "published_at": "2026-06-27T13:17:30+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "6a790253e12035c812d7de32399a92a3188c4ff2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "What a Kevin Warsh-Led Fed Could Mean for Mortgage REITs AGNC and Annaly Capital",
+      "url": "https://www.fool.com/investing/2026/06/27/what-a-kevin-warsh-led-fed-could-mean-for-mortgage/?source=iedfolrf0000001",
+      "summary": "The new Fed chief could be a headwind for AGNC and Annaly in the near term, but a positive over the longer term.",
+      "published_at": "2026-06-27T13:15:00+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "d3a8e45f19c138e3eef1f606a76a68a834ebf848",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Australia toughens kids' social media ban, doubles potential penalties for tech firms",
+      "url": "https://www.cnbc.com/2026/06/27/australia-toughens-kids-social-media-ban-doubles-tech-firm-fines.html",
+      "summary": "eSafety is actively investigating ⁠possible non-compliance by five platforms: Meta's Instagram and Facebook, Google's YouTube, Snap's Snapchat, and TikTok.",
+      "published_at": "2026-06-27T13:03:43+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "decc1ba999a3aa89180935f0c54f4391595d6553",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX Joins Nasdaq-100 on July 7. Its Stock is Still Not a Buy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html",
+      "summary": "",
+      "published_at": "2026-06-27T12:40:24+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "d3b13ef8d55df20555c598b03425150c27f5dbb4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+      "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
+      "published_at": "2026-06-27T12:32:54+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "118c74b10f813dee3556ed5ec53e0e4f7f5ef12e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美联：受港股调整影响 6月香港楼市交投放缓",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3436521",
+      "summary": "",
+      "published_at": "2026-06-27T12:05:10+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "8d464dfc239bac9af97101b55d46c9ec9c475b78",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why SpaceX Stock Plummeted This Week",
+      "url": "https://www.fool.com/investing/2026/06/27/why-spacex-stock-plummeted-this-week/?source=iedfolrf0000001",
+      "summary": "SpaceX stock is now down roughly 24% from its high. What comes next?",
+      "published_at": "2026-06-27T11:31:16+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
       "id": "448f1ae6a0b720e4a680ad7be517978c5dedc71d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -60,7 +188,7 @@
       "url": "https://www.marketwatch.com/story/its-a-tale-of-two-s-p-500s-as-rotation-out-of-top-tech-stocks-shifts-into-overdrive-5254207f?mod=mw_rss_topstories",
       "summary": "The equal-weighted version of the S&amp;P 500 outperformed its traditional capitalization-weighted sibling this week by the widest margin in six years.",
       "published_at": "2026-06-27T11:30:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,6 +196,30 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "d8e51502e366672696d6c61098328cacf7649e79",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html",
+      "summary": "",
+      "published_at": "2026-06-27T11:21:42+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
     },
     {
       "id": "f895e046adf8f0391f89c2e36390bf0a02951fd5",
@@ -78,7 +230,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3436513",
       "summary": "",
       "published_at": "2026-06-27T11:05:09+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -96,7 +248,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/?source=iedfolrf0000001",
       "summary": "The new Fed chair signaled a major policy shift, and not everyone was happy.",
       "published_at": "2026-06-27T11:00:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -114,7 +266,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/wall-st-unbreakable-record-155-years-stock-market/?source=iedfolrf0000001",
       "summary": "The priciness of the stock market during the dot-com era was unrivaled... until now.",
       "published_at": "2026-06-27T10:36:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -132,31 +284,13 @@
       "url": "https://www.fool.com/investing/2026/06/27/kevin-warsh-just-suggested-the-fed-may-bring-down/?source=iedfolrf0000001",
       "summary": "The market wasn't happy with the new Fed chair's fighting words.",
       "published_at": "2026-06-27T09:45:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "b6aeaf63b041c714cc4017438db5f2307aa669a9",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 华大北斗三次递表港交所 2025年公司专用GNSS芯片及模块出货量达3210万件",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3436501",
-      "summary": "",
-      "published_at": "2026-06-27T09:35:09+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
       "score": 0.52
     },
     {
@@ -168,7 +302,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/where-will-spacexs-price-be-in-september-heres-wha/?source=iedfolrf0000001",
       "summary": "SpaceX stock has advanced in the double digits since its IPO.",
       "published_at": "2026-06-27T09:10:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -186,7 +320,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/would-you-let-an-ai-agent-trade-crypto-for-you-her/?source=iedfolrf0000001",
       "summary": "Automating your investing process won't save you from poorly defined goals or bad decisions.",
       "published_at": "2026-06-27T08:52:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -210,7 +344,7 @@
       "url": "https://seekingalpha.com/news/4607865-spacex-to-join-nasdaq-100-effective-july-7-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-06-27T08:13:21+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -228,7 +362,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/2-reasons-not-to-invest-in-spacex-and-what-to-buy/?source=iedfolrf0000001",
       "summary": "It's best to let the hype die down before even considering investing in this stock.",
       "published_at": "2026-06-27T05:00:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -246,7 +380,7 @@
       "url": "https://www.fool.com/investing/2026/06/27/cvs-just-turned-its-9000-pharmacies-into-a-glp-1-d/?source=iedfolrf0000001",
       "summary": "The stock is already up 30% this year.",
       "published_at": "2026-06-27T04:30:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -264,7 +398,7 @@
       "url": "https://www.fool.com/investing/2026/06/26/3-beaten-down-ai-chip-stocks-to-consider-buying-in/?source=iedfolrf0000001",
       "summary": "When a whole sector sells off at once, the best names can get dragged down with the worst.",
       "published_at": "2026-06-27T03:30:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -282,7 +416,7 @@
       "url": "https://www.fool.com/investing/2026/06/26/sofi-stock-is-down-more-than-30-this-year-its-ceo/?source=iedfolrf0000001",
       "summary": "When a chief executive keeps buying his own falling stock, is that a signal worth following?",
       "published_at": "2026-06-27T02:42:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -300,7 +434,7 @@
       "url": "https://www.fool.com/investing/2026/06/26/can-metas-new-300-glasses-turn-around-the-stock/?source=iedfolrf0000001",
       "summary": "Meta just rolled out its cheapest pair of smart glasses yet. Will it make a difference?",
       "published_at": "2026-06-27T02:30:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,126 +448,6 @@
       ],
       "category": "company",
       "score": 0.97
-    },
-    {
-      "id": "1da15254bed5151b63f11f60b877772c23a0a4f9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "More Layoffs, Acquisitions, and SpaceX Becomes AI Company",
-      "url": "https://www.fool.com/investing/2026/06/26/more-layoffs-acquisitions-and-spacex-becomes-ai-company/?source=iedfolrf0000001",
-      "summary": "Are layoffs starting to backfire in Silicon Valley? Employees at Meta Platforms are starting to revolt against cuts and reassignments.",
-      "published_at": "2026-06-27T01:01:59+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "ma",
-      "score": 0.97
-    },
-    {
-      "id": "160bd0fa76a9ae8589e478def01b05642dcc9b1f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX will join Nasdaq-100",
-      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
-      "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
-      "published_at": "2026-06-27T00:23:27+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "ecdfc4d0aea28734e36dede01dbb592252421f8e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet the Highest-Yielding Stock in the S&P 500. Does Its 10.2% Yield Make It a No-Brainer Buy for Dividend Investors?",
-      "url": "https://www.fool.com/investing/2026/06/26/meet-the-highest-yielding-stock-in-the-sp-500-does/?source=iedfolrf0000001",
-      "summary": "Conagra is a consumer staples company, but that fact shouldn't lull dividend investors into a false sense of security.",
-      "published_at": "2026-06-27T00:15:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "84b62491553b9fbd5a226ad1b2f8054e9ebd631e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "After Issuing Its First Stock Split in 2020, Tesla Took Just 2 Years to Issue Its Second Split. Could a Third Stock Split Come in 2026?",
-      "url": "https://www.fool.com/investing/2026/06/26/after-issuing-its-first-stock-split-in-2020-tesla/?source=iedfolrf0000001",
-      "summary": "Both of Tesla's previous stock splits happened during the month of August -- but don't expect another one to happen two months from now.",
-      "published_at": "2026-06-26T23:20:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [
-        {
-          "symbol": "02020",
-          "name": "安踏体育",
-          "market": "HK"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "19c4a25d17abcbe4cb6bc0a8e0909c978e8b0f0c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why X-Energy Stock Collapsed 19.2% This Week",
-      "url": "https://www.fool.com/investing/2026/06/26/why-x-energy-stock-collapsed-192-this-week/?source=iedfolrf0000001",
-      "summary": "Delays and downgrades are hurting X-Energy's stock price this week.",
-      "published_at": "2026-06-26T23:12:31+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "92bc8df64ac1e4cf87ed31f1ac53dd5be6f09f47",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Can SpaceX Stock Turn Everyday Investors Into Millionaires?",
-      "url": "https://www.fool.com/investing/2026/06/26/can-spacex-stock-turn-everyday-investors-into-mill/?source=iedfolrf0000001",
-      "summary": "SpaceX's recent debut on the Nasdaq was the largest IPO in history.",
-      "published_at": "2026-06-26T23:02:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
     },
     {
       "id": "5b3395347bb634cc23dd6250e79f9baba3ef2b8f",
@@ -444,7 +458,7 @@
       "url": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
       "summary": "Overhyped IPOs rarely make you money in the short term. That doesn’t mean it’s time to sell your stocks..",
       "published_at": "2026-06-26T22:34:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -452,84 +466,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "e07cdf32c743c631b84bfc19dea8733da86dc88d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
-      "url": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
-      "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
-      "published_at": "2026-06-26T22:09:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "ab8d456ac44e6865deffa2977def0bcd8c414808",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
-      "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
-      "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
-      "published_at": "2026-06-26T21:16:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "e6f59900c2d24c582014501a8719bdc9844826ad",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
-      "url": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
-      "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
-      "published_at": "2026-06-26T20:38:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "940ed609de31f6bdba219f1f527e7d44e4039227",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
-      "url": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
-      "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
-      "published_at": "2026-06-26T20:27:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "6cabe6a5169d3478c32bc6fb7bb16f16298fdcd5",
@@ -540,7 +476,7 @@
       "url": "https://www.cnbc.com/2026/06/26/boost-income-in-the-second-half-of-2026-with-these-cheap-dividend-payers.html",
       "summary": "In an expensive stock market, these stocks pay investors to wait for potential upside. They are also well-liked by Wall Street.",
       "published_at": "2026-06-26T18:21:17+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -558,181 +494,13 @@
       "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
       "summary": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
       "published_at": "2026-06-26T17:39:09+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "24a9f1b9b139fcce70a7cc826416aa40ee79c4a0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-      "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
-      "published_at": "2026-06-26T16:04:42+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "08ea26504b3c5ac7eb0a336e0a1e095bb9d1fdb5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Goldman Sachs Raises Price Target on Dell Technologies (DELL) Following Strong AI Server Demand",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-raises-price-target-105021727.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:50:21+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "DELL",
-          "name": "戴尔",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
-    },
-    {
-      "id": "8827447c63ed5a5db6176215057c876806a72f2d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "V2X, Inc. (VVX) Downgraded To Market Perform at Raymond James",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/v2x-inc-vvx-downgraded-market-104706708.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:47:06+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "bc4d06d19ab5aee15ee46cb07ad79daf6cbe5704",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Index Futures Slip as Chip Selloff Resumes, Fed Speak on Tap",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-slip-chip-103554620.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:35:54+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "e7a7a3981da2edd5d4b2b4b5a9248ba66b6406e0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Wall Street Scrapped a 25-Year-Old Rule. Does It Make Robinhood Stock a Buy Right Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-scrapped-25-old-102500154.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:25:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "3d76b4dcad1c30729b3a7294e19e2ee6566e5fe5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Nasdaq Headed for Biggest Weekly Loss in Over a Year",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026/card/nasdaq-headed-for-biggest-weekly-loss-in-over-a-year-Y2RGKlUjEbiIuclLeILR?siteid=yhoof2&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-06-26T10:18:57+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "83357df41a007c60f2d6b2c3c7de55c0cf5c80ec",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here's How Many Shares of Realty Income Stock You'd Need to Make $500 in Yearly Dividends",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-realty-income-100700449.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:07:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.61
-    },
-    {
-      "id": "b722b5b9cf631d5a3f4930c5b7dea0233ec929fd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stocks Dropped on the Fed, and a 72-Year-Old Fled to Treasuries for Safety. The Interest Still Taxed Her Social Security.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-dropped-fed-72-old-100329120.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:03:29+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "ba48dae3e6de1a9c543280fe5bd5045483b65d63",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX rises modestly ahead of Russell rebalance, Nasdaq entry next",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/russell-rebalance-could-add-spacex-100307738.html",
-      "summary": "",
-      "published_at": "2026-06-26T10:03:07+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -744,7 +512,7 @@
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-june-26-2026-looking-ahead-will-the-fed-raise-rates-100000567.html",
       "summary": "",
       "published_at": "2026-06-26T10:00:00+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -762,7 +530,7 @@
       "url": "https://www.cnbc.com/2026/06/25/fedex-freight-takes-a-step-forward-in-its-independent-journey-heres-why-we-like-the-stock.html",
       "summary": "FedEx Freight had plenty of encouraging things to say on its first earnings call as a standalone company.",
       "published_at": "2026-06-25T23:04:46+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
+      "first_seen_at": "2026-06-27T13:40:30.011166+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -770,24 +538,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "586dc491d626f7018e000933c86ea51a557731e5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Markets",
-      "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-      "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
-      "summary": "The personal consumption expenditures price index was expected to show a 4.1% annual increase.",
-      "published_at": "2026-06-25T13:30:56+00:00",
-      "first_seen_at": "2026-06-27T11:53:55.505195+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
