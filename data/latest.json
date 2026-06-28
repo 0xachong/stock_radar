@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-06-28T17:10:16.758371+00:00",
+  "generated_at": "2026-06-28T18:44:18.559455+00:00",
   "window_hours": 48,
-  "total_items": 27,
+  "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 23,
+    "US": 21,
     "HK": 4
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 8
-    },
-    {
-      "key": "capital",
-      "count": 5
+      "count": 6
     },
     {
       "key": "macro",
-      "count": 5
+      "count": 4
     },
     {
-      "key": "rating",
-      "count": 2
-    },
-    {
-      "key": "guidance",
-      "count": 2
+      "key": "capital",
+      "count": 4
     },
     {
       "key": "ma",
+      "count": 3
+    },
+    {
+      "key": "earnings",
+      "count": 3
+    },
+    {
+      "key": "rating",
       "count": 2
     },
     {
@@ -38,7 +38,7 @@
       "count": 2
     },
     {
-      "key": "earnings",
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -46,7 +46,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 22
     },
     {
       "site_id": "hk_china",
@@ -56,6 +56,108 @@
   ],
   "items": [
     {
+      "id": "6fb57ab289743d08ed7893b4b3837a301c122ec5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "AMD Just Acquired MEXT to Crack the Memory Optimization Problem. Should Micron and Sandisk Investors Be Nervous?",
+      "url": "https://www.fool.com/investing/2026/06/28/amd-just-acquired-mext-to-crack-the-memory-optimiz/?source=iedfolrf0000001",
+      "summary": "AMD's MEXT acquisition is an efficiency upgrade for data centers, not a disruption to the AI memory market.",
+      "published_at": "2026-06-28T18:00:00+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "ma",
+      "score": 1.0
+    },
+    {
+      "id": "20ae0f3dd514f15e60e7b08e1bda5abe7709a221",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/federal-rules-stablecoins-circle-could-174417332.html",
+      "summary": "",
+      "published_at": "2026-06-28T17:44:17+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "c82ef98700e2892dcaf81d84c895a36dc446ac74",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jefferies Reports Earnings Before the Big Banks. Here's Why Wall Street Should Be Watching Closely.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-reports-earnings-big-banks-173500789.html",
+      "summary": "",
+      "published_at": "2026-06-28T17:35:00+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "1a3e6841802cb43d3eebb80febca4ff38548cfc0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Who Actually Pays When MicroStrategy’s $64 Billion Bitcoin Bet Goes Wrong?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/actually-pays-microstrategy-64-billion-171726089.html",
+      "summary": "",
+      "published_at": "2026-06-28T17:17:26+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "33e7eed5b5512999be10aa58666f1cf5102028a7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Top 10 contributors to S&P 500 earnings growth",
+      "url": "https://seekingalpha.com/news/4607901-top-10-contributors-to-s-and-p-500-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-06-28T17:10:59+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
       "id": "649f1fe45f89bdb89a10075ba386a66a7d9b4bcd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -64,7 +166,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-one-best-164504799.html",
       "summary": "",
       "published_at": "2026-06-28T16:45:04+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -80,30 +182,6 @@
       "score": 1.0
     },
     {
-      "id": "b282ce6f94c6db26fb379ca11599964a8d0fc168",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Financially stressed Canadians expect banks to provide guidance but turn to AI for advice: JD Power",
-      "url": "https://finance.yahoo.com/markets/articles/financially-stressed-canadians-expect-banks-163817754.html",
-      "summary": "",
-      "published_at": "2026-06-28T16:38:17+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "JD",
-          "name": "京东",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 0.97
-    },
-    {
       "id": "4d6d6ea1b44935a3033545447f96b1dd71f0490a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -112,7 +190,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/this-artificial-intelligence-ai-cloud-stock-has-cr/?source=iedfolrf0000001",
       "summary": "Shares of DigitalOcean have been soaring this year, driven by the company's significantly upgraded guidance.",
       "published_at": "2026-06-28T16:23:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -130,7 +208,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3436771",
       "summary": "",
       "published_at": "2026-06-28T16:05:09+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -148,7 +226,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/palantirs-bold-biosecurity-opportunity-could-be-bi/?source=iedfolrf0000001",
       "summary": "A new biosecurity theme is emerging, and Palantir is leveraging it as an opportunity. Here's why that divide could matter for investors.",
       "published_at": "2026-06-28T15:30:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -172,7 +250,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/06/28/the-ultimate-ai-power-supercycle-winner-nextera-energy-or-vistra-stock/?source=iedfolrf0000001",
       "summary": "NextEra's $67 billion merger and Vistra's $4 billion acquisition are both huge growth moves for each company. Here's what you need to know.",
       "published_at": "2026-06-28T15:07:28+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -190,7 +268,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/2-dividend-stocks-to-buy-even-as-new-fed-chair-kev/?source=iedfolrf0000001",
       "summary": "These stocks, packing healthy payouts, are even better buys with the Fed's decision not to raise rates earlier this month.",
       "published_at": "2026-06-28T15:07:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -208,7 +286,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3436763",
       "summary": "",
       "published_at": "2026-06-28T14:35:10+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -226,7 +304,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3436760",
       "summary": "",
       "published_at": "2026-06-28T14:05:13+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -244,7 +322,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/in-a-volatile-market-this-dividend-growth-stock-is/?source=iedfolrf0000001",
       "summary": "Abbott Labs could rally in a downturn and has a long-term growth catalyst to boot.",
       "published_at": "2026-06-28T14:05:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -262,7 +340,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/canopy-growths-medical-marijuana-sales-are-soaring/?source=iedfolrf0000001",
       "summary": "Canopy Growth's medical marijuana division had a great quarter, but the rest of the business wasn't so lucky.",
       "published_at": "2026-06-28T13:15:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -280,7 +358,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/2-sneaky-ways-kevin-warsh-fomc-raise-interest-rate/?source=iedfolrf0000001",
       "summary": "The new Fed chair's reforms can indirectly impact interest rates.",
       "published_at": "2026-06-28T13:06:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -298,7 +376,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/got-200-heres-what-buying-1-share-of-each-of-these/?source=iedfolrf0000001",
       "summary": "Three beaten-down consumer growth stocks -- Dutch Bros, Chipotle, and Cava -- could turn a modest investment into a powerful long-term compounding opportunity for patient investors.",
       "published_at": "2026-06-28T13:05:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -316,7 +394,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/best-etf-hold-spacex-stock-ipo-oneq-misl-arkq/?source=iedfolrf0000001",
       "summary": "The list of ETFs holding SpaceX stock grows by the day, offering investors compelling options for indirect ownership.",
       "published_at": "2026-06-28T12:45:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -334,7 +412,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/as-spacex-falls-down-to-earth-the-stock-is-still/?source=iedfolrf0000001",
       "summary": "SpaceX shares have fallen after a fast start.",
       "published_at": "2026-06-28T12:30:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -352,7 +430,7 @@
       "url": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html",
       "summary": "Amid volatility in global markets, top analysts can help investors look past near-term noise and pick attractive stocks with long-term potential.",
       "published_at": "2026-06-28T12:29:57+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -370,7 +448,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/did-salesforce-figure-how-to-beat-saaspocalypse/?source=iedfolrf0000001",
       "summary": "Salesforce's new acquisition has figured out how to win in the age of agentic AI.",
       "published_at": "2026-06-28T12:00:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -386,84 +464,6 @@
       "score": 1.0
     },
     {
-      "id": "ff6c15c6caa0bcb4b865d7fec2c56ad4b3c62054",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "AGNC Investment's More Than 13.5% Yield Just Got a New Headwind From the Fed",
-      "url": "https://www.fool.com/investing/2026/06/28/agnc-investments-more-than-135-yield-just-got-a-ne/?source=iedfolrf0000001",
-      "summary": "AGNC Investment's MBS portfolio is rate sensitive.",
-      "published_at": "2026-06-28T11:15:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "28cedccb1c7f632a3d3856ba0622ede03b758d62",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Strategy Just Fell Below $100 for the First Time Since Early 2024. Is MSTR a Buy, Sell, or Hold Right Now?",
-      "url": "https://www.fool.com/investing/2026/06/28/strategy-just-fell-below-100-for-the-first-time-si/?source=iedfolrf0000001",
-      "summary": "Billionaire Michael Saylor's Bitcoin experiment is hitting a rough patch.",
-      "published_at": "2026-06-28T10:50:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSTR",
-          "name": "MicroStrategy",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.85
-    },
-    {
-      "id": "2543cb6a453f3a777fd5c25de2faa6b36463750d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "New Fed Chair Kevin Warsh Says There's a Huge Problem With Financial Markets Right Now. His Solution Could Be Bad News For Stock Investors",
-      "url": "https://www.fool.com/investing/2026/06/28/fed-chair-kevin-warsh-problem-markets-bad-stocks/?source=iedfolrf0000001",
-      "summary": "Warsh laid out his plans for changing certain Fed policies in his first press conference as chairman.",
-      "published_at": "2026-06-28T10:43:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "1ec3060f0040f0ac6869fba1e8a6a372aedfc1d9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is a Stock Market Crash Looming Under President Donald Trump? History Doesn't Mince Its Words...",
-      "url": "https://www.fool.com/investing/2026/06/28/stock-market-crash-donald-trump-history-mince-word/?source=iedfolrf0000001",
-      "summary": "When things seem too good to be true on Wall Street, they typically are.",
-      "published_at": "2026-06-28T10:36:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "130d39476f6734626981e05a43c2c46f2afdab2f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -472,7 +472,7 @@
       "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
       "summary": "Meta had sought more computing capacity than Google could provide, the Financial Times reports.",
       "published_at": "2026-06-28T10:30:27+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -496,7 +496,7 @@
       "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
       "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
       "published_at": "2026-06-27T21:34:59+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -514,7 +514,7 @@
       "url": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
       "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
       "published_at": "2026-06-27T19:30:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -530,30 +530,6 @@
       "score": 0.85
     },
     {
-      "id": "a63e66399cff5f9d7e132d9193406f1f570dc7bf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is NVIDIA Corporation (NVDA) One of the Best Brain-Computer Interface Stocks to Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-153245819.html",
-      "summary": "",
-      "published_at": "2026-06-27T15:32:45+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
       "id": "2da3d827e77a3ed789207a70a94848729f099aa0",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -562,7 +538,7 @@
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-saturday-june-27-2026-fedwatch-tool-suggests-higher-rates-are-coming-100000972.html",
       "summary": "",
       "published_at": "2026-06-27T10:00:00+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
+      "first_seen_at": "2026-06-28T18:44:18.559455+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -570,24 +546,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "6cabe6a5169d3478c32bc6fb7bb16f16298fdcd5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Boost portfolio income in the second half of 2026 with these cheap dividend payers",
-      "url": "https://www.cnbc.com/2026/06/26/boost-income-in-the-second-half-of-2026-with-these-cheap-dividend-payers.html",
-      "summary": "In an expensive stock market, these stocks pay investors to wait for potential upside. They are also well-liked by Wall Street.",
-      "published_at": "2026-06-26T18:21:17+00:00",
-      "first_seen_at": "2026-06-28T17:10:16.758371+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
     }
   ]
 }
