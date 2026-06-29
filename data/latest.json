@@ -1,48 +1,37 @@
 {
-  "generated_at": "2026-06-29T06:46:57.068558+00:00",
+  "generated_at": "2026-06-29T11:58:11.221535+00:00",
   "window_hours": 48,
-  "total_items": 41,
+  "total_items": 31,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 36,
-    "HK": 5
+    "US": 26,
+    "CN": 2,
+    "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 23
+      "count": 19
     },
     {
       "key": "ipo",
       "count": 5
     },
     {
-      "key": "rating",
-      "count": 4
-    },
-    {
-      "key": "earnings",
-      "count": 3
+      "key": "product",
+      "count": 2
     },
     {
       "key": "macro",
       "count": 2
     },
     {
+      "key": "earnings",
+      "count": 2
+    },
+    {
       "key": "capital",
-      "count": 1
-    },
-    {
-      "key": "ma",
-      "count": 1
-    },
-    {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "product",
       "count": 1
     }
   ],
@@ -50,25 +39,25 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 33
+      "count": 24
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "a39c634a8d12187e3fd1588172694306a7897545",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "澳大利亚股市上涨；截至收盘澳大利亚S&P/ASX200指数上涨0.68%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437195",
-      "summary": "",
-      "published_at": "2026-06-29T06:30:13+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "id": "6cff990222eeee7120138ddd09c8bd8b30ed717d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Stock futures jump as tech shares gain, U.S.-Iran agree to halt hostilities: Live updates",
+      "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+      "summary": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
+      "published_at": "2026-06-29T11:51:21+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -78,15 +67,39 @@
       "score": 0.64
     },
     {
-      "id": "5f23007a71b0b6a59f5600f7e66bf5e3d0680a44",
+      "id": "b7d2092983389f2d1283702d5a48bc52c94adf0e",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "对赌美股牛市续航！预测市场押注标普500到年底温和上涨、纳指100或再涨13%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437074",
+      "title": "NN股价周一飙升68%，获英伟达数据中心产品新订单",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3437967",
       "summary": "",
-      "published_at": "2026-06-29T06:23:21+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "published_at": "2026-06-29T11:40:16+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "ab7f04fb3fb627b53dd1a7910de3c65d60a75160",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow, Nasdaq and S&P stock futures point higher as uneasy Iran truce holds",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-nasdaq-p-stock-futures-113900112.html",
+      "summary": "",
+      "published_at": "2026-06-29T11:39:00+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,15 +109,15 @@
       "score": 0.64
     },
     {
-      "id": "c82d296acfbd00bded511a972298dce1384a7940",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "“防御信号”亮起！美银预警美股夏季将“深蹲”：标普500恐跌破7000点 年末有望反弹",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437104",
-      "summary": "",
-      "published_at": "2026-06-29T06:22:09+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "id": "e0d2396eb80fbc9cfa89d095e92dce7c0b5ce7ab",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "There’s a 67% chance stocks will suffer a bear market when this rare signal flashes — like it’s doing now",
+      "url": "https://www.marketwatch.com/story/theres-a-67-chance-stocks-will-suffer-a-bear-market-when-this-rare-signal-flashes-like-its-doing-now-c8916710?mod=mw_rss_topstories",
+      "summary": "The Dow Industrials are trouncing the Nasdaq composite. That’s an alarming sign for your portfolio.",
+      "published_at": "2026-06-29T11:37:00+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -114,94 +127,405 @@
       "score": 0.64
     },
     {
-      "id": "ea045da85810f6666fb1954d8efb15e421156513",
+      "id": "e97846d69c47080a1e1e4370a4967a21193475a4",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 哔哩哔哩-W(09626)再涨近9% 公司近期宣布3亿美元回购计划 约占其市值4.5%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437156",
+      "title": "Strategy(MSTR.US)估值跌破比特币持仓价值，“mNAV破1”引发市场信心动摇",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3437952",
       "summary": "",
-      "published_at": "2026-06-29T06:21:50+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "published_at": "2026-06-29T11:36:32+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 1.0
+    },
+    {
+      "id": "64e604ce7fb44a8ddc7e6bf2e3bf4b693e784308",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "维嘉科技科创板IPO已受理 主营电子封装领域关键设备研发、产销",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3437951",
+      "summary": "",
+      "published_at": "2026-06-29T11:35:21+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
+    },
+    {
+      "id": "1083bcc5e78a0a0f3186b0ec62b162c1d2faf707",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "物奇微科创板IPO已受理 公司Wi-Fi6AP芯片性能比肩国际主流",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3437950",
+      "summary": "",
+      "published_at": "2026-06-29T11:35:21+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
+    },
+    {
+      "id": "57aa01565344b6c21d0a00ca2412ff3b6544aad7",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "万国黄金集团(03939)6月29日斥资3193.1万港元回购406.65万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3437948",
+      "summary": "",
+      "published_at": "2026-06-29T11:35:19+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "capital",
-      "score": 0.8
+      "score": 0.64
     },
     {
-      "id": "4e9f6c67920274d196e06ec9c42f7bcd4cd1a399",
+      "id": "d0a2e1f3127bcfe56bb169f4bd6ccf5cec219582",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "软银股价跌至逾一个月低点，OpenAI上市不确定性拖累AI投资前景",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437191",
+      "title": "英记茶庄集团(08241)公布年度业绩 净亏损2787.7万港元 同比扩大65.15%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3437947",
       "summary": "",
-      "published_at": "2026-06-29T06:20:08+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "published_at": "2026-06-29T11:35:19+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.61
+      "category": "earnings",
+      "score": 0.64
     },
     {
-      "id": "da48c7f4345637d50fc7f6e10036253b56b9c8a9",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "百格在线香港上市首日股价暴涨逾300%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437185",
+      "id": "67e46cbd39108c4ff6d07571205a90aeb20525c8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "S&P 500 Nasdaq futures rise after U.S.-Iran pause June 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113307203.html",
       "summary": "",
-      "published_at": "2026-06-29T06:12:55+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "HK",
+      "published_at": "2026-06-29T11:33:07+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
       "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "382d1ae3eaa5c0cf2232d50395c4d1ee65de9e53",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港元拆息继续升跌互现 一个月拆息报2.95%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437167",
-      "summary": "",
-      "published_at": "2026-06-29T06:05:13+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "company",
       "score": 0.52
     },
     {
-      "id": "e61ecffca27940c7559121f8c183271e45572170",
+      "id": "fbfc99b97bd23ae29cbf05692ee3bd7b56794548",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Palantir looks to boost commercialization of new software; teams with Nvidia on Nemotron",
+      "url": "https://seekingalpha.com/news/4608011-palantir-looks-to-boost-commercialization-of-new-software-teams-with-nvidia-on-nemotron?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-06-29T11:28:33+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "81ba91130d59518905f5f966d78561c4b189c199",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX Stock Will Join The Nasdaq-100 Index On July 7",
+      "url": "https://www.investors.com/news/spacex-stock-will-join-nasdaq-100-index-july-7/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-06-29T11:25:16+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "662144aaed69b9cc3ba8a79aa3a6ac3b54f5d095",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is NVIDIA (NVDA) the Best Fast Growth Stock to Buy as It Targets Fully Autonomous AI for Telecom Networks?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-best-fast-growth-102525288.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:25:25+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "f037af5ab2f520e64f612e6a82e2496cd5eb7f38",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Can Micron (MU) ’s Deal With Anthropic Cement Its Place in the AI Memory Market?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-deal-anthropic-cement-102250038.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:22:50+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "46a9ab3a8a7b995d0fa15b6703a2caf49555d844",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "AMD (AMD) Commits £2 Billion to the UK and Helps Build Two AI Supercomputers at Cambridge",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-commits-2-billion-102239533.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:22:39+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "a4fcb4c55a00cbf56f2c40dd693d5600b4c3375d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race",
+      "url": "https://finance.yahoo.com/technology/articles/wall-street-firm-says-intel-101834662.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:18:34+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "0c22156ee878852fad44d052a837f2c2858249a0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The US Army Just Made Palantir (PLTR) Foundry the Data Backbone of Its Biggest Tech Overhaul",
+      "url": "https://finance.yahoo.com/technology/ai/articles/us-army-just-made-palantir-101813918.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:18:13+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        },
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.95
+    },
+    {
+      "id": "d3ca6e767cfbe19bf97456b4311a46b19aab3c53",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Amazon Explores External Trainium Chip Sales, Putting Marvell (MRVL) in Focus",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-explores-external-trainium-chip-101801747.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:18:01+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "3b4c5d5f7344f9bb56e6e9cb4dc41638b2e5594f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-expands-agentic-101632634.html",
+      "summary": "",
+      "published_at": "2026-06-29T10:16:32+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "add0e74c0b71db123c1dfc03d07bd44f7e458f02",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
+      "url": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
+      "summary": "Axon Enterprise has ramped up lobbying in Congress on federal law-enforcement technology as ICE pursues a potential $220 million Taser deal.",
+      "published_at": "2026-06-29T10:00:02+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "9890c19d5a9d39303ee693c117a065afe7bd7d0d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Micron Stock Has Soared by More Than 12X. Can It Double Again?",
+      "url": "https://www.fool.com/investing/2026/06/29/micron-stock-has-soared-by-more-than-12x-can-it-do/?source=iedfolrf0000001",
+      "summary": "The memory giant's stock price performance from here may come down to one simple question.",
+      "published_at": "2026-06-29T09:43:00+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "04bfce41ac38afc558676f47335f53d3c873f035",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Google Stock Is Down Double Digits. Warren Buffett and Greg Abel Aren't Worried -- and Here's Why You Shouldn't Be Either.",
+      "url": "https://www.fool.com/investing/2026/06/29/google-stock-is-down-double-digits-warren-buffett/?source=iedfolrf0000001",
+      "summary": "Some investors see a problem in Alphabet's pullback. Buffett and Abel see an opportunity.",
+      "published_at": "2026-06-29T07:52:00+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "f4d2109b2614b71e7bc23d967102959d24ba7592",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | ASMPT(00522)午后涨超10% 先进封装设备采购已进入密集放量期",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3437166",
-      "summary": "",
-      "published_at": "2026-06-29T06:05:12+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "source": "SCMP Business",
+      "title": "Chinese self-driving firm Momenta eyes US$750m in Hong Kong IPO",
+      "url": "https://www.scmp.com/business/china-evs/article/3358709/chinese-self-driving-firm-momenta-eyes-us750m-hong-kong-ipo?utm_source=rss_feed",
+      "summary": "Chinese self-driving technology start-up Momenta kicked off bookbuilding on Monday for a HK$5.89 billion (US$751 million) share listing on the Hong Kong stock exchange, testing market sentiment amid a sales slump in China’s car industry.\nThe company is offering nearly 19.94 million shares at HK$295.60 per share. With 20 shares as the minimum board lot, the minimum investment is HK$5,971.62.\nSponso",
+      "published_at": "2026-06-29T07:00:05+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.64
+      "category": "ipo",
+      "score": 0.65
     },
     {
       "id": "5d19ddd298af8d91ba4220ae8d542e4cbd2d275c",
@@ -212,7 +536,7 @@
       "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
       "summary": "Baidu's Hong Kong-listed shares rose over 6% amid reports that its AI chip unit Kunlunxin is targeting a $50 billion initial public offering in the city.",
       "published_at": "2026-06-29T04:09:09+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -230,7 +554,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/if-a-stock-market-crash-is-coming-should-you-buy-m/?source=iedfolrf0000001",
       "summary": "Is there an alternative to buying bonds in case of a stock market downturn? These two funds could be a different way to hedge.",
       "published_at": "2026-06-29T01:15:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -248,7 +572,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/openai-reportedly-considers-delaying-its-ipo-shoul/?source=iedfolrf0000001",
       "summary": "Investors were expecting OpenAI to launch an IPO this year.",
       "published_at": "2026-06-28T23:10:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -256,6 +580,24 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "57d1937c14dc4eee3149c2aabf3f132d3ba06852",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures rise as US and Iran call a halt to attacks",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
+      "summary": "",
+      "published_at": "2026-06-28T22:42:30+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "508f774ee3d6e11b8b6bbec0e7eae7bd1aca9d2c",
@@ -266,7 +608,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/marvell-stock-is-soaring-is-it-too-late-to-buy/?source=iedfolrf0000001",
       "summary": "Marvell's AI opportunity is bigger than one chip cycle. Its custom silicon and networking businesses could make the stock one of the market's most fascinating growth stories.",
       "published_at": "2026-06-28T20:45:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -290,7 +632,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/i-wouldnt-bet-against-this-financial-stock-in-a-re/?source=iedfolrf0000001",
       "summary": "You can't drive a car without auto insurance, and Progressive can use the float to invest in a downturn.",
       "published_at": "2026-06-28T20:15:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -308,7 +650,7 @@
       "url": "https://www.fool.com/investing/2026/06/28/stock-doubled-value-reasons-keep-soaring-gm/?source=iedfolrf0000001",
       "summary": "General Motors has quietly tripled the performance of the S&amp;P 500 over the past year, and it isn't slowing down.",
       "published_at": "2026-06-28T19:32:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -326,7 +668,7 @@
       "url": "https://www.fool.com/coverage/charts/2026/06/28/meta-platforms-vs-snap-comparing-revenue-scale-and-recent-trajectories/?source=iedfolrf0000001",
       "summary": "Meta's revenue base and profitability sharply outpace Snap's, as recent filings highlight distinct financial trajectories for these digital advertising rivals.",
       "published_at": "2026-06-28T19:12:01+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
+      "first_seen_at": "2026-06-29T11:58:11.221535+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -340,582 +682,6 @@
       ],
       "category": "earnings",
       "score": 0.97
-    },
-    {
-      "id": "6fb57ab289743d08ed7893b4b3837a301c122ec5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "AMD Just Acquired MEXT to Crack the Memory Optimization Problem. Should Micron and Sandisk Investors Be Nervous?",
-      "url": "https://www.fool.com/investing/2026/06/28/amd-just-acquired-mext-to-crack-the-memory-optimiz/?source=iedfolrf0000001",
-      "summary": "AMD's MEXT acquisition is an efficiency upgrade for data centers, not a disruption to the AI memory market.",
-      "published_at": "2026-06-28T18:00:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "ma",
-      "score": 1.0
-    },
-    {
-      "id": "28ab31a10c3fa62ddf6781eda3a4521f1b529b97",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
-      "url": "https://www.fool.com/investing/2026/06/28/the-federal-reserve-has-new-rules-for-stablecoins/?source=iedfolrf0000001",
-      "summary": "The Fed's anti-money laundering rules could strengthen Circle's core business.",
-      "published_at": "2026-06-28T17:24:17+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "c5857186e436b538d63c96a294bbd5e1917b2469",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Jefferies Reports Earnings Before the Big Banks. Here's Why Wall Street Should Be Watching Closely.",
-      "url": "https://www.fool.com/investing/2026/06/28/jefferies-reports-earnings-before-the-big-banks-he/?source=iedfolrf0000001",
-      "summary": "Jefferies' results should be good news for other big investment banks.",
-      "published_at": "2026-06-28T17:15:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "4d6d6ea1b44935a3033545447f96b1dd71f0490a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This Artificial Intelligence (AI) Cloud Stock Has Crushed Amazon, Microsoft, and Google in 2026. It Can Continue Skyrocketing After 184% Gains",
-      "url": "https://www.fool.com/investing/2026/06/28/this-artificial-intelligence-ai-cloud-stock-has-cr/?source=iedfolrf0000001",
-      "summary": "Shares of DigitalOcean have been soaring this year, driven by the company's significantly upgraded guidance.",
-      "published_at": "2026-06-28T16:23:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.65
-    },
-    {
-      "id": "763a92c85c6a045c7e00a5f44a3ca49abc9b7709",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Palantir's Bold Biosecurity Opportunity Could Be Bigger Than Investors Think",
-      "url": "https://www.fool.com/investing/2026/06/28/palantirs-bold-biosecurity-opportunity-could-be-bi/?source=iedfolrf0000001",
-      "summary": "A new biosecurity theme is emerging, and Palantir is leveraging it as an opportunity. Here's why that divide could matter for investors.",
-      "published_at": "2026-06-28T15:30:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "5fc4a417719d3ad746628797bd1553cc73f9b4c0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Top Wall Street analysts are bullish on these 3 stocks for strong long-term growth potential",
-      "url": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html",
-      "summary": "Amid volatility in global markets, top analysts can help investors look past near-term noise and pick attractive stocks with long-term potential.",
-      "published_at": "2026-06-28T12:29:57+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "130d39476f6734626981e05a43c2c46f2afdab2f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-      "summary": "Meta had sought more computing capacity than Google could provide, the Financial Times reports.",
-      "published_at": "2026-06-28T10:30:27+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "520eb7aa7f883aeffe98c5a1c1f741367ff9dce5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-      "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
-      "published_at": "2026-06-27T21:34:59+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "bc81e8c2f71366df95145f737c68f2c55252be9c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Airbnb (ABNB) the Most Profitable S&P 500 Stocks to Invest In?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-most-profitable-p-193546547.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:35:46+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "42da859cb4e069cf59011621ed58ee036d115690",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Micron (MU): The Best AI Stock That Will Make You Rich in 10 Years",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-best-ai-stock-193236094.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:36+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MU",
-          "name": "美光",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "4d3c23827cec6862f5164bb4a51a469361bf9be6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stifel Raises its Price Target on Marvell Technology (MRVL)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-marvell-193226804.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:26+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
-    },
-    {
-      "id": "778b3e6c4eb46df115ef66977e66f2c569dd1815",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dell Technologies (DELL) Ends Distribution Relationship with Arrow ECS",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-ends-distribution-193225959.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:25+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "DELL",
-          "name": "戴尔",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "18d244a9ac42f2083a68b53501380e94a7aa0680",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "TD Cowen Raises its Price Target on Arm Holdings (ARM)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-raises-price-target-193223739.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:23+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
-    },
-    {
-      "id": "06dfe0e78abf5aef72e13dcdaf8dec166020378b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Goldman Sachs Starts Intel (INTC) Coverage",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-starts-intel-intc-193222952.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:22+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "INTC",
-          "name": "英特尔",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "0cfeb5079fb5616e5d659df87f48cba4d498756f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Amazon (AMZN) and ThunderSoft Partner on In-Vehicle Voice AI",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-thundersoft-partner-vehicle-193220459.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:20+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "9c5428ee4311aa52dad31dca9abe044859c77bb7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Microsoft (MSFT)-Backed OpenAI May Wait Until 2027 for IPO",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-backed-openai-may-193218688.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:18+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "ipo",
-      "score": 1.0
-    },
-    {
-      "id": "d29b6953ab66b24fd634ff7cfc749cfee13ceaa9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Apple (AAPL) Plans Mac Chip Roadmap Shift Toward AI-Focused M7",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-plans-mac-chip-193217551.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:17+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "41f19e299f04a5c1b9f78529c7420342314f807d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jack Henry and Alphabet (GOOGL) Expand Google Cloud AI Security Partnership",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jack-henry-alphabet-googl-expand-193215439.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:32:15+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "188daac3c094742d835b480af794deaf6f5e4be3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-      "url": "https://finance.yahoo.com/real-estate/articles/insurers-shifted-roof-replacement-costs-161000900.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:24:00+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "9c2e960d73b0e21dea6c765e688785c228ad0262",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Fox Advisors Downgrades Western Digital Corporation (WDC) – Here’s Why",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fox-advisors-downgrades-western-digital-192145410.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:21:45+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "ffae50936bb57f8d52d5ee62fea9ce0a18039187",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Meta Platforms (META) One of the Top Trending US Stocks to Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-one-top-192115498.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:21:15+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "c7a82b118b0ee8426266caac20fdfd3c28020c44",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Alphabet (GOOG) One of the Top Trending US Stocks to Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-one-top-trending-192108168.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:21:08+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOG",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "df97a3a8ab6257604f85aa2e86b39beeb677c732",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Amazon.com (AMZN) One of the Top Trending US Stocks to Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-one-top-192057945.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:20:57+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "4c2a304a63f6591375c68e2048dc4bacf9cfbb8e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here’s What JPMorgan Thinks About Microsoft (MSFT) and Chevron’s 20-Year Agreement",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-thinks-microsoft-msft-chevron-190905266.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:09:05+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "ab329b955f45ede875b2562b1e27e7ac0cbc4c53",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Amazon’s (AMZN) Prime Day to Serve as “Litmus Test” for U.S. Shoppers’ Spending Power, Reuters Reports",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-prime-day-serve-190858072.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:08:58+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "cc7a7288519e72e718ddfc94a9a92c9acfc6863a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NVIDIA (NVDA) Announces the NVIDIA Vera Rubin Platform",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-announces-nvidia-vera-190852060.html",
-      "summary": "",
-      "published_at": "2026-06-27T19:08:52+00:00",
-      "first_seen_at": "2026-06-29T06:46:57.068558+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     }
   ]
 }
