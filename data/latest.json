@@ -1,32 +1,36 @@
 {
-  "generated_at": "2026-07-01T16:05:06.173808+00:00",
+  "generated_at": "2026-07-01T18:24:41.006327+00:00",
   "window_hours": 48,
-  "total_items": 26,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 26,
-    "HK": 1
+    "US": 28,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 12
+      "count": 16
     },
     {
       "key": "macro",
-      "count": 8
+      "count": 5
     },
     {
       "key": "ipo",
-      "count": 2
+      "count": 3
     },
     {
       "key": "capital",
       "count": 2
     },
     {
-      "key": "guidance",
+      "key": "product",
+      "count": 1
+    },
+    {
+      "key": "rating",
       "count": 1
     },
     {
@@ -43,33 +47,290 @@
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "3435a34636d88a1dd8f02045dca27e47f8f84448",
+      "id": "ce914ac089267fe8d8c2e984c6b344fb12ec2741",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "YieldMax Short COIN Option Income Strategy ETF announces weekly distribution of $0.4586",
-      "url": "https://seekingalpha.com/news/4609091-yieldmax-short-coin-option-income-strategy-etf-announces-weekly-distribution-of-04586?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-07-01T16:01:58+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "source": "CNBC Top News",
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
+      "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+      "summary": "Karp says skyrocketing token costs are forcing companies to choose open-weight models and prioritize efficiency over so-called tokenmaxxing",
+      "published_at": "2026-07-01T18:16:11+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "COIN",
-          "name": "Coinbase",
+          "symbol": "PLTR",
+          "name": "Palantir",
           "market": "US"
         }
       ],
-      "category": "macro",
+      "category": "company",
       "score": 0.85
+    },
+    {
+      "id": "0e05e86bcdde1454445716ae18fdeab3a636c5cf",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "SpaceX上市后展示AI设备原型；高通受益，苹果小幅承压",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3443110",
+      "summary": "",
+      "published_at": "2026-07-01T18:10:42+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "market": "US"
+        }
+      ],
+      "category": "ipo",
+      "score": 1.0
+    },
+    {
+      "id": "352c7a78198d56a57bb881de246cc62bdfd14ce1",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | Bending Spoons S.P.A(BSP.US)登陆美股市场 开盘后股价涨超13%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3443078",
+      "summary": "",
+      "published_at": "2026-07-01T17:36:30+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "55a68e7a2fa4100fe43f59d31aaf7861a9a2abe7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
+      "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
+      "summary": "Trump's policy that narrowed eligibility for a popular student loan forgiveness program will not go into effect, after two federal judges blocked the rule.",
+      "published_at": "2026-07-01T17:33:46+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "30c9953a49e40000546da34376be739d85755e8d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll",
+      "url": "https://www.marketwatch.com/story/stock-market-bulls-need-kevin-warsh-on-their-side-to-keep-winning-says-wall-street-veteran-bob-doll-28fa3172?mod=mw_rss_topstories",
+      "summary": "The “high-risk” bull market in stocks needs Federal Reserve Chair Kevin Warsh on its side, according to Bob Doll, CEO at Crossmark Global Investments.",
+      "published_at": "2026-07-01T17:25:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "a5fc40b81508677171ff4e7cddae8cdcb010bbd7",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "做空机构报告发布后，Tarsus制药股价下跌约8%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3443068",
+      "summary": "",
+      "published_at": "2026-07-01T17:12:47+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "product",
+      "score": 0.61
+    },
+    {
+      "id": "108b1d5a0f6e06d44883af5f31ff651c86164381",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "5 charts showing how ‘dumb money’ is transforming the stock market, as retail traders smash Wall Street records",
+      "url": "https://www.marketwatch.com/story/5-charts-showing-how-dumb-money-is-transforming-the-stock-market-as-retail-traders-smash-wall-street-records-c651b4e5?mod=mw_rss_topstories",
+      "summary": "Retail trading activity set records in May and June — and the propensity of that cohort to buy the dip has looked pretty smart.",
+      "published_at": "2026-07-01T17:10:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "7a50472e12f78f2697d823f351610a3a6bc469c9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | ITG Inc(ITG.US)登陆美股市场 开盘后股价涨8%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3443061",
+      "summary": "",
+      "published_at": "2026-07-01T17:06:16+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "0ee384c8e82cefb4df889308fb7d8eaedf15521a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is SpaceX Stock a Buy Before July 7?",
+      "url": "https://www.fool.com/investing/2026/07/01/is-spacex-stock-a-buy-before-july-7/?source=iedfolrf0000001",
+      "summary": "SpaceX stock will begin trading as a member of the Nasdaq-100 on July 7.",
+      "published_at": "2026-07-01T17:00:12+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "7d8f8841cdc4195a7271357e82bf6a3069964f92",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "38.6% of Berkshire Hathaway's $328 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
+      "url": "https://www.fool.com/investing/2026/07/01/386-berkshire-hathaways-328-billion-3-ai-stocks/?source=iedfolrf0000001",
+      "summary": "Berkshire has quadrupled down on one of its artificial intelligence holdings so far this year.",
+      "published_at": "2026-07-01T16:45:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "dae3be03de170d55a737db23101fc669288535a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Market Indexes Start July With a Tale of Two Tech Stories",
+      "url": "https://www.fool.com/investing/2026/07/01/market-indexes-start-july-with-mixed-tech-message/?source=iedfolrf0000001",
+      "summary": "Meta surged 11% while semiconductor stocks tanked, sending mixed signals through the top market indexes.",
+      "published_at": "2026-07-01T16:42:44+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "402fa30fe047c63b3061b8f839c1d43b979c1261",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Cramer shares next steps for a software stock after a rare bullish analyst call",
+      "url": "https://www.cnbc.com/2026/07/01/cramer-shares-next-steps-for-a-software-stock-after-a-rare-bullish-call-.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published_at": "2026-07-01T16:36:41+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.61
+    },
+    {
+      "id": "fbdbc91c8113621388ab012eb4326267e5435ae1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Stocks making the biggest moves midday: Meta, General Mills, Datadog, Sandisk & more",
+      "url": "https://www.cnbc.com/2026/07/01/stocks-making-the-biggest-moves-midday-meta-gis-ddog-sndk.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published_at": "2026-07-01T16:32:04+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "feebfb6712de4dbcf20a322b580e38d9f38d7b52",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high'",
+      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html",
+      "summary": "The Fed chairman joined a panel of other central bank leaders Wednesday at the ECB Forum on Central Banking in Sintra, Portugal.",
+      "published_at": "2026-07-01T16:19:16+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "5d621b9aa056792f7b625ac6dea951be051a7aed",
@@ -80,7 +341,7 @@
       "url": "https://www.cnbc.com/2026/07/01/magnificent-7-stocks-rough-june-pushes-them-into-the-red-for-the-year-whats-behind-the-decline.html",
       "summary": "The group — which Microsoft, Nvidia, Alphabet, Apple, Meta, Tesla and Amazon — shaved off roughly $2 trillion in market cap during June.",
       "published_at": "2026-07-01T15:55:49+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,45 +357,21 @@
       "score": 0.97
     },
     {
-      "id": "cadf147eaa7104cf29888dab2371058e4cacfc6c",
+      "id": "5ea77f77428ca311bc2d4bb71bfdc92c10a4a91f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-      "url": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-      "summary": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
-      "published_at": "2026-07-01T15:55:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "55a68e7a2fa4100fe43f59d31aaf7861a9a2abe7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
-      "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
-      "summary": "Trump's policy that narrowed eligibility for a popular student loan forgiveness program will not go into effect, after two federal judges blocked the rule.",
-      "published_at": "2026-07-01T15:45:37+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "source": "The Motley Fool",
+      "title": "Alphabet Is Now Part of the Dow. That's a Big Validation of Greg Abel's Boldest Berkshire Bet Yet.",
+      "url": "https://www.fool.com/investing/2026/07/01/alphabet-join-dow-validation-greg-abel-berkshire/?source=iedfolrf0000001",
+      "summary": "The index originally intended to serve as a barometer of the United States' top industrial stocks now holds all new kinds of blue chip stocks.",
+      "published_at": "2026-07-01T15:45:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "score": 0.52
     },
     {
@@ -146,7 +383,7 @@
       "url": "https://www.fool.com/investing/2026/07/01/why-palantir-stock-is-skyrocketing-today/?source=iedfolrf0000001",
       "summary": "Is Palantir becoming a hot stock again?",
       "published_at": "2026-07-01T15:40:01+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,90 +397,6 @@
       ],
       "category": "company",
       "score": 0.97
-    },
-    {
-      "id": "633cd77548b4a9d3a52dfc6e08092ac5593ef525",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Marvell Technology vs Broadcom: One Stock is Better Positioned for the AI Boom",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-broadcom-one-153930223.html",
-      "summary": "",
-      "published_at": "2026-07-01T15:39:30+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "33fa3ab5c7cde7748f98fa87c8bb8fcf8a2ea462",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Berkshire Hathaway has 9% of its Portfolio in These Oil Stocks. Should it Sell Now That the War With Iran is Winding Down?",
-      "url": "https://finance.yahoo.com/energy/articles/berkshire-hathaway-9-portfolio-oil-153500872.html",
-      "summary": "",
-      "published_at": "2026-07-01T15:35:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "feebfb6712de4dbcf20a322b580e38d9f38d7b52",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high'",
-      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html",
-      "summary": "The Fed chairman joined a panel of other central bank leaders Wednesday at the ECB Forum on Central Banking in Sintra, Portugal.",
-      "published_at": "2026-07-01T15:31:45+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "ce914ac089267fe8d8c2e984c6b344fb12ec2741",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-      "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-      "summary": "Karp says skyrocketing token costs are forcing companies to choose open weight models and prioritize efficiency over so-called tokenmaxxing",
-      "published_at": "2026-07-01T15:30:23+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "3bbf46e319ead9a14a454b00c8d5fbff1d3f4fa9",
@@ -254,7 +407,7 @@
       "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
       "summary": "The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.",
       "published_at": "2026-07-01T15:29:01+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -270,106 +423,22 @@
       "score": 0.85
     },
     {
-      "id": "a5ebbe19487c07557a1c7cb08a88cae905f355a3",
+      "id": "3ff0084e175638b86d84cf2e57f3c78287256847",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Warsh tells Wall Street to stop looking to the Fed for clues on interest rates — and start watching the economic data",
-      "url": "https://www.marketwatch.com/story/warsh-warns-investors-not-to-expect-hints-at-future-fed-rate-moves-bc945c02?mod=mw_rss_topstories",
-      "summary": "New Federal Reserve chief Kevin Warsh gave no hint as to whether the central bank would raise interest rates in July and repeated his dislike of so-called forward guidance to alert investors to future Fed actions.",
-      "published_at": "2026-07-01T15:09:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.64
-    },
-    {
-      "id": "e9f7597e2c09436611516ac4ce24a0f4ed1229f7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta Stock Rallies On Reported Plan For AI Cloud Business; CoreWeave Slides",
-      "url": "https://www.investors.com/news/technology/meta-stock-facebook-cloud-ai-data-center/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-01T14:52:46+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "2d1f666e5cda740c1929468b287f664822102b6f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Slips After Strong Quarterly Run; Micron Falls As Chip Firms Tumble (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-fed-warsh-spacex-bloom-energy-nike/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-01T14:50:18+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "source": "The Motley Fool",
+      "title": "Berkshire Hathaway has 9% of its Portfolio in These Oil Stocks. Should it Sell Now That the War With Iran is Winding Down?",
+      "url": "https://www.fool.com/investing/2026/07/01/berkshire-hathaway-has-9-of-its-portfolio-in-these/?source=iedfolrf0000001",
+      "summary": "At the end of the first quarter, Chevron and Oxy made up 13% of the portfolio, but not anymore.",
+      "published_at": "2026-07-01T15:15:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.76
-    },
-    {
-      "id": "a984abdb3e8bfcbe6142d435ca85d86ec64199bc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dollar fades as Fed's Warsh softens inflation tone",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/yen-sinks-four-decade-low-005558356.html",
-      "summary": "",
-      "published_at": "2026-07-01T14:39:56+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "5461285e92f86a6c22f4a4ffecca9fc9e60f90a6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Japan's Biggest LNG Buyer Creates Standalone Trading Arm",
-      "url": "https://finance.yahoo.com/energy/articles/japans-biggest-lng-buyer-creates-143000960.html",
-      "summary": "",
-      "published_at": "2026-07-01T14:30:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "3a06b70f6a0259569fcfd7dba92a5ac993a31ea9",
@@ -380,7 +449,7 @@
       "url": "https://www.fool.com/investing/2026/07/01/spacex-stock-is-back-near-its-ipo-price-after-a-24/?source=iedfolrf0000001",
       "summary": "In the stock's second week of trading, investors are wondering whether the price swing is an opportunity or a warning.",
       "published_at": "2026-07-01T13:15:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -398,7 +467,7 @@
       "url": "https://www.fool.com/investing/2026/07/01/mercadolibre-is-down-17-this-year-while-growing-re/?source=iedfolrf0000001",
       "summary": "The Latin America fintech pioneer is out of favor, but the tailwinds could outweigh the headwinds.",
       "published_at": "2026-07-01T13:07:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -416,7 +485,7 @@
       "url": "https://www.cnbc.com/2026/07/01/bulls-are-betting-big-on-this-global-etf-thats-deep-in-a-bear-market.html",
       "summary": "U.S. stocks just keep winning, with the Nasdaq closing out its best quarter since 2020. Across the globe in China, things couldn't be more different.",
       "published_at": "2026-07-01T11:15:33+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -441,7 +510,7 @@
       "url": "https://www.fool.com/investing/2026/07/01/would-you-like-3000-in-passive-income-each-year-bu/?source=iedfolrf0000001",
       "summary": "A strong dividend yield is a great starting point, but that's only half of the matter. Sustainability and dividend growth is the other half.",
       "published_at": "2026-07-01T11:15:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -459,7 +528,7 @@
       "url": "https://www.fool.com/investing/2026/07/01/the-feds-bank-stress-test-results-are-in-heres-wha/?source=iedfolrf0000001",
       "summary": "It's a good time to invest in bank stocks.",
       "published_at": "2026-07-01T10:45:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -467,24 +536,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.8
-    },
-    {
-      "id": "f2d0b4d6b9d7b22421ba59ca4e43ed9ea930b0a7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Down 72% From Its Highs, Is Former Market Darling Adyen Stock Finally a Buy?",
-      "url": "https://www.fool.com/investing/2026/07/01/down-72-from-its-highs-is-former-darling-finally/?source=iedfolrf0000001",
-      "summary": "It is trading at its cheapest valuation multiple in history.",
-      "published_at": "2026-07-01T10:30:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "f052eb56476148eab213a8ee6a5c30135a8893fc",
@@ -495,7 +546,7 @@
       "url": "https://www.cnbc.com/select/whats-a-good-rate-on-a-student-loan/",
       "summary": "What counts as a \"good\" student loan interest rate depends on whether you're borrowing a federal or private loan. Here's what to know.",
       "published_at": "2026-06-30T20:42:28+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -505,22 +556,46 @@
       "score": 0.52
     },
     {
-      "id": "31b11f25c1463b40f871b2b5d67f7ce4079deeab",
+      "id": "a8c374f42b8be9450b954ff83f28013ddf79ac65",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Kevin Warsh: Fed will not be comfortable with inflation above 2%",
-      "url": "https://finance.yahoo.com/economy/policy/article/kevin-warsh-fed-will-not-be-comfortable-with-inflation-above-2-183000837.html",
+      "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ranking-wall-streets-trillion-dollar-092600647.html",
       "summary": "",
-      "published_at": "2026-06-30T18:30:00+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "published_at": "2026-06-30T09:26:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "a19e8469568d0de547cb5bf076da43eeb94b1d2b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nvidia vs. AMD: Which AI CPU Stock Is the Better Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-ai-cpu-092200528.html",
+      "summary": "",
+      "published_at": "2026-06-30T09:22:00+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "b4cd6adc3afd04ebac43a060ef85f5f30e523adb",
@@ -531,7 +606,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play?utm_source=rss_feed",
       "summary": "Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put investors on tenterhooks.\nThe Hang Seng Index dropped 11 per cent in the January-to-June period, underperforming most of the world’s key equity benchmarks, from the S&amp;P 500 to the Ni",
       "published_at": "2026-06-30T08:19:20+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -549,7 +624,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
       "summary": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore financial hub for Chinese issuers.\nA total of 83 companies raised US$26.42 billion on the Hong Kong",
       "published_at": "2026-06-30T02:00:09+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
+      "first_seen_at": "2026-07-01T18:24:41.006327+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -557,24 +632,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.76
-    },
-    {
-      "id": "e2f0facc633a38c7e8e735a5464feedc3c2f2480",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "US Supreme Court boosts Trump’s power to fire officials, but Fed’s Cook keeps job",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3358803/us-supreme-court-rejects-trumps-unprecedented-bid-fire-fed-governor-lisa-cook?utm_source=rss_feed",
-      "summary": "The US Supreme Court on Monday fortified President Donald Trump’s powers to fire members of independent government agencies, but carved out protections for the Federal Reserve by blocking the firing of Governor Lisa Cook.\nIn a 6-3 ruling, the court’s conservative majority rejected a challenge by Democratic Federal Trade Commissioner Rebecca Slaughter, ruling that Trump had the power to fire “subor",
-      "published_at": "2026-06-29T16:53:38+00:00",
-      "first_seen_at": "2026-07-01T16:05:06.173808+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
