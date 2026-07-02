@@ -1,41 +1,29 @@
 {
-  "generated_at": "2026-07-02T21:44:11.810109+00:00",
+  "generated_at": "2026-07-02T23:05:18.034706+00:00",
   "window_hours": 48,
-  "total_items": 33,
+  "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 28,
-    "HK": 5
+    "US": 17,
+    "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 13
-    },
-    {
-      "key": "rating",
-      "count": 5
-    },
-    {
-      "key": "ipo",
-      "count": 5
+      "count": 9
     },
     {
       "key": "macro",
-      "count": 4
+      "count": 5
     },
     {
       "key": "guidance",
       "count": 2
     },
     {
-      "key": "ma",
-      "count": 1
-    },
-    {
-      "key": "earnings",
-      "count": 1
+      "key": "ipo",
+      "count": 2
     },
     {
       "key": "product",
@@ -48,17 +36,107 @@
   ],
   "site_stats": [
     {
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "count": 24
-    },
-    {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 10
+    },
+    {
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "count": 10
     }
   ],
   "items": [
+    {
+      "id": "e9af4000b32e0a8efe30359059c3d1a54ef001d8",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "最大买家变潜在卖家！摩根大通警告：Strategy(MSTR.US)策略转向为加密市场增添新变数",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3445295",
+      "summary": "",
+      "published_at": "2026-07-02T22:35:56+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "9c659fc83f89ce0583c328cfce38cbadcf339092",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Meta(META.US)CEO扎克伯格称AI智能体发展未达预期 人工智能商业化前景引发市场关注",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3445294",
+      "summary": "",
+      "published_at": "2026-07-02T22:35:55+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 0.85
+    },
+    {
+      "id": "621f6becd5e647637658835de3abf3d6b381ff3b",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "隔夜美股 | 三大指数本周收涨 道指创历史新高 苹果(AAPL.US)涨4.8%  芯片股连跌两日",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3445293",
+      "summary": "",
+      "published_at": "2026-07-02T22:35:55+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "9218010f1ed41665cd9d2d38d53a8539381629d0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+      "url": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+      "summary": "Trump, in the interview, also said he continues to plan to remove Fed governor Lisa Cook from the central bank’s board.",
+      "published_at": "2026-07-02T22:30:00+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
     {
       "id": "6408df94fbf964b209cc5e659d8d1343aa68f398",
       "site_id": "hk_china",
@@ -68,7 +146,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3445253",
       "summary": "",
       "published_at": "2026-07-02T21:30:12+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,7 +164,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3445248",
       "summary": "",
       "published_at": "2026-07-02T21:26:09+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -94,42 +172,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "03290a0a164dcc10e63fad137d099e45e7058441",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Halozyme首席运营官离职，股价盘后下跌3.1%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3445241",
-      "summary": "",
-      "published_at": "2026-07-02T21:22:16+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "8b3c7e86badb8b7dd165547297f3de385084ac7b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/02/stock-market-today-july-2-rivian-jumps-on-raised-2026-delivery-guidance/?source=iedfolrf0000001",
-      "summary": "The EV maker beat Q2 delivery targets and lifted its full-year outlook, signaling strong demand momentum, today, July 2, 2026.",
-      "published_at": "2026-07-02T21:15:07+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.61
     },
     {
       "id": "b3c058fa4de0e8c7470427709a3b388f18f83c80",
@@ -140,7 +182,7 @@
       "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
       "summary": "The Dow Jones Industrial Average scaled to record highs on Thursday as investors reacted to a weaker-than-expected nonfarm payrolls report for June.",
       "published_at": "2026-07-02T21:12:35+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -148,150 +190,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "ad43dcf26fda0eb6db1ed819bdd5cf82b2f62833",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
-      "summary": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
-      "published_at": "2026-07-02T21:12:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "4e55e2e26f88a383afc88589760e6b49ed3b63af",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Seer股价盘后飙升30%，CEO提出以每股$2.45收购公司",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3445226",
-      "summary": "",
-      "published_at": "2026-07-02T21:05:46+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.61
-    },
-    {
-      "id": "69dc8b2b8261d6e2a8b43e5ac4eaba919ce2353d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "This Adobe analyst is going against the grain by telling investors to buy the stock",
-      "url": "https://www.marketwatch.com/story/this-adobe-analyst-is-going-against-the-grain-by-telling-investors-to-buy-the-stock-8dadc0a5?mod=mw_rss_topstories",
-      "summary": "Adobe’s stock is rallying after a contrarian upgrade at HSBC.",
-      "published_at": "2026-07-02T21:02:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "fcd9375621098f1279c8782f60f60ce104b92ef1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "SpaceX panic sends AT&T stock to its worst week in years",
-      "url": "https://www.marketwatch.com/story/spacex-panic-sends-verizon-and-at-t-shares-toward-their-worst-week-in-years-ba5879a8?mod=mw_rss_topstories",
-      "summary": "Both AT&amp;T and Verizon shares are down this week as the threat of Starlink looms",
-      "published_at": "2026-07-02T20:55:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "796f63f94346ea6ec50a3090694a576d37a26ede",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Meta CEO says agent development not accelerating as expected: report",
-      "url": "https://seekingalpha.com/news/4609776-meta-ceo-says-agent-development-not-accelerating-as-expected-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-07-02T20:47:05+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
-    },
-    {
-      "id": "353deb1312c74d886ecc222184411267a0812c3f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Franklin Covey Stock Plummeted Today",
-      "url": "https://www.fool.com/investing/2026/07/02/why-franklin-covey-stock-plummeted-today/?source=iedfolrf0000001",
-      "summary": "Franklin Covey's latest quarterly results and forward guidance disappointed investors.",
-      "published_at": "2026-07-02T20:32:32+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "2b8be72488228a0121673e8b835bfc03fb7028c7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Where Will SpaceX Stock Be in 1 Year?",
-      "url": "https://www.fool.com/investing/2026/07/02/where-will-spacex-stock-be-in-1-year/?source=iedfolrf0000001",
-      "summary": "Perspectives on SpaceX stock will likely change once the IPO hype dies down.",
-      "published_at": "2026-07-02T20:30:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.76
     },
     {
       "id": "6c347f2dc8ed9768757c4cbd14f48d59b1b01d68",
@@ -302,7 +200,7 @@
       "url": "https://www.cnbc.com/2026/07/02/dow-rides-into-new-week-at-record-high-what-investors-are-watching-ahead.html",
       "summary": "Investors are wondering what the second half of the year will bring after big gains for stocks.",
       "published_at": "2026-07-02T20:00:40+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -310,78 +208,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "6e449d039f63b0950c96db7b053fd69feada2a37",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Major Warning Flag AMD and Intel Investors Can't Afford to Ignore",
-      "url": "https://www.fool.com/investing/2026/07/02/1-major-warning-flag-amd-and-intel-investors-cant/?source=iedfolrf0000001",
-      "summary": "Investors have priced a ton of expectations into the stocks of Intel and AMD.",
-      "published_at": "2026-07-02T18:06:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "f0544df7e7dfb68bea8b110d9f3affb7a78b61c3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Wall Street Analyst Believes Palantir Will More Than Double in a Year. Is She Right?",
-      "url": "https://www.fool.com/investing/2026/07/02/1-wall-street-analyst-believes-palantir-will-more/?source=iedfolrf0000001",
-      "summary": "The AI data analytics powerhouse has been a poor performer on Wall Street so far this year, but some analysts think a rebound is coming.",
-      "published_at": "2026-07-02T17:39:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "823e4a63bec2b8018195d053b7c03a09fa9f0829",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Palantir's Valuation Finally Catching up to Its Growth?",
-      "url": "https://www.fool.com/investing/2026/07/02/is-palantirs-valuation-finally-catching-up-to-its/?source=iedfolrf0000001",
-      "summary": "The AI-powered data mining company is still richly valued relative to its peers.",
-      "published_at": "2026-07-02T17:01:44+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "fa4d209dca8b500daab6028630323187ec582977",
@@ -392,49 +218,13 @@
       "url": "https://www.cnbc.com/2026/07/02/the-charts-on-this-biotech-stock-look-attractive-says-jay-woods.html",
       "summary": "The chief market strategist at Freedom Capital Markets breaks down the technicals in this biotech name.",
       "published_at": "2026-07-02T17:00:01+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "080ca6048829b61ec26bc8fec1881fdedaebbde0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "A $200 Billion IPO Wave Could Wipe Out $1 Trillion in Stock Market Value. What Investors Need to Know.",
-      "url": "https://www.fool.com/investing/2026/07/02/200-billion-ipo-wave-wipe-out-trillion-stock/?source=iedfolrf0000001",
-      "summary": "The 2026 IPO wave could test whether investor appetite for AI and space stocks is as deep as it looks.",
-      "published_at": "2026-07-02T16:35:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "9f0ba6889842f4efe288e5e30edcbcf6bded2c34",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CoreWeave and Nebius Plunged 14% and 17% in a Single Day. Which Beaten-Down AI Cloud Stock Is the Better Rebound Bet?",
-      "url": "https://www.fool.com/investing/2026/07/02/coreweave-and-nebius-plunged-14-and-17-in-a-single/?source=iedfolrf0000001",
-      "summary": "The most concerning part of Wednesday's sell-off wasn't the size of the drops -- it was who caused them.",
-      "published_at": "2026-07-02T16:23:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -446,7 +236,7 @@
       "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
       "summary": "Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.",
       "published_at": "2026-07-02T15:20:57+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -454,6 +244,30 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.52
+    },
+    {
+      "id": "5c8d8c7f0ad76da047a50d7f6149605a4e79addf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins",
+      "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
+      "summary": "Meta appears poised to enter the cloud computing market in an effort to monetize its massive AI infrastructure.",
+      "published_at": "2026-07-02T12:22:51+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "35f17b67835bc5a9df14e7a5299ac8a44471ce77",
@@ -464,7 +278,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3359182/china-ai-drug-design-deals-swell-us-scrutiny-mounts?utm_source=rss_feed",
       "summary": "Riding a wave of booming cross-border dealmaking, China’s AI-driven drug-design firms are charging onto the global stage despite Washington’s growing scrutiny of Chinese biotech firms.\nThe value of out-licensing deals struck by Chinese biotech companies with top global multinational pharmaceutical companies climbed to US$75 billion in the first five months of 2026, up from zero before 2020, accord",
       "published_at": "2026-07-02T11:00:10+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -488,7 +302,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3359108/clogged-pipeline-many-hong-kong-ipo-hopefuls-near-application-expiration?utm_source=rss_feed",
       "summary": "A large number of mainland Chinese companies hoping to list shares on the Hong Kong stock exchange are anxiously waiting for a nod from the mainland securities regulator, with many now at risk of having their listing applications lapse.\nMore than 430 companies were currently waiting in the initial public offering (IPO) pipeline, according to data from bourse operator Hong Kong Exchanges and Cleari",
       "published_at": "2026-07-02T08:00:14+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -506,7 +320,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3359060/pdd-embraces-chinas-city-future-after-bruising-regulatory-clash-and-record-fine?utm_source=rss_feed",
       "summary": "The operator of budget online marketplaces Temu and Pinduoduo is ramping up its commitment in a state-backed development zone – dubbed a “city of the future” in official discourse – months after the e-commerce group was hit by the heaviest penalty in a record food-safety crackdown and accused by regulators of obstructing enforcement.\nPDD Holdings had more than 600 employees at its unit in the Xion",
       "published_at": "2026-07-02T02:30:10+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -530,7 +344,7 @@
       "url": "https://www.scmp.com/economy/article/3359042/chinas-tax-crackdown-shakes-share-and-hong-kong-listed-firms-major-payouts?utm_source=rss_feed",
       "summary": "China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities.\nThe number of listed companies involved in the first half of the year is likely to soon surpass the total of 89 for full-year 2025, raising concerns that Beijing’s taxation driv",
       "published_at": "2026-07-02T02:00:16+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -548,7 +362,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3359046/can-hong-kong-absorb-us100-billion-newly-tradable-shares-amid-global-ai-boom?utm_source=rss_feed",
       "summary": "Hong Kong stocks have trailed other major global markets in the first half of the year, a trend analysts said could persist as sluggish consumer spending weighs on Chinese internet platforms and an entrenched AI trade risks widening the performance gap.\nA glut of stocks from the expiry of IPO lock-up periods could pose a further threat this quarter, prompting the city’s exchange to respond quickly",
       "published_at": "2026-07-02T00:30:13+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -558,39 +372,39 @@
       "score": 0.65
     },
     {
-      "id": "592675eb87e94cd24b3a44cfcc2c4fdc36c9371c",
+      "id": "1231887f84f48792b42cf5578811089cdc89de4b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Meta stock pops on news it will reportedly start a cloud computing business",
-      "url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-pops-on-news-it-will-reportedly-start-a-cloud-computing-business-134412120.html",
+      "title": "Broadcom Vs. Marvell: Why Broadcom’s Custom Silicon Dominance Crushes Marvell’s Premium-Priced AI Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-marvell-why-broadcom-152015605.html",
       "summary": "",
-      "published_at": "2026-07-01T13:44:12+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "published_at": "2026-07-01T15:20:15+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "META",
-          "name": "Meta",
+          "symbol": "MRVL",
+          "name": "Marvell",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.97
+      "score": 0.85
     },
     {
-      "id": "4ce2a85e818c3f569e83458a89a483183c6df3f8",
+      "id": "410fa73319ea9c4c4eb8fe55644427597135ba1a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Warsh Stresses Fed’s Independence",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-01-2026/card/warsh-stresses-fed-s-independence-Rxui6q5EgVPYNgGWoaZu?siteid=yhoof2&yptr=yahoo",
+      "title": "Warning: The Federal Reserve Is Quietly Fueling the Biggest Inflation Spike Since 2021",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warning-federal-quietly-fueling-biggest-151851441.html",
       "summary": "",
-      "published_at": "2026-07-01T13:41:41+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "published_at": "2026-07-01T15:18:51+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -600,99 +414,39 @@
       "score": 0.52
     },
     {
-      "id": "a0eb0a228c3d43e0170b91fd7005e4ba38f49f2c",
+      "id": "32d92c787b950191afb57108f1488dfd3f28a70b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "CoreWeave Is Down 13% Today: How Does CRWV Compare to Other Cloud Stocks Like Cloudflare and Oracle?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-down-10-today-does-133841985.html",
+      "title": "Magnificent Marvell Can Extend Bullishness in Second Half",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-marvell-extend-bullishness-second-150756498.html",
       "summary": "",
-      "published_at": "2026-07-01T13:38:41+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "f7ac0d83e5f457e86dc6d4a54ed9667b134a885b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX initiated, Salesforce upgraded: Wall Street's top analyst calls",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-salesforce-upgraded-wall-133516058.html",
-      "summary": "",
-      "published_at": "2026-07-01T13:35:16+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "published_at": "2026-07-01T15:07:56+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "0a7cfc95dc220c01f857866bb2693c6a44e229f9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX Stock Is Back Near Its IPO Price After a 24% Drop. Here's How to Decide Whether to Buy, Hold, or Sell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-back-near-ipo-133500939.html",
-      "summary": "",
-      "published_at": "2026-07-01T13:35:00+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "57cfda9d24b64405a6896eb27af4f8a6ea348cd2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta Is About to Make Its Next Billion-Dollar Bet. Wall Street Thinks It Could Be Huge",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-next-billion-dollar-bet-133228818.html",
-      "summary": "",
-      "published_at": "2026-07-01T13:32:28+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
+          "symbol": "MRVL",
+          "name": "Marvell",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 1.0
+      "score": 0.85
     },
     {
-      "id": "c3dc321558bb698da2860d55f0ee9f02d502c202",
+      "id": "bd26483c334ae80a50dc045cc469d18fdc292bd3",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Palantir Is the Most Oversold Tech Stock Now. A Rebound Isn’t a Guarantee.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-most-oversold-tech-stock-133002648.html",
+      "title": "With a Strong Moat, Robust Growth Is Likely to Continue for Palantir Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-moat-robust-growth-likely-150228175.html",
       "summary": "",
-      "published_at": "2026-07-01T13:30:02+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
+      "published_at": "2026-07-01T15:02:28+00:00",
+      "first_seen_at": "2026-07-02T23:05:18.034706+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -705,30 +459,6 @@
         }
       ],
       "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "6da72fac38c42da3dd4ae450c6c1f66d7b4f1e0a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Adobe Just Bought What Its AI Strategy Was Missing. Here’s Why the Stock Could Surge Soon.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-just-bought-ai-strategy-131501835.html",
-      "summary": "",
-      "published_at": "2026-07-01T13:15:01+00:00",
-      "first_seen_at": "2026-07-02T21:44:11.810109+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
       "score": 0.97
     }
   ]
