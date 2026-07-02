@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-02T18:13:10.613002+00:00",
+  "generated_at": "2026-07-02T20:01:22.394655+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 18,
-    "HK": 3
+    "US": 20,
+    "HK": 4
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
+      "count": 13
     },
     {
       "key": "rating",
@@ -42,43 +42,140 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 17
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "cc34302d8afd546ca17a72c60b0a3dcb9d198ca8",
+      "id": "6c347f2dc8ed9768757c4cbd14f48d59b1b01d68",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "SA analyst upgrades/downgrades: RKLB, XOM, QCOM, DELL",
-      "url": "https://seekingalpha.com/news/4609752-sa-analyst-upgrades-downgrades-rklb-xom-qcom-dell?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "CNBC Top News",
+      "title": "Dow rides into new week at record high. What investors are watching ahead",
+      "url": "https://www.cnbc.com/2026/07/02/dow-rides-into-new-week-at-record-high-what-investors-are-watching-ahead.html",
+      "summary": "Investors are wondering what the second half of the year will bring after big gains for stocks.",
+      "published_at": "2026-07-02T20:00:40+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "4d231ba1525874c2bbb6d4e0d470b53c9fe73aae",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Dow rises more than 400 points to record, Nasdaq falls again as chipmakers struggle: Live updates",
+      "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+      "summary": "The major averages ended lower Wednesday, with the Dow closing just below the flatline after erasing a 423.46-point jump that brought it to record highs.",
+      "published_at": "2026-07-02T19:45:42+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "8fbf605692f6752d7f84cb42c430b342034ac1d4",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "特斯拉将于7月6日起对员工AI工具使用设定每周$200上限",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3445160",
       "summary": "",
-      "published_at": "2026-07-02T17:44:09+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "published_at": "2026-07-02T19:30:32+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "QCOM",
-          "name": "高通",
+          "symbol": "TSLA",
+          "name": "特斯拉",
           "market": "US"
-        },
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "69dc8b2b8261d6e2a8b43e5ac4eaba919ce2353d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "This Adobe analyst is going against the grain by telling investors to buy the stock",
+      "url": "https://www.marketwatch.com/story/this-adobe-analyst-is-going-against-the-grain-by-telling-investors-to-buy-the-stock-8dadc0a5?mod=mw_rss_topstories",
+      "summary": "Adobe’s stock is rallying after a contrarian upgrade at HSBC.",
+      "published_at": "2026-07-02T19:07:00+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
         {
-          "symbol": "DELL",
-          "name": "戴尔",
+          "symbol": "ADBE",
+          "name": "Adobe",
           "market": "US"
         }
       ],
       "category": "rating",
       "score": 1.0
+    },
+    {
+      "id": "8522bc45527a2c088e9c9bb8ab5526aff08ad663",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Vicor期权交易量激增，股价下跌17%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3445149",
+      "summary": "",
+      "published_at": "2026-07-02T18:53:07+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.61
+    },
+    {
+      "id": "6e449d039f63b0950c96db7b053fd69feada2a37",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "1 Major Warning Flag AMD and Intel Investors Can't Afford to Ignore",
+      "url": "https://www.fool.com/investing/2026/07/02/1-major-warning-flag-amd-and-intel-investors-cant/?source=iedfolrf0000001",
+      "summary": "Investors have priced a ton of expectations into the stocks of Intel and AMD.",
+      "published_at": "2026-07-02T18:06:00+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "f0544df7e7dfb68bea8b110d9f3affb7a78b61c3",
@@ -89,7 +186,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/1-wall-street-analyst-believes-palantir-will-more/?source=iedfolrf0000001",
       "summary": "The AI data analytics powerhouse has been a poor performer on Wall Street so far this year, but some analysts think a rebound is coming.",
       "published_at": "2026-07-02T17:39:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -105,54 +202,6 @@
       "score": 1.0
     },
     {
-      "id": "608620d52c845e3d6867b36a2c1d046e328fa147",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "亚马逊互联网服务发射迎来重要里程碑",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3445095",
-      "summary": "",
-      "published_at": "2026-07-02T17:34:23+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "7c0717c8e5b64f29a8781a610fda1e7ae61f1d21",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Meta rolls out new gaming app, Pocket",
-      "url": "https://seekingalpha.com/news/4609744-meta-rolls-out-new-gaming-app-pocket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-07-02T17:26:31+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
       "id": "823e4a63bec2b8018195d053b7c03a09fa9f0829",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -161,7 +210,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/is-palantirs-valuation-finally-catching-up-to-its/?source=iedfolrf0000001",
       "summary": "The AI-powered data mining company is still richly valued relative to its peers.",
       "published_at": "2026-07-02T17:01:44+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -185,7 +234,7 @@
       "url": "https://www.cnbc.com/2026/07/02/the-charts-on-this-biotech-stock-look-attractive-says-jay-woods.html",
       "summary": "The chief market strategist at Freedom Capital Markets breaks down the technicals in this biotech name.",
       "published_at": "2026-07-02T17:00:01+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -203,7 +252,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/200-billion-ipo-wave-wipe-out-trillion-stock/?source=iedfolrf0000001",
       "summary": "The 2026 IPO wave could test whether investor appetite for AI and space stocks is as deep as it looks.",
       "published_at": "2026-07-02T16:35:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -221,7 +270,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/coreweave-and-nebius-plunged-14-and-17-in-a-single/?source=iedfolrf0000001",
       "summary": "The most concerning part of Wednesday's sell-off wasn't the size of the drops -- it was who caused them.",
       "published_at": "2026-07-02T16:23:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -239,7 +288,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/why-palantir-technologies-stock-charged-higher-tod/?source=iedfolrf0000001",
       "summary": "The AI and data mining specialist is getting some much-needed respect.",
       "published_at": "2026-07-02T15:42:49+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -263,7 +312,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/byd-achieved-a-new-record-and-its-about-to-go-on-t/?source=iedfolrf0000001",
       "summary": "As BYD focuses on damage control in its domestic Chinese market -- as well as boosting overseas sales -- investors have an opportunity with the stock down over the past year.",
       "published_at": "2026-07-02T15:29:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -281,7 +330,7 @@
       "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
       "summary": "Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.",
       "published_at": "2026-07-02T15:20:57+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -289,30 +338,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.52
-    },
-    {
-      "id": "ad43dcf26fda0eb6db1ed819bdd5cf82b2f62833",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
-      "summary": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
-      "published_at": "2026-07-02T15:15:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
     },
     {
       "id": "8502827ca386c5fed6f24378f1679233e8a91745",
@@ -323,7 +348,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/why-meta-platforms-stock-crashed-thursday-morning/?source=iedfolrf0000001",
       "summary": "The company's proposed new business line could require costly capital outlays.",
       "published_at": "2026-07-02T15:00:12+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -347,25 +372,7 @@
       "url": "https://www.fool.com/investing/2026/07/02/artificial-intelligence-ai-stock-wall-street-mu/?source=iedfolrf0000001",
       "summary": "Some of Wall Street's top investment firms think this AI stock is poised to keep soaring.",
       "published_at": "2026-07-02T14:15:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "36fb096de3c45ca316ff6d5bfa19e1007774d24d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SoFi's Record Loan Originations Aren't Winning Over Wall Street. Here's the Disconnect.",
-      "url": "https://www.fool.com/investing/2026/07/02/sofi-record-loan-originations-wall-street/?source=iedfolrf0000001",
-      "summary": "The once-booming fintech stock currently trades 44% below its record.",
-      "published_at": "2026-07-02T13:19:00+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -383,7 +390,7 @@
       "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
       "summary": "Meta appears poised to enter the cloud computing market in an effort to monetize its massive AI infrastructure.",
       "published_at": "2026-07-02T12:22:51+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -407,7 +414,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3359182/china-ai-drug-design-deals-swell-us-scrutiny-mounts?utm_source=rss_feed",
       "summary": "Riding a wave of booming cross-border dealmaking, China’s AI-driven drug-design firms are charging onto the global stage despite Washington’s growing scrutiny of Chinese biotech firms.\nThe value of out-licensing deals struck by Chinese biotech companies with top global multinational pharmaceutical companies climbed to US$75 billion in the first five months of 2026, up from zero before 2020, accord",
       "published_at": "2026-07-02T11:00:10+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -431,7 +438,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3359108/clogged-pipeline-many-hong-kong-ipo-hopefuls-near-application-expiration?utm_source=rss_feed",
       "summary": "A large number of mainland Chinese companies hoping to list shares on the Hong Kong stock exchange are anxiously waiting for a nod from the mainland securities regulator, with many now at risk of having their listing applications lapse.\nMore than 430 companies were currently waiting in the initial public offering (IPO) pipeline, according to data from bourse operator Hong Kong Exchanges and Cleari",
       "published_at": "2026-07-02T08:00:14+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -449,7 +456,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3359060/pdd-embraces-chinas-city-future-after-bruising-regulatory-clash-and-record-fine?utm_source=rss_feed",
       "summary": "The operator of budget online marketplaces Temu and Pinduoduo is ramping up its commitment in a state-backed development zone – dubbed a “city of the future” in official discourse – months after the e-commerce group was hit by the heaviest penalty in a record food-safety crackdown and accused by regulators of obstructing enforcement.\nPDD Holdings had more than 600 employees at its unit in the Xion",
       "published_at": "2026-07-02T02:30:10+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -473,7 +480,7 @@
       "url": "https://www.scmp.com/economy/article/3359042/chinas-tax-crackdown-shakes-share-and-hong-kong-listed-firms-major-payouts?utm_source=rss_feed",
       "summary": "China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities.\nThe number of listed companies involved in the first half of the year is likely to soon surpass the total of 89 for full-year 2025, raising concerns that Beijing’s taxation driv",
       "published_at": "2026-07-02T02:00:16+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -491,7 +498,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3359046/can-hong-kong-absorb-us100-billion-newly-tradable-shares-amid-global-ai-boom?utm_source=rss_feed",
       "summary": "Hong Kong stocks have trailed other major global markets in the first half of the year, a trend analysts said could persist as sluggish consumer spending weighs on Chinese internet platforms and an entrenched AI trade risks widening the performance gap.\nA glut of stocks from the expiry of IPO lock-up periods could pose a further threat this quarter, prompting the city’s exchange to respond quickly",
       "published_at": "2026-07-02T00:30:13+00:00",
-      "first_seen_at": "2026-07-02T18:13:10.613002+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -499,6 +506,54 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.65
+    },
+    {
+      "id": "eddcb96e0b33babf98be402009918c27ade5532d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Daiwa Moves PDD Holdings (PDD) to Hold",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/daiwa-moves-pdd-holdings-pdd-110448454.html",
+      "summary": "",
+      "published_at": "2026-07-01T11:04:48+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PDD",
+          "name": "拼多多",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "14b91d6dba0783e5f1857eab6a9b78827d69d07e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "HSBC Keeps Hold Rating on Li Auto (LI)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-keeps-hold-rating-li-110441064.html",
+      "summary": "",
+      "published_at": "2026-07-01T11:04:41+00:00",
+      "first_seen_at": "2026-07-02T20:01:22.394655+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "LI",
+          "name": "理想",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.85
     }
   ]
 }
