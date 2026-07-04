@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T17:03:51.878101+00:00",
+  "generated_at": "2026-07-04T18:31:38.311630+00:00",
   "window_hours": 48,
-  "total_stories": 17,
+  "total_stories": 11,
   "stories": [
     {
       "key": "META",
@@ -17,9 +17,9 @@
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "rating",
       "importance": 3,
-      "count": 5,
+      "count": 3,
       "sources": [
         "港股 / 中概",
         "美股 / 全球财经"
@@ -35,7 +35,7 @@
         "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
         "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
         "published_at": "2026-07-03T06:28:31+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -60,7 +60,7 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-thinks-141944498.html",
           "summary": "",
           "published_at": "2026-07-04T14:19:44+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -76,35 +76,6 @@
           "score": 0.85
         },
         {
-          "id": "566499a481817e6eec9c3c1dcc8edbde6460e0b3",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Seeking Alpha Market News",
-          "title": "Notable tech headlines for the week: Meta, Micron, Palantir in focus",
-          "url": "https://seekingalpha.com/news/4609900-notable-tech-headlines-for-the-week-meta-micron-palantir-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "summary": "",
-          "published_at": "2026-07-04T14:10:37+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            },
-            {
-              "symbol": "PLTR",
-              "name": "Palantir",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.95
-        },
-        {
           "id": "c97d1a0af0ba92fc6eaa053d16314327b1d3073a",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
@@ -113,7 +84,7 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/piper-sandler-reiterates-overweight-rating-140904921.html",
           "summary": "",
           "published_at": "2026-07-04T14:09:04+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -129,30 +100,6 @@
           "score": 0.97
         },
         {
-          "id": "b0b2164a58859d6295f1bd10f609babeb84df848",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "The Motley Fool",
-          "title": "Massive News for Meta Stock Investors!",
-          "url": "https://www.fool.com/investing/2026/07/04/massive-news-for-meta-stock-investors/?source=iedfolrf0000001",
-          "summary": "The news could indicate that Meta's capex growth may be nearing its end.",
-          "published_at": "2026-07-04T12:15:00+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
-        },
-        {
           "id": "8b5d0e048843b3f20931b8ed98cd3ed365d4fce0",
           "site_id": "hk_china",
           "site_name": "港股 / 中概",
@@ -161,7 +108,7 @@
           "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
           "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
           "published_at": "2026-07-03T06:28:31+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -179,123 +126,111 @@
       ]
     },
     {
-      "key": "PLTR",
-      "label": "Palantir",
+      "key": "US:macro",
+      "label": "美股·macro",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
+      "tickers": [],
+      "category": "macro",
       "importance": 2,
-      "count": 3,
+      "count": 4,
       "sources": [
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-07-04T14:20:10+00:00",
-      "earliest_at": "2026-07-04T11:41:01+00:00",
+      "latest_at": "2026-07-04T18:19:00+00:00",
+      "earliest_at": "2026-07-03T18:58:32+00:00",
       "primary_item": {
-        "id": "53e5d5b957ed1a962b5bf2efa712b5efd2d7c289",
+        "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
         "site_id": "us_global",
         "site_name": "美股 / 全球财经",
-        "source": "Yahoo Finance",
-        "title": "Jim Cramer on Palantir: “This Is the Fastest Grower of the Stocks I Follow, and It’s Been Crushed”",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-fastest-grower-142010542.html",
-        "summary": "",
-        "published_at": "2026-07-04T14:20:10+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "source": "CNBC Top News",
+        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+        "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+        "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
+        "published_at": "2026-07-04T01:04:34+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
-        "tickers": [
-          {
-            "symbol": "PLTR",
-            "name": "Palantir",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.97
+        "tickers": [],
+        "category": "macro",
+        "score": 0.64
       },
       "items": [
         {
-          "id": "53e5d5b957ed1a962b5bf2efa712b5efd2d7c289",
+          "id": "935589e6f1e4992eb93afc0d14bb7e5a61951d9e",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Jim Cramer on Palantir: “This Is the Fastest Grower of the Stocks I Follow, and It’s Been Crushed”",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-fastest-grower-142010542.html",
-          "summary": "",
-          "published_at": "2026-07-04T14:20:10+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "source": "MarketWatch Top Stories",
+          "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
+          "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+          "summary": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
+          "published_at": "2026-07-04T18:19:00+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
-          "tickers": [
-            {
-              "symbol": "PLTR",
-              "name": "Palantir",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
         },
         {
-          "id": "eae996031a0dad6ac019d088f384927ab5e95710",
+          "id": "1d6da128212fceba0c1c0217daf2a05c2553bff1",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
           "source": "Seeking Alpha Market News",
-          "title": "Notable analyst calls this week: Palantir, Chevron and Morgan Stanley among top picks",
-          "url": "https://seekingalpha.com/news/4609772-notable-analyst-calls-this-week-palantir-chevron-and-morgan-stanley-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "SK Hynix reportedly eyeing 0.5% fee rate in Nasdaq debut",
+          "url": "https://seekingalpha.com/news/4611506-sk-hynix-eyeing-05-fee-rate-in-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published_at": "2026-07-04T14:05:31+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "published_at": "2026-07-04T17:01:56+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
-          "tickers": [
-            {
-              "symbol": "PLTR",
-              "name": "Palantir",
-              "market": "US"
-            }
-          ],
-          "category": "rating",
-          "score": 0.97
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
         },
         {
-          "id": "40dbd9281d7d713f7ef3953b611bae09e600ea65",
+          "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
-          "source": "The Motley Fool",
-          "title": "AppLovin vs. Palantir Technologies: Which High-Growth Tech Stock Is a Better Buy in 2026?",
-          "url": "https://www.fool.com/coverage/better-buy/2026/07/04/applovin-vs-palantir-technologies-which-high-growth-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-          "summary": "AppLovin posts rapid growth and high margins in mobile advertising, while Palantir expands its AI footprint with strong cash flow and zero debt.",
-          "published_at": "2026-07-04T11:41:01+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "source": "CNBC Top News",
+          "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+          "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
+          "published_at": "2026-07-04T01:04:34+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
-          "tickers": [
-            {
-              "symbol": "PLTR",
-              "name": "Palantir",
-              "market": "US"
-            }
+          "tickers": [],
+          "category": "macro",
+          "score": 0.64
+        },
+        {
+          "id": "e94e76206bfdb7aefac46a0d15540b81d84cf2b1",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Largest U.S. power grid PJM escalates emergency actions to avoid blackouts",
+          "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
+          "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
+          "published_at": "2026-07-03T18:58:32+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
+          "market": "US",
+          "markets": [
+            "US"
           ],
-          "category": "company",
-          "score": 0.97
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
         }
       ]
     },
@@ -324,7 +259,7 @@
         "url": "https://www.fool.com/coverage/etfs/2026/07/04/vanguard-vt-vs-state-street-spdw-global-etf-showdown-which-world-spanning-fund-is-the-better-buy/?source=iedfolrf0000001",
         "summary": "VT covers some 10,000 stocks worldwide, while SPDW focuses on developed markets ex-US with around 2,000 holdings but a higher yield.",
         "published_at": "2026-07-04T14:15:42+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -343,7 +278,7 @@
           "url": "https://www.fool.com/coverage/etfs/2026/07/04/vanguard-vt-vs-state-street-spdw-global-etf-showdown-which-world-spanning-fund-is-the-better-buy/?source=iedfolrf0000001",
           "summary": "VT covers some 10,000 stocks worldwide, while SPDW focuses on developed markets ex-US with around 2,000 holdings but a higher yield.",
           "published_at": "2026-07-04T14:15:42+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -361,7 +296,7 @@
           "url": "https://www.fool.com/coverage/etfs/2026/07/04/soxx-vs-chat-etf-semiconductor-chips-beat-ai-software/?source=iedfolrf0000001",
           "summary": "iShares Semiconductor ETF delivered 153.6% returns over one year, outpacing Roundhill's AI-focused fund despite higher volatility and a steeper drawdown.",
           "published_at": "2026-07-04T13:15:01+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -379,7 +314,7 @@
           "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
           "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
           "published_at": "2026-07-03T15:51:06+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -387,6 +322,79 @@
           "tickers": [],
           "category": "company",
           "score": 0.52
+        }
+      ]
+    },
+    {
+      "key": "US:ipo",
+      "label": "美股·ipo",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "importance": 2,
+      "count": 2,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-07-04T16:45:00+00:00",
+      "earliest_at": "2026-07-03T18:16:43+00:00",
+      "primary_item": {
+        "id": "47e60d5e21a8d44c2cdc7094ed943f906dfbf870",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "CNBC Top News",
+        "title": "First known congressional SpaceX stock buys surface after record IPO",
+        "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+        "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+        "published_at": "2026-07-03T18:16:43+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "ipo",
+        "score": 0.8
+      },
+      "items": [
+        {
+          "id": "2eef9cf209797d1b40fc9d46891204d9e141c03d",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Is SpaceX Stock a Buy After Falling From Its Post-IPO High?",
+          "url": "https://www.fool.com/investing/2026/07/04/is-spacex-stock-a-buy-after-falling-from-its-post/?source=iedfolrf0000001",
+          "summary": "SpaceX stock is 19% off its peak.",
+          "published_at": "2026-07-04T16:45:00+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "ipo",
+          "score": 0.61
+        },
+        {
+          "id": "47e60d5e21a8d44c2cdc7094ed943f906dfbf870",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "First known congressional SpaceX stock buys surface after record IPO",
+          "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+          "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+          "published_at": "2026-07-03T18:16:43+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "ipo",
+          "score": 0.8
         }
       ]
     },
@@ -415,7 +423,7 @@
         "url": "https://cn.investing.com/news/stock-market-news/article-3446514",
         "summary": "",
         "published_at": "2026-07-04T10:05:08+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "HK",
         "markets": [
           "HK"
@@ -434,7 +442,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446514",
           "summary": "",
           "published_at": "2026-07-04T10:05:08+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -452,7 +460,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446507",
           "summary": "",
           "published_at": "2026-07-04T09:05:08+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -460,116 +468,6 @@
           "tickers": [],
           "category": "ipo",
           "score": 0.52
-        }
-      ]
-    },
-    {
-      "key": "US:earnings",
-      "label": "美股·earnings",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "importance": 2,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-04T12:30:01+00:00",
-      "earliest_at": "2026-07-04T12:30:01+00:00",
-      "primary_item": {
-        "id": "03b47d5b384e4f41e849a42f2d66a47e3b9226a0",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "The Motley Fool",
-        "title": "Vanguard S&P 500 Growth vs. Invesco SmallCap Revenue: How Do These ETFs Stack Up?",
-        "url": "https://www.fool.com/coverage/etfs/2026/07/04/vanguard-sp-500-growth-etf-vs-invesco-smallcap-revenue-etf/?source=iedfolrf0000001",
-        "summary": "Compare sector exposure, risk profiles, and portfolio strategies as these two ETFs take different approaches to capturing growth in your portfolio.",
-        "published_at": "2026-07-04T12:30:01+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "earnings",
-        "score": 0.52
-      },
-      "items": [
-        {
-          "id": "03b47d5b384e4f41e849a42f2d66a47e3b9226a0",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "The Motley Fool",
-          "title": "Vanguard S&P 500 Growth vs. Invesco SmallCap Revenue: How Do These ETFs Stack Up?",
-          "url": "https://www.fool.com/coverage/etfs/2026/07/04/vanguard-sp-500-growth-etf-vs-invesco-smallcap-revenue-etf/?source=iedfolrf0000001",
-          "summary": "Compare sector exposure, risk profiles, and portfolio strategies as these two ETFs take different approaches to capturing growth in your portfolio.",
-          "published_at": "2026-07-04T12:30:01+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "earnings",
-          "score": 0.52
-        }
-      ]
-    },
-    {
-      "key": "US:ipo",
-      "label": "美股·ipo",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "importance": 2,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-03T18:16:43+00:00",
-      "earliest_at": "2026-07-03T18:16:43+00:00",
-      "primary_item": {
-        "id": "47e60d5e21a8d44c2cdc7094ed943f906dfbf870",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "CNBC Top News",
-        "title": "First known congressional SpaceX stock buys surface after record IPO",
-        "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
-        "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
-        "published_at": "2026-07-03T18:16:43+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "ipo",
-        "score": 0.8
-      },
-      "items": [
-        {
-          "id": "47e60d5e21a8d44c2cdc7094ed943f906dfbf870",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "First known congressional SpaceX stock buys surface after record IPO",
-          "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
-          "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
-          "published_at": "2026-07-03T18:16:43+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "ipo",
-          "score": 0.8
         }
       ]
     },
@@ -604,7 +502,7 @@
         "url": "https://www.fool.com/investing/2026/07/04/3-stocks-to-buy-on-the-ai-infrastructure-sell/?source=iedfolrf0000001",
         "summary": "Nvidia, AMD, and Micron look like good buys on this pullback.",
         "published_at": "2026-07-04T14:45:00+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -629,7 +527,7 @@
           "url": "https://www.fool.com/investing/2026/07/04/3-stocks-to-buy-on-the-ai-infrastructure-sell/?source=iedfolrf0000001",
           "summary": "Nvidia, AMD, and Micron look like good buys on this pullback.",
           "published_at": "2026-07-04T14:45:00+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -653,7 +551,7 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-considers-amd-stock-142132089.html",
           "summary": "",
           "published_at": "2026-07-04T14:21:32+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -667,79 +565,6 @@
           ],
           "category": "company",
           "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "US:macro",
-      "label": "美股·macro",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "importance": 1,
-      "count": 2,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-04T01:04:34+00:00",
-      "earliest_at": "2026-07-03T18:58:32+00:00",
-      "primary_item": {
-        "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "CNBC Top News",
-        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-        "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-        "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
-        "published_at": "2026-07-04T01:04:34+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "macro",
-        "score": 0.64
-      },
-      "items": [
-        {
-          "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-          "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
-          "published_at": "2026-07-04T01:04:34+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.64
-        },
-        {
-          "id": "e94e76206bfdb7aefac46a0d15540b81d84cf2b1",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Largest U.S. power grid PJM escalates emergency actions to avoid blackouts",
-          "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
-          "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
-          "published_at": "2026-07-03T18:58:32+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.52
         }
       ]
     },
@@ -768,7 +593,7 @@
         "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
         "summary": "The rise of AI and data centers is creating a large demand for energy, and many firms on Wall Street believe this company can capitalize on the trend.",
         "published_at": "2026-07-03T13:28:07+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -787,7 +612,7 @@
           "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
           "summary": "The rise of AI and data centers is creating a large demand for energy, and many firms on Wall Street believe this company can capitalize on the trend.",
           "published_at": "2026-07-03T13:28:07+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -805,7 +630,7 @@
           "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
           "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
           "published_at": "2026-07-03T12:00:01+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -817,16 +642,16 @@
       ]
     },
     {
-      "key": "ARM",
-      "label": "Arm",
+      "key": "PLTR",
+      "label": "Palantir",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "ARM",
-          "name": "Arm",
+          "symbol": "PLTR",
+          "name": "Palantir",
           "market": "US"
         }
       ],
@@ -836,56 +661,56 @@
       "sources": [
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-07-04T16:30:56+00:00",
-      "earliest_at": "2026-07-04T16:30:56+00:00",
+      "latest_at": "2026-07-04T14:20:10+00:00",
+      "earliest_at": "2026-07-04T14:20:10+00:00",
       "primary_item": {
-        "id": "dc10cc8ef90088081592c38c27739c862b5784b7",
+        "id": "53e5d5b957ed1a962b5bf2efa712b5efd2d7c289",
         "site_id": "us_global",
         "site_name": "美股 / 全球财经",
         "source": "Yahoo Finance",
-        "title": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-strong-buy-despite-163056546.html",
+        "title": "Jim Cramer on Palantir: “This Is the Fastest Grower of the Stocks I Follow, and It’s Been Crushed”",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-fastest-grower-142010542.html",
         "summary": "",
-        "published_at": "2026-07-04T16:30:56+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "published_at": "2026-07-04T14:20:10+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
         "tickers": [
           {
-            "symbol": "ARM",
-            "name": "Arm",
+            "symbol": "PLTR",
+            "name": "Palantir",
             "market": "US"
           }
         ],
         "category": "company",
-        "score": 0.85
+        "score": 0.97
       },
       "items": [
         {
-          "id": "dc10cc8ef90088081592c38c27739c862b5784b7",
+          "id": "53e5d5b957ed1a962b5bf2efa712b5efd2d7c289",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
           "source": "Yahoo Finance",
-          "title": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-strong-buy-despite-163056546.html",
+          "title": "Jim Cramer on Palantir: “This Is the Fastest Grower of the Stocks I Follow, and It’s Been Crushed”",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-fastest-grower-142010542.html",
           "summary": "",
-          "published_at": "2026-07-04T16:30:56+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "published_at": "2026-07-04T14:20:10+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [
             {
-              "symbol": "ARM",
-              "name": "Arm",
+              "symbol": "PLTR",
+              "name": "Palantir",
               "market": "US"
             }
           ],
           "category": "company",
-          "score": 0.85
+          "score": 0.97
         }
       ]
     },
@@ -920,7 +745,7 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/cantor-fitzgerald-raises-pt-marvell-141121931.html",
         "summary": "",
         "published_at": "2026-07-04T14:11:21+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -945,7 +770,7 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/cantor-fitzgerald-raises-pt-marvell-141121931.html",
           "summary": "",
           "published_at": "2026-07-04T14:11:21+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -993,7 +818,7 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-maintains-outperform-rating-141046629.html",
         "summary": "",
         "published_at": "2026-07-04T14:10:46+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -1018,7 +843,7 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-maintains-outperform-rating-141046629.html",
           "summary": "",
           "published_at": "2026-07-04T14:10:46+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -1032,280 +857,6 @@
           ],
           "category": "rating",
           "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "GOOGL",
-      "label": "谷歌",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-04T14:08:56+00:00",
-      "earliest_at": "2026-07-04T14:08:56+00:00",
-      "primary_item": {
-        "id": "3c271c900b1e92076abff5d5f46e906bfe0c2e9c",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "Yahoo Finance",
-        "title": "Argus Maintains Buy Rating on Alphabet (GOOGL) Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/argus-maintains-buy-rating-alphabet-140856000.html",
-        "summary": "",
-        "published_at": "2026-07-04T14:08:56+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "GOOGL",
-            "name": "谷歌",
-            "market": "US"
-          }
-        ],
-        "category": "rating",
-        "score": 0.97
-      },
-      "items": [
-        {
-          "id": "3c271c900b1e92076abff5d5f46e906bfe0c2e9c",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Argus Maintains Buy Rating on Alphabet (GOOGL) Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/argus-maintains-buy-rating-alphabet-140856000.html",
-          "summary": "",
-          "published_at": "2026-07-04T14:08:56+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "GOOGL",
-              "name": "谷歌",
-              "market": "US"
-            }
-          ],
-          "category": "rating",
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "NVDA",
-      "label": "英伟达",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-04T14:08:47+00:00",
-      "earliest_at": "2026-07-04T14:08:47+00:00",
-      "primary_item": {
-        "id": "00d86d3890eea0133d23b7ee8e4d80247154756e",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "Yahoo Finance",
-        "title": "Hers’s Why NVIDIA (NVDA) is One of the Best AI and Technology Stocks to Buy Now",
-        "url": "https://finance.yahoo.com/technology/ai/articles/hers-why-nvidia-nvda-one-140847423.html",
-        "summary": "",
-        "published_at": "2026-07-04T14:08:47+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "NVDA",
-            "name": "英伟达",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.97
-      },
-      "items": [
-        {
-          "id": "00d86d3890eea0133d23b7ee8e4d80247154756e",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Hers’s Why NVIDIA (NVDA) is One of the Best AI and Technology Stocks to Buy Now",
-          "url": "https://finance.yahoo.com/technology/ai/articles/hers-why-nvidia-nvda-one-140847423.html",
-          "summary": "",
-          "published_at": "2026-07-04T14:08:47+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "NVDA",
-              "name": "英伟达",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "MSFT",
-      "label": "微软",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-04T14:08:39+00:00",
-      "earliest_at": "2026-07-04T14:08:39+00:00",
-      "primary_item": {
-        "id": "49023db324af3753ed7caf325210e787fa641096",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "Yahoo Finance",
-        "title": "Microsoft (MSFT): One of the Best AI and Technology Stocks to Buy Now",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-best-ai-140839126.html",
-        "summary": "",
-        "published_at": "2026-07-04T14:08:39+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "MSFT",
-            "name": "微软",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.97
-      },
-      "items": [
-        {
-          "id": "49023db324af3753ed7caf325210e787fa641096",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Microsoft (MSFT): One of the Best AI and Technology Stocks to Buy Now",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-best-ai-140839126.html",
-          "summary": "",
-          "published_at": "2026-07-04T14:08:39+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "MSFT",
-              "name": "微软",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "US:capital",
-      "label": "美股·capital",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-04T12:15:00+00:00",
-      "earliest_at": "2026-07-04T12:15:00+00:00",
-      "primary_item": {
-        "id": "d93b9a773d3ef30c4103b48ece8116ce1fe78b5f",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "The Motley Fool",
-        "title": "2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now?",
-        "url": "https://www.fool.com/investing/2026/07/04/2-high-yield-dividend-stocks-just-got-kicked-out-o/?source=iedfolrf0000001",
-        "summary": "Two dividend stocks just got kicked out of the S&amp;P 500, but the forced selling may have created an overlooked buying opportunity.",
-        "published_at": "2026-07-04T12:15:00+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "capital",
-        "score": 0.64
-      },
-      "items": [
-        {
-          "id": "d93b9a773d3ef30c4103b48ece8116ce1fe78b5f",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "The Motley Fool",
-          "title": "2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now?",
-          "url": "https://www.fool.com/investing/2026/07/04/2-high-yield-dividend-stocks-just-got-kicked-out-o/?source=iedfolrf0000001",
-          "summary": "Two dividend stocks just got kicked out of the S&amp;P 500, but the forced selling may have created an overlooked buying opportunity.",
-          "published_at": "2026-07-04T12:15:00+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "capital",
-          "score": 0.64
         }
       ]
     },
@@ -1340,7 +891,7 @@
         "url": "https://www.scmp.com/business/article/3359263/henderson-sino-join-jdcom-bid-hong-kongs-first-northern-metropolis-pilot-project?utm_source=rss_feed",
         "summary": "Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers.\nThe Development Bureau said it had received two bids by the tender’s noon deadline for the flagship Hung Shui Kiu project, making Henderson Land and Sino Land the onl",
         "published_at": "2026-07-03T05:25:56+00:00",
-        "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+        "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -1365,7 +916,7 @@
           "url": "https://www.scmp.com/business/article/3359263/henderson-sino-join-jdcom-bid-hong-kongs-first-northern-metropolis-pilot-project?utm_source=rss_feed",
           "summary": "Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers.\nThe Development Bureau said it had received two bids by the tender’s noon deadline for the flagship Hung Shui Kiu project, making Henderson Land and Sino Land the onl",
           "published_at": "2026-07-03T05:25:56+00:00",
-          "first_seen_at": "2026-07-04T17:03:51.878101+00:00",
+          "first_seen_at": "2026-07-04T18:31:38.311630+00:00",
           "market": "US",
           "markets": [
             "US"
