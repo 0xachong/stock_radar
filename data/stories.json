@@ -1,131 +1,211 @@
 {
-  "generated_at": "2026-07-04T11:05:41.436779+00:00",
+  "generated_at": "2026-07-04T12:43:42.254231+00:00",
   "window_hours": 48,
-  "total_stories": 9,
+  "total_stories": 12,
   "stories": [
     {
-      "key": "US:macro",
-      "label": "美股·macro",
+      "key": "META",
+      "label": "Meta",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "importance": 2,
+      "count": 2,
+      "sources": [
+        "港股 / 中概",
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-07-04T12:15:00+00:00",
+      "earliest_at": "2026-07-03T06:28:31+00:00",
+      "primary_item": {
+        "id": "8b5d0e048843b3f20931b8ed98cd3ed365d4fce0",
+        "site_id": "hk_china",
+        "site_name": "港股 / 中概",
+        "source": "SCMP Business",
+        "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
+        "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
+        "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
+        "published_at": "2026-07-03T06:28:31+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "META",
+            "name": "Meta",
+            "market": "US"
+          }
+        ],
+        "category": "rating",
+        "score": 1.0
+      },
+      "items": [
+        {
+          "id": "b0b2164a58859d6295f1bd10f609babeb84df848",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Massive News for Meta Stock Investors!",
+          "url": "https://www.fool.com/investing/2026/07/04/massive-news-for-meta-stock-investors/?source=iedfolrf0000001",
+          "summary": "The news could indicate that Meta's capex growth may be nearing its end.",
+          "published_at": "2026-07-04T12:15:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.97
+        },
+        {
+          "id": "8b5d0e048843b3f20931b8ed98cd3ed365d4fce0",
+          "site_id": "hk_china",
+          "site_name": "港股 / 中概",
+          "source": "SCMP Business",
+          "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
+          "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
+          "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
+          "published_at": "2026-07-03T06:28:31+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "rating",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "key": "US:company",
+      "label": "美股·company",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "importance": 2,
-      "count": 5,
+      "count": 4,
       "sources": [
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-07-04T01:04:34+00:00",
-      "earliest_at": "2026-07-03T08:10:12+00:00",
+      "latest_at": "2026-07-04T11:00:00+00:00",
+      "earliest_at": "2026-07-03T10:56:00+00:00",
       "primary_item": {
-        "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
+        "id": "e237bf6eef973c818bbd78f77c6c1d9c58957744",
         "site_id": "us_global",
         "site_name": "美股 / 全球财经",
-        "source": "CNBC Top News",
-        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-        "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-        "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
-        "published_at": "2026-07-04T01:04:34+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "source": "The Motley Fool",
+        "title": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
+        "url": "https://www.fool.com/investing/2026/07/04/sp-500-up-10-in-2026-what-investors-should-do-next/?source=iedfolrf0000001",
+        "summary": "U.S. stocks have been delivering big returns since 2023. Valuations suggest investors might want to prepare for potential changes in conditions.",
+        "published_at": "2026-07-04T11:00:00+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
         "tickers": [],
-        "category": "macro",
-        "score": 0.64
+        "category": "company",
+        "score": 0.52
       },
       "items": [
         {
-          "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
+          "id": "e237bf6eef973c818bbd78f77c6c1d9c58957744",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-          "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
-          "published_at": "2026-07-04T01:04:34+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "source": "The Motley Fool",
+          "title": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
+          "url": "https://www.fool.com/investing/2026/07/04/sp-500-up-10-in-2026-what-investors-should-do-next/?source=iedfolrf0000001",
+          "summary": "U.S. stocks have been delivering big returns since 2023. Valuations suggest investors might want to prepare for potential changes in conditions.",
+          "published_at": "2026-07-04T11:00:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
-          "category": "macro",
-          "score": 0.64
-        },
-        {
-          "id": "e94e76206bfdb7aefac46a0d15540b81d84cf2b1",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Largest U.S. power grid PJM escalates emergency actions to avoid blackouts",
-          "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
-          "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
-          "published_at": "2026-07-03T18:58:32+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
+          "category": "company",
           "score": 0.52
         },
         {
-          "id": "fda234621410156a174e6f153203714c403a389d",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "U.S. holiday pause, softer Fed expectations and Asia rebound shape global markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-          "url": "https://finance.yahoo.com/markets/articles/u-holiday-pause-softer-fed-091937206.html",
-          "summary": "",
-          "published_at": "2026-07-03T09:19:37+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.64
-        },
-        {
-          "id": "738d67744dc04636a9b1fafa9550a8cda89c0490",
+          "id": "a23c873a15bb28ba64048cfdf73334c2869fa72e",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
           "source": "CNBC Top News",
-          "title": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
-          "url": "https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html",
-          "summary": "The metal was boosted as investors scaled back their bets on a looming rate hike.",
-          "published_at": "2026-07-03T08:58:19+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
+          "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
+          "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
+          "published_at": "2026-07-03T15:51:06+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
-          "category": "macro",
-          "score": 0.64
+          "category": "company",
+          "score": 0.52
         },
         {
-          "id": "f08eb561c8d10ad9fee68ec0ed532be3319b1a04",
+          "id": "a1f5e03c4cd7330574e7fb528140d4a47e437f65",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
           "source": "Yahoo Finance",
-          "title": "Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets",
-          "url": "https://finance.yahoo.com/news/dollar-heads-weekly-drop-jobs-015041368.html",
+          "title": "Should You Buy the Invesco QQQ ETF After the Recent Nasdaq Sell-Off? History Offers a Crystal-Clear Answer.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-invesco-qqq-etf-recent-110500285.html",
           "summary": "",
-          "published_at": "2026-07-03T08:10:12+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "published_at": "2026-07-03T11:05:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
-          "category": "macro",
+          "category": "company",
+          "score": 0.52
+        },
+        {
+          "id": "d34ae2aa13a7365cf4086bb1fe10298d08e50cd9",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Yahoo Finance",
+          "title": "This Time-Tested Metric Has Foreshadowed Virtually Every Major Stock Market Downturn This Century -- and It's Sounding a Warning Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/time-tested-metric-foreshadowed-virtually-105600498.html",
+          "summary": "",
+          "published_at": "2026-07-03T10:56:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "company",
           "score": 0.52
         }
       ]
@@ -155,7 +235,7 @@
         "url": "https://cn.investing.com/news/stock-market-news/article-3446514",
         "summary": "",
         "published_at": "2026-07-04T10:05:08+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "HK",
         "markets": [
           "HK"
@@ -174,7 +254,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446514",
           "summary": "",
           "published_at": "2026-07-04T10:05:08+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -192,7 +272,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446507",
           "summary": "",
           "published_at": "2026-07-04T09:05:08+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -210,7 +290,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446503",
           "summary": "",
           "published_at": "2026-07-04T08:35:08+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -228,7 +308,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446493",
           "summary": "",
           "published_at": "2026-07-04T07:35:07+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -236,6 +316,115 @@
           "tickers": [],
           "category": "ipo",
           "score": 0.52
+        }
+      ]
+    },
+    {
+      "key": "US:macro",
+      "label": "美股·macro",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "importance": 2,
+      "count": 4,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-07-04T08:06:00+00:00",
+      "earliest_at": "2026-07-03T08:58:19+00:00",
+      "primary_item": {
+        "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "CNBC Top News",
+        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+        "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+        "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
+        "published_at": "2026-07-04T01:04:34+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "macro",
+        "score": 0.64
+      },
+      "items": [
+        {
+          "id": "be561896590196832c292d538964415c8d3c417f",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "President Donald Trump and Fed Chair Kevin Warsh Are on a Collision Course Over Interest Rates, and Things May Get Ugly for Wall Street",
+          "url": "https://www.fool.com/investing/2026/07/04/trump-kevin-warsh-collision-course-interest-rates/?source=iedfolrf0000001",
+          "summary": "A new Fed chair isn't a panacea for the ideological gap between the president and the central bank over interest rates.",
+          "published_at": "2026-07-04T08:06:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        },
+        {
+          "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+          "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
+          "published_at": "2026-07-04T01:04:34+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.64
+        },
+        {
+          "id": "e94e76206bfdb7aefac46a0d15540b81d84cf2b1",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Largest U.S. power grid PJM escalates emergency actions to avoid blackouts",
+          "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
+          "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
+          "published_at": "2026-07-03T18:58:32+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        },
+        {
+          "id": "738d67744dc04636a9b1fafa9550a8cda89c0490",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
+          "url": "https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html",
+          "summary": "The metal was boosted as investors scaled back their bets on a looming rate hike.",
+          "published_at": "2026-07-03T08:58:19+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.64
         }
       ]
     },
@@ -253,44 +442,44 @@
       "sources": [
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-07-03T17:07:00+00:00",
+      "latest_at": "2026-07-04T04:00:00+00:00",
       "earliest_at": "2026-07-03T12:00:01+00:00",
       "primary_item": {
-        "id": "149202f692007c7be94ad97e443f8de4383fbe36",
+        "id": "b0819575bf7ab8eaa1793b3ec73e290cd89767cb",
         "site_id": "us_global",
         "site_name": "美股 / 全球财经",
         "source": "The Motley Fool",
-        "title": "Moderna Is Up More Than 70% in a Month After a 9-0 FDA Vote. Wall Street's Average Price Target Says It Should Fall 44%. What Gives?",
-        "url": "https://www.fool.com/investing/2026/07/03/moderna-is-up-more-than-70-in-a-month-after-a-9-0/?source=iedfolrf0000001",
-        "summary": "When a stock and the analysts covering it disagree this sharply, one of them is about to be wrong.",
-        "published_at": "2026-07-03T17:07:00+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "title": "Wall Street Analysts Are Predicting Something Never Seen Before, and It Should Come as a Huge Warning for Investors",
+        "url": "https://www.fool.com/investing/2026/07/04/wall-street-analysts-are-predicting-something-weve/?source=iedfolrf0000001",
+        "summary": "Analysts are expecting a lot from the biggest companies in the market over the next five years.",
+        "published_at": "2026-07-04T04:00:00+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
         "tickers": [],
         "category": "rating",
-        "score": 0.64
+        "score": 0.52
       },
       "items": [
         {
-          "id": "149202f692007c7be94ad97e443f8de4383fbe36",
+          "id": "b0819575bf7ab8eaa1793b3ec73e290cd89767cb",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
           "source": "The Motley Fool",
-          "title": "Moderna Is Up More Than 70% in a Month After a 9-0 FDA Vote. Wall Street's Average Price Target Says It Should Fall 44%. What Gives?",
-          "url": "https://www.fool.com/investing/2026/07/03/moderna-is-up-more-than-70-in-a-month-after-a-9-0/?source=iedfolrf0000001",
-          "summary": "When a stock and the analysts covering it disagree this sharply, one of them is about to be wrong.",
-          "published_at": "2026-07-03T17:07:00+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "title": "Wall Street Analysts Are Predicting Something Never Seen Before, and It Should Come as a Huge Warning for Investors",
+          "url": "https://www.fool.com/investing/2026/07/04/wall-street-analysts-are-predicting-something-weve/?source=iedfolrf0000001",
+          "summary": "Analysts are expecting a lot from the biggest companies in the market over the next five years.",
+          "published_at": "2026-07-04T04:00:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
           "category": "rating",
-          "score": 0.64
+          "score": 0.52
         },
         {
           "id": "782d55002f2635ee6fe6ba32fa51eb424cb2902f",
@@ -301,7 +490,7 @@
           "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
           "summary": "The rise of AI and data centers is creating a large demand for energy, and many firms on Wall Street believe this company can capitalize on the trend.",
           "published_at": "2026-07-03T13:28:07+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -319,7 +508,7 @@
           "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
           "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
           "published_at": "2026-07-03T12:00:01+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -340,11 +529,11 @@
       "tickers": [],
       "category": "ipo",
       "importance": 2,
-      "count": 1,
+      "count": 2,
       "sources": [
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-07-03T18:16:43+00:00",
+      "latest_at": "2026-07-04T07:05:00+00:00",
       "earliest_at": "2026-07-03T18:16:43+00:00",
       "primary_item": {
         "id": "47e60d5e21a8d44c2cdc7094ed943f906dfbf870",
@@ -355,7 +544,7 @@
         "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
         "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
         "published_at": "2026-07-03T18:16:43+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -366,6 +555,24 @@
       },
       "items": [
         {
+          "id": "2cd3d29aa0ee53664782e4a9f9dc3ac2ed239561",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "SpaceX Stock Rebounds Above $170. Here Is How Much Upside Analysts See Left.",
+          "url": "https://www.fool.com/investing/2026/07/04/prediction-where-spacex-stock-will-trade-heading-i/?source=iedfolrf0000001",
+          "summary": "SpaceX's stock has been volatile in the weeks following its IPO.",
+          "published_at": "2026-07-04T07:05:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "ipo",
+          "score": 0.65
+        },
+        {
           "id": "47e60d5e21a8d44c2cdc7094ed943f906dfbf870",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
@@ -374,7 +581,7 @@
           "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
           "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
           "published_at": "2026-07-03T18:16:43+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -382,6 +589,228 @@
           "tickers": [],
           "category": "ipo",
           "score": 0.8
+        }
+      ]
+    },
+    {
+      "key": "US:capital",
+      "label": "美股·capital",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "importance": 1,
+      "count": 2,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-07-04T12:15:00+00:00",
+      "earliest_at": "2026-07-04T10:44:00+00:00",
+      "primary_item": {
+        "id": "d93b9a773d3ef30c4103b48ece8116ce1fe78b5f",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now?",
+        "url": "https://www.fool.com/investing/2026/07/04/2-high-yield-dividend-stocks-just-got-kicked-out-o/?source=iedfolrf0000001",
+        "summary": "Two dividend stocks just got kicked out of the S&amp;P 500, but the forced selling may have created an overlooked buying opportunity.",
+        "published_at": "2026-07-04T12:15:00+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "capital",
+        "score": 0.64
+      },
+      "items": [
+        {
+          "id": "d93b9a773d3ef30c4103b48ece8116ce1fe78b5f",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now?",
+          "url": "https://www.fool.com/investing/2026/07/04/2-high-yield-dividend-stocks-just-got-kicked-out-o/?source=iedfolrf0000001",
+          "summary": "Two dividend stocks just got kicked out of the S&amp;P 500, but the forced selling may have created an overlooked buying opportunity.",
+          "published_at": "2026-07-04T12:15:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "capital",
+          "score": 0.64
+        },
+        {
+          "id": "d5bd6b90383cf43dda835d518b683b92bfc008a7",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Alphabet Officially Joins the Dow. These 3 Dow Dividend Stocks Are Better Buys for July.",
+          "url": "https://www.fool.com/investing/2026/07/04/alphabet-officially-joins-the-dow-these-3-dow-divi/?source=iedfolrf0000001",
+          "summary": "Alphabet may be the Dow's newest member, but these three dividend-paying Dow stocks look like the better buys for income investors this July.",
+          "published_at": "2026-07-04T10:44:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "capital",
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "key": "PLTR",
+      "label": "Palantir",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "importance": 1,
+      "count": 1,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-07-04T11:41:01+00:00",
+      "earliest_at": "2026-07-04T11:41:01+00:00",
+      "primary_item": {
+        "id": "40dbd9281d7d713f7ef3953b611bae09e600ea65",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "AppLovin vs. Palantir Technologies: Which High-Growth Tech Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/07/04/applovin-vs-palantir-technologies-which-high-growth-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+        "summary": "AppLovin posts rapid growth and high margins in mobile advertising, while Palantir expands its AI footprint with strong cash flow and zero debt.",
+        "published_at": "2026-07-04T11:41:01+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "PLTR",
+            "name": "Palantir",
+            "market": "US"
+          }
+        ],
+        "category": "company",
+        "score": 0.97
+      },
+      "items": [
+        {
+          "id": "40dbd9281d7d713f7ef3953b611bae09e600ea65",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "AppLovin vs. Palantir Technologies: Which High-Growth Tech Stock Is a Better Buy in 2026?",
+          "url": "https://www.fool.com/coverage/better-buy/2026/07/04/applovin-vs-palantir-technologies-which-high-growth-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+          "summary": "AppLovin posts rapid growth and high margins in mobile advertising, while Palantir expands its AI footprint with strong cash flow and zero debt.",
+          "published_at": "2026-07-04T11:41:01+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "PLTR",
+              "name": "Palantir",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "key": "02020",
+      "label": "安踏体育",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "importance": 1,
+      "count": 1,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-07-04T08:48:00+00:00",
+      "earliest_at": "2026-07-04T08:48:00+00:00",
+      "primary_item": {
+        "id": "d5641f49e0eee728866c0d09694baa9c6cb3d9af",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "The Stock Market Just Did Something Last Seen in 2020. It Signals a Big Move in the Next Year.",
+        "url": "https://www.fool.com/investing/2026/07/04/stock-market-last-seen-2020-big-move-next-year/?source=iedfolrf0000001",
+        "summary": "History says the Nasdaq Composite could skyrocket.",
+        "published_at": "2026-07-04T08:48:00+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+        "market": "HK",
+        "markets": [
+          "HK",
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "02020",
+            "name": "安踏体育",
+            "market": "HK"
+          }
+        ],
+        "category": "company",
+        "score": 1.0
+      },
+      "items": [
+        {
+          "id": "d5641f49e0eee728866c0d09694baa9c6cb3d9af",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "The Stock Market Just Did Something Last Seen in 2020. It Signals a Big Move in the Next Year.",
+          "url": "https://www.fool.com/investing/2026/07/04/stock-market-last-seen-2020-big-move-next-year/?source=iedfolrf0000001",
+          "summary": "History says the Nasdaq Composite could skyrocket.",
+          "published_at": "2026-07-04T08:48:00+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
+          "market": "HK",
+          "markets": [
+            "HK",
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "02020",
+              "name": "安踏体育",
+              "market": "HK"
+            }
+          ],
+          "category": "company",
+          "score": 1.0
         }
       ]
     },
@@ -416,7 +845,7 @@
         "url": "https://cn.investing.com/news/stock-market-news/article-3446495",
         "summary": "",
         "published_at": "2026-07-04T07:36:19+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -441,7 +870,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3446495",
           "summary": "",
           "published_at": "2026-07-04T07:36:19+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -459,203 +888,75 @@
       ]
     },
     {
-      "key": "US:company",
-      "label": "美股·company",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-07-03T15:51:06+00:00",
-      "earliest_at": "2026-07-03T15:51:06+00:00",
-      "primary_item": {
-        "id": "a23c873a15bb28ba64048cfdf73334c2869fa72e",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "CNBC Top News",
-        "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
-        "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
-        "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
-        "published_at": "2026-07-03T15:51:06+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "company",
-        "score": 0.52
-      },
-      "items": [
-        {
-          "id": "a23c873a15bb28ba64048cfdf73334c2869fa72e",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
-          "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
-          "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
-          "published_at": "2026-07-03T15:51:06+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "company",
-          "score": 0.52
-        }
-      ]
-    },
-    {
-      "key": "BABA",
-      "label": "阿里巴巴",
+      "key": "MSTR",
+      "label": "MicroStrategy",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "BABA",
-          "name": "阿里巴巴",
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "macro",
       "importance": 1,
       "count": 1,
       "sources": [
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-07-03T09:25:18+00:00",
-      "earliest_at": "2026-07-03T09:25:18+00:00",
+      "latest_at": "2026-07-03T11:30:02+00:00",
+      "earliest_at": "2026-07-03T11:30:02+00:00",
       "primary_item": {
-        "id": "c07115d4348530b26af2e4001ec6f53e8c1f835d",
+        "id": "ea0b7d2a095e9f869a1101a256d779beb6e3c464",
         "site_id": "us_global",
         "site_name": "美股 / 全球财经",
         "source": "Yahoo Finance",
-        "title": "Alibaba to block Claude Code in workplace amid reported security concerns (BABA)",
-        "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-block-claude-code-workplace-092518785.html",
+        "title": "Strategy Announces a New Capital Framework Amid Bitcoin Selloff. What It Actually Means and How to Play MSTR Stock Here.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-announces-capital-framework-amid-113002741.html",
         "summary": "",
-        "published_at": "2026-07-03T09:25:18+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "published_at": "2026-07-03T11:30:02+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
         "tickers": [
           {
-            "symbol": "BABA",
-            "name": "阿里巴巴",
+            "symbol": "MSTR",
+            "name": "MicroStrategy",
             "market": "US"
           }
         ],
-        "category": "company",
-        "score": 0.85
+        "category": "macro",
+        "score": 0.97
       },
       "items": [
         {
-          "id": "c07115d4348530b26af2e4001ec6f53e8c1f835d",
+          "id": "ea0b7d2a095e9f869a1101a256d779beb6e3c464",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
           "source": "Yahoo Finance",
-          "title": "Alibaba to block Claude Code in workplace amid reported security concerns (BABA)",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-block-claude-code-workplace-092518785.html",
+          "title": "Strategy Announces a New Capital Framework Amid Bitcoin Selloff. What It Actually Means and How to Play MSTR Stock Here.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-announces-capital-framework-amid-113002741.html",
           "summary": "",
-          "published_at": "2026-07-03T09:25:18+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "published_at": "2026-07-03T11:30:02+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [
             {
-              "symbol": "BABA",
-              "name": "阿里巴巴",
+              "symbol": "MSTR",
+              "name": "MicroStrategy",
               "market": "US"
             }
           ],
-          "category": "company",
-          "score": 0.85
-        }
-      ]
-    },
-    {
-      "key": "META",
-      "label": "Meta",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "港股 / 中概"
-      ],
-      "latest_at": "2026-07-03T06:28:31+00:00",
-      "earliest_at": "2026-07-03T06:28:31+00:00",
-      "primary_item": {
-        "id": "8b5d0e048843b3f20931b8ed98cd3ed365d4fce0",
-        "site_id": "hk_china",
-        "site_name": "港股 / 中概",
-        "source": "SCMP Business",
-        "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
-        "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
-        "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
-        "published_at": "2026-07-03T06:28:31+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "META",
-            "name": "Meta",
-            "market": "US"
-          }
-        ],
-        "category": "rating",
-        "score": 1.0
-      },
-      "items": [
-        {
-          "id": "8b5d0e048843b3f20931b8ed98cd3ed365d4fce0",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "SCMP Business",
-          "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
-          "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
-          "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
-          "published_at": "2026-07-03T06:28:31+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "rating",
-          "score": 1.0
+          "category": "macro",
+          "score": 0.97
         }
       ]
     },
@@ -690,7 +991,7 @@
         "url": "https://www.scmp.com/business/article/3359263/henderson-sino-join-jdcom-bid-hong-kongs-first-northern-metropolis-pilot-project?utm_source=rss_feed",
         "summary": "Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers.\nThe Development Bureau said it had received two bids by the tender’s noon deadline for the flagship Hung Shui Kiu project, making Henderson Land and Sino Land the onl",
         "published_at": "2026-07-03T05:25:56+00:00",
-        "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+        "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -715,7 +1016,7 @@
           "url": "https://www.scmp.com/business/article/3359263/henderson-sino-join-jdcom-bid-hong-kongs-first-northern-metropolis-pilot-project?utm_source=rss_feed",
           "summary": "Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers.\nThe Development Bureau said it had received two bids by the tender’s noon deadline for the flagship Hung Shui Kiu project, making Henderson Land and Sino Land the onl",
           "published_at": "2026-07-03T05:25:56+00:00",
-          "first_seen_at": "2026-07-04T11:05:41.436779+00:00",
+          "first_seen_at": "2026-07-04T12:43:42.254231+00:00",
           "market": "US",
           "markets": [
             "US"
