@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-07-05T13:29:06.075414+00:00",
+  "generated_at": "2026-07-05T14:59:11.936040+00:00",
   "window_hours": 48,
-  "total_items": 15,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 14,
-    "HK": 1
+    "US": 24
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 7
+      "count": 11
     },
     {
       "key": "macro",
-      "count": 5
+      "count": 8
     },
     {
       "key": "capital",
@@ -23,6 +22,10 @@
     },
     {
       "key": "ipo",
+      "count": 2
+    },
+    {
+      "key": "earnings",
       "count": 1
     }
   ],
@@ -30,15 +33,112 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 14
-    },
-    {
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "count": 1
+      "count": 24
     }
   ],
   "items": [
+    {
+      "id": "cbc3730203026004141b9dff01a5e0bf7b97d8c4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "SA Asks: Who will be most impacted by Meta's new cloud business?",
+      "url": "https://seekingalpha.com/news/4611513-sa-asks-who-will-be-most-impacted-by-metas-new-cloud-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-07-05T14:00:50+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "dfc8a1b37c4662de2994d8b5bf6231f2978a1722",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "1 Thing That Could Send Meta Platforms Stock Soaring in 2026",
+      "url": "https://www.fool.com/investing/2026/07/05/1-thing-that-could-send-meta-platforms-stock-soar/?source=iedfolrf0000001",
+      "summary": "Meta Platforms trades at an incredible discount, and its growth is poised to accelerate.",
+      "published_at": "2026-07-05T14:00:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.97
+    },
+    {
+      "id": "ee4983b8b41f3c74b7fd4e01e1ce99ad21d0dcfe",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street Is Buzzing About Alphabet Joining the Dow. Income Investors Should Be Looking at This Stock Instead.",
+      "url": "https://www.fool.com/investing/2026/07/05/wall-street-is-buzzing-about-alphabet-joining-the/?source=iedfolrf0000001",
+      "summary": "Alphabet joined the Dow, but investors shouldn't take their eyes off Coca-Cola, one of the index's most dependable dividend names.",
+      "published_at": "2026-07-05T13:45:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "63c8fb6baa43b216fc9099f9a6a719aa061ac140",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Fed Chair Kevin Warsh May Have Driven a Dagger Into Wall Street's Heart With This Blunt 7-Word Statement",
+      "url": "https://www.fool.com/investing/2026/07/05/fed-kevin-warsh-dagger-wall-st-7-word-statement/?source=iedfolrf0000001",
+      "summary": "Warsh's ideological overhaul of the central bank isn't the best news for a stock market that's priced for perfection.",
+      "published_at": "2026-07-05T13:06:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "06fa31e079851bab628b8ced755ec0559691c7f5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Tyler Technologies Is Down by More Than 50% as Investors Flee SaaS Stocks, but Are Government Agencies Really Rushing to Adopt AI?",
+      "url": "https://www.fool.com/investing/2026/07/05/tyler-technologies-is-down-over-50-as-investors-fl/?source=iedfolrf0000001",
+      "summary": "A multiyear cloud migration plan should deliver revenue growth in a corner of the market where AI is unlikely to disrupt older business models overnight.",
+      "published_at": "2026-07-05T12:33:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
     {
       "id": "8ad7bbd58f2ba156e6f51c7dfde9f299fa3b3c12",
       "site_id": "us_global",
@@ -48,7 +148,7 @@
       "url": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
       "summary": "With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging.",
       "published_at": "2026-07-05T12:30:01+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -58,22 +158,118 @@
       "score": 0.76
     },
     {
-      "id": "a3bc7cc87ac553e36e9005a016fe8324ffaf4d00",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "百胜中国(09987)7月3日斥资688.55万港元回购2.05万股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3446687",
-      "summary": "",
-      "published_at": "2026-07-05T10:35:09+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
-      "market": "HK",
+      "id": "6755cbe7c8ccf595c0148ba6a5893d7ac5560906",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why CoreWeave Stock Plummeted This Week",
+      "url": "https://www.fool.com/investing/2026/07/05/why-coreweave-stock-plummeted-this-week/?source=iedfolrf0000001",
+      "summary": "Meta Platform's entry into the compute-as-a-service business could have big implications for CoreWeave.",
+      "published_at": "2026-07-05T11:18:42+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "5f3bf96b7a8f23ae86067f5571d64e6418571e18",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Down 13% in 1 Month, Is Amazon a Buy, or Is the Worst Still to Come?",
+      "url": "https://www.fool.com/investing/2026/07/05/down-13-in-1-month-is-amazon-a-buy-or-is-the-worst/?source=iedfolrf0000001",
+      "summary": "Let's assess Amazon stock as it falls into correction territory.",
+      "published_at": "2026-07-05T11:05:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
-      "category": "capital",
-      "score": 0.64
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "21f086d88aa2e46764c7ce880445b72e7be7f234",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the \"Magnificent Seven\" Stocks in July?",
+      "url": "https://www.fool.com/investing/2026/07/05/down-35-is-mercadolibre-a-better-buy-than-spacex-a/?source=iedfolrf0000001",
+      "summary": "The largest-cap stocks may have limited upside.",
+      "published_at": "2026-07-05T11:00:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "600d77b9019caf2fc098b5d1dd3943493583a1ad",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Stock Market Just Did Something That's Only Been Observed Twice in the Last 155 Years -- and It Has Distressing Implications for Wall Street",
+      "url": "https://www.fool.com/investing/2026/07/05/stock-market-did-something-twice-155-years-wall-st/?source=iedfolrf0000001",
+      "summary": "Wall Street is on the doorstep of making dubious history.",
+      "published_at": "2026-07-05T10:36:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "1c84d26b89ff8cfae2d220efdc28050c25f91749",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Federal Reserve Just Delivered Fantastic News for Crypto Investors. Which Cryptos Should You Buy?",
+      "url": "https://www.fool.com/investing/2026/07/05/the-federal-reserve-just-delivered-fantastic-news/?source=iedfolrf0000001",
+      "summary": "The Federal Reserve's hawkish disposition may have just softened.",
+      "published_at": "2026-07-05T10:00:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "f8a711e7a4dccc20595f61a302a0e359c0ee5b94",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The SpaceX IPO Marks \"the Top of a Terrific Bubble,\" According to This Famous Wall Street Veteran",
+      "url": "https://www.fool.com/investing/2026/07/05/spacex-ipo-marks-top-bubble-wall-street/?source=iedfolrf0000001",
+      "summary": "One seasoned Wall Street expert is very bearish on SpaceX and the stock market in general.",
+      "published_at": "2026-07-05T09:55:00+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.76
     },
     {
       "id": "935589e6f1e4992eb93afc0d14bb7e5a61951d9e",
@@ -84,7 +280,7 @@
       "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
       "summary": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
       "published_at": "2026-07-04T18:19:00+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -92,6 +288,54 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "d2baebf95d502c10c0e2508173575e46ab0ef330",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Here’s What Amazon.com Inc (AMZN) Is Doing in India Lately",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-doing-134425618.html",
+      "summary": "",
+      "published_at": "2026-07-04T13:44:25+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "a12317a8502412760ad75f977e1b4b0b5828081f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Amazon.com, Inc. (AMZN) One of the Best AI and Technology Stocks to Buy Now?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-com-inc-amzn-one-134356422.html",
+      "summary": "",
+      "published_at": "2026-07-04T13:43:56+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "9dfd70b3d3f79a431d2c782ccd18ce360ce5eba2",
@@ -102,7 +346,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-one-best-125611792.html",
       "summary": "",
       "published_at": "2026-07-04T12:56:11+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -120,7 +364,7 @@
       "url": "https://finance.yahoo.com/real-estate/articles/costar-group-csgp-10-best-125550444.html",
       "summary": "",
       "published_at": "2026-07-04T12:55:50+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -138,7 +382,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hugging-face-expand-125450801.html",
       "summary": "",
       "published_at": "2026-07-04T12:54:50+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -162,7 +406,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-meta-meta-announce-125431859.html",
       "summary": "",
       "published_at": "2026-07-04T12:54:31+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -191,7 +435,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/factset-partners-google-cloud-googl-125357373.html",
       "summary": "",
       "published_at": "2026-07-04T12:53:57+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -215,7 +459,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-one-best-125351983.html",
       "summary": "",
       "published_at": "2026-07-04T12:53:51+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,54 +475,6 @@
       "score": 1.0
     },
     {
-      "id": "77df4649392eec81dce5b503151504efebbd3bc8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Meta Is Entering AI's 'Most Lucrative Game,' JPMorgan Thinks It Could Be A $20 Billion Business",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-meta-entering-120126417.html",
-      "summary": "",
-      "published_at": "2026-07-04T12:01:26+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "2af92e03036d018e7b96136cd81b4de7abcd953f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "AppLovin vs. Palantir Technologies: Which High-Growth Tech Stock Is a Better Buy in 2026?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-palantir-technologies-high-120101323.html",
-      "summary": "",
-      "published_at": "2026-07-04T12:01:01+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
       "id": "b12f21a3aab418f4cad5a06e5359cf594d9be7ff",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -287,7 +483,7 @@
       "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
       "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
       "published_at": "2026-07-04T01:04:34+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -305,7 +501,7 @@
       "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
       "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
       "published_at": "2026-07-03T18:58:32+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -323,7 +519,7 @@
       "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
       "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
       "published_at": "2026-07-03T18:16:43+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
+      "first_seen_at": "2026-07-05T14:59:11.936040+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -331,24 +527,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.8
-    },
-    {
-      "id": "a23c873a15bb28ba64048cfdf73334c2869fa72e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
-      "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
-      "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
-      "published_at": "2026-07-03T15:51:06+00:00",
-      "first_seen_at": "2026-07-05T13:29:06.075414+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     }
   ]
 }
