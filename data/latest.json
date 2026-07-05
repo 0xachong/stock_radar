@@ -1,39 +1,43 @@
 {
-  "generated_at": "2026-07-05T22:00:40.856401+00:00",
+  "generated_at": "2026-07-05T23:34:18.584104+00:00",
   "window_hours": 48,
-  "total_items": 17,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17
+    "US": 26
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 6
+      "count": 17
     },
     {
       "key": "capital",
-      "count": 4
-    },
-    {
-      "key": "macro",
       "count": 3
     },
     {
-      "key": "rating",
+      "key": "macro",
       "count": 2
     },
     {
       "key": "earnings",
       "count": 2
+    },
+    {
+      "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "rating",
+      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 16
+      "count": 25
     },
     {
       "site_id": "hk_china",
@@ -43,15 +47,207 @@
   ],
   "items": [
     {
-      "id": "6ba9245b1624ac2659359cd216b9dbc41a3f3b93",
+      "id": "84c83d9746861ab63c3e240b712cf78612a71a51",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
-      "url": "https://www.fool.com/investing/2026/07/05/the-first-half-of-2026-is-over-2-spectacular-artif/?source=iedfolrf0000001",
-      "summary": "Neither Meta Platforms nor Nvidia is trading at the premiums they warrant.",
-      "published_at": "2026-07-05T21:06:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "source": "CNBC Top News",
+      "title": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates",
+      "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
+      "summary": "The Dow climbed nearly 2% last week, putting it within striking distance of 53,000, a level it has never reached.",
+      "published_at": "2026-07-05T23:28:42+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "7c209da33341bc43c48cf2ddcecafefc42999425",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+      "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
+      "published_at": "2026-07-05T23:05:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "35bb0ef28a11abfbbf43ac97113ed7daab570e38",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:56:45+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "2dd2209f9bf5d599a816243567520ca5e4ec6e18",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Prudential Financial, Inc. (PRU) Balances Dividend Strength with Mixed Analyst Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prudential-financial-inc-pru-balances-225212563.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:52:12+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.61
+    },
+    {
+      "id": "dd9846fe9be4e18860717ec3b8de23fd2f39377f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom",
+      "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-inc-mu-sued-225110494.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:51:10+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "a28ca797324124b31e3a0ed505af938034845154",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is QUALCOMM, Inc. (QCOM) A Top AI Stock to Buy According to Billionaire Philippe Laffont?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-inc-qcom-top-ai-225057079.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:50:57+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "a6c915ecd349b9af7e7594848fc581f75b5c3de6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Anthropic’s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-claude-available-microsoft-corporation-225021269.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:50:21+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "140a3202f15ab7147c16b93f14d1187713c2178a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "NVIDIA Corporation (NVDA) Secures Bit Origin’s AI Chips Supply as Prices Skyrocket in China’s Black Market",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-secures-bit-225012320.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:50:12+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "56058552576c1b46bbf0e51a0e07b921c9c97ed3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Anthropic Strengthens Alphabet Inc. (GOOGL)’s Google Cloud Positioning in Enterprise AI Development",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-strengthens-alphabet-inc-googl-225000249.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:50:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "edbdf8251766b04ed917c79e4999842cf2105421",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Here’s Why Meta Platforms, Inc. (META) is Restricting Engineers from Using Anthropic’s Claude",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-meta-platforms-inc-meta-224947515.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:49:47+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -64,18 +260,42 @@
         }
       ],
       "category": "company",
-      "score": 0.97
+      "score": 0.85
     },
     {
-      "id": "9ab9e5d8c76ec295b8151ba012c30b017833347d",
+      "id": "007fd442cc549eb7e3ba1934d9ccf850e2dd8c55",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Stock Futures Kick Off Week that Includes Fed Minutes",
+      "title": "Park Ha Biological Taps Amazon.com, Inc. (AMZN) E-commerce Platform amid India Delivery Expansion Plans",
+      "url": "https://finance.yahoo.com/technology/ai/articles/park-biological-taps-amazon-com-224902738.html",
+      "summary": "",
+      "published_at": "2026-07-05T22:49:02+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "c23189f0b3ea4e37c24121c0a07eb7009f2163b7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Futures Open Mixed, Kicking Off Week that Includes Fed Minutes",
       "url": "https://www.barrons.com/articles/stock-futures-fed-minutes-pepsi-delta-earnings-47dbcac0?siteid=yhoof2&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-07-05T20:56:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "published_at": "2026-07-05T22:37:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -85,15 +305,15 @@
       "score": 0.64
     },
     {
-      "id": "2ec983cfec6b847d3a1b2a13a19916f10ff5734b",
+      "id": "cb4d5bfbe78ac8a7cb8ac7ef2d8d5877847b0efe",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Top Analyst strongly resets AMD stock price target",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-strongly-resets-amd-203300360.html",
+      "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
       "summary": "",
-      "published_at": "2026-07-05T20:33:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "published_at": "2026-07-05T22:30:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -105,37 +325,43 @@
           "market": "US"
         }
       ],
-      "category": "rating",
-      "score": 1.0
+      "category": "company",
+      "score": 0.97
     },
     {
-      "id": "e0a32a3880a6356d07233cb8fa0ec0a2f30bff5d",
+      "id": "eca4a591f69658f0d980739fe8222351655b0852",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Here's a Much Better Nasdaq-100 Stock to Buy Right Now Than SpaceX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-better-nasdaq-100-193500026.html",
+      "title": "NIO (NIO) Reports June And Second-Quarter Delivery Results; Vehicles Delivery Up 62.9% YoY",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nio-nio-reports-june-second-220728616.html",
       "summary": "",
-      "published_at": "2026-07-05T19:35:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "published_at": "2026-07-05T22:07:28+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
+      "tickers": [
+        {
+          "symbol": "NIO",
+          "name": "蔚来",
+          "market": "US"
+        }
+      ],
       "category": "company",
-      "score": 0.64
+      "score": 0.85
     },
     {
-      "id": "b3079372404dbc56a55aca13faefe529aee2694c",
+      "id": "6ba9245b1624ac2659359cd216b9dbc41a3f3b93",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-tesla-suddenly-worth-same-192700154.html",
-      "summary": "",
-      "published_at": "2026-07-05T19:27:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "source": "The Motley Fool",
+      "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
+      "url": "https://www.fool.com/investing/2026/07/05/the-first-half-of-2026-is-over-2-spectacular-artif/?source=iedfolrf0000001",
+      "summary": "Neither Meta Platforms nor Nvidia is trading at the premiums they warrant.",
+      "published_at": "2026-07-05T21:06:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -159,7 +385,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3446738",
       "summary": "",
       "published_at": "2026-07-05T19:20:05+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -175,22 +401,46 @@
       "score": 0.85
     },
     {
-      "id": "69ebaf80c009c5a0a87556d8cd00608baafd1a1b",
+      "id": "781acf44f68471d315b790cdd1094ff223b8b18f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ishares-etfs-crushing-p-191014206.html",
-      "summary": "",
-      "published_at": "2026-07-05T19:10:14+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "source": "The Motley Fool",
+      "title": "Here's a Much Better Nasdaq-100 Stock to Buy Right Now Than SpaceX",
+      "url": "https://www.fool.com/investing/2026/07/05/better-nasdaq-100-stock-buy-spacex-msft/?source=iedfolrf0000001",
+      "summary": "SpaceX stock is set to make a splash when it joins the Nasdaq-100, but this AI leader looks like a better buy.",
+      "published_at": "2026-07-05T19:15:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.52
+      "score": 0.64
+    },
+    {
+      "id": "01b03769e8ecc480a0ac8535954641022767b9a0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+      "url": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/?source=iedfolrf0000001",
+      "summary": "A photo finish in market value -- and a chasm in everything underneath it.",
+      "published_at": "2026-07-05T19:07:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "0765399931c61515a09f894aae9c003efb7cd611",
@@ -201,7 +451,7 @@
       "url": "https://www.fool.com/investing/2026/07/05/mercadolibre-walmart-down-2026-stock-buy/?source=iedfolrf0000001",
       "summary": "Despite strong earnings, both stocks are down for the year.",
       "published_at": "2026-07-05T18:45:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -211,15 +461,15 @@
       "score": 0.64
     },
     {
-      "id": "0c00609acaaff63a461c00db3efd69f1aace75dc",
+      "id": "82944723b8ea52f5d50da689b51d152b4f7e7702",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
       "title": "Nvidia Stock Is Down 13% Over the Last Month. Here's Why That Could Be Good News.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-down-13-over-183500892.html",
-      "summary": "",
-      "published_at": "2026-07-05T18:35:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "url": "https://www.fool.com/investing/2026/07/05/nvidia-stock-down-over-last-month-good-news/?source=iedfolrf0000001",
+      "summary": "Nvidia's stock tends to outperform in times just like this.",
+      "published_at": "2026-07-05T18:15:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -229,15 +479,15 @@
       "score": 0.52
     },
     {
-      "id": "b0df8ab20f570cd5f453386a05d6b637830cfb0a",
+      "id": "8e72a4f98db1e04bf9a66df44cafe7c7ab27608b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
       "title": "Coca-Cola Is Crushing the Nasdaq and S&P 500 in 2026, but This Higher-Yield Dividend King Could Be an Even Better Stock to Buy for the Second Half of 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-crushing-nasdaq-p-182500106.html",
-      "summary": "",
-      "published_at": "2026-07-05T18:25:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "url": "https://www.fool.com/investing/2026/07/05/coca-cola-is-crushing-the-nasdaq-and-sp-500-in-202/?source=iedfolrf0000001",
+      "summary": "As the old adage goes, nothing lasts forever.",
+      "published_at": "2026-07-05T18:05:00+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -255,7 +505,7 @@
       "url": "https://www.fool.com/investing/2026/07/05/palantir-technologies-stock-could-soar-55-in-1-yea/?source=iedfolrf0000001",
       "summary": "Analysts believe that this AI software specialist is poised for solid gains over the coming year, but can it indeed deliver?",
       "published_at": "2026-07-05T17:49:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -279,7 +529,7 @@
       "url": "https://www.fool.com/investing/2026/07/05/nike-now-yields-more-than-coca-cola-which-dividend/?source=iedfolrf0000001",
       "summary": "Don't fall into a high-yield trap.",
       "published_at": "2026-07-05T15:30:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -297,7 +547,7 @@
       "url": "https://www.fool.com/investing/2026/07/05/prediction-this-energy-stock-will-make-you-a-lot/?source=iedfolrf0000001",
       "summary": "Bloom Energy surprised analysts with strong first-quarter revenue growth. That's just the start.",
       "published_at": "2026-07-05T15:15:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -305,48 +555,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "dfc8a1b37c4662de2994d8b5bf6231f2978a1722",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Thing That Could Send Meta Platforms Stock Soaring in 2026",
-      "url": "https://www.fool.com/investing/2026/07/05/1-thing-that-could-send-meta-platforms-stock-soar/?source=iedfolrf0000001",
-      "summary": "Meta Platforms trades at an incredible discount, and its growth is poised to accelerate.",
-      "published_at": "2026-07-05T14:00:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.97
-    },
-    {
-      "id": "ee4983b8b41f3c74b7fd4e01e1ce99ad21d0dcfe",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Wall Street Is Buzzing About Alphabet Joining the Dow. Income Investors Should Be Looking at This Stock Instead.",
-      "url": "https://www.fool.com/investing/2026/07/05/wall-street-is-buzzing-about-alphabet-joining-the/?source=iedfolrf0000001",
-      "summary": "Alphabet joined the Dow, but investors shouldn't take their eyes off Coca-Cola, one of the index's most dependable dividend names.",
-      "published_at": "2026-07-05T13:45:00+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
     },
     {
       "id": "8ad7bbd58f2ba156e6f51c7dfde9f299fa3b3c12",
@@ -357,7 +565,7 @@
       "url": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
       "summary": "With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging.",
       "published_at": "2026-07-05T12:30:01+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -375,7 +583,7 @@
       "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
       "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
       "published_at": "2026-07-04T01:04:34+00:00",
-      "first_seen_at": "2026-07-05T22:00:40.856401+00:00",
+      "first_seen_at": "2026-07-05T23:34:18.584104+00:00",
       "market": "US",
       "markets": [
         "US"
