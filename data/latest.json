@@ -1,35 +1,37 @@
 {
-  "generated_at": "2026-07-05T03:17:56.237244+00:00",
+  "generated_at": "2026-07-05T06:54:16.291354+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 21
+    "HK": 1,
+    "US": 22,
+    "CN": 1
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 6
+      "key": "macro",
+      "count": 8
     },
     {
-      "key": "macro",
-      "count": 5
+      "key": "company",
+      "count": 7
     },
     {
       "key": "capital",
       "count": 4
     },
     {
-      "key": "rating",
-      "count": 3
-    },
-    {
       "key": "ipo",
       "count": 2
     },
     {
-      "key": "guidance",
+      "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "earnings",
       "count": 1
     }
   ],
@@ -37,7 +39,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 22
     },
     {
       "site_id": "hk_china",
@@ -47,6 +49,66 @@
   ],
   "items": [
     {
+      "id": "f52332c7371acc0ac04f8ee52c0fdb0fedf80d69",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "银河证券：非农降温，港股迎来反弹？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3446641",
+      "summary": "",
+      "published_at": "2026-07-05T06:35:09+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "590e4b3e65ce0b7dd0c36421aded820bb9d1ca25",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is AMD Stock a Buy Before July 22?",
+      "url": "https://www.fool.com/investing/2026/07/05/is-amd-stock-a-buy-before-july-22/?source=iedfolrf0000001",
+      "summary": "AMD is hosting an artificial intelligence (AI) summit between July 22 and 23.",
+      "published_at": "2026-07-05T05:30:00+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "c6df3a9d5d248c59f71c277cd09fb20d661da8da",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "国信证券：A股伺机而上趋势不改 科技成长内部有望扩散",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3446615",
+      "summary": "",
+      "published_at": "2026-07-05T03:35:08+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
       "id": "62921af8092fc32c854f0034f41180be53131c21",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -55,7 +117,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/netflix-is-down-21-this-year-history-says-this-is/?source=iedfolrf0000001",
       "summary": "Netflix's stock has struggled in 2026, but the company's next growth chapter may already be taking shape behind the scenes.",
       "published_at": "2026-07-05T02:00:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -73,7 +135,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/spacex-is-set-to-join-the-nasdaq-100-on-july-7-her/?source=iedfolrf0000001",
       "summary": "Inclusion in the Nasdaq-100 is a big milestone for SpaceX, which recently went public.",
       "published_at": "2026-07-05T00:00:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -91,7 +153,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/strategy-major-shake-up-bitcoin-mstr-stock/?source=iedfolrf0000001",
       "summary": "The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.",
       "published_at": "2026-07-04T22:35:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -115,7 +177,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/chatgpt-maker-openai-is-headed-for-a-1-trillion-ip/?source=iedfolrf0000001",
       "summary": "The worst-performing \"Magnificent Seven\" stock of 2026 owns about a quarter of one of the biggest IPOs in the pipeline.",
       "published_at": "2026-07-04T21:50:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -133,7 +195,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/jpmorgan-chase-just-authorized-a-50-billion-buybac/?source=iedfolrf0000001",
       "summary": "JPMorgan Chase passed the Fed's bank stress test and is now returning more cash to shareholders, but its valuation is a bit of a worry.",
       "published_at": "2026-07-04T21:15:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -151,7 +213,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/07/04/which-is-the-better-high-dividend-etf-ishares-hdv-or-fidelity-s-fdvv/?source=iedfolrf0000001",
       "summary": "HDV favors defensive sectors like healthcare and energy, while FDVV emphasizes tech stocks. Which strategy suits your income goals?",
       "published_at": "2026-07-04T21:05:01+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -169,7 +231,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/why-july-could-be-a-big-month-for-amd-stock-invest/?source=iedfolrf0000001",
       "summary": "AMD has delivered impressive gains to investors in 2026, but its momentum has weakened over the past month.",
       "published_at": "2026-07-04T19:59:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -193,7 +255,7 @@
       "url": "https://www.fool.com/investing/2026/07/04/high-yield-dividend-stock-beat-sp500-nasdaq/?source=iedfolrf0000001",
       "summary": "Most investors are unaware of this stock, which is up 30% year to date.",
       "published_at": "2026-07-04T18:45:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -211,7 +273,7 @@
       "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
       "summary": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
       "published_at": "2026-07-04T18:19:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -229,7 +291,7 @@
       "url": "https://seekingalpha.com/news/4611506-sk-hynix-eyeing-05-fee-rate-in-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-04T17:01:56+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -247,7 +309,7 @@
       "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
       "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
       "published_at": "2026-07-04T01:04:34+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -255,6 +317,48 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
+    },
+    {
+      "id": "43ee027ff8722901e159c5b3015cf2295b074818",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "How Dell Technologies Inc.’s (DELL) AI Server Guidance Reset Is Driving Its Earnings Estimate Momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-ai-233035592.html",
+      "summary": "",
+      "published_at": "2026-07-03T23:30:35+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "DELL",
+          "name": "戴尔",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "a66d461f3b6c57bcc85213994ca872951a28bd62",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Fed's Warsh vows to 'disappoint' anyone who thinks he will tolerate inflation above 2%",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-hits-international-stage-peers-101241127.html",
+      "summary": "",
+      "published_at": "2026-07-03T23:26:39+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "1b8c30f423b110a7df66d880f33d3ab201eb46fa",
@@ -265,7 +369,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-good-stock-230106988.html",
       "summary": "",
       "published_at": "2026-07-03T23:01:06+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -289,7 +393,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-46-oracle-down-25-230002737.html",
       "summary": "",
       "published_at": "2026-07-03T23:00:02+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -299,28 +403,28 @@
       "score": 0.52
     },
     {
-      "id": "d986c1a1da116c269090cf16b869dee9faf49c69",
+      "id": "879403b47b7a6798f9686e1df935a072ae64a12e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Why Oracle Corporation’s (ORCL) Cloud Outlook Keeps AI Infrastructure at the Center of Its Estimate Story",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-oracle-corporation-orcl-cloud-215200216.html",
+      "title": "MicroStrategy Reportedly Sold More Bitcoin, But Market Didn’t React",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-reportedly-sold-more-bitcoin-223000105.html",
       "summary": "",
-      "published_at": "2026-07-03T21:52:00+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "published_at": "2026-07-03T22:30:00+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "ORCL",
-          "name": "甲骨文",
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
           "market": "US"
         }
       ],
-      "category": "guidance",
-      "score": 0.97
+      "category": "macro",
+      "score": 0.85
     },
     {
       "id": "e94e76206bfdb7aefac46a0d15540b81d84cf2b1",
@@ -331,7 +435,7 @@
       "url": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
       "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
       "published_at": "2026-07-03T18:58:32+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -349,7 +453,7 @@
       "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
       "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
       "published_at": "2026-07-03T18:16:43+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -367,7 +471,7 @@
       "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
       "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
       "published_at": "2026-07-03T15:51:06+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -385,7 +489,7 @@
       "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
       "summary": "The rise of AI and data centers is creating a large demand for energy, and many firms on Wall Street believe this company can capitalize on the trend.",
       "published_at": "2026-07-03T13:28:07+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -403,7 +507,7 @@
       "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
       "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
       "published_at": "2026-07-03T12:00:01+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
+      "first_seen_at": "2026-07-05T06:54:16.291354+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -411,54 +515,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.52
-    },
-    {
-      "id": "8b5d0e048843b3f20931b8ed98cd3ed365d4fce0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
-      "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
-      "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday.\nSpooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was prepari",
-      "published_at": "2026-07-03T06:28:31+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "ab31efcd52e4307179585a429247e5cc3d4c6bd1",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Hong Kong’s first Northern Metropolis pilot project draws only two bids",
-      "url": "https://www.scmp.com/business/article/3359263/henderson-sino-join-jdcom-bid-hong-kongs-first-northern-metropolis-pilot-project?utm_source=rss_feed",
-      "summary": "Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers.\nThe Development Bureau said it had received two bids by the tender’s noon deadline for the flagship Hung Shui Kiu project, making Henderson Land and Sino Land the onl",
-      "published_at": "2026-07-03T05:25:56+00:00",
-      "first_seen_at": "2026-07-05T03:17:56.237244+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "JD",
-          "name": "京东",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     }
   ]
 }
