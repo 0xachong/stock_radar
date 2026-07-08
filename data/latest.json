@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-07-08T18:16:23.370133+00:00",
+  "generated_at": "2026-07-08T20:02:49.395681+00:00",
   "window_hours": 48,
-  "total_items": 27,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
     "US": 22,
-    "HK": 5
+    "CN": 1,
+    "HK": 3
   },
   "category_stats": [
     {
@@ -15,11 +16,23 @@
     },
     {
       "key": "macro",
-      "count": 6
+      "count": 4
+    },
+    {
+      "key": "rating",
+      "count": 3
     },
     {
       "key": "ipo",
-      "count": 4
+      "count": 2
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "earnings",
+      "count": 1
     },
     {
       "key": "product",
@@ -28,21 +41,13 @@
     {
       "key": "guidance",
       "count": 1
-    },
-    {
-      "key": "earnings",
-      "count": 1
-    },
-    {
-      "key": "rating",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 21
+      "count": 20
     },
     {
       "site_id": "hk_china",
@@ -52,6 +57,90 @@
   ],
   "items": [
     {
+      "id": "8dfbdefaa852f77428ed184059fccab4f6a3e7d9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
+      "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
+      "published_at": "2026-07-08T19:47:03+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "d7b9dcab4e6e82a726a98d44dbe68c3eef3899b9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Alcoa and Vale slide as Morgan Stanley downgrades on metal supply surplus, lower prices",
+      "url": "https://seekingalpha.com/news/4612402-alcoa-and-vale-slide-as-morgan-stanley-downgrades-on-metal-supply-surplus-lower-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-07-08T19:34:06+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "e5115f177d7f71243f8241283188343b1d7994a0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
+      "url": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
+      "summary": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.",
+      "published_at": "2026-07-08T19:33:37+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.52
+    },
+    {
+      "id": "26265e0220c0cd2836bd94d6126b8f71d04fe505",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "英伟达股价今日为何大涨？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3452528",
+      "summary": "",
+      "published_at": "2026-07-08T19:19:34+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
       "id": "dba0a414c6d9c4839ac9d1904b835a5a30951f9b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -59,8 +148,8 @@
       "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
       "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
       "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
-      "published_at": "2026-07-08T18:09:40+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "published_at": "2026-07-08T19:05:47+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -70,6 +159,72 @@
       "score": 0.52
     },
     {
+      "id": "9bd25ab29e3d43763ba59dce73f676ab90065075",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Mark Zuckerberg's Meta Is Entering What Could Be a $2 Trillion Cloud Market. CoreWeave Stock Fell 14% on the News.",
+      "url": "https://www.fool.com/investing/2026/07/08/mark-zuckerberg-meta-cloud-stock-coreweave/?source=iedfolrf0000001",
+      "summary": "CoreWeave is at risk of losing a customer and gaining a competitor.",
+      "published_at": "2026-07-08T18:46:00+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "c7d67ee9792674676e5507067b6ffaec532deb05",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "国产第一DRAM厂商长鑫科技(688825.SH)拟科创板IPO 预计上半年净利润660亿至750亿元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3452511",
+      "summary": "",
+      "published_at": "2026-07-08T18:35:08+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
+    },
+    {
+      "id": "f339c9f7d491cabca828f6eaf018adf7e84cdd77",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is the \"Magnificent Seven's\" Plan to Spend $700 Billion on AI Capex in 2026 Going to Lead to an Overbuild? Meta's CEO Mark Zuckerberg May Have Just Revealed the Answer.",
+      "url": "https://www.fool.com/investing/2026/07/08/is-the-magnificent-sevens-plan-to-spend-700-billio/?source=iedfolrf0000001",
+      "summary": "Hyperscalers are spending massively on infrastructure to power the artificial intelligence revolution.",
+      "published_at": "2026-07-08T18:33:00+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
       "id": "7bcaf7a840cc99dde3524da3b162d8aee7838ce8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -77,8 +232,8 @@
       "title": "A ‘few’ Fed officials said there was a case for a rate hike in June, minutes from Warsh’s first meeting show",
       "url": "https://www.marketwatch.com/story/a-few-fed-officials-said-there-was-a-case-for-a-rate-hike-in-june-minutes-from-warshs-first-meeting-show-bc302ead?mod=mw_rss_topstories",
       "summary": "A “few” Federal Reserve officials said there was a case for raising interest rates in June, according to minutes released Wednesday from the central bank’s meeting last month.",
-      "published_at": "2026-07-08T18:07:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "published_at": "2026-07-08T18:22:00+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,22 +243,28 @@
       "score": 0.64
     },
     {
-      "id": "23f68fc811fd7054f1e551f66a8d78c722bddbec",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "SMAG移动天线桅杆公司IPO定价为每股€46",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3452497",
-      "summary": "",
-      "published_at": "2026-07-08T17:47:45+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "HK",
+      "id": "88c010bffe429ba7b7e429eec483a6a352d2d389",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Wall Street Analyst Sees 30% Upside in Palantir. Is It Time to Buy the Stock?",
+      "url": "https://www.fool.com/investing/2026/07/08/this-wall-street-analyst-sees-30-upside-palantir/?source=iedfolrf0000001",
+      "summary": "Should investors be bullish on Palantir stock despite its lofty valuation?",
+      "published_at": "2026-07-08T18:01:00+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
     },
     {
       "id": "4ed23647db3375908635c4e8d08178b653327957",
@@ -114,7 +275,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/microsoft-downsizing-xbox-unit-rescue-stock/?source=iedfolrf0000001",
       "summary": "Xbox was the company's worst-performing unit in the third quarter of fiscal 2026.",
       "published_at": "2026-07-08T17:45:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -132,7 +293,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/why-palantir-technologies-stock-just-dropped/?source=iedfolrf0000001",
       "summary": "Palantir is selling off again, but does it deserve to?",
       "published_at": "2026-07-08T17:35:43+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -148,108 +309,6 @@
       "score": 0.97
     },
     {
-      "id": "0ba0b84777c4d98654d2bd11e0024104a84252eb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta is staring down $1.4T in lawsuit over teen mental health — one of the largest corporate penalties ever proposed",
-      "url": "https://finance.yahoo.com/technology/articles/meta-staring-down-1-4t-173432639.html",
-      "summary": "",
-      "published_at": "2026-07-08T17:34:32+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 1.0
-    },
-    {
-      "id": "2aa9e0bcdf81e69df384ce0c1cf6ece3762f6ce9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Treasury Yields Surge As Markets Bet Warsh Fed Will Hike Rates",
-      "url": "https://www.investors.com/news/federal-reserve-treasury-yields-fomc-minutes-june-kevin-warsh-sp-500/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-08T17:33:35+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "27106daa503682d67eebc821a07d799697b4d6f6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls As U.S.-Iran Ceasefire Breaks Down; S&P Slips Below Key Line (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-ceasefire-micron-sandisk/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-08T17:19:28+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "1c341f42600e4ff3dfa1cb369234e383149be5cc",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Bloom Energy股价暴跌逾12%，做空机构质疑其供应链声明",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3452489",
-      "summary": "",
-      "published_at": "2026-07-08T17:15:05+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "31429cdf57a9a62ab21da79a8eb212577f7de574",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "The Street is divided over Meta's latest gamble. Here's where we land",
-      "url": "https://www.cnbc.com/2026/07/08/the-street-is-divided-over-metas-latest-gamble-heres-where-we-land.html",
-      "summary": "Let's explore the bull case and the bear case on Meta Platforms' plans for a cloud business.",
-      "published_at": "2026-07-08T17:07:04+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
       "id": "77f66e04bb6b0fb007d62353f6d2a2e9a75ea4e6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -258,7 +317,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/dow-jones-drops-14-as-trump-calls-iran-deal-over/?source=iedfolrf0000001",
       "summary": "Oil surged and stocks slid after the president's comments at a NATO summit, while semiconductor stocks staged a quiet recovery.",
       "published_at": "2026-07-08T16:59:24+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -276,7 +335,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/07/08/stock-market-today-july-8-stocks-slide-and-dow-drops-1-5-as-middle-east-tensions-spike/?source=iedfolrf0000001",
       "summary": "On July 8, 2026, a reescalation of U.S.-Iran tensions sent crude surging and equities tumbling across all three major indexes.",
       "published_at": "2026-07-08T16:22:35+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +353,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/sk-hynixs-28-billion-nasdaq-listing-would-be-the-s/?source=iedfolrf0000001",
       "summary": "A memory giant that supplies the AI boom is about to become a U.S.-traded stock.",
       "published_at": "2026-07-08T16:07:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +371,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/can-meta-platforms-become-a-neocloud-dont-hold-you/?source=iedfolrf0000001",
       "summary": "Meta Platforms is several years away from providing neocloud services, while neocloud pure plays are rapidly expanding their gigawatt pipelines.",
       "published_at": "2026-07-08T16:01:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -328,24 +387,6 @@
       "score": 0.85
     },
     {
-      "id": "516d9b36feee6763e3b20ee483fd087737bae400",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX stock hovers at IPO opening price as rival Blue Origin seeks $10 billion in fresh funding",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-hovers-at-ipo-opening-price-as-rival-blue-origin-seeks-10-billion-in-fresh-funding-155049263.html",
-      "summary": "",
-      "published_at": "2026-07-08T15:50:49+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
       "id": "4d5a9041a3df91210a354474a93c238c84eea77e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -354,7 +395,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/low-cost-etf-not-the-same-as-buying-the-dow/?source=iedfolrf0000001",
       "summary": "Instead of buying the 30 stocks of the Dow Jones Industrial Average, this ETF offers exposure to nearly 2,500 stocks.",
       "published_at": "2026-07-08T15:30:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -372,7 +413,7 @@
       "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
       "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
       "published_at": "2026-07-08T14:28:30+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -390,7 +431,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/mark-zuckerbergs-meta-stock-surged-9-on-new-cloud/?source=iedfolrf0000001",
       "summary": "The social media giant could be poised for a longer rally.",
       "published_at": "2026-07-08T14:10:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -414,7 +455,7 @@
       "url": "https://www.fool.com/investing/2026/07/08/should-you-buy-asml-holding-stock-before-july-15/?source=iedfolrf0000001",
       "summary": "The incredible demand for advanced chips could help ASML deliver better-than-expected quarterly numbers and guidance.",
       "published_at": "2026-07-08T13:29:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -422,66 +463,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.61
-    },
-    {
-      "id": "e76aca0df3648886bfdf445e799b0714b445879f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Vanguard VXUS vs. iShares IXUS: Which ETF Wins This International Showdown?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/08/vanguard-vxus-vs-ishares-ixus-which-etf-wins-this-international-showdown/?source=iedfolrf0000001",
-      "summary": "VXUS holds 8,738 stocks with lower costs; IXUS offers a higher yield and tighter focus on 4,337 holdings. Which ETF suits your portfolio?",
-      "published_at": "2026-07-08T12:15:01+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "70b10f15b330033a20ff127fefe3dfa9e966f222",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Battered Artificial Intelligence (AI) Stocks Due for a Massive Summer Rebound",
-      "url": "https://www.fool.com/investing/2026/07/08/2-battered-artificial-intelligence-ai-stocks-due/?source=iedfolrf0000001",
-      "summary": "Microsoft and Meta Platforms could see a major rally to end 2026.",
-      "published_at": "2026-07-08T12:15:00+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "9132fa7fb498a1971e900d29532deb69d6f8d4b8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "United Parcel Service vs. FedEx: What Their Revenue Trends Tell Investors",
-      "url": "https://www.fool.com/coverage/charts/2026/07/08/united-parcel-service-vs-fedex-what-their-revenue-trends-tell-investors/?source=iedfolrf0000001",
-      "summary": "FedEx's steady expansion stands in sharp contrast to UPS's quarterly volatility — and the gap is widening.",
-      "published_at": "2026-07-08T12:14:01+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
     },
     {
       "id": "d22337b6a457b7d31099cab55c499d5877f98e34",
@@ -492,7 +473,7 @@
       "url": "https://www.scmp.com/business/markets/article/3359806/hong-kong-stocks-rebound-concerns-ease-over-lock-expiries?utm_source=rss_feed",
       "summary": "Hong Kong stocks closed on a sharp high on Wednesday, led by technology shares, as concerns over a wave of post-IPO lock-up expiries eased after newly unlocked shares were absorbed into the market without triggering a sell-off.\nThe benchmark Hang Seng Index finished the session up 3 per cent, while the Hang Seng Tech Index heavily outpaced the broader market, surging around 5 per cent to 4,731.\nTh",
       "published_at": "2026-07-08T04:37:05+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -502,22 +483,46 @@
       "score": 0.65
     },
     {
-      "id": "5c9115b0fcf7dee5a024c28726c1bd11a0f627e3",
+      "id": "f1e84d05c3075b4d3c13a07f00e2ba493493a674",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq pares losses, Dow and S&P 500 fall as oil jumps amid US-Iran tensions",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-dow-sp-nasdaq-fall-oil-rise-230111117.html",
+      "title": "After Plummeting 27% in 2026, Is Palantir Stock Finally a Buy? 3 Words From Palantir CEO Alex Karp May Reveal the Answer",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/plummeting-27-2026-palantir-stock-110500394.html",
       "summary": "",
-      "published_at": "2026-07-07T23:01:11+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "published_at": "2026-07-07T11:05:00+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "33c035a9b8904e35a59163437ca52b0529fb669f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nasdaq Futures Plunge as Samsung Sparks Chip Selloff",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-samsung-sparks-102926965.html",
+      "summary": "",
+      "published_at": "2026-07-07T10:29:26+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.52
     },
     {
       "id": "9e509a9f9e58572cfc29842765834409127881d0",
@@ -528,7 +533,7 @@
       "url": "https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end?utm_source=rss_feed",
       "summary": "Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and MiniMax.\nMeanwhile analysts warned of rising fears of a drain on liquidity as many of the same companies were eyeing large secondary share placements.\nThe market was facing dual se",
       "published_at": "2026-07-07T07:00:06+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -546,7 +551,7 @@
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3359669/singapore-named-worlds-most-expensive-city-luxury-spending-4th-year-running?utm_source=rss_feed",
       "summary": "Singapore is the world’s most expensive city for luxury spending for a fourth consecutive year, as prices on items such as watches and jewellery surge around the globe.\nZurich climbed to second place, edging out London, while Monaco entered the top three for the first time since the survey began in 2020, according to an annual report by Swiss wealth manager Julius Baer Group. Hong Kong and London ",
       "published_at": "2026-07-07T03:07:47+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -570,7 +575,7 @@
       "url": "https://www.scmp.com/business/markets/article/3359651/hong-kongs-gold-clearing-and-settlement-firm-joins-shanghai-exchange?utm_source=rss_feed",
       "summary": "Hong Kong inaugurated the trial operation of a gold clearing and settlement system on Tuesday, a step towards building the city into a trading hub and price-setter for the precious metal.\nThe decision was announced at the Hong Kong FIC & Bond Connect Summit by Chief Executive John Lee Ka-chiu, who hailed it as a “milestone”.\n“The government-owned Hong Kong Precious Metals Central Clearing [Company",
       "published_at": "2026-07-07T00:30:17+00:00",
-      "first_seen_at": "2026-07-08T18:16:23.370133+00:00",
+      "first_seen_at": "2026-07-08T20:02:49.395681+00:00",
       "market": "US",
       "markets": [
         "US"
