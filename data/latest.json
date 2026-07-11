@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T10:13:20.796294+00:00",
+  "generated_at": "2026-07-11T11:29:37.061619+00:00",
   "window_hours": 48,
-  "total_items": 35,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 32,
+    "US": 26,
     "HK": 3
   },
   "category_stats": [
@@ -15,26 +15,26 @@
     },
     {
       "key": "macro",
-      "count": 7
+      "count": 5
     },
     {
       "key": "ipo",
       "count": 5
     },
     {
-      "key": "rating",
-      "count": 5
+      "key": "product",
+      "count": 2
     },
     {
-      "key": "product",
-      "count": 3
+      "key": "earnings",
+      "count": 2
     },
     {
       "key": "capital",
       "count": 1
     },
     {
-      "key": "earnings",
+      "key": "rating",
       "count": 1
     },
     {
@@ -46,7 +46,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 31
+      "count": 25
     },
     {
       "site_id": "hk_china",
@@ -56,28 +56,22 @@
   ],
   "items": [
     {
-      "id": "7b9cd35865c229e93e52fd57f2ddf27f8adf06cf",
+      "id": "3b20db71c3c9ae8e94204e14a879415b9914fbfd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Strategy Says It Might Sell Up to $1.25 Billion in Bitcoin. So Is MSTR a Buy, Sell, or Hold Right Now?",
-      "url": "https://www.fool.com/investing/2026/07/11/strategy-says-it-might-sell-up-to-125-billion-in-b/?source=iedfolrf0000001",
-      "summary": "Strategy was all in on Bitcoin until Bitcoin's price fell dramatically.",
-      "published_at": "2026-07-11T09:15:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
+      "url": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
+      "summary": "Kevin Warsh will testify before Congress for the first time as Fed chair this week. Lawmakers will want answers.",
+      "published_at": "2026-07-11T11:00:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "MSTR",
-          "name": "MicroStrategy",
-          "market": "US"
-        }
-      ],
+      "tickers": [],
       "category": "macro",
-      "score": 0.85
+      "score": 0.52
     },
     {
       "id": "1c160936878cd6c49e5aa2e52d3d0e1e9f323809",
@@ -88,7 +82,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3456649",
       "summary": "",
       "published_at": "2026-07-11T08:35:08+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -106,7 +100,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3456639",
       "summary": "",
       "published_at": "2026-07-11T07:35:08+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -114,30 +108,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.52
-    },
-    {
-      "id": "053b47ccd13c085fbff4796cfa2bd800a868e83d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
-      "url": "https://www.fool.com/investing/2026/07/11/intel-and-amds-stock-have-plummeted-in-the-last-fe/?source=iedfolrf0000001",
-      "summary": "AMD and Intel investors have enjoyed incredible gains so far in 2026.",
-      "published_at": "2026-07-11T07:15:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "692640a367a400e08df733ce8b6dbba445d67b95",
@@ -148,7 +118,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3456636",
       "summary": "",
       "published_at": "2026-07-11T07:06:07+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,126 +126,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.8
-    },
-    {
-      "id": "2f3d99ce56de1036bcdd2ad7204d0f02cd39a4c2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SpaceX Stock Just Received Its Highest Price Target Yet. Here's What a $10,000 Investment Would Be Worth if This Insanely Bullish Wall Street Analyst Is Right.",
-      "url": "https://www.fool.com/investing/2026/07/11/spacex-stock-just-received-its-highest-price-targe/?source=iedfolrf0000001",
-      "summary": "Fifteen Wall Street analysts recently initiated coverage on SpaceX.",
-      "published_at": "2026-07-11T06:15:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "c5001e1cd2c4ddc39d45c8825c4d0923c13623ef",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
-      "url": "https://www.fool.com/investing/2026/07/11/the-2-magnificent-seven-stocks-with-the-most-upsid/?source=iedfolrf0000001",
-      "summary": "Wall Street's bullish sentiment looks justified in these cases.",
-      "published_at": "2026-07-11T04:15:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "3dbeb12e49e44f20cb1260a92b0517d9e5410ba2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/07/10/advanced-micro-devices-vs-texas-instruments-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "AMD chases AI growth with concentrated risk, while TXN's diversified portfolio trades at a cheaper valuation. Which risk-reward profile fits your 2026 strategy?",
-      "published_at": "2026-07-11T03:16:12+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.97
-    },
-    {
-      "id": "39109ee3898c07c69b6d2e8bad59c5dfbb29d4a5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
-      "url": "https://www.fool.com/investing/2026/07/10/mark-zuckerberg-is-turning-meta-into-a-bigger-chip/?source=iedfolrf0000001",
-      "summary": "A reported September production date hints at how the company plans to get more out of its massive AI budget.",
-      "published_at": "2026-07-11T02:41:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "cbf66ae053c03d212f54a8d99e298bb9cfb277bd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Gulfport Energy Stock Flopped on Friday",
-      "url": "https://www.fool.com/investing/2026/07/10/why-gulfport-energy-stock-flopped-on-friday/?source=iedfolrf0000001",
-      "summary": "An analyst chopped his price target on the company's shares.",
-      "published_at": "2026-07-10T23:56:06+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.61
-    },
-    {
-      "id": "6f6053d9cd5f8d48120e408ef4678c868a18a4a2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Circle Just Won a U.S. National Bank Charter. Here's Why It Matters for the Stock.",
-      "url": "https://www.fool.com/investing/2026/07/10/circle-just-won-a-us-national-bank-charter-heres-w/?source=iedfolrf0000001",
-      "summary": "The stablecoin issuer just got a federal stamp of legitimacy. The stock's problem, however, lies elsewhere.",
-      "published_at": "2026-07-10T23:31:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "f0cb95e0a00d7104dab9942cda80360903d3f716",
@@ -286,7 +136,7 @@
       "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
       "summary": "Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.",
       "published_at": "2026-07-10T22:24:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -310,7 +160,7 @@
       "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
       "summary": "The South Korean memory-chip company’s new American depositary receipts began trading on Friday and logged gains of nearly 13%.",
       "published_at": "2026-07-10T22:18:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -328,7 +178,7 @@
       "url": "https://seekingalpha.com/news/4613037-janus-research-wins-200m-army-contract-for-research-support-services?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-10T22:06:19+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -344,30 +194,6 @@
       "score": 0.85
     },
     {
-      "id": "6d52451428ae0e1be1eb233862989e057faf2151",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Reasons I Think Meta Platforms is a Screaming Buy Right Now",
-      "url": "https://www.fool.com/investing/2026/07/10/3-reasons-i-think-meta-platforms-is-a-screaming-bu/?source=iedfolrf0000001",
-      "summary": "The company's AI strategy is beginning to pay dividends.",
-      "published_at": "2026-07-10T22:02:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "capital",
-      "score": 0.97
-    },
-    {
       "id": "fa72308cd692e5780dd0ef8c3f734fbe48270824",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -376,7 +202,7 @@
       "url": "https://seekingalpha.com/news/4613035-frontier-nuclear-gets-nasdaq-non-compliance-notice-over-missing-form-6-k-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-10T21:56:08+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -394,7 +220,7 @@
       "url": "https://seekingalpha.com/news/4613032-metaplanet-launches-project-nova-to-build-bitcoin-backed-digital-credit-products?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-10T21:45:41+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -418,7 +244,7 @@
       "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
       "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
       "published_at": "2026-07-10T20:34:32+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -436,7 +262,7 @@
       "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
       "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
       "published_at": "2026-07-10T20:25:11+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -454,7 +280,7 @@
       "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
       "summary": "Meta released two AI models this week as part of its new Muse Spark family, under the leadership of Alexandr Wang.",
       "published_at": "2026-07-10T20:06:19+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -470,24 +296,6 @@
       "score": 0.97
     },
     {
-      "id": "69f800bfa0cc397ed13d20db4a949f86d37a37e8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Buy these dividend-paying real estate stocks ahead of earnings, says UBS",
-      "url": "https://www.cnbc.com/2026/07/10/buy-these-dividend-paying-real-estate-stocks-ahead-of-earnings-says-ubs.html",
-      "summary": "Senior housing and skilled nursing facilities are enjoying healthy fundamentals, UBS said.",
-      "published_at": "2026-07-10T19:41:14+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "280501e58c6521f03b04ca870519aa88b143f17a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -496,7 +304,7 @@
       "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
       "summary": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
       "published_at": "2026-07-10T19:30:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -504,24 +312,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "ae716c3850ee46903f55b4da3f65a1076e1c52d0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
-      "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
-      "summary": "The Federal Reserve likely will take back all the 2025 ‘insurance cuts’ or not raise interest rates at all, according to RBC Wealth Management.",
-      "published_at": "2026-07-10T19:02:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "96e06e3732be50dda135caf8d8b834dad795f847",
@@ -532,7 +322,7 @@
       "url": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
       "summary": "Meta Platform's AI efforts are looking like the recipe for a comeback after an almost year-long drought in shares of the $1.7 trillion market-cap company.",
       "published_at": "2026-07-10T17:40:29+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -556,7 +346,7 @@
       "url": "https://www.cnbc.com/2026/07/10/a-micron-options-trade-is-a-play-on-sk-hynix-listing-jeff-kilburg-says.html",
       "summary": "MU options saw massive activity Friday, indicating heavy hedging or directional bets as the memory chip trade repositions.",
       "published_at": "2026-07-10T17:27:10+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -580,13 +370,31 @@
       "url": "https://www.cnbc.com/2026/07/10/beta-evtol-air-taxi-trump-program.html",
       "summary": "Beta is one of several electric air taxi makers racing to secure Federal Aviation Administration certification and start flying passengers commercially.",
       "published_at": "2026-07-10T17:07:11+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "3c1e1a1d0c4e2d6ae661479cac727fd9a11738d3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Alphabet Is the Dow's Newest Member. This One Has Been Raising Its Dividend Since Before Google Existed.",
+      "url": "https://www.fool.com/investing/2026/07/10/alphabet-is-the-dows-newest-member-this-one-has-be/?source=iedfolrf0000001",
+      "summary": "Before Alphabet's founders were in diapers, this Dow component had already been hiking its dividend for over a decade.",
+      "published_at": "2026-07-10T16:05:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
       "score": 0.52
     },
     {
@@ -598,7 +406,7 @@
       "url": "https://www.cnbc.com/2026/07/10/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
       "summary": "Stocks futures are flat after Thursday's rally, while SK Hynix is set to debut on the Nasdaq.",
       "published_at": "2026-07-10T13:30:28+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -616,7 +424,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3360165/shein-receives-approval-hong-kong-ipo-chinese-regulators?utm_source=rss_feed",
       "summary": "Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong, a long-awaited step for the firm after its attempts to list in New York or London stalled.\nThe firm plans to issue up to 341.6 million shares and list on the Hong Kong stock exchange, according to a Friday statement by the CSRC.\nShei",
       "published_at": "2026-07-10T11:42:20+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -626,15 +434,15 @@
       "score": 0.65
     },
     {
-      "id": "89b6755095433c62bf86208ddbef5f01162e07fb",
+      "id": "4cc3107aa027b6b7fde757b173c80f34722ff22e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "2 Magnificent Artificial Intelligence (AI) Stocks Down 16% to 28% to Buy Hand Over Fist",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-magnificent-artificial-intelligence-ai-083500401.html",
-      "summary": "",
-      "published_at": "2026-07-10T08:35:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "source": "The Motley Fool",
+      "title": "Meet the 7%-Yielding Stock That's Down 20%. Here's Why Investors Should Take a Closer Look.",
+      "url": "https://www.fool.com/investing/2026/07/10/meet-the-7-yielding-stock-thats-down-20-heres-why/?source=iedfolrf0000001",
+      "summary": "Campbell's is cutting costs and innovating to improve its overall business.",
+      "published_at": "2026-07-10T10:08:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -644,15 +452,15 @@
       "score": 0.52
     },
     {
-      "id": "c1d0c01c086f193b9e869a7033ec1aa9d4fc8b8f",
+      "id": "1a970f8dd3a591bc90e514586411c69493ede6c3",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "US stocks rise as Wall Street shows it's still hungry for AI winners",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-climb-oil-prices-065936283.html",
+      "title": "SpaceX Lands on the Nasdaq-100: What Comes Next for Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-lands-nasdaq-100-comes-094900739.html",
       "summary": "",
-      "published_at": "2026-07-10T06:59:36+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "published_at": "2026-07-10T09:49:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -662,100 +470,130 @@
       "score": 0.52
     },
     {
-      "id": "58dcc5fb612d2b28e02bd5e06d0428f1996b82ea",
+      "id": "1e0926c0f9ee7b5fd6f18edfcc82d52fde502d85",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-increases-advanced-micro-065817979.html",
+      "title": "U.S. Futures Cautious Ahead of Earnings Season as Markets Monitor Geopolitical Risks: Dow Jones, S&P, Nasdaq, Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-cautious-ahead-earnings-094816578.html",
       "summary": "",
-      "published_at": "2026-07-10T06:58:17+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "published_at": "2026-07-10T09:48:16+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
     },
     {
-      "id": "2cf972ee4227fdbe33c0cab38fcc0ab9397eb4af",
+      "id": "d19beeeae2b70d71cbb1fabbac8705bd216aabb0",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Micron (MU) Buy Rating Reiterated by Bernstein",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-buy-rating-reiterated-065815027.html",
+      "title": "After Laying Off 3,200 Employees, Xbox CEO Joins the Fed’s Jobs Task Force",
+      "url": "https://finance.yahoo.com/economy/policy/articles/laying-off-3-200-employees-094703722.html",
       "summary": "",
-      "published_at": "2026-07-10T06:58:15+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "published_at": "2026-07-10T09:47:03+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "MU",
-          "name": "美光",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
-      "id": "aa977f36563711bc7be2cbf2dcbfb2896a91cd11",
+      "id": "9bfa6d9629e49fe1f4b818722c29f71e5322f62b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Apple Announces $30 billion Multi-year Chip Deal With Broadcom (AVGO)",
-      "url": "https://finance.yahoo.com/technology/articles/apple-announces-30-billion-multi-065814718.html",
+      "title": "Raymond James Sets Wall Street's Highest Price Target on SpaceX Stock at $800. Here's the Math Behind the 425% Upside Call.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-sets-wall-streets-094000466.html",
       "summary": "",
-      "published_at": "2026-07-10T06:58:14+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "published_at": "2026-07-10T09:40:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "AVGO",
-          "name": "博通",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
     },
     {
-      "id": "2dad857252f8c28829eee803d0cc1d99d8a91088",
+      "id": "d82198b3191ca8718469b7bcc1ce5d0615e2cde2",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Bank of America Securities Reiterates Buy Rating on Nvidia (NVDA)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-securities-reiterates-buy-065812878.html",
-      "summary": "",
-      "published_at": "2026-07-10T06:58:12+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "source": "The Motley Fool",
+      "title": "Pepsi Reported Higher Revenue and Earnings. So Why Is the High-Yield Dividend Stock Hovering Around a 52-Week Low?",
+      "url": "https://www.fool.com/investing/2026/07/09/pepsi-reported-higher-revenue-and-earnings-so-why-is-the-high-yield-dividend-stock-hovering-around-a-52-week-low/?source=iedfolrf0000001",
+      "summary": "The company also topped analyst estimates, but that clearly wasn't good enough for Mr. Market.",
+      "published_at": "2026-07-09T22:24:42+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "f44bd0ce5683c97be2794a0c1bc80ca415709f77",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Briefly Dropped Out of the $2 Trillion Club This Week. Here's My Top Buy of the 6 Stocks That Are Secure Members.",
+      "url": "https://www.fool.com/investing/2026/07/09/spacex-briefly-dropped-out-of-the-2-trillion-club/?source=iedfolrf0000001",
+      "summary": "Amazon already has a dominant position in cloud computing, but its stock is down 11% from its all-time high.",
+      "published_at": "2026-07-09T20:59:08+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
-      "category": "rating",
-      "score": 0.85
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "f82acdf8ffb6a701a387a2c1811426e186dd8617",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "While Wall Street Worries, This Cheap Warren Buffett Consumer Stock Is a Screaming Buy",
+      "url": "https://www.fool.com/investing/2026/07/09/while-wall-street-worries-this-cheap-buffett/?source=iedfolrf0000001",
+      "summary": "This Berkshire Hathaway holding should reward patient investors.",
+      "published_at": "2026-07-09T14:30:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "a0d34d28513177c289a15676b138b156df11273c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Disney Before the End of July?",
+      "url": "https://www.fool.com/investing/2026/07/09/should-you-buy-disney-before-the-end-of-july/?source=iedfolrf0000001",
+      "summary": "Wall Street is bullish on Disney, but the stock continues to struggle.",
+      "published_at": "2026-07-09T14:15:00+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "53e36471c16af08e87a41a7f75378497436f29ca",
@@ -766,7 +604,7 @@
       "url": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
       "summary": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
       "published_at": "2026-07-09T11:44:00+00:00",
-      "first_seen_at": "2026-07-11T10:13:20.796294+00:00",
+      "first_seen_at": "2026-07-11T11:29:37.061619+00:00",
       "market": "US",
       "markets": [
         "US"
