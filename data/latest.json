@@ -1,36 +1,32 @@
 {
-  "generated_at": "2026-07-12T17:10:26.359707+00:00",
+  "generated_at": "2026-07-12T18:26:45.249676+00:00",
   "window_hours": 48,
-  "total_items": 31,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 30,
+    "US": 25,
     "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 20
+      "count": 14
+    },
+    {
+      "key": "rating",
+      "count": 6
     },
     {
       "key": "macro",
       "count": 4
     },
     {
-      "key": "rating",
-      "count": 3
-    },
-    {
       "key": "earnings",
-      "count": 2
-    },
-    {
-      "key": "guidance",
       "count": 1
     },
     {
-      "key": "product",
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -38,7 +34,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 27
+      "count": 22
     },
     {
       "site_id": "hk_china",
@@ -48,15 +44,189 @@
   ],
   "items": [
     {
-      "id": "810ed0343cfded1ebdc32e1f9595c3b2a6ebf636",
+      "id": "94fc102c94a851ffb1db1a914899d8b8c565e9d0",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "$10,000 Invested in Mark Zuckerberg's Meta a Decade Ago Is Worth This Much Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-invested-mark-zuckerbergs-163300912.html",
+      "title": "NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvro-metals-partners-hecla-mining-075953955.html",
       "summary": "",
-      "published_at": "2026-07-12T16:33:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "published_at": "2026-07-12T17:26:53+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "26f959bf4d8276ec901bcf72bd721d2f614cb1ec",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html",
+      "summary": "",
+      "published_at": "2026-07-12T17:25:45+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "a1839d75f7654242cfbab35a0de33f853a408555",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Has Officially Joined the Nasdaq-100. Here Are 3 Better Nasdaq-100 Stocks to Buy in July.",
+      "url": "https://www.fool.com/investing/2026/07/12/spacex-has-officially-joined-the-nasdaq-100-here-a/?source=iedfolrf0000001",
+      "summary": "These overlooked consumer stocks could offer investors more dependable paths to long-term returns than the newly public megacap.",
+      "published_at": "2026-07-12T17:12:00+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "d038096b560c811eccc455e4d15ecb50d02cba1f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street Is Bullish on 1 of These Chip Stocks and Bearish on the Other",
+      "url": "https://www.fool.com/investing/2026/07/12/wall-street-bullish-on-one-chip-stock-and-bearish/?source=iedfolrf0000001",
+      "summary": "Wall Street's biggest banks are split on two AI chip stocks. Here's why they're backing Marvell Technology while remaining cautious on Intel.",
+      "published_at": "2026-07-12T16:58:00+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "d68c7ec3d61498c2663f2d6ecf35145a12b30390",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Here’s Why NVIDIA (NVDA) is One of the Best Quality Stocks to Buy According to Wall Street Analysts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-one-best-124242223.html",
+      "summary": "",
+      "published_at": "2026-07-12T16:47:42+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "7a8047314900b1a475fe653e816f39686beea835",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Abercrombie & Fitch (ANF): Best Quality Stocks to Buy According to Wall Street Analysts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-anf-best-quality-124315867.html",
+      "summary": "",
+      "published_at": "2026-07-12T16:40:15+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "3ea31ab09635512aaf3c79e4f7ea188dbb4c02d6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Qualcomm (QCOM) is One of the Best Quality Stocks to Buy According to Wall Street Analysts?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-one-best-quality-124410921.html",
+      "summary": "",
+      "published_at": "2026-07-12T16:38:10+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "75a67cf26a28b8bc0d73d429b284d163f81c38d8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "PepsiCo (PEP) is One of the Best Quality Stocks to Buy According to Wall Street Analysts, Here’s Why",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-one-best-quality-124400129.html",
+      "summary": "",
+      "published_at": "2026-07-12T16:38:00+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "d40cf0d99a1ea720a7d85256595e2d59b49865d7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "$10,000 Invested in Mark Zuckerberg's Meta a Decade Ago Is Worth This Much Today",
+      "url": "https://www.fool.com/investing/2026/07/12/10000-invested-in-mark-zuckerbergs-meta-a-decade-a/?source=iedfolrf0000001",
+      "summary": "A look at what a decade of patience in the social media giant actually paid.",
+      "published_at": "2026-07-12T16:13:00+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -80,7 +250,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3456880",
       "summary": "",
       "published_at": "2026-07-12T16:05:08+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -98,7 +268,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/palantir-could-hit-400-billion-market-cap/?source=iedfolrf0000001",
       "summary": "An expanding AI platform makes the $400 billion market cap case compelling, but Palantir investors still need to watch the risks.",
       "published_at": "2026-07-12T15:45:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -122,7 +292,7 @@
       "url": "https://seekingalpha.com/news/4613066-fed-hike-risk-could-test-stocks-despite-strong-earnings-outlook-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-12T15:31:21+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -140,7 +310,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/why-this-could-be-worst-time-buy-spacex-stock/?source=iedfolrf0000001",
       "summary": "The price is down, the macro picture is shaky, and there's something else going on, too.",
       "published_at": "2026-07-12T15:15:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -148,54 +318,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "d945a81b82d98271a890ad7db64d60745da2dde9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta Platforms Inc. (META) Is A Top AI Stock In D. E. Shaw’s Holdings",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-140450076.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:04:50+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "4a84d7ad732e31c6996bfd62320c13f155b676bb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw’s Holdings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-top-140443853.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:04:43+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MU",
-          "name": "美光",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "7a145675bff268f44639abb51d65a3828f0b3eec",
@@ -206,7 +328,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3456864",
       "summary": "",
       "published_at": "2026-07-12T14:01:47+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,174 +336,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.76
-    },
-    {
-      "id": "840df3b1ab1de55987b6000780823d5620db6ece",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Should You Buy Tesla, Inc. (TSLA)’s Shares?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-tesla-inc-tsla-shares-140129038.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:01:29+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "1ccfef60ac0c882502d8108c71e15f8cc00299ff",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw’s Holdings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-140123306.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:01:23+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "055299bb231c362c17156a98964ccb31ffa80017",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Alphabet Inc. (GOOGL) A Top AI Stock In D. E. Shaw’s Holdings",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-inc-googl-top-ai-140116583.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:01:16+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "3796c84f7a82180bdf06082693a0a1f878da7579",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Should You Buy Broadcom Inc. (AVGO)’s Shares?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-broadcom-inc-avgo-shares-140110778.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:01:10+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AVGO",
-          "name": "博通",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "c739e2ed312a3eae004f8741665e128f6cb62963",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Should You Buy Microsoft Corporation (MSFT)’s Shares?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-microsoft-corporation-msft-shares-140104517.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:01:04+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "a351fd7f10787ba2444620e73eefecc233278f33",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NVIDIA Corporation (NVDA) Is A Top AI Stock In D. E. Shaw’s Holdings",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-top-ai-140057125.html",
-      "summary": "",
-      "published_at": "2026-07-12T14:00:57+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "532ad676d5dcf2dbc4d89433fc7d4d92ba9b8f58",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Earnings week ahead: JPM, C, BAC, WFC, MS, UNH, JNJ, ABT, UAL, GS, TSM, and more",
-      "url": "https://seekingalpha.com/news/4612883-earnings-week-ahead-jpm-c-bac-wfc-ms-unh-jnj-abt-ual-gs-tsm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-07-12T13:33:02+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
     },
     {
       "id": "a3cc598b1b160b7715f3d4026d6a0d625a2d3544",
@@ -392,7 +346,7 @@
       "url": "https://www.cnbc.com/2026/07/12/student-loans-rap-late-payment.html",
       "summary": "The new Repayment Assistance Plan, or RAP, offers benefits to federal student loan borrowers — but only if their bill is paid on time. Here's what to know.",
       "published_at": "2026-07-12T13:30:01+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -410,7 +364,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/broadcom-vs-marvell-a-valuation-showdown-for-the-c/?source=iedfolrf0000001",
       "summary": "Broadcom and Marvell are both riding the custom AI chip boom, but one offers faster growth while the other may be the better value for long-term investors.",
       "published_at": "2026-07-12T13:18:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -434,7 +388,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/8-words-fed-kevin-warsh-fomc-game-changer-wall-st/?source=iedfolrf0000001",
       "summary": "No forward-looking guidance is necessary when Warsh and the Federal Open Market Committee (FOMC) are providing decisive claims like this.",
       "published_at": "2026-07-12T13:06:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -452,7 +406,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/sk-hynix-joins-the-nasdaq-but-this-nasdaq-100-semi/?source=iedfolrf0000001",
       "summary": "ASML's lithography machines are needed to manufacture advanced logic and memory chips for AI workflows.",
       "published_at": "2026-07-12T12:37:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -470,7 +424,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3456847",
       "summary": "",
       "published_at": "2026-07-12T12:35:13+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -488,7 +442,7 @@
       "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
       "summary": "Those looking for attractive stock picks amid the ongoing volatility can gain key insights by tracking the recommendations of top Wall Street analysts.",
       "published_at": "2026-07-12T12:05:02+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -506,7 +460,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/fed-chair-kevin-warsh-send-warning-wall-street/?source=iedfolrf0000001",
       "summary": "New Fed chairman Kevin Warsh has made it clear that he is not here to rescue stocks.",
       "published_at": "2026-07-12T10:45:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -524,7 +478,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/stock-market-do-something-in-155-years-wall-street/?source=iedfolrf0000001",
       "summary": "A history-making moment may be imminent for Wall Street -- unfortunately, it's not the good kind.",
       "published_at": "2026-07-12T10:36:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -542,7 +496,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/spacex-just-joined-the-nasdaq-100-is-it-time-to-bu/?source=iedfolrf0000001",
       "summary": "The company's inclusion in the index failed to ignite much of a rally in the stock.",
       "published_at": "2026-07-12T10:12:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -550,95 +504,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "e9496e9a5931701f3b54cec08cac8f5245f5ca66",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Jim Cramer Says Buy 2 AI Stocks up 460% and 1,300% Since 2023 -- Wall Street Agrees",
-      "url": "https://www.fool.com/investing/2026/07/12/jim-cramer-says-buy-2-ai-stocks-up-1300-nvda-meta/?source=iedfolrf0000001",
-      "summary": "CNBC's Jim Cramer is bullish on Nvidia and Meta Platforms.",
-      "published_at": "2026-07-12T09:12:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "599914a8f9645b3d32bc713e4a2f9b1faf751271",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy?",
-      "url": "https://www.fool.com/investing/2026/07/12/meet-sk-hynix-the-key-nvidia-ai-partner-thats-deli/?source=iedfolrf0000001",
-      "summary": "SK Hynix offers something AI data centers greatly need right now.",
-      "published_at": "2026-07-12T09:10:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "product",
-      "score": 0.64
-    },
-    {
-      "id": "368bc6636780c84820b589d8f60ed3b9a547e3fc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Vanguard Index Fund to Buy Before It Soars in 2026, According to a Wall Street Analyst",
-      "url": "https://www.fool.com/investing/2026/07/12/1-vanguard-index-fund-buy-before-soars-wall-street/?source=iedfolrf0000001",
-      "summary": "Evercore analyst Julian Emanuel says the S&amp;P 500 could hit 9,000 this year.",
-      "published_at": "2026-07-12T08:48:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "3592361cb67a5b65a9732902ca958e7a90c41016",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Coinbase CEO Brian Armstrong Has a New Solution to America's $39 Trillion Debt Problem. (Hint: It Involves Bitcoin.)",
-      "url": "https://www.fool.com/investing/2026/07/12/coinbase-solution-trillion-debt-problem-bitcoin/?source=iedfolrf0000001",
-      "summary": "This plan sounds good in theory, but its chances of being implemented are slim.",
-      "published_at": "2026-07-12T08:32:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        },
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.95
     },
     {
       "id": "ad3aa1eef62ebfa4ff280c8d6faad11c6530df90",
@@ -649,7 +514,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3360257/thousands-flights-cancelled-typhoon-bavi-hits-eastern-china-bringing-heavy-rains?utm_source=rss_feed",
       "summary": "Rail and air services began returning to normal across large areas of eastern China on Sunday as Typhoon Bavi weakened and moved inland, away from some of the country’s largest cities.\nAs of 9pm on Sunday, the storm was over Chuzhou city in the central province of Anhui, according to the National Meteorological Centre. Bavi, which had been downgraded to a tropical storm earlier in the day, was slo",
       "published_at": "2026-07-12T03:03:47+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -667,7 +532,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
       "summary": "",
       "published_at": "2026-07-11T18:17:00+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -691,7 +556,7 @@
       "url": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
       "summary": "With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&amp;P 500's 10.7% gain.",
       "published_at": "2026-07-11T13:07:41+00:00",
-      "first_seen_at": "2026-07-12T17:10:26.359707+00:00",
+      "first_seen_at": "2026-07-12T18:26:45.249676+00:00",
       "market": "US",
       "markets": [
         "US"
