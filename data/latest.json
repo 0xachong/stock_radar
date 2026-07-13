@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-07-12T23:52:38.308538+00:00",
+  "generated_at": "2026-07-13T02:40:22.394951+00:00",
   "window_hours": 48,
-  "total_items": 19,
+  "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 18,
-    "HK": 1
+    "US": 20,
+    "HK": 5
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
+      "count": 8
     },
     {
       "key": "macro",
       "count": 5
     },
     {
+      "key": "ipo",
+      "count": 4
+    },
+    {
+      "key": "earnings",
+      "count": 3
+    },
+    {
+      "key": "capital",
+      "count": 2
+    },
+    {
       "key": "rating",
       "count": 2
     },
     {
-      "key": "ipo",
-      "count": 1
-    },
-    {
-      "key": "earnings",
+      "key": "product",
       "count": 1
     }
   ],
@@ -34,38 +42,206 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 16
+      "count": 18
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "2bf01f074692b9b671d82ac780be58c0a4964889",
+      "id": "0378550ac74f1eecaced31f91a79a8fb2e41c6fa",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Palantir CEO has a blunt verdict on OpenAI and Anthropic",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-blunt-verdict-openai-233700235.html",
-      "summary": "",
-      "published_at": "2026-07-12T23:37:00+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "source": "CNBC Top News",
+      "title": "SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut",
+      "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+      "summary": "SK Hynix Inc. shares tumbled over 10% in Seoul on Monday after the chipmaker's blockbuster Nasdaq debut.",
+      "published_at": "2026-07-13T02:33:47+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "941dd49876e8e8d6d275df4729b259c7135e6b42",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Meta Platforms Stock Surged This Week",
+      "url": "https://www.fool.com/investing/2026/07/12/why-meta-platforms-stock-surged-this-week/?source=iedfolrf0000001",
+      "summary": "New AI innovations are piquing investors' interest.",
+      "published_at": "2026-07-13T01:51:48+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "PLTR",
-          "name": "Palantir",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
+    },
+    {
+      "id": "e4ebce2abefca71711fd7bb5aec90b2cf862c099",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nvidia Stock Is Losing to the Market in 2026. Time to Walk Away or Double Down?",
+      "url": "https://www.fool.com/investing/2026/07/12/nvidia-stock-is-losing-to-the-market-in-2026-time/?source=iedfolrf0000001",
+      "summary": "Nvidia could have a strong second half of the year.",
+      "published_at": "2026-07-13T01:45:00+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "2a135dc95021548385f3107753714fd9d5bc7aa2",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Are HSBC shares set for a turnover bump owing to Hong Kong’s board-lot reform?",
+      "url": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed",
+      "summary": "Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and international investors, as the stock’s minimum trading unit is set to change as part of the stock exchange’s board-lot reform process.\nInvestors have long sought the change for the stock – known as a “widow and orphan” stock, as it pays a high dividend while bearing low",
+      "published_at": "2026-07-13T00:30:13+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.76
+    },
+    {
+      "id": "7c514c96016d52c0faa3380b70bd2b84eed60dda",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股早知道 | 国常会系统推进数字中国建设 中信证券(06030)预计上半年净利润同比增长69.59%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3456923",
+      "summary": "",
+      "published_at": "2026-07-13T00:05:09+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "4531ef119f2a4c59503e9f831d1396cff7f33441",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股股东权益披露|7月13日",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3456918",
+      "summary": "",
+      "published_at": "2026-07-13T00:05:07+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "3a493f749cc279118b802c3aa2170d113305b7bb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta Stock: A Cash-Gushing Ad Giant With a Powerful Moat but Limited Diversification",
+      "url": "https://www.fool.com/investing/2026/07/12/meta-stock-a-cash-gushing-ad-giant-with-a-powerful/?source=iedfolrf0000001",
+      "summary": "Meta's profits hinge on its massive ad-fueled social network, with diversification still uncertain.",
+      "published_at": "2026-07-12T23:56:43+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "b240b46cf1516b558a02d423fc62e56ca1e053dc",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 上海生生港股IPO招股书失效",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3456913",
+      "summary": "",
+      "published_at": "2026-07-12T23:35:13+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
+    },
+    {
+      "id": "8a22075171fd822904be78936af2e05eb572a599",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 赜灵生物港股IPO招股书失效",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3456912",
+      "summary": "",
+      "published_at": "2026-07-12T23:35:13+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
+    },
+    {
+      "id": "f4bec22eb89f5f9909ca226cd763ff21f6035f3e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 杰华特(688141.SH)港股IPO招股书失效",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3456911",
+      "summary": "",
+      "published_at": "2026-07-12T23:35:12+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
     },
     {
       "id": "09328784978502993b78ebc5f0684700308c4d63",
@@ -76,7 +252,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/best-restaurant-stock-to-buy-cava-stock-vs-chipotl/?source=iedfolrf0000001",
       "summary": "Consumers are seeing their discretionary income decline, and one of the categories they are cutting back on is eating out.",
       "published_at": "2026-07-12T22:50:44+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -94,7 +270,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/best-ai-stock-to-buy-micron-stock-vs-amd-stock/?source=iedfolrf0000001",
       "summary": "These are excellent semiconductor companies, but only one can be the better investment in this comparison.",
       "published_at": "2026-07-12T22:47:59+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -110,15 +286,15 @@
       "score": 0.97
     },
     {
-      "id": "aa516afd5d633ec6d0d7c2b545b134f56aa9f955",
+      "id": "673a20a51978940657d76253999f20580076e3c4",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
       "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-artificial-intelligence-ai-stock-222500424.html",
-      "summary": "",
-      "published_at": "2026-07-12T22:25:00+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "url": "https://www.fool.com/investing/2026/07/12/best-artificial-intelligence-ai-stock-amd-nvidia-o/?source=iedfolrf0000001",
+      "summary": "This trio is dominating the AI computing space.",
+      "published_at": "2026-07-12T22:05:00+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -142,7 +318,7 @@
       "url": "https://www.fool.com/coverage/filings/2026/07/12/ultra-clean-insider-sells-3-837-shares-after-q1-revenue-hit-usd533-7-million/?source=iedfolrf0000001",
       "summary": "Brian Harding liquidated about $494,000 in stock via a pre-established trading plan, reducing his direct common stock holdings by 10%.",
       "published_at": "2026-07-12T20:55:14+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +336,7 @@
       "url": "https://www.cnbc.com/2026/07/12/watchdog-says-uaw-head-shawn-fain-abused-authority-he-denies-findings.html",
       "summary": "A report found that Shawn Fain retaliated against a union official, Rich Boyer, after Boyer pushed back against some of Fain's actions.",
       "published_at": "2026-07-12T20:17:26+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -178,7 +354,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/?source=iedfolrf0000001",
       "summary": "One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.",
       "published_at": "2026-07-12T19:29:01+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -196,7 +372,7 @@
       "url": "https://www.fool.com/investing/2026/07/12/tell-every-qqq-investor-nasdaq-100-spacex-its-this/?source=iedfolrf0000001",
       "summary": "Anyone expecting SpaceX to become a huge holding in the Nasdaq-100 index is likely going to be disappointed.",
       "published_at": "2026-07-12T19:29:00+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,7 +390,7 @@
       "url": "https://seekingalpha.com/news/4613075-strong-dollar-weak-bond-market-investors-favor-greenback-as-fed-tightening-bets-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-12T19:27:45+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -222,114 +398,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "a72e6bb03235d6efb205a6f2d9f19bd26584b71f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta Has Raised Its AI Game. The Stock Should Continue to Rise In 2026.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-raised-ai-game-stock-173002031.html",
-      "summary": "",
-      "published_at": "2026-07-12T17:30:02+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "94fc102c94a851ffb1db1a914899d8b8c565e9d0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvro-metals-partners-hecla-mining-075953955.html",
-      "summary": "",
-      "published_at": "2026-07-12T17:26:53+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "26f959bf4d8276ec901bcf72bd721d2f614cb1ec",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html",
-      "summary": "",
-      "published_at": "2026-07-12T17:25:45+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MU",
-          "name": "美光",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "da342ece7309eef77c01706accf5b493244e2e47",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "智通港股投资日志|7月13日",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3456880",
-      "summary": "",
-      "published_at": "2026-07-12T16:05:08+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "7a145675bff268f44639abb51d65a3828f0b3eec",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "高盛警告：美联储利率前景是美股面临CPI数据前的关键风险",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3456864",
-      "summary": "",
-      "published_at": "2026-07-12T14:01:47+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.76
     },
     {
       "id": "a3cc598b1b160b7715f3d4026d6a0d625a2d3544",
@@ -340,7 +408,7 @@
       "url": "https://www.cnbc.com/2026/07/12/student-loans-rap-late-payment.html",
       "summary": "The new Repayment Assistance Plan, or RAP, offers benefits to federal student loan borrowers — but only if their bill is paid on time. Here's what to know.",
       "published_at": "2026-07-12T13:30:01+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -358,7 +426,7 @@
       "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
       "summary": "Those looking for attractive stock picks amid the ongoing volatility can gain key insights by tracking the recommendations of top Wall Street analysts.",
       "published_at": "2026-07-12T12:05:02+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -376,7 +444,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3360257/thousands-flights-cancelled-typhoon-bavi-hits-eastern-china-bringing-heavy-rains?utm_source=rss_feed",
       "summary": "Rail and air services began returning to normal across large areas of eastern China on Sunday as Typhoon Bavi weakened and moved inland, away from some of the country’s largest cities.\nAs of 9pm on Sunday, the storm was over Chuzhou city in the central province of Anhui, according to the National Meteorological Centre. Bavi, which had been downgraded to a tropical storm earlier in the day, was slo",
       "published_at": "2026-07-12T03:03:47+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -394,7 +462,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
       "summary": "",
       "published_at": "2026-07-11T18:17:00+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -410,6 +478,59 @@
       "score": 0.85
     },
     {
+      "id": "05313a339aec70e0d8add0da314b2d987fb3ef35",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Broadcom Lands $30 Billion Chip Deal With Apple. Why It’s a Win-Win for AAPL and AVGO.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-lands-30-billion-chip-173002657.html",
+      "summary": "",
+      "published_at": "2026-07-11T17:30:02+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.95
+    },
+    {
+      "id": "d4db767cb9803f34af9fc4a1dcca08d129485fc7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Kyndryl (KD), Amazon (AMZN) Expand Strategic Collaboration for Agentic AI Deployment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-kd-amazon-amzn-expand-162736426.html",
+      "summary": "",
+      "published_at": "2026-07-11T16:27:36+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
       "id": "c1b3ef02498f6e7c406908f78bca3cc421e309ad",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -418,7 +539,7 @@
       "url": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
       "summary": "With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&amp;P 500's 10.7% gain.",
       "published_at": "2026-07-11T13:07:41+00:00",
-      "first_seen_at": "2026-07-12T23:52:38.308538+00:00",
+      "first_seen_at": "2026-07-13T02:40:22.394951+00:00",
       "market": "US",
       "markets": [
         "US"
