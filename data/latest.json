@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-07-13T19:21:33.801902+00:00",
+  "generated_at": "2026-07-13T20:37:55.876358+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 23
+    "HK": 2,
+    "US": 27
   },
   "category_stats": [
     {
@@ -13,7 +14,19 @@
       "count": 11
     },
     {
+      "key": "ipo",
+      "count": 3
+    },
+    {
+      "key": "earnings",
+      "count": 3
+    },
+    {
       "key": "macro",
+      "count": 3
+    },
+    {
+      "key": "rating",
       "count": 3
     },
     {
@@ -21,31 +34,19 @@
       "count": 2
     },
     {
-      "key": "rating",
+      "key": "guidance",
       "count": 2
     },
     {
       "key": "capital",
       "count": 2
-    },
-    {
-      "key": "ipo",
-      "count": 1
-    },
-    {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "earnings",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 25
     },
     {
       "site_id": "hk_china",
@@ -55,6 +56,102 @@
   ],
   "items": [
     {
+      "id": "1f18fcedbbd12e064a525ca0902151c60fa83562",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
+      "url": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
+      "summary": "Trump said he will make a \"Speech to the Nation on Thursday evening, at 9 P.M. Eastern,\" without providing further details.",
+      "published_at": "2026-07-13T20:36:34+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "483704e5071839e53333c137ae285b7fb84d0c37",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
+      "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
+      "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
+      "published_at": "2026-07-13T20:16:36+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
+    },
+    {
+      "id": "f1ae99e21d46e572ad68b2e65fb3e4679b3caade",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Trex股价上涨，公司上调2026年全年业绩指引",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3458629",
+      "summary": "",
+      "published_at": "2026-07-13T20:13:53+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "0d593caaafbd839fe376f2fe36ee043949c59079",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+      "summary": "The company has shed more than $800 billion in market value from its $2.67 trillion peak in less than a month.",
+      "published_at": "2026-07-13T19:57:00+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "0439eaba058e7ef9131275595077b03e193d53e0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly",
+      "url": "https://www.fool.com/investing/2026/07/13/ai-investors-can-finally-buy-worlds-top-hbm-maker/?source=iedfolrf0000001",
+      "summary": "SK Hynix's historic Nasdaq debut finally gives U.S. investors direct access to the world's AI memory leader, but is the opportunity still worth buying after its record run?",
+      "published_at": "2026-07-13T19:30:00+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
       "id": "afc877bca75fd681f138fbcafa85886dde69d8dc",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -63,7 +160,7 @@
       "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
       "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
       "published_at": "2026-07-13T19:15:25+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -71,6 +168,24 @@
       "tickers": [],
       "category": "policy",
       "score": 0.52
+    },
+    {
+      "id": "2ef064927aaa0e3881f86fd410c52a1827ec550f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX's IPO Is Reshaping the Most Popular ETFs on Wall Street. Here's What That Means for Your Portfolio.",
+      "url": "https://www.fool.com/investing/2026/07/13/spacex-ipo-reshaping-popular-etf-wall-street-spcx/?source=iedfolrf0000001",
+      "summary": "SpaceX is one of the 10 largest companies in the world. But its presence in the major ETFs thus far has been relatively minimal.",
+      "published_at": "2026-07-13T19:02:00+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
     },
     {
       "id": "17cee6c0791edbe8fae65372d58631ccbda4a98a",
@@ -81,7 +196,7 @@
       "url": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
       "summary": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost more than $50 billion.",
       "published_at": "2026-07-13T19:00:18+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -105,7 +220,7 @@
       "url": "https://www.marketwatch.com/story/meta-and-amazon-are-leading-a-trillion-dollar-big-tech-spending-spree-17a8156d?mod=mw_rss_topstories",
       "summary": "As the cost of AI infrastructure continues to increase, Morgan Stanley says Big Tech capital expenditures are on track to hit new records.",
       "published_at": "2026-07-13T18:36:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -121,15 +236,15 @@
       "score": 0.85
     },
     {
-      "id": "705aa99d94a5cf1c867481538c7986f2187c6753",
+      "id": "57020de821310bbaf2c240d3944a4f95a042a030",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Coatue and Baillie Gifford Are Circling SK Hynix's Nasdaq Debut",
-      "url": "https://www.fool.com/investing/2026/07/13/coatue-baillie-gifford-circling-sk-hynix-nasdaq/?source=iedfolrf0000001",
-      "summary": "Elite investors are piling into SK Hynix's record-breaking U.S. debut, underscoring growing conviction that the AI memory boom still has plenty of room to run.",
-      "published_at": "2026-07-13T17:45:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "title": "Has Micron Technology Stock Peaked?",
+      "url": "https://www.fool.com/investing/2026/07/13/has-micron-technology-stock-peaked/?source=iedfolrf0000001",
+      "summary": "The memory stock has been struggling of late and is down big from its recent high.",
+      "published_at": "2026-07-13T18:30:00+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -139,22 +254,46 @@
       "score": 0.52
     },
     {
-      "id": "483704e5071839e53333c137ae285b7fb84d0c37",
+      "id": "3f716a920035c55b1695ce0b1966d81d66857f8b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
-      "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
-      "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
-      "published_at": "2026-07-13T17:38:49+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "source": "The Motley Fool",
+      "title": "Commercial Metals CEO Peter Matt Buys $500,000 in Shares. What Does This Mean for Investors Now?",
+      "url": "https://www.fool.com/coverage/filings/2026/07/13/commercial-metals-ceo-peter-matt-buys-usd500-000-in-shares-what-does-this-mean-for-investors-now/?source=iedfolrf0000001",
+      "summary": "Matt's direct equity stake now totals 181,522 shares valued at $11.37 million, signaling confidence in the steelmaker's outlook.",
+      "published_at": "2026-07-13T17:55:01+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 1.0
+    },
+    {
+      "id": "705aa99d94a5cf1c867481538c7986f2187c6753",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Coatue and Baillie Gifford Are Circling SK Hynix's Nasdaq Debut",
+      "url": "https://www.fool.com/investing/2026/07/13/coatue-baillie-gifford-circling-sk-hynix-nasdaq/?source=iedfolrf0000001",
+      "summary": "Elite investors are piling into SK Hynix's record-breaking U.S. debut, underscoring growing conviction that the AI memory boom still has plenty of room to run.",
+      "published_at": "2026-07-13T17:45:00+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.8
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "83bb1392d11a24e73503eb5f42b0ce042a6101f7",
@@ -165,55 +304,13 @@
       "url": "https://www.cnbc.com/2026/07/13/regulators-urge-banks-to-scrutinize-loans-to-unauthorized-immigrants.html",
       "summary": "Federal bank regulators issued guidance Monday seeking to curb mortgages, auto loans and other consumer credit to immigrants without U.S. work authorization.",
       "published_at": "2026-07-13T17:37:18+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "guidance",
-      "score": 0.64
-    },
-    {
-      "id": "0ea1abf1e8560d5545be04ad8252bfae97cd07d0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国银行看好AI内存需求，点名美光科技为首选股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3458571",
-      "summary": "",
-      "published_at": "2026-07-13T17:25:11+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MU",
-          "name": "美光",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "8bb2e21b52e945ac32fe28f254208cf767caabae",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says",
-      "url": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
-      "summary": "There is a chance the Federal Reserve will need to raise interest rates soon if inflation readings this week disappoint, Fed governor Christopher Waller said Monday.",
-      "published_at": "2026-07-13T17:10:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
       "score": 0.64
     },
     {
@@ -225,7 +322,7 @@
       "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
       "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
       "published_at": "2026-07-13T17:07:51+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -243,7 +340,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/talk-about-lousy-timing-for-a-netflix-analyst-pric/?source=iedfolrf0000001",
       "summary": "Oppenheimer is slashing its price target on the streaming giant, but it's not as bad as you might think.",
       "published_at": "2026-07-13T16:47:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -261,7 +358,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/sk-hynix-in-the-second-biggest-share-sale-ever/?source=iedfolrf0000001",
       "summary": "SK Hynix's record-breaking Nasdaq debut gives U.S. investors a new way to play the AI boom, but the timing also serves as a reminder that even the hottest semiconductor stocks remain deeply cyclical.",
       "published_at": "2026-07-13T16:45:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -279,7 +376,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/meet-the-international-etf-quietly-beating-the-sp/?source=iedfolrf0000001",
       "summary": "It sports a much higher dividend yield and it features growing powerhouses outside U.S. borders.",
       "published_at": "2026-07-13T16:30:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -287,6 +384,24 @@
       "tickers": [],
       "category": "capital",
       "score": 0.52
+    },
+    {
+      "id": "13646a4a28d92a68bbad5eb48bce53640959ec39",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, July 13: SK Hynix Tumbles 15% in South Korea, Leading Semiconductor Drop at Midday",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/13/stock-market-today-july-13-sk-hynix-tumbles-15-in-south-korea-leading-semiconductor-drop-at-midday/?source=iedfolrf0000001",
+      "summary": "A global chip sector's retreat dragged the Nasdaq lower this morning, as oil surged today, July 13, 2026.",
+      "published_at": "2026-07-13T16:28:18+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "d66b0d8429fdce29ed0882cf7deacdb0c82019cb",
@@ -297,7 +412,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/stock-indexes-split-as-chip-stocks-fall-oil-surges/?source=iedfolrf0000001",
       "summary": "Why are chip stocks collapsing while the Dow barely budges? Korean markets just had their worst day since the 2008 financial crisis, and the fallout is hitting semiconductors hard.",
       "published_at": "2026-07-13T16:23:17+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -305,6 +420,24 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "d8e895d108fdd2dab2811feb5353fca73d5e5149",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, July 13: Energy Stocks Cushion Dow as Tech Slides on Geopolitical Tensions",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/13/stock-market-today-july-13-energy-stocks-cushion-dow-as-tech-slides-on-geopolitical-tensions/?source=iedfolrf0000001",
+      "summary": "Energy names help cushion the Dow as oil jumps on U.S.–Iran tensions and investors brace for key earnings and inflation data, today, July 13, 2026.",
+      "published_at": "2026-07-13T16:14:50+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
     },
     {
       "id": "af2a2d32f20193b04f4646eb9845837edf0f3d6f",
@@ -315,7 +448,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/why-did-nio-stock-jump-today/?source=iedfolrf0000001",
       "summary": "One Wall Street firm sees more than 45% upside for Nio stock.",
       "published_at": "2026-07-13T15:30:16+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -323,30 +456,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "79139f87f3fcaf52462b77e382a1a8fafbe89a6e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: This Will Be Palantir Technologies' Stock Price in 2030",
-      "url": "https://www.fool.com/investing/2026/07/13/prediction-this-will-be-palantir-technologies-stoc/?source=iedfolrf0000001",
-      "summary": "Palantir Technologies stock may be expensive right now, but its growing share of the AI software platforms market points toward substantial upside.",
-      "published_at": "2026-07-13T13:58:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "1014ce6a406492db012ad56851fd3dcfaa163665",
@@ -357,7 +466,7 @@
       "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
       "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
       "published_at": "2026-07-13T13:19:24+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -365,48 +474,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "b42749fa858ec3961d3d6d0ed66a5feee1fd9c34",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Silver Surged, Then Slumped, in the First Half of 2026. Here's My Prediction of What's Ahead for the Precious Metal.",
-      "url": "https://www.fool.com/investing/2026/07/13/silver-surged-then-slumped-in-the-first-half-of-20/?source=iedfolrf0000001",
-      "summary": "Down around 50% on this year's high, silver could have found its bottom.",
-      "published_at": "2026-07-13T12:43:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "9588591ab99f4c30f7b61713c3d56fe6bfd6b29e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "In 7 Words, Kevin Warsh Just Sent the Clearest Signal Yet About Where Interest Rates Are Headed in 2026",
-      "url": "https://www.fool.com/investing/2026/07/13/in-7-words-kevin-warsh-just-sent-the-clearest-sign/?source=iedfolrf0000001",
-      "summary": "Warsh's tone since becoming chair of the Federal Reserve's Board of Governors has surprised many investors.",
-      "published_at": "2026-07-13T12:05:00+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "4b57734a2910dade02890fe0321aeeab581d83de",
@@ -417,7 +484,7 @@
       "url": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed",
       "summary": "Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets.\nMainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined size was 17 per cent of total client assets at the end of March 2026, the broker said in a briefing i",
       "published_at": "2026-07-13T11:00:23+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -435,7 +502,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed",
       "summary": "Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and international investors, as the stock’s minimum trading unit is set to change as part of the stock exchange’s board-lot reform process.\nInvestors have long sought the change for the stock – known as a “widow and orphan” stock, as it pays a high dividend while bearing low",
       "published_at": "2026-07-13T00:30:13+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -443,6 +510,30 @@
       "tickers": [],
       "category": "capital",
       "score": 0.76
+    },
+    {
+      "id": "4c21ee5d53cc3cfbf9f0ca4a016459b5ec9b6e9c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nvidia Stock Has Been Flat, But NVDA Price Targets are Higher - Shorting Puts Works",
+      "url": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-flat-nvda-price-133002981.html",
+      "summary": "",
+      "published_at": "2026-07-12T13:30:02+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
     },
     {
       "id": "24084ce96bd144fee5ccd188a0962b642191b33c",
@@ -453,7 +544,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/why-credo-technology-nasdaq-crdo-121332702.html",
       "summary": "",
       "published_at": "2026-07-12T12:13:32+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -463,28 +554,46 @@
       "score": 0.52
     },
     {
-      "id": "122b9a3ec2185f63729bfd014d3f8691ff050d7a",
+      "id": "5964e88d24d8454a8902178ee49a65446a1f3bcb",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Here is Why Micron (MU) is One of the Stocks Set to Explode in the Next 2 Years",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-one-stocks-075939121.html",
+      "title": "Fed Chair Kevin Warsh Sends a Blunt Warning to Wall Street. What Should Investors Do?",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-sends-110500965.html",
       "summary": "",
-      "published_at": "2026-07-12T07:59:39+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "published_at": "2026-07-12T11:05:00+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "c196e7ec73f4ab3d2100138b1df0d89eeb24cfd5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "He Put Gold in His IRA to Hedge Inflation. At 73, the RMD Forces Him to Sell the Precious Metal, and Taxes His Social Security.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/put-gold-ira-hedge-inflation-110244711.html",
+      "summary": "",
+      "published_at": "2026-07-12T11:02:44+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "MU",
-          "name": "美光",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
-      "category": "company",
-      "score": 0.97
+      "category": "macro",
+      "score": 0.85
     },
     {
       "id": "ad3aa1eef62ebfa4ff280c8d6faad11c6530df90",
@@ -495,7 +604,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3360257/thousands-flights-cancelled-typhoon-bavi-hits-eastern-china-bringing-heavy-rains?utm_source=rss_feed",
       "summary": "Rail and air services began returning to normal across large areas of eastern China on Sunday as Typhoon Bavi weakened and moved inland, away from some of the country’s largest cities.\nAs of 9pm on Sunday, the storm was over Chuzhou city in the central province of Anhui, according to the National Meteorological Centre. Bavi, which had been downgraded to a tropical storm earlier in the day, was slo",
       "published_at": "2026-07-12T03:03:47+00:00",
-      "first_seen_at": "2026-07-13T19:21:33.801902+00:00",
+      "first_seen_at": "2026-07-13T20:37:55.876358+00:00",
       "market": "US",
       "markets": [
         "US"
