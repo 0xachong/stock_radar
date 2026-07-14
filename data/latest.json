@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-07-14T11:06:29.669230+00:00",
+  "generated_at": "2026-07-14T12:47:08.753686+00:00",
   "window_hours": 48,
-  "total_items": 20,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 19,
-    "HK": 1
+    "HK": 4,
+    "US": 19
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 7
+      "key": "earnings",
+      "count": 8
+    },
+    {
+      "key": "capital",
+      "count": 4
     },
     {
       "key": "macro",
       "count": 3
     },
     {
-      "key": "ipo",
+      "key": "company",
       "count": 2
     },
     {
-      "key": "earnings",
+      "key": "guidance",
       "count": 2
-    },
-    {
-      "key": "capital",
-      "count": 2
-    },
-    {
-      "key": "product",
-      "count": 1
     },
     {
       "key": "rating",
       "count": 1
     },
     {
-      "key": "guidance",
+      "key": "product",
+      "count": 1
+    },
+    {
+      "key": "ipo",
       "count": 1
     },
     {
@@ -50,97 +50,169 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 18
+      "count": 17
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 2
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "41b77bcbc4d8887c24d23c0b3c110d7e612ad9a0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "D-Wave Quantum to transfer listing to Nasdaq",
-      "url": "https://seekingalpha.com/news/4613496-d-wave-quantum-to-transfer-listing-to-nasdaq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "id": "48c60cf16ae742719d3eb76f656035a11e02fab4",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "IBM(IBM.US)业绩爆雷盘前跌超20%! AI算力硬件虹吸企业预算 “软件股末日论”再起",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3460149",
       "summary": "",
-      "published_at": "2026-07-14T11:05:18+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
+      "published_at": "2026-07-14T12:36:08+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "HK",
       "markets": [
-        "US"
+        "HK"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.52
+      "category": "earnings",
+      "score": 0.65
     },
     {
-      "id": "9fb968128170ba5e94258576943ad7d4fbbdfc03",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "At a glance: stocks gapping down premarket",
-      "url": "https://seekingalpha.com/news/4613493-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "id": "27756032e973cfa11654bd771c69ce4b3175eb2f",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股前瞻 | 三大股指期货涨跌不一 CPI、大行财报与沃什国会首秀陆续登场 IBM(IBM.US)初步业绩不及预期带崩软件股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3460148",
       "summary": "",
-      "published_at": "2026-07-14T10:56:58+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "6206d659809851b4596f5ac995ab73fcd053c3c0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Got $1,000? 2 Magnificent Artificial Intelligence (AI) Stocks Down Over 15% to Buy Hand Over Fist",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-2-magnificent-103500924.html",
-      "summary": "",
-      "published_at": "2026-07-14T10:35:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "22081537478a4e9e1a33afef3bcc678ddf1c0102",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Main Street Capital Just Raised Its Monthly Dividend Again. Is the 8% Yield Safe as Earnings Soften?",
-      "url": "https://www.fool.com/investing/2026/07/14/main-street-capital-just-raised-its-monthly-divide/?source=iedfolrf0000001",
-      "summary": "Main Street Capital's combined dividend payments current exceeds its quarterly distributable net investment income.",
-      "published_at": "2026-07-14T10:20:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "published_at": "2026-07-14T12:36:08+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.61
+      "score": 0.8
     },
     {
-      "id": "1bcef524ca5e0e2e876c7bd0d8fab87f8948d500",
+      "id": "b934f6eb9b840a724c9d2b606b22528c7d33e68b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "MarketWatch Top Stories",
-      "title": "Ericsson ends up on the wrong side of memory-chip price spike. The stock slumps.",
-      "url": "https://www.marketwatch.com/story/ericsson-ends-up-on-the-wrong-side-of-memory-chip-price-spike-the-stock-slumps-b1aa5eda?mod=mw_rss_topstories",
-      "summary": "Ericsson shares on Tuesday saw their worst reaction to earnings in nearly three years after the telecom-equipment maker revealed that rising component costs were eating away at margins — likely the huge surge in memory-chip prices.",
-      "published_at": "2026-07-14T10:19:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "title": "Consumer prices fall for first time since 2020 pandemic, but fight vs. high inflation isn’t over",
+      "url": "https://www.marketwatch.com/story/consumer-prices-fall-for-first-time-since-2020-pandemic-but-fight-vs-high-inflation-isnt-over-1544566d?mod=mw_rss_topstories",
+      "summary": "Plunge in gas prices during Iran ceasefire brings relief. Renewed conflict poses fresh threat.",
+      "published_at": "2026-07-14T12:34:00+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "cd041c9f2aff434028a982c55c96f763deba3472",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Warsh's statement to Congress: Fed has 'no tolerance for persistently elevated inflation'",
+      "url": "https://finance.yahoo.com/economy/policy/article/warshs-statement-to-congress-fed-has-no-tolerance-for-persistently-elevated-inflation-123000475.html",
+      "summary": "",
+      "published_at": "2026-07-14T12:30:00+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "07b0f878bb8eff1a9614be91e3cb864ee2e309a7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, SpaceX, Broadcom, AMD, Netflix & more",
+      "url": "https://www.cnbc.com/2026/07/14/tuesday-stocks-in-analyst-calls-include-nvidia-sk-hynix-apple-amd.html",
+      "summary": "Here are the biggest calls on Wall Street on Tuesday.",
+      "published_at": "2026-07-14T12:26:02+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "6929a649fa550a3272d88ea2a9f6f19b9758edff",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "4 Dividend Kings Are Crushing the S&P 500 in 2026 and Still Have Big Upside Potential",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-kings-crushing-p-122003632.html",
+      "summary": "",
+      "published_at": "2026-07-14T12:20:03+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "4c0e4b34bd15cce5e3e2a20c71130f16420b6a5e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "KeyBanc下调苹果评级至\"减持\"，指硬件需求放缓",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3460099",
+      "summary": "",
+      "published_at": "2026-07-14T12:11:10+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 1.0
+    },
+    {
+      "id": "a5e9803a58fa375af0d6066b104147f95686e0bb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "This trucking stock has doubled in 2026. BMO says it has more room to run",
+      "url": "https://www.cnbc.com/2026/07/14/this-trucking-stock-has-doubled-in-2026-bmo-says-more-gains-will-come.html",
+      "summary": "RXO's shares are likely to advance as the company notches strong earnings amid a tightening trucking market, per BMO Capital Markets.",
+      "published_at": "2026-07-14T12:09:52+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -148,6 +220,150 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
+    },
+    {
+      "id": "7fe73878f9f3c3c91168436e765545ffd6a04db8",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Liberty Energy与SLB达成数据中心供电战略合作，股价盘前涨约3%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3460095",
+      "summary": "",
+      "published_at": "2026-07-14T12:07:22+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "product",
+      "score": 0.61
+    },
+    {
+      "id": "287f14eabeb548558fee24d45d69f0c8e1783b80",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Earnings live: Wall Street bank stocks mixed despite profit haul",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-second-quarter-120718616.html",
+      "summary": "",
+      "published_at": "2026-07-14T12:07:18+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "dbb8af98481386a3e617cc06cc3a173d5d456eb4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls Ahead Of CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-june-cpi-inflation-ibm-stock/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-07-14T11:59:56+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
+    },
+    {
+      "id": "dc4b302938084accd7882bbe0343e85866e2fa5d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Banks JPMorgan Chase, Goldman Sachs Crush Quarterly Estimates. Only One Rises.",
+      "url": "https://www.investors.com/news/jpmorgan-chase-goldman-sachs-bank-earnings-q2-2026-dow-jones-jpm-stock-gs-stock/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-07-14T11:57:43+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "436c3dece95cd38f0b082ce07f1636a5feef9612",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Bank of America’s stock falls despite blockbuster earnings report",
+      "url": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
+      "summary": "Shares in Bank of America shares declined in premarket trading after the banking giant posted a 15% jump in revenue vs. a year earlier.",
+      "published_at": "2026-07-14T11:55:00+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "77459c55ed204a53272cb639e12a4fd5b80926ce",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "HSBC loses conviction in leading drugmaker, forecasts 'tough path' ahead",
+      "url": "https://www.cnbc.com/2026/07/14/hsbc-astrazeneca-forecasts-tough-path-ahead.html",
+      "summary": "The bank's analysts wrote in a note on Monday that they have downgraded the stock to 'hold', as the team \"no longer finds the risk-reward balance attractive.\"",
+      "published_at": "2026-07-14T11:52:14+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.76
+    },
+    {
+      "id": "c015385299fcb2e1b785dc9e25e07bd61eb96772",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "IBM’s stock dives toward worst day in nearly 40 years after the surprise release of an earnings miss",
+      "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+      "summary": "IBM’s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
+      "published_at": "2026-07-14T11:50:00+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "9680489a546ecda2c84a46b9cc52cdf8a7f037cf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Wall Street Prepares For Five Top Banks To Report Earnings On The Same Day",
+      "url": "https://www.investors.com/news/wells-fargo-stock-goldman-sachs-bank-of-america-jp-morgan-chase-bank-earnings-wall-street/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-07-14T11:15:25+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
     },
     {
       "id": "83d15fa5f60cce9caa2cda9413f7fdd920b3c744",
@@ -158,7 +374,7 @@
       "url": "https://www.cnbc.com/2026/07/14/le-slip-francais-ipo-french-underwear.html",
       "summary": "Le Slip Français will make its stock market debut in Paris on Tuesday, betting that consumers will pay for locally made clothing amid competition from Shein.",
       "published_at": "2026-07-14T10:04:49+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -166,66 +382,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "da1fe4691d533480d564f221a42fdcac08caa8a3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Treasury yields rise as Fed rate hike expectations grow ahead of June inflation print",
-      "url": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
-      "summary": "Treasury yields increased Tuesday as expectations for more Federal Reserve interest rate hikes grow.",
-      "published_at": "2026-07-14T10:04:39+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "63cc668253398276ea2caa11ffdb22261d1b0eb8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: Lisa Su Will Deliver Great News for Advanced Micro Devices (AMD) Investors on Aug. 4",
-      "url": "https://www.fool.com/investing/2026/07/14/prediction-lisa-su-deliver-great-news-amd-on-aug-4/?source=iedfolrf0000001",
-      "summary": "AMD stock has soared by a whopping 280% over the past year alone.",
-      "published_at": "2026-07-14T09:35:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "2006b3daa329eb752cc7da745cb86555b81a8300",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This AI Giant Has Climbed 900% Over the Past Five Years. Now Wall Street Expects the Stock to Jump Another 40%.",
-      "url": "https://www.fool.com/investing/2026/07/14/this-ai-giant-has-climbed-900-over-the-past-five-y/?source=iedfolrf0000001",
-      "summary": "This company is about to tackle another valuable AI market.",
-      "published_at": "2026-07-14T09:05:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "d712c02d9c5a77c1af7b4cc797db8fd7edff1d29",
@@ -236,7 +392,7 @@
       "url": "https://www.cnbc.com/2026/07/14/stock-buyback-ban-senate-lobbying-ndaa.html",
       "summary": "The provision was pushed by Sen. Elizabeth Warren, D-Mass., and was included in the National Defense Authorization Act on a bipartisan basis.",
       "published_at": "2026-07-14T09:00:01+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,48 +400,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.61
-    },
-    {
-      "id": "369a518be1553cb9eebe42d50a21d8f700cc8155",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Interest Rates May Do Something Last Seen in 2022. The Stock Market Will Make a Big Move Afterward if History Repeats.",
-      "url": "https://www.fool.com/investing/2026/07/14/interest-rates-stock-market-make-big-move-after/?source=iedfolrf0000001",
-      "summary": "Several Fed officials expect at least one interest rate increase this year, and history says that could lead to a stock market correction.",
-      "published_at": "2026-07-14T08:48:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "6f9966a5096daddd0e8aa5731fcbc82fa23b960c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meta Platforms May Be Launching a Cloud Business: Should Amazon Be Worried?",
-      "url": "https://www.fool.com/investing/2026/07/14/meta-platforms-may-be-launching-a-cloud-business-s/?source=iedfolrf0000001",
-      "summary": "This is nothing to fret over.",
-      "published_at": "2026-07-14T07:15:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
     },
     {
       "id": "2de1d08f5a832c59c0b5fc8b57ab671aeea82b5b",
@@ -296,7 +410,7 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
       "summary": "",
       "published_at": "2026-07-14T07:08:33+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -304,66 +418,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.8
-    },
-    {
-      "id": "31509e14d29ccc98d8775311df134ab920f1bd23",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Reasons to Buy This Beaten-Down Stock on the Dip",
-      "url": "https://www.fool.com/investing/2026/07/14/3-reasons-to-buy-this-beaten-down-stock-on-the-dip/?source=iedfolrf0000001",
-      "summary": "The stock could reward patient investors.",
-      "published_at": "2026-07-14T06:00:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "a2690ad85000b9f058722a55594e8ce44803ffc7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Better Buy: AMD Stock or Intel Stock?",
-      "url": "https://www.fool.com/investing/2026/07/14/better-buy-amd-stock-or-intel-stock/?source=iedfolrf0000001",
-      "summary": "These are excellent semiconductor stocks, but only one can be the better investment in this comparison.",
-      "published_at": "2026-07-14T05:27:11+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "6707fd7a219ab230aab80ff4b0fd09374b640608",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "29 Wall Street Analysts Priced SpaceX. Here Is the Target Worth Paying Attention To",
-      "url": "https://www.fool.com/investing/2026/07/14/x-wall-street-analysts-priced-spacex-here-is-the-t/?source=iedfolrf0000001",
-      "summary": "If this analyst is correct, investors who don't own SpaceX's shares will kick themselves later.",
-      "published_at": "2026-07-14T05:00:00+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
     },
     {
       "id": "1f18fcedbbd12e064a525ca0902151c60fa83562",
@@ -374,7 +428,7 @@
       "url": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
       "summary": "Trump said he will make a \"Speech to the Nation on Thursday evening, at 9 P.M. Eastern,\" without providing further details.",
       "published_at": "2026-07-13T22:09:22+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -398,7 +452,7 @@
       "url": "https://www.cnbc.com/2026/07/13/regulators-urge-banks-to-scrutinize-loans-to-unauthorized-immigrants.html",
       "summary": "Federal bank regulators issued guidance Monday seeking to curb mortgages, auto loans and other consumer credit to immigrants without U.S. work authorization.",
       "published_at": "2026-07-13T17:37:18+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -416,7 +470,7 @@
       "url": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed",
       "summary": "Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets.\nMainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined size was 17 per cent of total client assets at the end of March 2026, the broker said in a briefing i",
       "published_at": "2026-07-13T11:00:23+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -434,7 +488,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed",
       "summary": "Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and international investors, as the stock’s minimum trading unit is set to change as part of the stock exchange’s board-lot reform process.\nInvestors have long sought the change for the stock – known as a “widow and orphan” stock, as it pays a high dividend while bearing low",
       "published_at": "2026-07-13T00:30:13+00:00",
-      "first_seen_at": "2026-07-14T11:06:29.669230+00:00",
+      "first_seen_at": "2026-07-14T12:47:08.753686+00:00",
       "market": "US",
       "markets": [
         "US"
