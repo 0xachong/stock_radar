@@ -1,36 +1,28 @@
 {
-  "generated_at": "2026-07-14T02:24:16.922703+00:00",
+  "generated_at": "2026-07-14T05:13:19.831573+00:00",
   "window_hours": 48,
-  "total_items": 32,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 6,
-    "US": 27
+    "US": 21,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
-    },
-    {
-      "key": "rating",
-      "count": 7
+      "count": 13
     },
     {
       "key": "ipo",
-      "count": 6
-    },
-    {
-      "key": "guidance",
-      "count": 2
+      "count": 4
     },
     {
       "key": "policy",
       "count": 2
     },
     {
-      "key": "capital",
+      "key": "guidance",
       "count": 2
     },
     {
@@ -38,7 +30,7 @@
       "count": 1
     },
     {
-      "key": "macro",
+      "key": "capital",
       "count": 1
     }
   ],
@@ -46,111 +38,56 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 19
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 4
     }
   ],
   "items": [
     {
-      "id": "b2f358ed579a6bac645b1560fb5bc91416083806",
+      "id": "e11e5cc0047967d5afbc3e917ae663f40ed18a81",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "广发证券：维持腾讯控股(00700)“买入”评级 合理价值为668.49港元/股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3458908",
+      "title": "百度股价今日为何大跌？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3459093",
       "summary": "",
-      "published_at": "2026-07-14T02:05:14+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "HK",
+      "published_at": "2026-07-14T04:45:17+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [
         {
-          "symbol": "00700",
-          "name": "腾讯控股",
-          "market": "HK"
+          "symbol": "BIDU",
+          "name": "百度",
+          "market": "US"
         }
       ],
-      "category": "rating",
+      "category": "company",
       "score": 1.0
     },
     {
-      "id": "ba9be154e60b8343b47494d9dff5642d8a9cb647",
+      "id": "92f9c837f448b26d47406c558d3c4c11c74cf92a",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 黄金股全线走低 美伊局势急转直下推升加息预期 美联储理事释放强烈鹰派信号",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3458906",
+      "title": "安川电机股价跌至4月低点，疲弱财报引发连续两日抛售",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3459078",
       "summary": "",
-      "published_at": "2026-07-14T02:05:13+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "HK",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "f5e967be013a4e4863e9312e08af8a462da1daf4",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 兆易创新(03986)反弹逾6% 上半年纯利同比增超10倍 长鑫科技上市在即",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3458904",
-      "summary": "",
-      "published_at": "2026-07-14T02:05:12+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.64
-    },
-    {
-      "id": "93209837cc2ac65717709eecaa6cb5e281712e25",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 鼎泰高科(01377)早盘涨超6% 下游PCB客户需求旺盛 上半年净利润同比预增超3倍",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3458902",
-      "summary": "",
-      "published_at": "2026-07-14T02:05:11+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "published_at": "2026-07-14T04:20:20+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.76
-    },
-    {
-      "id": "6ead692b50b6e02ad1df92d8470ea31dd40d7bf7",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 油价暴涨将蚕食航司利润 东方航空(00670)跌超4% 中国国航(00753)跌超2%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3458900",
-      "summary": "",
-      "published_at": "2026-07-14T02:05:11+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.76
+      "score": 0.61
     },
     {
       "id": "05e46362db1a5395b6da1446d0155ae0c8dbc293",
@@ -161,7 +98,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/prediction-2500-invested-in-spacex-today-will-be/?source=iedfolrf0000001",
       "summary": "SpaceX stock is now trading near its IPO price. Here's what $25,000 invested at today's price could be worth in 24 years.",
       "published_at": "2026-07-13T23:34:19+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -179,7 +116,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/why-chipotle-stock-topped-the-market-today/?source=iedfolrf0000001",
       "summary": "It's pushing into an adjacent market that's quite promising.",
       "published_at": "2026-07-13T23:28:39+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -197,7 +134,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/serve-robotics-a-risky-bet-or-a-future-winner/?source=iedfolrf0000001",
       "summary": "Curious about Serve Robotics and its potential in the delivery tech space? Join us as we break down the company's strengths and weaknesses, and find out if it's a stock worth considering.",
       "published_at": "2026-07-13T23:00:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -215,7 +152,7 @@
       "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
       "summary": "Investors are increasingly borrowing to buy stocks, a reflection of greed in the stock market as they seek to amplify returns with margin debt. The growing pile of borrowed money has some on Wall Street nervous.",
       "published_at": "2026-07-13T22:19:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -233,7 +170,7 @@
       "url": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
       "summary": "Trump said he will make a \"Speech to the Nation on Thursday evening, at 9 P.M. Eastern,\" without providing further details.",
       "published_at": "2026-07-13T22:09:22+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -257,7 +194,7 @@
       "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
       "summary": "The company has shed more than $800 billion in market value from its $2.67 trillion peak in less than a month.",
       "published_at": "2026-07-13T22:08:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -265,24 +202,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "483704e5071839e53333c137ae285b7fb84d0c37",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
-      "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
-      "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
-      "published_at": "2026-07-13T20:16:36+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
     },
     {
       "id": "0439eaba058e7ef9131275595077b03e193d53e0",
@@ -293,7 +212,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/ai-investors-can-finally-buy-worlds-top-hbm-maker/?source=iedfolrf0000001",
       "summary": "SK Hynix's historic Nasdaq debut finally gives U.S. investors direct access to the world's AI memory leader, but is the opportunity still worth buying after its record run?",
       "published_at": "2026-07-13T19:30:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -311,7 +230,7 @@
       "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
       "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
       "published_at": "2026-07-13T19:15:25+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -329,7 +248,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/spacex-ipo-reshaping-popular-etf-wall-street-spcx/?source=iedfolrf0000001",
       "summary": "SpaceX is one of the 10 largest companies in the world. But its presence in the major ETFs thus far has been relatively minimal.",
       "published_at": "2026-07-13T19:02:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -347,7 +266,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/has-micron-technology-stock-peaked/?source=iedfolrf0000001",
       "summary": "The memory stock has been struggling of late and is down big from its recent high.",
       "published_at": "2026-07-13T18:30:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -355,6 +274,30 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "3f716a920035c55b1695ce0b1966d81d66857f8b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Commercial Metals CEO Peter Matt Buys $500,000 in Shares. What Does This Mean for Investors Now?",
+      "url": "https://www.fool.com/coverage/filings/2026/07/13/commercial-metals-ceo-peter-matt-buys-usd500-000-in-shares-what-does-this-mean-for-investors-now/?source=iedfolrf0000001",
+      "summary": "Matt's direct equity stake now totals 181,522 shares valued at $11.37 million, signaling confidence in the steelmaker's outlook.",
+      "published_at": "2026-07-13T17:55:01+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 1.0
     },
     {
       "id": "705aa99d94a5cf1c867481538c7986f2187c6753",
@@ -365,7 +308,7 @@
       "url": "https://www.fool.com/investing/2026/07/13/coatue-baillie-gifford-circling-sk-hynix-nasdaq/?source=iedfolrf0000001",
       "summary": "Elite investors are piling into SK Hynix's record-breaking U.S. debut, underscoring growing conviction that the AI memory boom still has plenty of room to run.",
       "published_at": "2026-07-13T17:45:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -383,7 +326,7 @@
       "url": "https://www.cnbc.com/2026/07/13/regulators-urge-banks-to-scrutinize-loans-to-unauthorized-immigrants.html",
       "summary": "Federal bank regulators issued guidance Monday seeking to curb mortgages, auto loans and other consumer credit to immigrants without U.S. work authorization.",
       "published_at": "2026-07-13T17:37:18+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -391,96 +334,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.64
-    },
-    {
-      "id": "430afd18ac1344e40ce52f9c1182cc85720eb7ed",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "A July rate hike from the Fed? The odds are rising",
-      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-      "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
-      "published_at": "2026-07-13T17:07:51+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "c668553f38e4c122137d7537453164790d5fd7f6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Talk About Lousy Timing for a Netflix Analyst Price Target Downgrade",
-      "url": "https://www.fool.com/investing/2026/07/13/talk-about-lousy-timing-for-a-netflix-analyst-pric/?source=iedfolrf0000001",
-      "summary": "Oppenheimer is slashing its price target on the streaming giant, but it's not as bad as you might think.",
-      "published_at": "2026-07-13T16:47:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "556a590ec107671c3f7ba7cd3f8f1e9a954d1bac",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SK Hynix Raises $26.5 Billion in the Second-Biggest Share Sale Ever",
-      "url": "https://www.fool.com/investing/2026/07/13/sk-hynix-in-the-second-biggest-share-sale-ever/?source=iedfolrf0000001",
-      "summary": "SK Hynix's record-breaking Nasdaq debut gives U.S. investors a new way to play the AI boom, but the timing also serves as a reminder that even the hottest semiconductor stocks remain deeply cyclical.",
-      "published_at": "2026-07-13T16:45:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "211b517b3a533a8f09d2173bb172468e676dab8f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet the International ETF Quietly Beating the S&P 500 in 2026",
-      "url": "https://www.fool.com/investing/2026/07/13/meet-the-international-etf-quietly-beating-the-sp/?source=iedfolrf0000001",
-      "summary": "It sports a much higher dividend yield and it features growing powerhouses outside U.S. borders.",
-      "published_at": "2026-07-13T16:30:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.52
-    },
-    {
-      "id": "d66b0d8429fdce29ed0882cf7deacdb0c82019cb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Indexes Split as Chip Stocks Fall, Oil Surges",
-      "url": "https://www.fool.com/investing/2026/07/13/stock-indexes-split-as-chip-stocks-fall-oil-surges/?source=iedfolrf0000001",
-      "summary": "Why are chip stocks collapsing while the Dow barely budges? Korean markets just had their worst day since the 2008 financial crisis, and the fallout is hitting semiconductors hard.",
-      "published_at": "2026-07-13T16:23:17+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "4b57734a2910dade02890fe0321aeeab581d83de",
@@ -491,7 +344,7 @@
       "url": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed",
       "summary": "Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets.\nMainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined size was 17 per cent of total client assets at the end of March 2026, the broker said in a briefing i",
       "published_at": "2026-07-13T11:00:23+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -509,7 +362,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed",
       "summary": "Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and international investors, as the stock’s minimum trading unit is set to change as part of the stock exchange’s board-lot reform process.\nInvestors have long sought the change for the stock – known as a “widow and orphan” stock, as it pays a high dividend while bearing low",
       "published_at": "2026-07-13T00:30:13+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -519,39 +372,39 @@
       "score": 0.76
     },
     {
-      "id": "05b156710d982baafc168643fdf657aed3fa43fd",
+      "id": "f6a2872fcc2f7412ec2ebf3c7c50365813aba7f7",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Marvell’s Hidden Growth Engine Just Achieved a Major Milestone That the Market Hasn’t Priced In Yet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-hidden-growth-engine-just-170002235.html",
+      "title": "Taiwan Semi Stock Is Approaching Fair Value Ahead of July 16. How to Play TSM Here.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-stock-approaching-fair-194605952.html",
       "summary": "",
-      "published_at": "2026-07-12T17:00:02+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "published_at": "2026-07-12T19:46:05+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "MRVL",
-          "name": "Marvell",
+          "symbol": "TSM",
+          "name": "台积电",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
     },
     {
-      "id": "d68c7ec3d61498c2663f2d6ecf35145a12b30390",
+      "id": "0a7ad23137408f1bbd971a82359b97b00f2f59f9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Here’s Why NVIDIA (NVDA) is One of the Best Quality Stocks to Buy According to Wall Street Analysts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-one-best-124242223.html",
+      "title": "Nvidia Stock Hasn’t Been This Cheap Since Before 2019. How to Play NVDA Stock Here.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-hasn-t-cheap-183317589.html",
       "summary": "",
-      "published_at": "2026-07-12T16:47:42+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "published_at": "2026-07-12T18:33:17+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -563,87 +416,69 @@
           "market": "US"
         }
       ],
-      "category": "rating",
-      "score": 1.0
+      "category": "company",
+      "score": 0.97
     },
     {
-      "id": "7a8047314900b1a475fe653e816f39686beea835",
+      "id": "55782f58c06996d402c060774f52f57ec9883163",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Abercrombie & Fitch (ANF): Best Quality Stocks to Buy According to Wall Street Analysts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-anf-best-quality-124315867.html",
+      "title": "SpaceX Has Officially Joined the Nasdaq-100. Here Are 3 Better Nasdaq-100 Stocks to Buy in July.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-officially-joined-nasdaq-100-173200216.html",
       "summary": "",
-      "published_at": "2026-07-12T16:40:15+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "published_at": "2026-07-12T17:32:00+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "rating",
+      "category": "company",
       "score": 0.64
     },
     {
-      "id": "3ea31ab09635512aaf3c79e4f7ea188dbb4c02d6",
+      "id": "a72e6bb03235d6efb205a6f2d9f19bd26584b71f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is Qualcomm (QCOM) is One of the Best Quality Stocks to Buy According to Wall Street Analysts?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-one-best-quality-124410921.html",
+      "title": "Meta Has Raised Its AI Game. The Stock Should Continue to Rise In 2026.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-raised-ai-game-stock-173002031.html",
       "summary": "",
-      "published_at": "2026-07-12T16:38:10+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "published_at": "2026-07-12T17:30:02+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "QCOM",
-          "name": "高通",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
-      "category": "rating",
-      "score": 1.0
+      "category": "company",
+      "score": 0.97
     },
     {
-      "id": "75a67cf26a28b8bc0d73d429b284d163f81c38d8",
+      "id": "94fc102c94a851ffb1db1a914899d8b8c565e9d0",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "PepsiCo (PEP) is One of the Best Quality Stocks to Buy According to Wall Street Analysts, Here’s Why",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-one-best-quality-124400129.html",
+      "title": "NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvro-metals-partners-hecla-mining-075953955.html",
       "summary": "",
-      "published_at": "2026-07-12T16:38:00+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "07538b4b95aa3ae51162f0328db393b19eb166d9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Haleon (HLN) Partners with Microsoft (MSFT) to Advance Digital and AI Capabilities",
-      "url": "https://finance.yahoo.com/technology/ai/articles/haleon-hln-partners-microsoft-msft-132610148.html",
-      "summary": "",
-      "published_at": "2026-07-12T16:31:10+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "published_at": "2026-07-12T17:26:53+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "MSFT",
-          "name": "微软",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
@@ -651,22 +486,28 @@
       "score": 0.85
     },
     {
-      "id": "ad3aa1eef62ebfa4ff280c8d6faad11c6530df90",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Companies",
-      "title": "Flights and rail services resume across eastern China as Typhoon Bavi weakens",
-      "url": "https://www.scmp.com/news/china/politics/article/3360257/thousands-flights-cancelled-typhoon-bavi-hits-eastern-china-bringing-heavy-rains?utm_source=rss_feed",
-      "summary": "Rail and air services began returning to normal across large areas of eastern China on Sunday as Typhoon Bavi weakened and moved inland, away from some of the country’s largest cities.\nAs of 9pm on Sunday, the storm was over Chuzhou city in the central province of Anhui, according to the National Meteorological Centre. Bavi, which had been downgraded to a tropical storm earlier in the day, was slo",
-      "published_at": "2026-07-12T03:03:47+00:00",
-      "first_seen_at": "2026-07-14T02:24:16.922703+00:00",
+      "id": "26f959bf4d8276ec901bcf72bd721d2f614cb1ec",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html",
+      "summary": "",
+      "published_at": "2026-07-12T17:25:45+00:00",
+      "first_seen_at": "2026-07-14T05:13:19.831573+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     }
   ]
 }
