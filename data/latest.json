@@ -1,44 +1,40 @@
 {
-  "generated_at": "2026-07-15T23:27:34.759491+00:00",
+  "generated_at": "2026-07-16T00:56:51.355335+00:00",
   "window_hours": 48,
-  "total_items": 38,
+  "total_items": 37,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 34,
-    "HK": 4
+    "US": 29,
+    "HK": 9
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 13
+      "count": 14
     },
     {
       "key": "macro",
       "count": 8
     },
     {
-      "key": "ipo",
-      "count": 6
+      "key": "rating",
+      "count": 4
     },
     {
       "key": "earnings",
-      "count": 5
-    },
-    {
-      "key": "rating",
-      "count": 3
-    },
-    {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "ma",
-      "count": 1
+      "count": 4
     },
     {
       "key": "capital",
+      "count": 3
+    },
+    {
+      "key": "ipo",
+      "count": 3
+    },
+    {
+      "key": "ma",
       "count": 1
     }
   ],
@@ -46,15 +42,247 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 30
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 12
     }
   ],
   "items": [
+    {
+      "id": "0662d82585a8f717683d2195e9c1319edccba81f",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股期货企稳，加息担忧降温，伊朗局势仍存隐患",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463207",
+      "summary": "",
+      "published_at": "2026-07-16T00:42:58+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "98d1769b585b335f0a1f9df7d61f738a2f7abf66",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "硬件、服务轮番涨价！苹果(AAPL.US)将AppleCare+月度订阅价格上调50美分",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463196",
+      "summary": "",
+      "published_at": "2026-07-16T00:36:08+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
+    },
+    {
+      "id": "9e6cf7c348aeb5c5f823d59d10e049d89688051d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "瑞银将快手、美团纳入中国重点股票组合，上调阿里巴巴及平安权重",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463205",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:42+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "09988",
+          "name": "阿里巴巴",
+          "market": "HK"
+        },
+        {
+          "symbol": "03690",
+          "name": "美团",
+          "market": "HK"
+        },
+        {
+          "symbol": "01024",
+          "name": "快手",
+          "market": "HK"
+        },
+        {
+          "symbol": "BABA",
+          "name": "阿里巴巴",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "fd33d488263cdf4b428532e3e68f9d06021c1a94",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "三环集团(06951)转仓市值总计3.47亿港元 占比4.53% 从富瑞金融集团香港转出56.43万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463195",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:14+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "aa24f93fa7099fe510324a081f5d08b35fb47af1",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "大众口腔(02651)存仓市值总计2281.2万港元 其中股东向圣衡金融控股存入80.15万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463194",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:14+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "7b700bf9e8f9eaba7cccbc028577ce663de03d80",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "金风科技(02208)转仓市值总计4.09亿港元 占比5.54% 从Merrill Lynch Far East转出3262.25万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463193",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:13+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "7c7d1b372f9ed0e4c536e9153eb84e128c92860c",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "旺山旺水-B(02630)存仓市值总计53.67亿港元 其中股东向中国证券登记结算香港存入1亿股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463192",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:13+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "5f4214d4db318523204ab8a03fec66413423476c",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "环宇物流(亚洲)(06083)转仓市值总计2.01亿港元 占比42.66% 从东亚银行转出2.14亿股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463191",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:12+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "c936a08a113cb7f16a5ea24b15d6b6d089636485",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "国恩控股(08121)转仓市值总计140.79万港元 占比8.69% 从华盛资本证券转出226.35万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463190",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:12+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "c13b939319cdeba2b6dbf9099c233a8a9dd16061",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "晶合集成(02249)转仓市值总计3.51亿港元 占比5.50% 从香港上海汇丰银行转出455.27万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3463189",
+      "summary": "",
+      "published_at": "2026-07-16T00:35:12+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "53f788c7742b56a6ee04ba7c125f52f21041891f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Would Nvidia Invest $2 Billion in a Company Helping Build an Alternative to NVLink?",
+      "url": "https://www.fool.com/investing/2026/07/15/why-would-nvidia-invest-2-billion-in-a-company-hel/?source=iedfolrf0000001",
+      "summary": "Why would Nvidia invest $2 billion in a company that helps customers build alternatives to its own technology? Marvell's unusual position across custom AI chips, NVLink, UALink, copper, and optical networking may reveal how Nvidia plans to compete as AI infrastructure becomes more modular.",
+      "published_at": "2026-07-15T23:47:00+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
     {
       "id": "f6531ba30b1e64253839d2e37c0111542c2775f8",
       "site_id": "us_global",
@@ -64,7 +292,7 @@
       "url": "https://www.fool.com/investing/2026/07/15/advanced-micro-devices-a-strong-contender-in-the-t/?source=iedfolrf0000001",
       "summary": "Could AMD be the next tech giant to soar? Tune in as our experts break down the company's strengths and weaknesses, and find out if it's a buy or a pass.",
       "published_at": "2026-07-15T23:00:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,7 +316,7 @@
       "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
       "summary": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
       "published_at": "2026-07-15T22:48:57+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,120 +324,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "a7074c5ceccc355542c2094cc8229088156ac4b1",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "SpaceX(SPCX.US)连跌4日至IPO发行价附近 空头账面盈利接近39亿美元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3463098",
-      "summary": "",
-      "published_at": "2026-07-15T22:36:15+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
-    },
-    {
-      "id": "0edb1bc139556c593526a5daa1658718e3f36caf",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "隔夜美股 | 美国6月PPI超预期降温 三大指数上涨 苹果(AAPL.US)涨4% 费城半导体指数跌超2%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3463097",
-      "summary": "",
-      "published_at": "2026-07-15T22:36:14+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 1.0
-    },
-    {
-      "id": "1940d8c1a082c9ce3daa54f3d9368b760c1d038f",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美联储理事库克释放鹰派信号：通胀风险已超就业市场 必要时准备采取行动",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3463096",
-      "summary": "",
-      "published_at": "2026-07-15T22:35:14+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "185bcc43a2b4dfa3cf2fd22bd4186a80757d2fe3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美联储褐皮书：美国经济温和扩张 通胀前景分化加剧",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3463094",
-      "summary": "",
-      "published_at": "2026-07-15T22:35:13+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "6f41c06b05ac4722499ce3e62f9d4e37ed9e8de6",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 拓斯达(300607.SZ)港股IPO招股书失效",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3463090",
-      "summary": "",
-      "published_at": "2026-07-15T22:35:11+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "e0942bc3d82c8769787fa13c8c6a1641c789b0f7",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 文石信息港股IPO招股书失效",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3463089",
-      "summary": "",
-      "published_at": "2026-07-15T22:35:10+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
     },
     {
       "id": "85d45ee34f56dfe3ebe17cad18184a24adc59d09",
@@ -220,7 +334,7 @@
       "url": "https://www.fool.com/investing/2026/07/15/my-3-favorite-ai-stocks-to-buy-on-the-continued-ch/?source=iedfolrf0000001",
       "summary": "Nvidia, AMD, and Broadcom all look attractive now.",
       "published_at": "2026-07-15T22:19:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,7 +358,7 @@
       "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
       "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
       "published_at": "2026-07-15T22:05:14+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -262,7 +376,7 @@
       "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
       "summary": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
       "published_at": "2026-07-15T21:53:10+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -270,24 +384,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "8766fc1c2f52cc0001752c04f9eda6b46a24505f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "SpaceX’s stock breaks below its IPO price for the first time. Why it could still fall further.",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-breaks-below-its-ipo-price-for-the-first-time-8826dc9a?mod=mw_rss_topstories",
-      "summary": "SpaceX has lost more than $800 billion in market value from its closing high seen a month ago.",
-      "published_at": "2026-07-15T21:40:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
     },
     {
       "id": "ee28c96193a4e8687ae9df2f79e9542384fbbb65",
@@ -298,7 +394,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/07/15/stock-market-today-july-15-paypal-surges-17-on-usd60-50-takeover-bid-from-stripe-and-advent-international/?source=iedfolrf0000001",
       "summary": "Today, July 15, 2026, the $53 billion acquisition proposal sent shares up 17% on record trading volume, with investors debating whether the premium is sufficient.",
       "published_at": "2026-07-15T20:49:08+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -316,7 +412,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/07/15/spdr-gold-shares-vs-sprott-gold-miners-etf-should-investors-go-for-bullion-or-mining-stocks-to-play-the-comnmodity-boom/?source=iedfolrf0000001",
       "summary": "Mining stocks delivered 41% returns over one year, but with 45% maximum drawdown. Physical gold offers stability with lower volatility.",
       "published_at": "2026-07-15T20:38:01+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -334,7 +430,7 @@
       "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
       "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
       "published_at": "2026-07-15T20:20:10+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -352,7 +448,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/07/15/invesco-aerospace-and-defense-etf-vs-u-s-global-jets-etf-is-ppa-or-jets-the-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "Defense stocks offer steadier returns with lower volatility, while airline operators deliver higher dividend yields but face greater downside risk.",
       "published_at": "2026-07-15T20:09:01+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -370,7 +466,7 @@
       "url": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
       "summary": "The Senate Intelligence Committee is considering Jay Clayton's nomination to be the director of national intelligence.",
       "published_at": "2026-07-15T19:48:29+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -394,7 +490,7 @@
       "url": "https://www.fool.com/investing/2026/07/15/investing-1000-in-spacex-could-it-deliver-life-cha/?source=iedfolrf0000001",
       "summary": "The stock has cooled off from its hot IPO. Is now the time to buy?",
       "published_at": "2026-07-15T19:30:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -412,7 +508,7 @@
       "url": "https://www.fool.com/investing/2026/07/15/better-ai-stock-alphabet-versus-meta-platforms/?source=iedfolrf0000001",
       "summary": "Meta and Alphabet may be competing in another field soon.",
       "published_at": "2026-07-15T19:15:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -436,7 +532,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/07/15/descartes-vs-ncino-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "One prioritizes fortress-like profitability with zero debt; the other just turned profitable after a Salesforce partnership reset.",
       "published_at": "2026-07-15T19:12:02+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -460,7 +556,7 @@
       "url": "https://www.fool.com/investing/2026/07/15/nuscale-power-poised-outperform-analyst/?source=iedfolrf0000001",
       "summary": "NuScale Power stock is down 40% in 2026.",
       "published_at": "2026-07-15T17:15:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -468,42 +564,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "52e59bad5aacdf2e916044e56cd505e90f1d3acb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "In 7 Words, Fed Chair Kevin Warsh May Have Just Confirmed the Stock Market's Biggest Fear",
-      "url": "https://www.fool.com/investing/2026/07/15/in-7-words-fed-chair-kevin-warsh-may-have-just-con/?source=iedfolrf0000001",
-      "summary": "Interest rate increases could be coming. Here's what that means for the market.",
-      "published_at": "2026-07-15T17:00:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "91bce02b5b501415e639c76bae33f545e484ad53",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Dow Jones Stays Calm While Memory Chips Give Investors Whiplash (Again)",
-      "url": "https://www.fool.com/investing/2026/07/15/dow-jones-stays-calm-while-memory-chips-drop/?source=iedfolrf0000001",
-      "summary": "Inflation data gave investors hope on Wednesday morning. Semiconductor stocks took it away by lunchtime.",
-      "published_at": "2026-07-15T16:48:59+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "f31394a09cdfc08dd846a9cc21abb54051937340",
@@ -514,7 +574,7 @@
       "url": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
       "summary": "The five banks reported strong revenue from equities trading.",
       "published_at": "2026-07-15T12:46:35+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -532,7 +592,7 @@
       "url": "https://www.cnbc.com/2026/07/15/johnson-johnson-jnj-q2-earnings.html",
       "summary": "Johnson & ⁠Johnson also increased its full-year sales and ⁠profit ‌forecast.",
       "published_at": "2026-07-15T11:35:33+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -550,7 +610,7 @@
       "url": "https://www.scmp.com/business/article/3360668/mainland-chinas-luxury-housing-boom-keeping-wealthy-buyers-home-report-says?utm_source=rss_feed",
       "summary": "China’s booming luxury housing market is keeping more wealth onshore, a trend that analysts say may pose a growing challenge to Hong Kong’s still resilient high-end residential market.\nA report by Gavekal Dragonomics analyst Zhang Xiaoxi said Beijing’s tightening crackdown on illicit capital outflows, including through Hong Kong’s “grey market”, was making domestic luxury property an increasingly ",
       "published_at": "2026-07-15T10:00:25+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -568,7 +628,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3360632/chinese-ai-stock-trade-remains-intact-despite-10-correction-jumbo-ipo-fed-jitters?utm_source=rss_feed",
       "summary": "The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts.\nA decline of more than 10 per cent in the tech-centric Star Market 50 Index over the last two weeks was a reaction to a flurry of short-term tailwinds, according to domestic brokerages, HSBC Jintr",
       "published_at": "2026-07-15T06:34:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -586,7 +646,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html",
       "summary": "",
       "published_at": "2026-07-15T03:07:00+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -610,7 +670,7 @@
       "url": "https://www.cnbc.com/2026/07/14/were-raising-our-price-target-on-goldman-sachs-after-a-blowout-quarter.html",
       "summary": "Shares of Goldman are surging to record highs thanks to a massive earnings beat.",
       "published_at": "2026-07-14T18:49:51+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -628,7 +688,7 @@
       "url": "https://finance.yahoo.com/personal-finance/banking/article/june-cpi-breakdown-gas-prices-fell-but-grocery-bills-kept-climbing-184930928.html",
       "summary": "",
       "published_at": "2026-07-14T18:49:30+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -638,51 +698,69 @@
       "score": 0.52
     },
     {
-      "id": "72d7b9fff120a7c4f55e73a2bf4b2ad159f02edd",
+      "id": "67d8eee200d8fa6df7f480434b428ee26e55777a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Oscar Health Stock Is Up 100% and Wall Street Is Finally Starting to Take Notice",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-stock-100-wall-154502988.html",
+      "title": "Softer U.S. Inflation Data Points to Stronger Wall Street Open: Dow Jones, S&P, Nasdaq, Futures",
+      "url": "https://finance.yahoo.com/economy/articles/softer-u-inflation-data-points-131637183.html",
       "summary": "",
-      "published_at": "2026-07-14T15:45:02+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "published_at": "2026-07-14T13:16:37+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
+      "category": "macro",
       "score": 0.52
     },
     {
-      "id": "d45d3b5d0f6fabbf7b5fb10ed2f4b1cdb63662e9",
+      "id": "1ee480ba0527c20cda3d7bdd8b7032218708eedd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Why Wall Street Is Suddenly Rushing Back Into Beaten-Down Shopify (SHOP) Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-suddenly-rushing-153052372.html",
+      "title": "Cooler Inflation Gives the Fed Some Wiggle Room",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071426/card/cooler-inflation-gives-the-fed-some-wiggle-room-gLLl0YJKLYJ09AoPT7zC?siteid=yhoof2&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-07-14T15:30:52+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "published_at": "2026-07-14T13:15:16+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
+      "category": "macro",
       "score": 0.52
     },
     {
-      "id": "51182cffdb5c1c48b9675c4d3ac803b69d16b72b",
+      "id": "5abd8be300229d41fd967f96e2a8d21f78ecd0a5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Apple (AAPL) Plans At Least 5 New iPhone Models Through Early 2027",
-      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-plans-least-5-151549961.html",
+      "title": "CPI Shockingly Cool, Curbing Fed Rate-Hike Odds",
+      "url": "https://www.investors.com/news/cpi-inflation-june-federal-reserve-warsh-testimony-oil-prices-sp-500/?src=A00220&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-07-14T15:15:49+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "published_at": "2026-07-14T13:09:23+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "d24f574527c5d4e96ba46f2daec61662b022256d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Hedgeye Turns Bearish on Apple With a Fresh Short Idea. It’s Not a Red Flag for AAPL Stock, But It Is Reason for Caution.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hedgeye-turns-bearish-apple-fresh-130003830.html",
+      "summary": "",
+      "published_at": "2026-07-14T13:00:03+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -695,18 +773,18 @@
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
     },
     {
-      "id": "8821768bb8bb7936b67c097c7d8e9f00aded398f",
+      "id": "4b4975f861dcb33e2e6d9b23872b574bcbcfaeb6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Bank of America Maintains Buy Rating on Meta Platforms (META) Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-maintains-buy-rating-151503359.html",
+      "title": "Meta Platforms Is Moving Closer to Controlling Its AI Supply Chain. Here’s What the Company Is Planning.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-moving-closer-controlling-130003142.html",
       "summary": "",
-      "published_at": "2026-07-14T15:15:03+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
+      "published_at": "2026-07-14T13:00:03+00:00",
+      "first_seen_at": "2026-07-16T00:56:51.355335+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -718,104 +796,8 @@
           "market": "US"
         }
       ],
-      "category": "rating",
-      "score": 0.97
-    },
-    {
-      "id": "611f55f3109d1bee04f4c9ad4867cc69674c93fd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here’s Why Alphabet (GOOGL) Is One of the Best Monopoly Stocks to Buy According to Hedge Funds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-googl-one-best-151439370.html",
-      "summary": "",
-      "published_at": "2026-07-14T15:14:39+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
       "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "28ca5fdf4ca2c3088684945aea3391bec3239184",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NVIDIA (NVDA): One of the Best Monopoly Stocks to Buy According to Hedge Funds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-one-best-monopoly-151402143.html",
-      "summary": "",
-      "published_at": "2026-07-14T15:14:02+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "62c66b1d5c24d26ad63393b82f635bf3e45cbbf5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Microsoft (MSFT) One of the Best Monopoly Stocks to Buy According to Hedge Funds?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-best-monopoly-151338182.html",
-      "summary": "",
-      "published_at": "2026-07-14T15:13:38+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "5b3d899a42ec69e68eb5ebfa09e2f63843547961",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Wells Fargo Lifts PT on Amazon.com (AMZN) Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-lifts-pt-amazon-151314089.html",
-      "summary": "",
-      "published_at": "2026-07-14T15:13:14+00:00",
-      "first_seen_at": "2026-07-15T23:27:34.759491+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
+      "score": 0.85
     }
   ]
 }
