@@ -1,22 +1,17 @@
 {
-  "generated_at": "2026-07-16T16:48:17.794255+00:00",
+  "generated_at": "2026-07-16T18:06:04.658427+00:00",
   "window_hours": 48,
-  "total_items": 35,
+  "total_items": 36,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 32,
-    "CN": 1,
+    "US": 34,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 14
-    },
-    {
-      "key": "ipo",
-      "count": 6
+      "count": 15
     },
     {
       "key": "earnings",
@@ -24,15 +19,19 @@
     },
     {
       "key": "macro",
-      "count": 3
+      "count": 6
+    },
+    {
+      "key": "ipo",
+      "count": 4
     },
     {
       "key": "rating",
       "count": 3
     },
     {
-      "key": "capital",
-      "count": 2
+      "key": "guidance",
+      "count": 1
     },
     {
       "key": "product",
@@ -43,15 +42,51 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 26
+      "count": 28
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 8
     }
   ],
   "items": [
+    {
+      "id": "98f76a465dcdac4ca52c42385ae45f8b6a4bfd92",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "S&P 500 falls as chip stocks weigh on market again: Live updates",
+      "url": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
+      "summary": "The S&amp;P 500 fell on Thursday, as a slide in chip stocks weighed on the index even on the back of solid earnings.",
+      "published_at": "2026-07-16T18:05:21+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "a1346ce2ce4741eef0f6e6d5bf1b1a7ff498e25b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?",
+      "url": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
+      "summary": "While investors are concerned about a memory peak, analysts say the stock still looks cheap relative to various earnings scenarios.",
+      "published_at": "2026-07-16T18:01:00+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
     {
       "id": "98995c0261fa48030b8ff628cdf7cc08bc61e320",
       "site_id": "us_global",
@@ -60,8 +95,8 @@
       "title": "Short sellers load up against SpaceX as stock drops below IPO price",
       "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
       "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
-      "published_at": "2026-07-16T16:42:50+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "published_at": "2026-07-16T17:51:43+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -71,40 +106,208 @@
       "score": 0.65
     },
     {
-      "id": "93e09e0f5e3c1032a028ad0b7b0765de3ec944ac",
+      "id": "c26f1254e6a418150ae5e49276ed8de2c29fb5d2",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "DeepSeek downloads tumble, but engagement remains high, as it pursues IPO: Sensor Tower",
-      "url": "https://seekingalpha.com/news/4614592-deepseek-downloads-tumble-but-engagement-remains-high-as-it-pursues-ipo-sensor-tower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Yahoo Finance",
+      "title": "Arm’s Recent Pullback Is a Gift for Long-Term Investors at Current Levels",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-recent-pullback-gift-long-174522307.html",
       "summary": "",
-      "published_at": "2026-07-16T16:41:38+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "published_at": "2026-07-16T17:45:22+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "380665533c055c19424a2420118a9b97b960a1ec",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Drops While TSMC Hits Sell Rule; Oil Shipper Steers Into Entry (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-07-16T17:41:31+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
+      "category": "company",
       "score": 0.64
     },
     {
-      "id": "98f76a465dcdac4ca52c42385ae45f8b6a4bfd92",
+      "id": "08408f17ccc869ffe926fc166b9cb949690fc236",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "S&P 500 falls as chip stocks weigh on market again: Live updates",
-      "url": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
-      "summary": "The S&amp;P 500 fell on Thursday, as a slide in chip stocks weighed on the index even on the back of solid earnings.",
-      "published_at": "2026-07-16T16:39:54+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "source": "Yahoo Finance",
+      "title": "Dallas Fed's Lorie Logan calls for higher interest rates",
+      "url": "https://finance.yahoo.com/economy/policy/articles/dallas-feds-lorie-logan-calls-173542669.html",
+      "summary": "",
+      "published_at": "2026-07-16T17:35:42+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "d6835cb42f96678d5de52bf6853f449e6c4b342a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Power Metallic well-positioned for second-half catalysts, Noble Capital Markets says",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/power-metallic-well-positioned-second-173200863.html",
+      "summary": "",
+      "published_at": "2026-07-16T17:32:00+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "7ed378b0c645327d2f21c9a2584869412f05e2be",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Policymakers should stop excluding food prices from core inflation for monetary policy outlook—KC Fed's Schmid",
+      "url": "https://seekingalpha.com/news/4614611-policymakers-should-stop-excluding-food-prices-from-core-inflation-for-monetary-policy-outlook---kc-feds-schmid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-07-16T17:27:28+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
       "score": 0.64
+    },
+    {
+      "id": "5423eac3661a7d5a61684d013793460f1c4618cc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+      "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+      "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+      "published_at": "2026-07-16T17:18:17+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "4b3d1887d0a35ffd077bf0b554672229faa5e50e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why.",
+      "url": "https://www.fool.com/investing/2026/07/16/the-latest-inflation-data-is-good-news-for-the-sto/?source=iedfolrf0000001",
+      "summary": "Inflation decreased from May to June, lowering expectations of a Fed hike.",
+      "published_at": "2026-07-16T17:15:00+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "71b5dd05ed338c2a6df4dada1f31475e919f0d61",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Dow Jones Hangs On While Memory Chips Take Another Beating",
+      "url": "https://www.fool.com/investing/2026/07/16/dow-jones-hangs-on-while-memory-chips-take-another/?source=iedfolrf0000001",
+      "summary": "Why is the Dow holding up while the Nasdaq sinks? Healthcare gains are offsetting the semiconductor carnage.",
+      "published_at": "2026-07-16T17:03:17+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "bccf5c190b0597ae2ae5e0fcd624833aa904446f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Palantir and Sandisk Stocks Are Down 35% and 25%, but Only One Is a Buy Now",
+      "url": "https://www.fool.com/investing/2026/07/16/palantir-and-sandisk-stock-are-down-35-and-25-but/?source=iedfolrf0000001",
+      "summary": "The stocks are at opposite ends of the valuation spectrum.",
+      "published_at": "2026-07-16T16:45:00+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "be8f24f391b439795b2ad485bc6de821dcc58919",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Meta's data center plans could help solve its AI spending problems",
+      "url": "https://finance.yahoo.com/technology/article/metas-data-center-plans-could-help-solve-its-ai-spending-problems-164031347.html",
+      "summary": "",
+      "published_at": "2026-07-16T16:40:31+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "7f3000a3f608628282214753f16ea7bcfdf2e3d9",
@@ -115,7 +318,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3465035",
       "summary": "",
       "published_at": "2026-07-16T16:36:16+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -133,7 +336,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3465034",
       "summary": "",
       "published_at": "2026-07-16T16:36:15+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -143,80 +346,15 @@
       "score": 0.76
     },
     {
-      "id": "4d0a0d3a632dd513c782969f79b29d299190fde9",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "澜起科技(688008.SH)董事长提议3亿元至6亿元回购公司A股股份",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3465030",
-      "summary": "",
-      "published_at": "2026-07-16T16:35:09+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "739e87f0a78be64e195f719c6c18139c1879a3b6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SoFi Technologies: The Customer Growth Story Isn't Over (NASDAQ: SOFI)",
-      "url": "https://www.fool.com/investing/2026/07/16/sofi-stock-customer-growth-story-nasdaq/?source=iedfolrf0000001",
-      "summary": "The company's membership base, now at nearly 15 million, has rapidly expanded over the years.",
-      "published_at": "2026-07-16T16:15:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "0d5cc7871ca640d101b35365fa4436523beaa274",
+      "id": "35c38e152c77ba8672799cf8dacce74a41aedace",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-drops-8-ai-capex-161207073.html",
+      "title": "AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta",
+      "url": "https://www.investors.com/news/technology/amazon-stock-meta-google-wedbush-ai-hypscalers/?src=A00220&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-07-16T16:12:07+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        },
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "c1f63e3d2372f15eb6d93a17e90b0a6f45855253",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.",
-      "url": "https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
-      "summary": "Close to half of major IPOs sink below their offering price — and stay there for several years. Here’s why SpaceX is no different.",
-      "published_at": "2026-07-16T16:12:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "published_at": "2026-07-16T16:21:42+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -228,26 +366,26 @@
           "market": "US"
         }
       ],
-      "category": "ipo",
-      "score": 1.0
+      "category": "company",
+      "score": 0.85
     },
     {
-      "id": "a970cdbcda4cd886cff4466d27e191d021669992",
+      "id": "739e87f0a78be64e195f719c6c18139c1879a3b6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Slides While TSMC Hits Sell Rule; Abbott Soars (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-16T16:08:01+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "source": "The Motley Fool",
+      "title": "SoFi Technologies: The Customer Growth Story Isn't Over (NASDAQ: SOFI)",
+      "url": "https://www.fool.com/investing/2026/07/16/sofi-stock-customer-growth-story-nasdaq/?source=iedfolrf0000001",
+      "summary": "The company's membership base, now at nearly 15 million, has rapidly expanded over the years.",
+      "published_at": "2026-07-16T16:15:00+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.52
     },
     {
       "id": "46619fa91be80b6ea8124cc5e3d95001726058fa",
@@ -258,7 +396,7 @@
       "url": "https://www.fool.com/investing/2026/07/16/why-sandisk-stock-skyrocketed-857-in-the-first-hal/?source=iedfolrf0000001",
       "summary": "Sandisk shareholders have benefited from a booming memory market, and things aren't slowing down just yet.",
       "published_at": "2026-07-16T15:30:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -266,30 +404,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "887b7e17a8aa3efbe80f449f1953701fe29ae96e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Netflix (NFLX) Slid in Q2 Despite Strong Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-q2-despite-152104641.html",
-      "summary": "",
-      "published_at": "2026-07-16T15:21:04+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "9609f54d6803c962a10174d1dff7a59f602ed959",
@@ -300,7 +414,7 @@
       "url": "https://www.fool.com/investing/2026/07/16/micron-technology-ai-memory-demand-is-still-in-the/?source=iedfolrf0000001",
       "summary": "Management says that robotics and autonomous vehicles will fuel even higher demand for memory.",
       "published_at": "2026-07-16T15:21:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -324,7 +438,7 @@
       "url": "https://www.fool.com/investing/2026/07/16/tesla-and-rivian-are-both-down-12-heres-the-better/?source=iedfolrf0000001",
       "summary": "Tesla is chasing the future with robotaxis, but Rivian's R2 launch could make it the more compelling EV stock.",
       "published_at": "2026-07-16T14:20:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -342,7 +456,7 @@
       "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
       "summary": "Federal Reserve Chair Kevin Warsh was on Capitol Hill for two days of testimony this week.",
       "published_at": "2026-07-16T14:02:45+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -360,7 +474,7 @@
       "url": "https://www.fool.com/investing/2026/07/16/the-sp-500-is-doing-something-not-seen-in-60-years/?source=iedfolrf0000001",
       "summary": "Tech stocks have been lucrative, but they're creating a rare risk for the market.",
       "published_at": "2026-07-16T14:00:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +492,7 @@
       "url": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
       "summary": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
       "published_at": "2026-07-16T13:59:35+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -396,7 +510,7 @@
       "url": "https://www.fool.com/investing/2026/07/16/intel-stock-looks-beaten-down-today-but-here-is-wh/?source=iedfolrf0000001",
       "summary": "The chipmaker's stock has been on an absolute tear over the past year.",
       "published_at": "2026-07-16T13:36:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -404,54 +518,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "feab46a84b0f035cc7c2f0bc2b5497264952530b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "These 3 Social Media Stocks Are Among the Best Bargains in the Market",
-      "url": "https://www.fool.com/investing/2026/07/16/these-3-social-media-stocks-among-best-bargains/?source=iedfolrf0000001",
-      "summary": "Meta, Pinterest, and Reddit look like bargains given their growth.",
-      "published_at": "2026-07-16T13:23:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "758cb1070f48a344ce25007f64b11faa20ccc1b6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Marvell Technology Could Become a Huge Winner in AI Infrastructure",
-      "url": "https://www.fool.com/investing/2026/07/16/marvell-technology-could-become-a-huge-winner-in-a/?source=iedfolrf0000001",
-      "summary": "Marvell's AI story is bigger than GPUs, but its valuation leaves little room for mistakes. Here's what investors should watch next.",
-      "published_at": "2026-07-16T13:15:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "capital",
-      "score": 0.85
     },
     {
       "id": "5ea4d129cd5efa0b2b727f059342dbd108d6f66b",
@@ -462,7 +528,7 @@
       "url": "https://www.cnbc.com/2026/07/14/were-raising-our-price-target-on-goldman-sachs-after-a-blowout-quarter.html",
       "summary": "Shares of Goldman are surging to record highs thanks to a massive earnings beat.",
       "published_at": "2026-07-16T12:55:56+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -470,72 +536,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "8be4d211fd6b840a676e68fdd14c590712a9274e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Most Obvious Reason to Buy Domino's Pizza (DPZ) Stock Before It Reports Earnings on July 20 Is Hiding in Plain Sight",
-      "url": "https://www.fool.com/investing/2026/07/16/the-most-obvious-reason-to-buy-dominos-pizza-stock/?source=iedfolrf0000001",
-      "summary": "Shares of the pizza chain have rarely been this cheap.",
-      "published_at": "2026-07-16T12:31:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "911d7fb478801c2f409f93ee4ad797e53ea85511",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Coinbase Just Joined a 140-Company Stablecoin Alliance. Here's What It Means for the Stock.",
-      "url": "https://www.fool.com/investing/2026/07/16/coinbase-just-joined-a-140-company-stablecoin-alli/?source=iedfolrf0000001",
-      "summary": "The cryptocurrency exchange is backing a disruptive new stablecoin.",
-      "published_at": "2026-07-16T12:30:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "285adbb38ae149dda1aad3bd7bdfc329213ad9b3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nvidia vs. AMD vs. Cerebras: Which Is the Best AI Inference Stock to Buy Today?",
-      "url": "https://www.fool.com/investing/2026/07/16/nvidia-vs-amd-vs-cerebras-which-is-the-best-ai-inf/?source=iedfolrf0000001",
-      "summary": "Inference is poised to be the next big AI infrastructure market.",
-      "published_at": "2026-07-16T12:20:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "3b198247ab0f06659dc255489dcb8ba116a30d96",
@@ -546,7 +546,7 @@
       "url": "https://www.cnbc.com/2026/07/16/irs-tax-liens-increasing.html",
       "summary": "Federal tax liens filed by the Internal Revenue Service can impact people's employment and their ability to access credit.",
       "published_at": "2026-07-16T12:15:01+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -564,7 +564,7 @@
       "url": "https://www.scmp.com/tech/article/3360822/cxmts-mega-ipo-draws-frenzy-retail-investors-deepseek-founders-fund?utm_source=rss_feed",
       "summary": "As soon as ChangXin Memory Technologies opened its blockbuster initial public offering to public subscription on Thursday morning, Luo Yi applied for 86,000 shares – despite acknowledging that she knew little about the semiconductor industry.\nThe 60-year-old stock investor from southwestern Sichuan province was encouraged by her securities account manager, who told her that CXMT’s unusually large ",
       "published_at": "2026-07-16T12:00:06+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -582,7 +582,7 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html",
       "summary": "",
       "published_at": "2026-07-16T10:31:16+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -600,7 +600,7 @@
       "url": "https://www.scmp.com/plus/tech/big-tech/article/3360797/china-memory-chip-maker-cxmt-set-mega-ipo?utm_source=rss_feed",
       "summary": "Subscriptions began on Thursday for shares in memory-chip maker ChangXin Memory Technologies (CXMT) ahead of its listing on Shanghai’s Star Market in what could be mainland China’s second biggest initial public offering.\nWith pricing set at 8.66 yuan (US$1.28) per share, the IPO of nearly 6.7 billion shares will raise gross proceeds of 57.9 billion yuan (US$8.5 billion).\nIf a 15 per cent overallot",
       "published_at": "2026-07-16T09:07:16+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -618,7 +618,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3360766/what-does-south-koreas-kospi-chaos-mean-chinas-markets?utm_source=rss_feed",
       "summary": "The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months.\nThe South Korean stock market’s frantic artificial intelligence trade has many similarities to China’s markets in 2015, when record-high outstanding ma",
       "published_at": "2026-07-16T06:00:08+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -643,7 +643,7 @@
       "url": "https://www.scmp.com/business/markets/article/3360753/goldman-sachs-backs-hkex-buy-rating-citing-beijings-policy-support-ai-stock-boost?utm_source=rss_feed",
       "summary": "Wall Street investment bank Goldman Sachs has cast a vote of confidence in Hong Kong’s financial future by reaffirming its buy rating for Hong Kong Exchanges and Clearing (HKEX), as Beijing ramps up policy support to cement the city’s status as an international financial centre.\nAnalysts Thomas Wang and Simone Chen said in a research note on Wednesday they saw “multiple tailwinds to ADT [average d",
       "published_at": "2026-07-16T04:21:27+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -661,7 +661,7 @@
       "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
       "summary": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
       "published_at": "2026-07-15T21:53:10+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -679,7 +679,7 @@
       "url": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
       "summary": "The five banks reported strong revenue from equities trading.",
       "published_at": "2026-07-15T12:46:35+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -697,7 +697,7 @@
       "url": "https://www.cnbc.com/2026/07/15/johnson-johnson-jnj-q2-earnings.html",
       "summary": "Johnson & ⁠Johnson also increased its full-year sales and ⁠profit ‌forecast.",
       "published_at": "2026-07-15T11:35:33+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -715,7 +715,7 @@
       "url": "https://www.scmp.com/business/article/3360668/mainland-chinas-luxury-housing-boom-keeping-wealthy-buyers-home-report-says?utm_source=rss_feed",
       "summary": "China’s booming luxury housing market is keeping more wealth onshore, a trend that analysts say may pose a growing challenge to Hong Kong’s still resilient high-end residential market.\nA report by Gavekal Dragonomics analyst Zhang Xiaoxi said Beijing’s tightening crackdown on illicit capital outflows, including through Hong Kong’s “grey market”, was making domestic luxury property an increasingly ",
       "published_at": "2026-07-15T10:00:25+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -733,7 +733,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3360632/chinese-ai-stock-trade-remains-intact-despite-10-correction-jumbo-ipo-fed-jitters?utm_source=rss_feed",
       "summary": "The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts.\nA decline of more than 10 per cent in the tech-centric Star Market 50 Index over the last two weeks was a reaction to a flurry of short-term tailwinds, according to domestic brokerages, HSBC Jintr",
       "published_at": "2026-07-15T06:34:00+00:00",
-      "first_seen_at": "2026-07-16T16:48:17.794255+00:00",
+      "first_seen_at": "2026-07-16T18:06:04.658427+00:00",
       "market": "US",
       "markets": [
         "US"
