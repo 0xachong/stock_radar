@@ -1,36 +1,35 @@
 {
-  "generated_at": "2026-07-19T07:25:41.526853+00:00",
+  "generated_at": "2026-07-19T09:26:55.527640+00:00",
   "window_hours": 48,
-  "total_items": 16,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 2,
-    "US": 14
+    "US": 23
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 6
+      "count": 11
     },
     {
-      "key": "earnings",
-      "count": 3
+      "key": "rating",
+      "count": 6
     },
     {
       "key": "macro",
       "count": 2
     },
     {
-      "key": "rating",
-      "count": 2
-    },
-    {
-      "key": "guidance",
+      "key": "capital",
       "count": 1
     },
     {
-      "key": "capital",
+      "key": "earnings",
+      "count": 1
+    },
+    {
+      "key": "guidance",
       "count": 1
     },
     {
@@ -42,32 +41,122 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 12
+      "count": 20
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "20a61708e8dcc49bce7638d14e1e5f317e074d81",
+      "id": "3080d189297be5371efa3ee5f6e1f9e88a6d36d0",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "风口上的中船特气：半导体带动净利增长超九成 原材料成本涨价对冲业绩确定性",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3467490",
+      "title": "五大分析师AI动向：汇丰上调苹果评级，称其迎来\"运营转折点\"",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3467521",
       "summary": "",
-      "published_at": "2026-07-19T06:05:48+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
-      "market": "HK",
+      "published_at": "2026-07-19T09:00:02+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
+    },
+    {
+      "id": "076c015498227b79dea54ff614606cc2d7c55ecc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
+      "url": "https://www.fool.com/investing/2026/07/19/the-three-biggest-bargain-magnificent-seven-stocks/?source=iedfolrf0000001",
+      "summary": "Nvidia, Meta Platforms, and Microsoft are all trading at cheap valuations.",
+      "published_at": "2026-07-19T09:00:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "89c1d741b910c6e72f5f26626f9b0ac33a702ca8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "2027 Social Security COLA Gets a Downgrade: What Retirees Need to Brace For",
+      "url": "https://www.fool.com/retirement/2026/07/19/2027-social-security-cola-gets-a-downgrade-what-re/?source=iedfolrf0000001",
+      "summary": "Benefits may not rise as much as expected in the new year.",
+      "published_at": "2026-07-19T08:18:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.61
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "728c01f0558e6042ef69c51d664aff496b432fc4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
+      "url": "https://www.fool.com/investing/2026/07/19/amd-stock-is-a-fraction-of-nvidias-size-but-trades/?source=iedfolrf0000001",
+      "summary": "Nvidia's and AMD's businesses differ more than one might think.",
+      "published_at": "2026-07-19T08:10:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "590d3a9ad5ef0c018c5eef7998ea86312864d527",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500. Here's Why the Stock Isn't Tanking.",
+      "url": "https://www.fool.com/investing/2026/07/19/conagra-slashes-its-10-dividend-yield-in-half-just/?source=iedfolrf0000001",
+      "summary": "Conagra is taking steps to turn its business around, but the packaged food industry is facing a potentially long-term slowdown.",
+      "published_at": "2026-07-19T08:00:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
     },
     {
       "id": "44e4e65b59b23591d573b9e48f854bf91466d0a0",
@@ -78,7 +167,7 @@
       "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half?utm_source=rss_feed",
       "summary": "Hong Kong’s secondary residential market is expected to hit a turning point at the start of the second half of the year following a steep price increase during the six months to June, according to multiple local property agencies.\nThey cited the effects of Beijing’s crackdown on capital outflow, which has shaken Hong Kong’s stock market, as a contributing factor.\nAccording to data from Centaline P",
       "published_at": "2026-07-19T06:00:07+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,22 +177,86 @@
       "score": 0.52
     },
     {
-      "id": "7443cf1b5cd6e6dbe377f1cece7fc5037c152d8f",
+      "id": "393e952bfca3e53a7fb92cc853794630480fe250",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
-      "url": "https://www.fool.com/investing/2026/07/18/this-nuclear-stock-is-down-46-and-its-a-screaming/?source=iedfolrf0000001",
-      "summary": "Oklo stock has plummeted in 2026, in spite of the company's positive progress. This is the buying window long-term investors have been waiting for.",
-      "published_at": "2026-07-18T18:45:00+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
+      "url": "https://www.fool.com/investing/2026/07/19/coinbase-ceo-brian-armstrong-says-60000-is-the-bot/?source=iedfolrf0000001",
+      "summary": "Historically, Bitcoin has rallied from steep market downturns to hit new all-time highs.",
+      "published_at": "2026-07-19T04:15:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        },
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
       "category": "company",
-      "score": 0.52
+      "score": 1.0
+    },
+    {
+      "id": "dabff55c034d43361ea826e654a9506bef12fb97",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit",
+      "url": "https://www.fool.com/investing/2026/07/18/mark-zuckerbergs-meta-and-other-hyperscalers-face/?source=iedfolrf0000001",
+      "summary": "The race to build AI data centers is huge, and key industry suppliers are reaping big rewards.",
+      "published_at": "2026-07-19T01:15:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "756d9548896cc8f36b80cd793ea8db063212229f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "What Do SpaceX, AMD, and Palantir Have in Common?",
+      "url": "https://www.fool.com/investing/2026/07/18/what-do-spacex-amd-and-palantir-have-in-common/?source=iedfolrf0000001",
+      "summary": "These three stocks are trading at expensive valuations.",
+      "published_at": "2026-07-18T20:13:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "89fe3c8cbb972f831518f322ea1a574c1e3a9c56",
@@ -114,7 +267,7 @@
       "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
       "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
       "published_at": "2026-07-18T18:16:42+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -132,7 +285,7 @@
       "url": "https://seekingalpha.com/news/4615105-trending-stocks-this-week-as-chip-selloff-earnings-dominate-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-18T17:15:25+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -140,30 +293,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "f57119cf0c230af9a22caaf066e8822089e028a5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Here's Why The Metals Company Stock Plunged 28.2% in the First Half of 2026",
-      "url": "https://www.fool.com/investing/2026/07/18/heres-why-the-metals-company-plunged-282-in-the-fi/?source=iedfolrf0000001",
-      "summary": "With nothing to buoy this deep-sea mining stock higher, shares sank like a stone.",
-      "published_at": "2026-07-18T16:44:09+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
     },
     {
       "id": "849ffdd2111619d4c38414f54e67203a4d7dc44c",
@@ -174,7 +303,7 @@
       "url": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
       "summary": "Experts say the lack of federal guidance makes it's unclear on how prediction markets winnings should be reported and levied.",
       "published_at": "2026-07-18T11:24:54+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -192,7 +321,7 @@
       "url": "https://www.cnbc.com/2026/07/18/these-are-the-most-oversold-stocks-after-a-rough-week-on-wall-street.html",
       "summary": "The major averages posted weekly losses, but a few tech stocks — such as Oracle and IBM — sold off especially hard.",
       "published_at": "2026-07-18T11:16:26+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -202,15 +331,87 @@
       "score": 0.52
     },
     {
-      "id": "b5eb6eed4c34b8628b35f233b85db33b7bf4c0a8",
+      "id": "b590beeddfd90f45acd2dbaba87e39c3aff984c6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-anthropic-discuss-10b-ai-024700863.html",
+      "title": "Anthropic is offering $600,000 to someone to shape its Wall Street story as it gears up for a blockbuster IPO",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-offering-600-000-someone-103000640.html",
       "summary": "",
-      "published_at": "2026-07-18T02:47:00+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "published_at": "2026-07-18T10:30:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
+    },
+    {
+      "id": "9332d602994b007eebc6531f0b3fb2d77d877306",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX Stock vs. Micron Stock: Buy One and Sell the Other, According to Certain Wall Street Analysts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-vs-micron-stock-083200966.html",
+      "summary": "",
+      "published_at": "2026-07-18T08:32:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "339f7529b5061193118830d7fa85b8e6ee177b47",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX Stock Is Down 45% From Its Peak. Should Investors Buy the Dip or Run for the Hills?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-45-peak-083100026.html",
+      "summary": "",
+      "published_at": "2026-07-18T08:31:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "15b2a6ff6aeede8129b9afbbdf7023bdb9514666",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX stock falls back to earth shortly after Wall Street analysts release florid targets: ‘Paving the superhighway to the stars’",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-falls-back-earth-080000016.html",
+      "summary": "",
+      "published_at": "2026-07-18T08:00:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "1c94a0c482d40ad88cf1e709c8e71cad7b06d53f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-putting-house-070200269.html",
+      "summary": "",
+      "published_at": "2026-07-18T07:02:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,15 +427,15 @@
       "score": 0.85
     },
     {
-      "id": "6f1bd12d05cbf21fe84acc67b26f12eeeb59ba5a",
+      "id": "b5eb6eed4c34b8628b35f233b85db33b7bf4c0a8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Alphabet Is Up 94% and Meta Is Down 5%. Barchart Data Helps Pick the Best AI Dividend Stock to Buy Now.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-94-meta-down-5-230002079.html",
+      "title": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-anthropic-discuss-10b-ai-024700863.html",
       "summary": "",
-      "published_at": "2026-07-17T23:00:02+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "published_at": "2026-07-18T02:47:00+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -246,32 +447,8 @@
           "market": "US"
         }
       ],
-      "category": "capital",
-      "score": 1.0
-    },
-    {
-      "id": "3fbab911afeb733506e51849a742dac1e4081895",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Netflix, Inc. (NFLX) Is Sinking After Earnings — Should You Buy the Dip?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-inc-nflx-sinking-earnings-213227168.html",
-      "summary": "",
-      "published_at": "2026-07-17T21:32:27+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "6e2c086c9cecc4f4edc7c7c5aa63e4f8c9907051",
@@ -282,7 +459,7 @@
       "url": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
       "summary": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
       "published_at": "2026-07-17T20:28:40+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -300,7 +477,7 @@
       "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
       "summary": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
       "published_at": "2026-07-17T20:22:57+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -318,7 +495,7 @@
       "url": "https://www.cnbc.com/2026/07/17/teslas-charts-point-to-a-decline-ahead-says-carter-worth.html",
       "summary": "The technical analyst breaks down where he sees Tesla shares going.",
       "published_at": "2026-07-17T17:00:01+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +513,7 @@
       "url": "https://www.scmp.com/business/article/3360960/hong-kongs-office-market-central-booms-noncore-areas-struggle?utm_source=rss_feed",
       "summary": "Hong Kong’s office market is becoming increasingly divided, with demand returning to prime business districts while noncore areas remain weighed down by weak leasing activity and scarce buyers, analysts say.\nThe reluctance of banks to finance commercial-property purchases has reinforced the split, allowing cash-rich owner-occupiers to acquire discounted offices in traditional commercial districts ",
       "published_at": "2026-07-17T10:00:36+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
+      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -344,24 +521,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.52
-    },
-    {
-      "id": "e5b376abb983b9449fa4ba7e2310d34a9f147805",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Shein passes hearing for Hong Kong listing as valuation halves to below US$50b, sources say",
-      "url": "https://www.scmp.com/business/companies/article/3360940/shein-passes-hearing-hong-kong-listing-valuation-halves-below-us50b-sources-say?utm_source=rss_feed",
-      "summary": "Online fast-fashion giant Shein has cleared its listing hearing with the Hong Kong stock exchange, according to people familiar with the matter, bringing it a step closer to an initial public offering (IPO) after attempts to float in New York and London stalled.\nThe Singapore-headquartered company, founded in China, attended its listing hearing with Hong Kong Exchanges and Clearing (HKEX) on Thurs",
-      "published_at": "2026-07-17T08:34:19+00:00",
-      "first_seen_at": "2026-07-19T07:25:41.526853+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
     }
   ]
 }
