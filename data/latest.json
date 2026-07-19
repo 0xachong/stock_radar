@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-07-19T09:26:55.527640+00:00",
+  "generated_at": "2026-07-19T10:53:41.571754+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 27,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 23
+    "HK": 2,
+    "US": 25
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 12
     },
     {
       "key": "rating",
-      "count": 6
+      "count": 5
+    },
+    {
+      "key": "capital",
+      "count": 3
+    },
+    {
+      "key": "earnings",
+      "count": 3
     },
     {
       "key": "macro",
       "count": 2
-    },
-    {
-      "key": "capital",
-      "count": 1
-    },
-    {
-      "key": "earnings",
-      "count": 1
     },
     {
       "key": "guidance",
@@ -41,38 +42,68 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 20
+      "count": 23
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
     {
-      "id": "3080d189297be5371efa3ee5f6e1f9e88a6d36d0",
+      "id": "581803a3ab46fe61b79b41b1ae262e5dc86006be",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "五大分析师AI动向：汇丰上调苹果评级，称其迎来\"运营转折点\"",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3467521",
+      "title": "百胜中国(09987)7月17日斥资785.46万港元回购2.26万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3467553",
       "summary": "",
-      "published_at": "2026-07-19T09:00:02+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "published_at": "2026-07-19T10:35:10+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "6ef16c6c2597f831e3ff43a3b4836909158f74de",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "佑驾创新(02431)拟回购不超过2亿港元的H股股份",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3467549",
+      "summary": "",
+      "published_at": "2026-07-19T10:35:09+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "be1783d572473c4f0e9e2697067ad82400bedbc6",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "本周华尔街分析师重磅评级汇总",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3467548",
+      "summary": "",
+      "published_at": "2026-07-19T10:00:02+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
+      "tickers": [],
       "category": "rating",
-      "score": 0.97
+      "score": 0.52
     },
     {
       "id": "076c015498227b79dea54ff614606cc2d7c55ecc",
@@ -83,7 +114,7 @@
       "url": "https://www.fool.com/investing/2026/07/19/the-three-biggest-bargain-magnificent-seven-stocks/?source=iedfolrf0000001",
       "summary": "Nvidia, Meta Platforms, and Microsoft are all trading at cheap valuations.",
       "published_at": "2026-07-19T09:00:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -107,7 +138,7 @@
       "url": "https://www.fool.com/retirement/2026/07/19/2027-social-security-cola-gets-a-downgrade-what-re/?source=iedfolrf0000001",
       "summary": "Benefits may not rise as much as expected in the new year.",
       "published_at": "2026-07-19T08:18:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -125,7 +156,7 @@
       "url": "https://www.fool.com/investing/2026/07/19/amd-stock-is-a-fraction-of-nvidias-size-but-trades/?source=iedfolrf0000001",
       "summary": "Nvidia's and AMD's businesses differ more than one might think.",
       "published_at": "2026-07-19T08:10:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -149,7 +180,7 @@
       "url": "https://www.fool.com/investing/2026/07/19/conagra-slashes-its-10-dividend-yield-in-half-just/?source=iedfolrf0000001",
       "summary": "Conagra is taking steps to turn its business around, but the packaged food industry is facing a potentially long-term slowdown.",
       "published_at": "2026-07-19T08:00:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -167,7 +198,7 @@
       "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half?utm_source=rss_feed",
       "summary": "Hong Kong’s secondary residential market is expected to hit a turning point at the start of the second half of the year following a steep price increase during the six months to June, according to multiple local property agencies.\nThey cited the effects of Beijing’s crackdown on capital outflow, which has shaken Hong Kong’s stock market, as a contributing factor.\nAccording to data from Centaline P",
       "published_at": "2026-07-19T06:00:07+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -185,7 +216,7 @@
       "url": "https://www.fool.com/investing/2026/07/19/coinbase-ceo-brian-armstrong-says-60000-is-the-bot/?source=iedfolrf0000001",
       "summary": "Historically, Bitcoin has rallied from steep market downturns to hit new all-time highs.",
       "published_at": "2026-07-19T04:15:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,7 +245,7 @@
       "url": "https://www.fool.com/investing/2026/07/18/mark-zuckerbergs-meta-and-other-hyperscalers-face/?source=iedfolrf0000001",
       "summary": "The race to build AI data centers is huge, and key industry suppliers are reaping big rewards.",
       "published_at": "2026-07-19T01:15:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -238,7 +269,7 @@
       "url": "https://www.fool.com/investing/2026/07/18/what-do-spacex-amd-and-palantir-have-in-common/?source=iedfolrf0000001",
       "summary": "These three stocks are trading at expensive valuations.",
       "published_at": "2026-07-18T20:13:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -259,6 +290,30 @@
       "score": 1.0
     },
     {
+      "id": "ff84c7af9f689b9343dd0a31e1ecbbc53b10f8ba",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta Platforms Is Up 21% This Month, and Here Is What's Driving the Surge",
+      "url": "https://www.fool.com/investing/2026/07/18/meta-platforms-stock-up-21-july-driving-surge/?source=iedfolrf0000001",
+      "summary": "The tech company just added $270 billion to its market cap.",
+      "published_at": "2026-07-18T19:30:00+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
       "id": "89fe3c8cbb972f831518f322ea1a574c1e3a9c56",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -267,7 +322,7 @@
       "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
       "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
       "published_at": "2026-07-18T18:16:42+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -285,7 +340,7 @@
       "url": "https://seekingalpha.com/news/4615105-trending-stocks-this-week-as-chip-selloff-earnings-dominate-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-07-18T17:15:25+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -293,6 +348,42 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
+    },
+    {
+      "id": "e74c82060e63ca1addeef411843aa1ee0aba298f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Holds Top Rating",
+      "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-07-18T12:00:21+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "5f8a9d183886fc5fa5585b39468c2b9394d5613e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html",
+      "summary": "",
+      "published_at": "2026-07-18T11:56:02+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
     },
     {
       "id": "849ffdd2111619d4c38414f54e67203a4d7dc44c",
@@ -303,7 +394,7 @@
       "url": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
       "summary": "Experts say the lack of federal guidance makes it's unclear on how prediction markets winnings should be reported and levied.",
       "published_at": "2026-07-18T11:24:54+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -321,7 +412,7 @@
       "url": "https://www.cnbc.com/2026/07/18/these-are-the-most-oversold-stocks-after-a-rough-week-on-wall-street.html",
       "summary": "The major averages posted weekly losses, but a few tech stocks — such as Oracle and IBM — sold off especially hard.",
       "published_at": "2026-07-18T11:16:26+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -339,7 +430,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-offering-600-000-someone-103000640.html",
       "summary": "",
       "published_at": "2026-07-18T10:30:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -357,7 +448,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-vs-micron-stock-083200966.html",
       "summary": "",
       "published_at": "2026-07-18T08:32:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -375,7 +466,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-45-peak-083100026.html",
       "summary": "",
       "published_at": "2026-07-18T08:31:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -383,6 +474,30 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "aae142491a8a097c7f55e165336ed304f27ab0a2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Palantir Stock Slipped 35% From Its Peak. Is the Artificial Intelligence (AI) Software Leader a Safe Buy for the Second Half of 2026?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slipped-35-peak-080500365.html",
+      "summary": "",
+      "published_at": "2026-07-18T08:05:00+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "15b2a6ff6aeede8129b9afbbdf7023bdb9514666",
@@ -393,7 +508,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-falls-back-earth-080000016.html",
       "summary": "",
       "published_at": "2026-07-18T08:00:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -401,30 +516,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "1c94a0c482d40ad88cf1e709c8e71cad7b06d53f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-putting-house-070200269.html",
-      "summary": "",
-      "published_at": "2026-07-18T07:02:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "b5eb6eed4c34b8628b35f233b85db33b7bf4c0a8",
@@ -435,7 +526,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/meta-anthropic-discuss-10b-ai-024700863.html",
       "summary": "",
       "published_at": "2026-07-18T02:47:00+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -459,7 +550,7 @@
       "url": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
       "summary": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
       "published_at": "2026-07-17T20:28:40+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -477,7 +568,7 @@
       "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
       "summary": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
       "published_at": "2026-07-17T20:22:57+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -495,7 +586,7 @@
       "url": "https://www.cnbc.com/2026/07/17/teslas-charts-point-to-a-decline-ahead-says-carter-worth.html",
       "summary": "The technical analyst breaks down where he sees Tesla shares going.",
       "published_at": "2026-07-17T17:00:01+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
+      "first_seen_at": "2026-07-19T10:53:41.571754+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -503,24 +594,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "2b8871d0e0d50bd90acda82768163ad3aa93573d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Hong Kong’s office market: Central booms, but noncore areas struggle",
-      "url": "https://www.scmp.com/business/article/3360960/hong-kongs-office-market-central-booms-noncore-areas-struggle?utm_source=rss_feed",
-      "summary": "Hong Kong’s office market is becoming increasingly divided, with demand returning to prime business districts while noncore areas remain weighed down by weak leasing activity and scarce buyers, analysts say.\nThe reluctance of banks to finance commercial-property purchases has reinforced the split, allowing cash-rich owner-occupiers to acquire discounted offices in traditional commercial districts ",
-      "published_at": "2026-07-17T10:00:36+00:00",
-      "first_seen_at": "2026-07-19T09:26:55.527640+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
     }
   ]
 }
