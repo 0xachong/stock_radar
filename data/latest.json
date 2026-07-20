@@ -1,36 +1,39 @@
 {
-  "generated_at": "2026-07-20T16:23:05.121475+00:00",
+  "generated_at": "2026-07-20T18:28:34.469583+00:00",
   "window_hours": 48,
-  "total_items": 22,
+  "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17,
-    "HK": 5
+    "US": 25
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 13
     },
     {
       "key": "macro",
-      "count": 4
+      "count": 3
     },
     {
       "key": "earnings",
       "count": 3
     },
     {
-      "key": "rating",
+      "key": "product",
       "count": 2
+    },
+    {
+      "key": "capital",
+      "count": 1
     },
     {
       "key": "ipo",
-      "count": 2
+      "count": 1
     },
     {
-      "key": "product",
+      "key": "rating",
       "count": 1
     },
     {
@@ -42,33 +45,15 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 14
+      "count": 22
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 3
     }
   ],
   "items": [
-    {
-      "id": "9ebcb5431c1add627ac117159ac94912b9b4de9c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Man with airsoft rifles caused fireworks explosion outside NYC immigration court: MS NOW",
-      "url": "https://www.cnbc.com/2026/07/20/new-york-nyc-fbi-incendiary-device.html",
-      "summary": "The FBI told CNBC that an individual set off \"an incendiary device\" outside 26 Federal Plaza, which contains a U.S. Immigration and Customs Enforcement office.",
-      "published_at": "2026-07-20T16:21:57+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
     {
       "id": "fc58ee5679cc3ae3e0d81802f11e229640ad59d1",
       "site_id": "us_global",
@@ -77,8 +62,8 @@
       "title": "S&P 500 and Nasdaq are higher to start the week as U.S. oil wavers, chipmakers rise: Live updates",
       "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
       "summary": "Stocks rose Monday as oil prices fluctuated in response to the latest bout of military exchanges between the U.S. and Iran.",
-      "published_at": "2026-07-20T16:19:23+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "published_at": "2026-07-20T18:20:34+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,22 +73,184 @@
       "score": 0.64
     },
     {
-      "id": "f1246630086a419c0186590d8e2ddf622233047c",
+      "id": "57d7042f6445315b4fba9e7004502f42bed8b116",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Charles Schwab downgraded to Market Perform at BMO after stock rally",
-      "url": "https://seekingalpha.com/news/4615429-charles-schwab-downgraded-to-market-perform-at-bmo-after-stock-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-07-20T16:17:49+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "source": "CNBC Top News",
+      "title": "Don't be fooled by an AI stock bounce. Charts suggest more downside ahead",
+      "url": "https://www.cnbc.com/2026/07/20/dont-be-fooled-by-an-ai-stock-bounce-charts-suggest-more-downside-ahead.html",
+      "summary": "Fairlead's Katie Stockton says it might be wise reduce exposure to this AI trade.",
+      "published_at": "2026-07-20T18:07:38+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "rating",
-      "score": 0.64
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "9ebcb5431c1add627ac117159ac94912b9b4de9c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Man with airsoft rifles caused fireworks explosion outside NYC immigration court: MS NOW",
+      "url": "https://www.cnbc.com/2026/07/20/new-york-nyc-fbi-incendiary-device.html",
+      "summary": "The FBI told CNBC that an individual set off \"an incendiary device\" outside 26 Federal Plaza, which contains a U.S. Immigration and Customs Enforcement office.",
+      "published_at": "2026-07-20T17:30:09+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "99ca4a8909cdb620f78919a46991e1ca113a25e8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "AMD’s stock climbs, and a new Microsoft deal is only part of the reason",
+      "url": "https://www.marketwatch.com/story/amds-stock-climbs-and-a-new-microsoft-deal-is-only-part-of-the-reason-de78df49?mod=mw_rss_topstories",
+      "summary": "Chip stocks were broadly recovering Monday, and AMD investors are gearing up for a big product event later in the week.",
+      "published_at": "2026-07-20T17:24:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "1d16d811971e2b59640f7b6efba904d370e98739",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
+      "url": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html",
+      "summary": "Michael Khouw breaks down how he's trading Tesla into earnings.",
+      "published_at": "2026-07-20T17:16:22+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "35b765826ec8a6a72cf7d90a84fd53699951180d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Palantir Technologies Stock While It's Trading Below $140?",
+      "url": "https://www.fool.com/investing/2026/07/20/should-you-buy-palantir-technologies-stock-while-i/?source=iedfolrf0000001",
+      "summary": "The stock is down more than 20% this year, despite posting strong financial results.",
+      "published_at": "2026-07-20T17:06:44+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "e86c632b2bb6e46437f94a10d8f07f2ccc64e8dc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
+      "url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+      "summary": "The “Mag Seven” has become the “Bag Seven.” Sharp tech investors are looking elsewhere.",
+      "published_at": "2026-07-20T17:05:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "d20f0ac5b7680f966cb1bae190e1f75f68221097",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Got $1,000 to Invest? Here Are 2 Magnificent Artificial Intelligence (AI) Stocks Down 12% to 30% to Buy Hand Over Fist Before July Is Over",
+      "url": "https://www.fool.com/investing/2026/07/20/got-1000-2-magnificent-artificial-intelligence-ai/?source=iedfolrf0000001",
+      "summary": "Micron and Nvidia look like genius buys now.",
+      "published_at": "2026-07-20T16:55:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "3141a835913da34c1f0189d2b717e6d72f8d4885",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "SpaceX flirts with a further descent down the market-cap ranks",
+      "url": "https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories",
+      "summary": "SpaceX has lost more than $1 trillion in market value since its peak, briefly landing it below Meta on the market-cap leaderboards.",
+      "published_at": "2026-07-20T16:47:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "315cc34bb4de9adf3462a4d1a825e43d12b81d39",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Ranch dressing and stuffed raccoons: Spain isn’t the World Cup’s only winner",
+      "url": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
+      "summary": "Spain beat Argentina to win the World Cup. But there were some other big victories off the field, too.",
+      "published_at": "2026-07-20T16:39:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "dc01d439c99b6205127a3a5f448911fa4609aa53",
@@ -114,7 +261,7 @@
       "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
       "summary": "AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
       "published_at": "2026-07-20T16:16:18+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -135,168 +282,6 @@
       "score": 0.95
     },
     {
-      "id": "b9493a5f3fad72c8b7f40624371b39534577e36d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "德国股市涨跌不一；截至收盘DAX 30上涨0.12%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3469416",
-      "summary": "",
-      "published_at": "2026-07-20T16:06:37+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "4997a2202380b632d574ad6b0a71b58a053210c4",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "时尚女装品牌Reformation(REF.US)IPO定价15-17美元/股 拟募资2.39亿美元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3469414",
-      "summary": "",
-      "published_at": "2026-07-20T16:06:09+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "e3f5de6651517a3195e3035d13934e77794c7358",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "两大国资央企斥600亿托市，万亿险资接力看多！上市公司掀起增持回购潮，证监会加码监管护盘",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3469413",
-      "summary": "",
-      "published_at": "2026-07-20T16:05:49+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "3e97aff9c44c5ce6a59f0d1f678d12e921dbc294",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "法国股市涨跌不一；截至收盘法国CAC40指数上涨0.02%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3469412",
-      "summary": "",
-      "published_at": "2026-07-20T16:05:49+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "b4d66e35e64aaa9af3d345477e6d1fd25feafff2",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "智通港股投资日志|7月21日",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3469410",
-      "summary": "",
-      "published_at": "2026-07-20T16:05:08+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "25d20b1606afe06e1759524fc87b7b0717bcca44",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Predicition: Palantir Defies Doubters. Here’s Our New Price Target",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/predicition-palantir-defies-doubters-price-160045532.html",
-      "summary": "",
-      "published_at": "2026-07-20T16:00:45+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
-    },
-    {
-      "id": "91e0fd3194df7839f50a49a5e8843f0f9aabbc23",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "MicroStrategy again sells company shares to boost cash reserve",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microstrategy-again-sells-company-shares-155815776.html",
-      "summary": "",
-      "published_at": "2026-07-20T15:58:15+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSTR",
-          "name": "MicroStrategy",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.97
-    },
-    {
-      "id": "33303ead5d5ba5fa5fec5312b144ac077497df14",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-pads-cash-225m-mstr-155729164.html",
-      "summary": "",
-      "published_at": "2026-07-20T15:57:29+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSTR",
-          "name": "MicroStrategy",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.85
-    },
-    {
       "id": "5faf9c0d6252c845946313adbf0f4292d2539da2",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -305,7 +290,7 @@
       "url": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-midday-amd-achr-spcx-iren.html",
       "summary": "These are the stocks posting the largest moves in midday trading.",
       "published_at": "2026-07-20T15:52:30+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -321,15 +306,111 @@
       "score": 0.97
     },
     {
-      "id": "af9124e606094f3f2fadc8dcb240315e9153c643",
+      "id": "5f8e7bb297c8e765160c6ba4706d328311eb4eac",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Leads On Peace Hopes; SpaceX Falls, Bus Maker Breaks Out (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-nvidia-micron-sandisk-2/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-20T15:47:23+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "source": "The Motley Fool",
+      "title": "Inflation Slowed in June, but These 4 Words From Kevin Warsh Suggest Interest Rate Hikes Are Still a Possibility This Year",
+      "url": "https://www.fool.com/investing/2026/07/20/inflation-slowed-in-june-but-these-4-words-from-ke/?source=iedfolrf0000001",
+      "summary": "The new Fed chair wants inflation under control, and a single data point is not going to be enough to convince him of that.",
+      "published_at": "2026-07-20T15:05:39+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "eea0efdec14c53af9d2b934c178a009cdc099325",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "For Global Pharma Exposure Is the VanEck Pharmaceutical ETF or iShares Healthcare Fund the Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/20/for-global-pharma-exposure-is-the-vaneck-pharmaceutical-etf-or-ishares-healthcare-fund-the-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "PPH's concentrated 26-stock portfolio delivered 28% returns over one year, while its 2% dividend yield beats IXJ by 50 basis points.",
+      "published_at": "2026-07-20T14:44:01+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.61
+    },
+    {
+      "id": "36e3b24f0be504d2921009e7f6eaec12f078e574",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "I'd Buy More Chipotle Mexican Grill Before the Market Figures Out What It's Missing",
+      "url": "https://www.fool.com/investing/2026/07/20/id-buy-more-chipotle-before-market-figures-out/?source=iedfolrf0000001",
+      "summary": "The shares should rebound once economic conditions improve.",
+      "published_at": "2026-07-20T14:23:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "e2d4417f37e47049b6f11aa27ce816a71ae4ac1a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Down More Than 60% From Its High, Has Oracle Stock Become a Bargain Buy?",
+      "url": "https://www.fool.com/investing/2026/07/20/down-more-than-60-from-its-high-has-oracle-stock-b/?source=iedfolrf0000001",
+      "summary": "The tech giant is trading at a sizable discount.",
+      "published_at": "2026-07-20T14:16:50+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "798903e2fd9aae78dd310b926da896d0a436d26b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Could ARM Holdings Be The Next Big Winner in AI Chips?",
+      "url": "https://www.fool.com/investing/2026/07/20/could-arm-holdings-be-the-next-big-winner-in-ai-ch/?source=iedfolrf0000001",
+      "summary": "ARM could sit underneath the custom chip boom, but investors need to understand the royalty upside and the risk before the story gets bigger.",
+      "published_at": "2026-07-20T13:58:11+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "b4e8884b4f619fe268e5ab3953d7c51bd7bd079c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Vanguard Total World Stock ETF vs iShares Emerging Markets ETF. Which Is the Better Fund to Cover the Globe in Your Portfolio?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/20/vanguard-total-world-stock-etf-vs-ishares-emerging-markets-etf-which-is-the-better-fund-to-civer-the-globe-in-your-portfolio/?source=iedfolrf0000001",
+      "summary": "IEMG delivered stronger 1-year returns, but VT's lower expense ratio and shallower drawdowns appeal to risk-conscious investors seeking diversified global exposure.",
+      "published_at": "2026-07-20T13:48:01+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -339,51 +420,33 @@
       "score": 0.64
     },
     {
-      "id": "6d1fd5e790992cbe16fb76dfd4ad90c09aa0492d",
+      "id": "f4435301b506e203a87aa10f82eb42de1f628621",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NY Fed survey finds highest credit application rate in nearly five years",
-      "url": "https://finance.yahoo.com/economy/articles/ny-fed-survey-finds-highest-153927351.html",
-      "summary": "",
-      "published_at": "2026-07-20T15:39:27+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "e86c632b2bb6e46437f94a10d8f07f2ccc64e8dc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
-      "url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
-      "summary": "The “Mag Seven” has become the “Bag Seven.” Sharp tech investors are looking elsewhere.",
-      "published_at": "2026-07-20T13:46:00+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "source": "The Motley Fool",
+      "title": "AST SpaceMobile Stock Is Down 50% From Highs, and Just Raised $1 Billion to Shore Up Its Satellite Internet Plans. Here's Why I Am Still Not Buying Shares.",
+      "url": "https://www.fool.com/investing/2026/07/20/ast-spacemobile-is-down-50-from-highs-im-still/?source=iedfolrf0000001",
+      "summary": "The company is developing a direct-to-device satellite internet business, but will face major hurdles if it is to be successful.",
+      "published_at": "2026-07-20T13:45:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.52
+      "score": 0.64
     },
     {
-      "id": "2aeb8876b9700428145b21374c2f0c2aabfea589",
+      "id": "61324313224113ee68b0c7f0f23c71657d77ce25",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "AMD, Micron, SK Hynix lead chip stock recovery",
-      "url": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-lead-chip-stock-recovery-133110868.html",
-      "summary": "",
-      "published_at": "2026-07-20T13:31:10+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "source": "The Motley Fool",
+      "title": "Meet the Super Semiconductor ETF Obliterating Nvidia, AMD, and Broadcom This Year",
+      "url": "https://www.fool.com/investing/2026/07/20/meet-the-super-semiconductor-stock-obliterating-nv/?source=iedfolrf0000001",
+      "summary": "The hottest AI ETF of 2026 isn't focused on Nvidia. It targets the overlooked memory chips powering the entire AI revolution.",
+      "published_at": "2026-07-20T13:20:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -395,8 +458,26 @@
           "market": "US"
         }
       ],
+      "category": "rating",
+      "score": 0.85
+    },
+    {
+      "id": "6eabf7df59c9161b6f8776d94960ed19a7565ba1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Amazon Stock, Even Though It Has Badly Underperformed the S&P 500 and Nasdaq-100 Since Jeff Bezos Stepped Down as CEO?",
+      "url": "https://www.fool.com/investing/2026/07/20/should-you-buy-amazon-stock-even-though-it-has-bad/?source=iedfolrf0000001",
+      "summary": "It's been five years since the company's founding CEO stepped down.",
+      "published_at": "2026-07-20T13:12:00+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
       "category": "company",
-      "score": 0.97
+      "score": 0.64
     },
     {
       "id": "6f2296a457412a03d331fa767ce24a848059bf4e",
@@ -407,7 +488,7 @@
       "url": "https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html",
       "summary": "Speculators think in the company's second quarter earnings report, it will show trading volume fell for a third consecutive quarter.",
       "published_at": "2026-07-20T12:41:50+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -423,24 +504,6 @@
       "score": 0.97
     },
     {
-      "id": "760b354f9e10a7c036507d5a1a51d296edfc8de8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq mixed as chip stocks rise in wait for Big Tech earnings",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
-      "summary": "",
-      "published_at": "2026-07-20T11:14:29+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
-    },
-    {
       "id": "8f9765dcff7b84ebcc0df86f69feef998ea5031e",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -449,7 +512,7 @@
       "url": "https://www.scmp.com/business/markets/article/3361150/citi-upgrades-china-overweight-amid-ai-volatility-geopolitical-friction?utm_source=rss_feed",
       "summary": "Wall Street giant Citigroup has adjusted its emerging market asset allocation recommendation, upgrading China to “overweight”, saying that investors should increase their exposure to assets that could benefit from a broadening market rally.\nThe bank acknowledged that while China’s relative earnings-per-share momentum remained a weak spot following a cautious start to the year, the market now scree",
       "published_at": "2026-07-20T03:16:32+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -467,7 +530,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3361139/beijing-steps-stem-chinas-stock-market-decline-us89b-state-purchases?utm_source=rss_feed",
       "summary": "China has doubled down on efforts to stabilise the country’s US$15 trillion stock market, with its securities regulator pledging to arrest equity declines and state entities conducting concerted buying, after the unwinding of the AI trade roiled global markets and sent a benchmark of technology stocks tumbling in Shanghai.\nThe China Securities Regulatory Commission (CSRC) convened a meeting with e",
       "published_at": "2026-07-20T01:41:28+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -485,7 +548,7 @@
       "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half?utm_source=rss_feed",
       "summary": "Hong Kong’s secondary residential market is expected to hit a turning point at the start of the second half of the year following a steep price increase during the six months to June, according to multiple local property agencies.\nThey cited the effects of Beijing’s crackdown on capital outflow, which has shaken Hong Kong’s stock market, as a contributing factor.\nAccording to data from Centaline P",
       "published_at": "2026-07-19T06:00:07+00:00",
-      "first_seen_at": "2026-07-20T16:23:05.121475+00:00",
+      "first_seen_at": "2026-07-20T18:28:34.469583+00:00",
       "market": "US",
       "markets": [
         "US"
