@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T15:02:59.201333+00:00",
+  "generated_at": "2026-07-21T16:54:37.441208+00:00",
   "sites": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "status": "error",
-      "count": 29,
+      "count": 23,
       "errors": [
         "Nasdaq Stocks: HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=20)"
       ]
@@ -14,12 +14,12 @@
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "errors": []
     }
   ],
   "successful_sites": 1,
   "failed_sites": 1,
-  "fetched_raw_items": 323,
-  "items_in_window": 35
+  "fetched_raw_items": 322,
+  "items_in_window": 27
 }
