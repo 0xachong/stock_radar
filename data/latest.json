@@ -1,28 +1,36 @@
 {
-  "generated_at": "2026-07-23T17:54:45.346005+00:00",
+  "generated_at": "2026-07-23T19:14:27.423536+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 27,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 19,
+    "US": 25,
     "HK": 2
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 9
+      "key": "earnings",
+      "count": 11
     },
     {
-      "key": "earnings",
+      "key": "company",
       "count": 7
     },
     {
       "key": "macro",
-      "count": 4
+      "count": 3
     },
     {
       "key": "ipo",
+      "count": 3
+    },
+    {
+      "key": "product",
+      "count": 2
+    },
+    {
+      "key": "policy",
       "count": 1
     }
   ],
@@ -30,61 +38,67 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 20
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "58d190473e3bac483cd7f20112fb5093e5db1b45",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "American Airlines stock tumbles 9% as fuel spike further postpones turnaround",
-      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-      "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
-      "published_at": "2026-07-23T17:47:45+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "b816f5eda3f36e8acea9c5e054dd750d21c5a2ed",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-      "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-      "published_at": "2026-07-23T17:41:22+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "a3782b140e79fe5493e16429947b0de5ca511857",
+      "id": "a66316da0bfaf286f3c02a23b25c436efe4a9257",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "AMD首席执行官：AI服务器已全面投产，将于本季度末开始发货",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3476446",
+      "title": "马斯克公开感谢美光科技提供\"大量\"内存芯片，美光股价上涨",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3476483",
       "summary": "",
-      "published_at": "2026-07-23T17:37:33+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "published_at": "2026-07-23T18:57:51+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "198ecce738c41f858e1d77cf7623fb2244ae60a9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Hims & Hers Health股价今日为何大涨？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476479",
+      "summary": "",
+      "published_at": "2026-07-23T18:56:59+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "913fc90c6e80f348c378b73b7790991972bdd753",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Cerebras stock gains on AMD partnership",
+      "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
+      "summary": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
+      "published_at": "2026-07-23T18:42:57+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,85 +110,37 @@
           "market": "US"
         }
       ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "c70525e5e75b0cd1dd1ab74f71d38d9936d93070",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Palantir vs. Lockheed Martin: Which Defense Stock Wins the Next 5 Years?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-vs-lockheed-martin-defense-172500445.html",
-      "summary": "",
-      "published_at": "2026-07-23T17:25:00+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
+      "category": "product",
       "score": 0.97
     },
     {
-      "id": "8b69c50db4ee34f8a0578226f6d79d58c8e044ce",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国贸易代表称欧盟对谷歌的罚款制造了贸易不确定性",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476430",
-      "summary": "",
-      "published_at": "2026-07-23T17:13:24+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "id": "b816f5eda3f36e8acea9c5e054dd750d21c5a2ed",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+      "published_at": "2026-07-23T18:42:20+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "b3d9152797c1bda25249c90f5072508b6cff9b63",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Hims & Hers Health股价大涨，FDA委员会推动扩大BPC-157肽的获取渠道",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476417",
-      "summary": "",
-      "published_at": "2026-07-23T16:55:00+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
       "tickers": [],
-      "category": "company",
+      "category": "macro",
       "score": 0.64
     },
     {
-      "id": "723ef75b883c4594a4debaa554a5d8b03ef2ee74",
+      "id": "d117f7634ffe0621bdd40fdf79679f80d55b29b3",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Ardagh Metal Packaging S.A. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ardagh-metal-packaging-q2-2026-165414119.html",
-      "summary": "",
-      "published_at": "2026-07-23T16:54:14+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "source": "The Motley Fool",
+      "title": "Mark Zuckerberg's Meta Is Expected to Report $60 Billion in Q2 Revenue on July 29. The Stock Has Recovered From a 20% Drawdown to Within 5% of Flat for the Year.",
+      "url": "https://www.fool.com/investing/2026/07/23/mark-zuckerbergs-meta-is-expected-to-report-60-bil/?source=iedfolrf0000001",
+      "summary": "Meta's next quarterly report will be about far more than ad revenue -- it could reveal whether Zuckerberg is building the world's next AI cloud giant or simply spending at an unprecedented pace.",
+      "published_at": "2026-07-23T18:32:00+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -187,18 +153,42 @@
         }
       ],
       "category": "earnings",
-      "score": 0.97
+      "score": 1.0
     },
     {
-      "id": "bbfcd66d5c306ca79a7801a5f97d61b74316ca67",
+      "id": "8ec73d0106ef35be8963cf2133323d0aa77fce5c",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "法国以安全为由，封锁特斯拉FSD软件在欧盟上路",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476409",
+      "title": "微软用自研图像模型替换OpenAI技术",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476465",
       "summary": "",
-      "published_at": "2026-07-23T16:50:31+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "published_at": "2026-07-23T18:12:05+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "a811ae6aed681b6cd79b9e44f91d8efd7dd2e0fe",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "特斯拉面临美国车门系统新安全法规",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476453",
+      "summary": "",
+      "published_at": "2026-07-23T17:53:16+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,41 +204,65 @@
       "score": 0.85
     },
     {
-      "id": "7def4f6cb565790cbf33a226624639917a5ffdd5",
+      "id": "58d190473e3bac483cd7f20112fb5093e5db1b45",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Pounded Near Lows, But Micron Up; Trucker Werner Falls Below Entry (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-23T16:40:58+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "source": "CNBC Top News",
+      "title": "American Airlines stock tumbles 9% as fuel spike further postpones turnaround",
+      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
+      "published_at": "2026-07-23T17:47:45+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.64
+      "category": "earnings",
+      "score": 0.61
     },
     {
-      "id": "86f99b95a504a9a8699399187616ea990ffc6fc2",
+      "id": "5a0f779f5c907e34658224f1aaa3c8e25551ca3f",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "Alphabet(GOOGL.US)AI军备竞赛“押注”加速！未履行采购承诺飙升至8110亿美元 算力扩张进入新阶段",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3476400",
+      "title": "Cerebras股价因AMD合作消息大涨",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3476447",
       "summary": "",
-      "published_at": "2026-07-23T16:36:18+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "published_at": "2026-07-23T17:44:40+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "GOOGL",
-          "name": "谷歌",
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 1.0
+    },
+    {
+      "id": "a3782b140e79fe5493e16429947b0de5ca511857",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "AMD首席执行官：AI服务器已全面投产，将于本季度末开始发货",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3476446",
+      "summary": "",
+      "published_at": "2026-07-23T17:37:33+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
@@ -256,23 +270,47 @@
       "score": 0.85
     },
     {
-      "id": "e769db2a9ba24ac10e0f856a91c74337e78c4fbb",
+      "id": "ee841d324dd27fc38fcad1a5ea40edd850624558",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Marvell Stock Trade Setup Aims For A Robust Return From Potentially Big Price Swings",
-      "url": "https://www.investors.com/research/options/marvell-stock-mrvl-chipmaker-tech-options-trade-profit-return-markets/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-07-23T16:32:08+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "source": "The Motley Fool",
+      "title": "Astera Labs vs. Advanced Micro Devices: What the Revenue Trajectories of These Artificial Intelligence Companies Reveal to Investors.",
+      "url": "https://www.fool.com/coverage/charts/2026/07/23/astera-labs-vs-advanced-micro-devices-what-the-revenue-trajectories-of-these-artificial-intelligence-companies-reveal-to-investors/?source=iedfolrf0000001",
+      "summary": "Astera Labs has posted eight straight quarters of growth while AMD's revenue has stalled, narrowing a once-massive gap.",
+      "published_at": "2026-07-23T17:30:01+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "MRVL",
-          "name": "Marvell",
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "f2579b50951d088b139823e6e507d102714d2aaf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Palantir vs. Lockheed Martin: Which Defense Stock Wins the Next 5 Years?",
+      "url": "https://www.fool.com/investing/2026/07/23/palantir-vs-lockheed-martin-which-defense-stock-wi/?source=iedfolrf0000001",
+      "summary": "Palantir may deliver the biggest gains if its AI momentum continues, but Lockheed Martin's lower valuation and government-backed demand make it the more attractive five-year investment for most investors.",
+      "published_at": "2026-07-23T17:05:00+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
           "market": "US"
         }
       ],
@@ -280,28 +318,22 @@
       "score": 0.97
     },
     {
-      "id": "69207d8413c5807a96c3ccda6925868d35197df2",
+      "id": "4a70ad539fcd3084178544244516de08a4790578",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "BlackRock, Strategy and Coinbase Back $15M Bitcoin Security Consortium",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-strategy-coinbase-back-15m-162500229.html",
-      "summary": "",
-      "published_at": "2026-07-23T16:25:00+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "source": "The Motley Fool",
+      "title": "Market Indexes Sink as Oil Tops $100 Amid Rising AI Costs",
+      "url": "https://www.fool.com/investing/2026/07/23/market-indexes-sink-as-oil-price-and-ai-costs-rise/?source=iedfolrf0000001",
+      "summary": "The Nasdaq dropped 2.6% as mega-cap tech earnings arrived with a reality check. Rising oil prices and ballooning AI capex are weighing on market sentiment.",
+      "published_at": "2026-07-23T16:48:06+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.85
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
     },
     {
       "id": "c9a35876dfe4faf54ebef7594b61a8d3d85f7e95",
@@ -312,7 +344,7 @@
       "url": "https://www.cnbc.com/2026/07/23/were-ready-to-move-on-from-dover-after-the-industrials-weak-quarter.html",
       "summary": "We're downgrading the stock because our money can be put to better use elsewhere.",
       "published_at": "2026-07-23T15:41:48+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -330,7 +362,7 @@
       "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
       "summary": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
       "published_at": "2026-07-23T15:41:37+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -348,7 +380,7 @@
       "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
       "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
       "published_at": "2026-07-23T15:26:07+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -356,6 +388,42 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
+    },
+    {
+      "id": "28416fa911d7f669b1663c31e4dfe1a708a75041",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "15 Billion Reasons Alphabet Shares Are Sinking After Reporting Strong Earnings Growth",
+      "url": "https://www.fool.com/investing/2026/07/23/15-billion-reasons-alphabet-shares-are-sinking-after-reporting-strong-earnings-growth/?source=iedfolrf0000001",
+      "summary": "Alphabet shares are down, despite reporting 24% revenue growth in the second quarter.",
+      "published_at": "2026-07-23T14:28:01+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
+    },
+    {
+      "id": "f72d72d44a7de43b7b83bb354f4f0b63ee9f87b7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "State Street (STT) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/23/state-street-stt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Record revenue drives upward guidance and new margin targets.",
+      "published_at": "2026-07-23T13:53:37+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "6d7f4d5cd6e3326f4fddb539c00cf70141196f29",
@@ -366,49 +434,13 @@
       "url": "https://www.scmp.com/business/companies/article/3361586/zhongji-sets-highest-subscription-threshold-hong-kong-ipo-history?utm_source=rss_feed",
       "summary": "Zhongji Innolight, the largest IPO in Hong Kong in nearly seven years, has set the highest subscription threshold in the city’s history, dampening retail investors’ appetite, though institutional demand remains strong, with multiple oversubscriptions already placed, according to people familiar with the matter.\nPriced at a maximum of HK$1,010 per share and requiring 50 shares per board lot, the mi",
       "published_at": "2026-07-23T09:00:26+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "fdc54e4f41114a08e3002a24bdea25a5896b4006",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq drops over 2%, Dow and S&P 500 tumble as Big Tech gets crushed, oil prices surge",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
-      "summary": "",
-      "published_at": "2026-07-23T08:44:44+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "fb73573c6b8d8fdf270fb014d6c8a13d331a222f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "High-Yield and High-Growth? This Energy Stock Backs Its 3.7%-Yielding Dividend With Booming AI-Driven Gas Demand.",
-      "url": "https://www.fool.com/investing/2026/07/23/high-yield-and-high-growth-this-energy-stock-backs/?source=iedfolrf0000001",
-      "summary": "Kinder Morgan reported robust earnings growth in the second quarter.",
-      "published_at": "2026-07-23T05:30:00+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
       "score": 0.61
     },
     {
@@ -420,7 +452,7 @@
       "url": "https://www.cnbc.com/2026/07/22/ge-vernova-sellers-blinded-by-an-earnings-miss-should-focus-on-strong-demand-instead.html",
       "summary": "Using the EPS miss as a reason to knock the Club stock down more than 7% is short-sighted.",
       "published_at": "2026-07-22T17:38:03+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -438,7 +470,7 @@
       "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
       "summary": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
       "published_at": "2026-07-22T16:57:55+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -446,6 +478,108 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "bfb40e722ece9ec86b753f6f4d53a6fd7c534c63",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "US SEC settles FOIA lawsuit with Coinbase over lost messages, WSJ op-ed says",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/us-sec-settles-foia-lawsuit-104104311.html",
+      "summary": "",
+      "published_at": "2026-07-22T10:41:04+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        }
+      ],
+      "category": "policy",
+      "score": 0.85
+    },
+    {
+      "id": "ac98fee4c00749547ad5c3d2ca1aa36f2bbd9a7c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nasdaq Futures Slip as Chip Rally Falters Ahead of Alphabet Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slip-chip-rally-103915052.html",
+      "summary": "",
+      "published_at": "2026-07-22T10:39:15+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "57cb49283114c309f8f4ce9cb353e743fe5fd9f6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500688.html",
+      "summary": "",
+      "published_at": "2026-07-22T10:05:00+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "08c417347e031c47f395183f39b99a2fe8876378",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Analysis-Meta employees' lawsuit shows that if AI fires you, proving it is the hard part",
+      "url": "https://finance.yahoo.com/technology/ai/articles/analysis-meta-employees-lawsuit-shows-100414966.html",
+      "summary": "",
+      "published_at": "2026-07-22T10:04:14+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "4797c24fa9ff48cefeb362f06cd2287f3f35c74b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX Stock Is Down 36% From Its Post-IPO Peak. History Says a $10,000 Investment Will Be Worth This Much by June 2027.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-36-post-090900549.html",
+      "summary": "",
+      "published_at": "2026-07-22T09:09:00+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.76
     },
     {
       "id": "58d355087a0a4388a6447591160823311b16a34f",
@@ -456,7 +590,7 @@
       "url": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
       "summary": "GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.",
       "published_at": "2026-07-21T20:19:12+00:00",
-      "first_seen_at": "2026-07-23T17:54:45.346005+00:00",
+      "first_seen_at": "2026-07-23T19:14:27.423536+00:00",
       "market": "US",
       "markets": [
         "US"
