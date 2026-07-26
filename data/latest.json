@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-26T18:06:45.991679+00:00",
+  "generated_at": "2026-07-26T19:43:26.434109+00:00",
   "window_hours": 48,
-  "total_items": 28,
+  "total_items": 31,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 25,
+    "US": 28,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 10
     },
     {
       "key": "earnings",
+      "count": 6
+    },
+    {
+      "key": "macro",
       "count": 5
     },
     {
       "key": "ipo",
       "count": 5
-    },
-    {
-      "key": "macro",
-      "count": 4
     },
     {
       "key": "rating",
@@ -42,7 +42,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 22
+      "count": 25
     },
     {
       "site_id": "hk_china",
@@ -52,6 +52,102 @@
   ],
   "items": [
     {
+      "id": "aae94acc428f31a3165a36656d843cddf0b62284",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Top global stories this week: JD, Airbus among notable names",
+      "url": "https://seekingalpha.com/news/4618503-top-global-stories-this-week-jd-airbus-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-07-26T19:39:07+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "JD",
+          "name": "京东",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "f0ffa406df8629146ab6a1e7a8cf40762cf73ab9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Rising inflation turns July Fed meeting into rate-hike showdown",
+      "url": "https://finance.yahoo.com/economy/policy/articles/rising-inflation-turns-july-fed-191300692.html",
+      "summary": "",
+      "published_at": "2026-07-26T19:13:00+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "40677e35dc1bc81d80653becbb64f8c1c3db2616",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "published_at": "2026-07-26T19:01:00+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "03cd746873ade29bd26b83e7a349072b93737e06",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Down 40% on the Year, Is ServiceNow Stock a Buy as Its Subscription Revenue Surges 25%?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-40-servicenow-stock-buy-180500609.html",
+      "summary": "",
+      "published_at": "2026-07-26T18:05:00+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "fa80fe6ca5a7a3350fda58b66af3de3ddd90232c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-07-26T17:44:32+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
       "id": "0c19bb30bbf227a9bfeb02fc51418a1fc0654274",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -60,7 +156,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3479082",
       "summary": "",
       "published_at": "2026-07-26T17:06:17+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -78,7 +174,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/wingstop-is-down-68-from-its-all-time-high-should/?source=iedfolrf0000001",
       "summary": "Wingstop stock is faltering and could be in for more declines if consumers remain frugal.",
       "published_at": "2026-07-26T16:51:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,33 +184,33 @@
       "score": 0.52
     },
     {
-      "id": "fa80fe6ca5a7a3350fda58b66af3de3ddd90232c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "id": "6f979d8b99fdaefc4495fe08b7e05cc77d62be5b",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股投资日志|7月27日",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3479080",
       "summary": "",
-      "published_at": "2026-07-26T16:13:52+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
-      "market": "US",
+      "published_at": "2026-07-26T16:05:09+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "HK",
       "markets": [
-        "US"
+        "HK"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.64
+      "category": "company",
+      "score": 0.52
     },
     {
-      "id": "aadbb20bcd0436afb551ce28830524645a5d10c6",
+      "id": "53af3917b9ca3f38056fdb8060b99f08478ed027",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
       "title": "Better AI Software Stock: Palantir vs. ServiceNow",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
-      "summary": "",
-      "published_at": "2026-07-26T16:07:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "url": "https://www.fool.com/investing/2026/07/26/better-ai-software-stock-palantir-vs-servicenow/?source=iedfolrf0000001",
+      "summary": "Worries about AI making software companies obsolete may be overblown.",
+      "published_at": "2026-07-26T15:47:00+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -130,24 +226,6 @@
       "score": 0.97
     },
     {
-      "id": "6f979d8b99fdaefc4495fe08b7e05cc77d62be5b",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "智通港股投资日志|7月27日",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3479080",
-      "summary": "",
-      "published_at": "2026-07-26T16:05:09+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "110e02ec67a7247d9a0fac5ccb13e319833229c5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -156,7 +234,7 @@
       "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-mag-7-and-the-fed-but-its-all-about-the-cash/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-07-26T15:06:23+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -174,7 +252,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/own-1-etf-heading-into-fed-meeting-this-one-voo/?source=iedfolrf0000001",
       "summary": "There's real uncertainty around what the Fed will do at the July meeting. Here's why it's probably best to not try to pick a side.",
       "published_at": "2026-07-26T15:02:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -192,7 +270,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3479073",
       "summary": "",
       "published_at": "2026-07-26T14:32:34+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -210,7 +288,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/cincinnati-financial-has-raised-its-dividend-for-6/?source=iedfolrf0000001",
       "summary": "Cincinnati Financial has an impressive dividend history, but there's more to consider before you buy this insurance stock.",
       "published_at": "2026-07-26T14:15:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -228,7 +306,7 @@
       "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
       "summary": "The industrials sector of the stock market is benefitting from the AI infrastructure boom with its P/E ratio up close to tech levels and investor flows strong.",
       "published_at": "2026-07-26T14:12:20+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -246,7 +324,7 @@
       "url": "https://www.scmp.com/business/markets/article/3361697/why-do-mainland-chinese-firms-refuse-give-wall-street-ipos?utm_source=rss_feed",
       "summary": "Amid heightened geopolitical tensions and complex regulatory hurdles, Wall Street has become a more difficult listing destination for mainland Chinese companies – but some remain unwilling to abandon it.\nOnly two mainland Chinese companies completed US debuts in the first half of the year, raising a combined US$59.5 million – a five-year low for deal volume and total proceeds, according to a June ",
       "published_at": "2026-07-26T14:00:09+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -264,7 +342,7 @@
       "url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
       "summary": "Markets are gearing up for the busiest week of second-quarter earnings season.",
       "published_at": "2026-07-26T14:00:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -282,7 +360,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/wall-street-thinks-teva-can-soar-over-60-heres-why/?source=iedfolrf0000001",
       "summary": "The stock has a 100% buy rating from polled analysts, with some eye-catching price targets.",
       "published_at": "2026-07-26T13:45:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -300,7 +378,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/shein-reveals-key-financials-ahead-134128865.html",
       "summary": "",
       "published_at": "2026-07-26T13:41:28+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -308,6 +386,30 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "961c40445377bab9d2a2ed198fd00971524e63f2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Intel Corp Shows Strong Q2 Results and Free Cash Flow - Shorting INTC Puts is Still the Best Play",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-shows-strong-q2-133002161.html",
+      "summary": "",
+      "published_at": "2026-07-26T13:30:02+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "6e031401391c8ccd0abba7d7a84fe28268bd41d1",
@@ -318,7 +420,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/kospi-trading-like-a-meme-stock-sp-500-nasdaq-next/?source=iedfolrf0000001",
       "summary": "If you think the wild volatility we've observed in Korea's stock market could never happen here, the data suggests you'll be sorely mistaken.",
       "published_at": "2026-07-26T13:06:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +438,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3479060",
       "summary": "",
       "published_at": "2026-07-26T13:05:08+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -354,7 +456,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/mark-zuckerbergs-meta-is-also-one-of-coreweaves-bi/?source=iedfolrf0000001",
       "summary": "A report stating that Meta Platforms intends to sell its excess cloud computing capacity doesn't bode well for CoreWeave.",
       "published_at": "2026-07-26T13:00:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +480,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/the-vanguard-total-stock-market-etf-vti-now-holds/?source=iedfolrf0000001",
       "summary": "Several popular Vanguard ETFs wasted no time buying SpaceX shortly after its IPO.",
       "published_at": "2026-07-26T12:51:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -396,7 +498,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/wall-streets-average-amazon-price-target-sits-34-a/?source=iedfolrf0000001",
       "summary": "The market keeps marking the stock down. The analysts covering it keep saying it belongs somewhere much higher.",
       "published_at": "2026-07-26T12:37:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -414,7 +516,7 @@
       "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
       "summary": "Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action",
       "published_at": "2026-07-26T12:30:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -432,7 +534,7 @@
       "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
       "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
       "published_at": "2026-07-26T11:33:11+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -450,7 +552,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/should-you-avoid-netflix-stock-at-a-52-week-low/?source=iedfolrf0000001",
       "summary": "Netflix stock has plunged 40% in a year as investors flee. But is the streaming giant actually a bargain at these beaten-down prices?",
       "published_at": "2026-07-26T11:23:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -468,7 +570,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/archer-aviation-has-fallen-x-and-could-be-a-long-t/?source=iedfolrf0000001",
       "summary": "Archer Aviation's stock rallied after it showed off a new product, but the shares are still down 50% over the past year.",
       "published_at": "2026-07-26T11:15:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -486,7 +588,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/salesforce-vs-servicenow-which-agentic-ai-stock-is/?source=iedfolrf0000001",
       "summary": "These companies are turning AI from a threat into an opportunity.",
       "published_at": "2026-07-26T11:05:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -502,24 +604,6 @@
       "score": 0.97
     },
     {
-      "id": "40677e35dc1bc81d80653becbb64f8c1c3db2616",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "published_at": "2026-07-26T11:00:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
       "id": "c309adb8bf8acc552cac2009758301105da2b657",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -528,7 +612,7 @@
       "url": "https://www.fool.com/investing/2026/07/26/stock-market-verge-do-something-no-one-witnessed/?source=iedfolrf0000001",
       "summary": "Wall Street is on the doorstep of making history -- but not all historical events are desirable for investors.",
       "published_at": "2026-07-26T10:36:00+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -546,7 +630,7 @@
       "url": "https://www.scmp.com/business/article/3361877/demand-dubai-homes-cools-middle-east-conflict-drags?utm_source=rss_feed",
       "summary": "The US-Israel war on Iran has cooled demand for homes in Dubai as buyers hold off on making purchases and businesses delay relocations of executives and staff to the Middle East, according to analysts.\nThe hostilities began in February with strikes in Tehran and later developed into a wider regional conflict.\n“While citywide sales volumes were down just 13.6 per cent year on year in the first half",
       "published_at": "2026-07-26T10:00:06+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
+      "first_seen_at": "2026-07-26T19:43:26.434109+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -554,30 +638,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.52
-    },
-    {
-      "id": "be6b9c8cdfde15958b099620ae49fde385e08d0f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Cathie Wood Just Poured $18 Million Into Meta Stock. Here’s Why.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-poured-18-153002939.html",
-      "summary": "",
-      "published_at": "2026-07-25T15:30:02+00:00",
-      "first_seen_at": "2026-07-26T18:06:45.991679+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     }
   ]
 }
