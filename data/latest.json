@@ -1,25 +1,29 @@
 {
-  "generated_at": "2026-07-29T19:52:13.894567+00:00",
+  "generated_at": "2026-07-29T20:54:08.676159+00:00",
   "window_hours": 48,
-  "total_items": 42,
+  "total_items": 45,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 41,
-    "HK": 1
+    "US": 43,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 14
+      "count": 16
     },
     {
       "key": "macro",
-      "count": 13
+      "count": 11
     },
     {
       "key": "company",
-      "count": 8
+      "count": 10
+    },
+    {
+      "key": "guidance",
+      "count": 4
     },
     {
       "key": "rating",
@@ -27,14 +31,6 @@
     },
     {
       "key": "ipo",
-      "count": 2
-    },
-    {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "product",
       "count": 1
     }
   ],
@@ -47,20 +43,86 @@
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "13ce149b5b033aea9693d9f5f69fe341a641c4e1",
+      "id": "2a6bdb939bd32fac1e3bf786cf814ce353c4e995",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Carvana's record quarter overshadowed by soft FY26 outlook",
+      "url": "https://seekingalpha.com/news/4620784-carvanas-record-quarter-overshadowed-by-soft-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-07-29T20:53:06+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.52
+    },
+    {
+      "id": "acd315b6dff69a265be7f55d4130cea3d6ad3e46",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Dow falls 1,100 points as rates jump after Fed stays on sidelines of inflation fight: Live updates",
-      "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
-      "summary": "The Dow fell for the first day in four as Fed Chairman Kevin Warsh's comments on rates and inflation failed to soothe investors.",
-      "published_at": "2026-07-29T19:49:40+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "title": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
+      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "summary": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
+      "published_at": "2026-07-29T20:50:40+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "904b827fb5eefd637ba516701b8581dccdf8e619",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Earnings",
+      "title": "Meta’s Reality Labs lost over $4.6 billion in second quarter",
+      "url": "https://www.cnbc.com/2026/07/29/metas-reality-labs-lost-over-4point6-billion-in-second-quarter.html",
+      "summary": "Meta's Reality Labs unit, which develops virtual reality and wearable devices, continues losing money.",
+      "published_at": "2026-07-29T20:50:39+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "cfe2a571bbc84be2ce35883eadbad3e10384225c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
+      "summary": "Fed Chairman Kevin Warsh presides over his second meeting with dissent in the air.",
+      "published_at": "2026-07-29T20:44:19+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -70,15 +132,33 @@
       "score": 0.52
     },
     {
-      "id": "a9aa75608044f0c4cf0971e305dd38cc2fb85baa",
+      "id": "a3b73331733c801ff102b2faa06c1f935738572d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-      "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
-      "published_at": "2026-07-29T19:40:01+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "source": "CNBC Top News",
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+      "published_at": "2026-07-29T20:42:50+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "329fa928a96486ae08ef176aae72c3e4714a8f91",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
+      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+      "summary": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+      "published_at": "2026-07-29T20:32:31+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,21 +168,147 @@
       "score": 0.8
     },
     {
-      "id": "496c85557aea3de2bbe2192bc0155ac3fb7eb942",
+      "id": "56b1fa104587243910659b9fd6f15dbe587a20f7",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Fed meeting live updates: Warsh says Fed 'will not hesitate' to act on inflation",
-      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
-      "summary": "Fed Chairman Kevin Warsh presides over his second meeting with dissent in the air.",
-      "published_at": "2026-07-29T19:39:01+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+      "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+      "summary": "The FTC sued Hims and Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+      "published_at": "2026-07-29T20:30:15+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "d4a9dd55ed3f36966709e31b9ff2c4f9df6369c6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+      "published_at": "2026-07-29T20:22:27+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "e7901ea6be92e044a6e9b5911e96e6b6d21ee307",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+      "published_at": "2026-07-29T20:19:31+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.76
+    },
+    {
+      "id": "dc6f1fab6b8c7047df07a9ad06d4ca56c17c4380",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Arm Holdings第一季度业绩超预期，盘后股价下跌",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3486279",
+      "summary": "",
+      "published_at": "2026-07-29T20:14:51+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "fdf94724bbf2d61d0cd0178f3ea86e953a061e9d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "高通因第四季度业绩指引疲软而股价下跌",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3486235",
+      "summary": "",
+      "published_at": "2026-07-29T20:10:23+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "2915fb447d4b6bfa316cf8674bf8b647d780c4a6",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "摩根士丹利精选垂直软件板块顶级股票，布局2026财年第二季度财报季",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3486208",
+      "summary": "",
+      "published_at": "2026-07-29T19:57:35+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "8ffcdaaa48748778ebda247e88e474298a4271be",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Avis Budget Stock Crashed Today",
+      "url": "https://www.fool.com/investing/2026/07/29/why-avis-budget-stock-crashed-today/?source=iedfolrf0000001",
+      "summary": "Avis Budget lost money in 2025. 2026 will probably be better than that -- but still not good enough for Wall Street.",
+      "published_at": "2026-07-29T19:44:52+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     },
     {
@@ -114,7 +320,7 @@
       "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "published_at": "2026-07-29T19:11:58+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -130,15 +336,15 @@
       "score": 1.0
     },
     {
-      "id": "f263bea32156156aedd8a63c780f9f6bede5136b",
+      "id": "6de27d7df3464dfde53e08065e9ba0eb6326a724",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "MarketWatch Top Stories",
-      "title": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+      "title": "Do-nothing Fed? Maybe not. Now Wall Street zeros in on rate hike in September.",
       "url": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
       "summary": "Markets should be ‘on alert for a hike in September, particularly with war clouds pushing up energy prices again,’ one economist says",
       "published_at": "2026-07-29T19:11:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,7 +362,7 @@
       "url": "https://www.cnbc.com/2026/07/29/another-bank-raised-its-cd-rate-to-4percent-where-to-lock-in-the-best-yields.html",
       "summary": "Some banks are boosting yields as the Federal Reserve holds rates steady.",
       "published_at": "2026-07-29T18:59:30+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -174,7 +380,7 @@
       "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
       "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
       "published_at": "2026-07-29T18:58:16+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -182,30 +388,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "56b1fa104587243910659b9fd6f15dbe587a20f7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
-      "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
-      "summary": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
-      "published_at": "2026-07-29T18:24:09+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "6d081592334a5bff5a3cfcbfc4dd2d644c13d38f",
@@ -216,7 +398,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/semiconductor-crash-3-stocks-to-buy-now-while-they/?source=iedfolrf0000001",
       "summary": "Nvidia, AMD, and Broadcom all look like buys on this sell-off.",
       "published_at": "2026-07-29T18:00:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -240,7 +422,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/why-sandisk-stock-is-sinking-today/?source=iedfolrf0000001",
       "summary": "Sandisk stock is still up massively over the last year, but it's now down 55% from its high.",
       "published_at": "2026-07-29T17:41:43+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -258,7 +440,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/fed-held-interest-rates-no-relief-coming/?source=iedfolrf0000001",
       "summary": "Investors and consumers should expect steady (and possibly higher) interest rates for the foreseeable future.",
       "published_at": "2026-07-29T17:31:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -276,7 +458,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/market-indexes-tumble-on-geopolitical-tensions/?source=iedfolrf0000001",
       "summary": "The Dow dropped over 900 points as Iran tensions pushed oil prices sharply higher. Semiconductor stocks extended their brutal weekly decline.",
       "published_at": "2026-07-29T17:29:46+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +476,7 @@
       "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
       "summary": "Investors were disappointed by the neobank’s restrained guidance.",
       "published_at": "2026-07-29T17:18:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +494,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/is-ford-motor-stock-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
       "summary": "Ford missed consensus revenue estimates but raised its full-year guidance.",
       "published_at": "2026-07-29T17:16:01+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -330,7 +512,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/intels-data-center-revenue-soared-59-in-the-second/?source=iedfolrf0000001",
       "summary": "There was a lot to like in Intel's Q2 earnings. However, investors are taking issue with Intel's ambitious spending plans.",
       "published_at": "2026-07-29T17:15:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -338,24 +520,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "73b2e562f811b2022c22d26429ef64d62c84b2f9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
-      "url": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
-      "summary": "A strong dollar is doing far less for the fight against inflation than might be expected.",
-      "published_at": "2026-07-29T17:12:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "74de004a50c2d35d8d2a77dbffd8f7518919afd6",
@@ -366,7 +530,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/oklo-is-down-over-75-from-its-high-its-still-not-t/?source=iedfolrf0000001",
       "summary": "Oklo remains a very risky way to play the nuclear power resurgence.",
       "published_at": "2026-07-29T16:45:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -384,7 +548,7 @@
       "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
       "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
       "published_at": "2026-07-29T16:18:04+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -402,7 +566,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/kevin-warsh-1-reason-federal-reserve-investors/?source=iedfolrf0000001",
       "summary": "Those who stay patient and disciplined, while ignoring the noise, will find that the market stacks the odds in their favor.",
       "published_at": "2026-07-29T16:10:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -420,7 +584,7 @@
       "url": "https://www.fool.com/investing/2026/07/29/vertiv-stock-all-time-high-wall-street-upside/?source=iedfolrf0000001",
       "summary": "The stock's peeled back quite a bit from May's peak, but the analyst community maintains its valuation on VRT shares.",
       "published_at": "2026-07-29T16:04:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -428,72 +592,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.76
-    },
-    {
-      "id": "3c1b69c323cb8e1a2b062b176bda736dd8c135f3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta reports second-quarter results after the close",
-      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
-      "summary": "Meta continues to see healthy growth from online ads, but investors are looking for more clarity on the company's plans to diversify.",
-      "published_at": "2026-07-29T16:00:01+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "018951b0a12d310b0bfc373474087de845050327",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: Meta Stock Will Pop After Q2 Earnings. 3 Reasons Why",
-      "url": "https://www.fool.com/investing/2026/07/29/prediction-meta-stock-will-pop-after-earnings-3-re/?source=iedfolrf0000001",
-      "summary": "Meta has fallen in the last nine trading sessions, but the streak looks ready to come to an end.",
-      "published_at": "2026-07-29T15:34:54+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "fe427db1f4a52f1114db55d817abaafa18ea37aa",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SoFi Just Posted Record Growth and Profitability -- So Why Is the Stock Down 10%?",
-      "url": "https://www.fool.com/investing/2026/07/29/sofi-just-posted-record-growth-and-profitability-s/?source=iedfolrf0000001",
-      "summary": "SoFi's stellar second-quarter numbers aren't enough to impress investors.",
-      "published_at": "2026-07-29T15:30:40+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
     },
     {
       "id": "b226b5b3db0dfdf17c1913584484621457872aa9",
@@ -504,7 +602,7 @@
       "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
       "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
       "published_at": "2026-07-29T14:53:03+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -522,7 +620,7 @@
       "url": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
       "summary": "Wall Street is projecting a strong second quarter for Yum Brands, but investors' focus will be on updates related to the cyclospora outbreak tied to Taco Bell.",
       "published_at": "2026-07-29T11:00:01+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -540,7 +638,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3362265/chinese-mlcc-firms-profits-and-stock-prices-fatten-hunger-electronic-rice?utm_source=rss_feed",
       "summary": "Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half earnings, fuelled by insatiable global demand for artificial intelligence infrastructure.\nShares of Shenzhen-listed Guangdong Fenghua Advanced Technology, one of the country’s lead",
       "published_at": "2026-07-29T10:30:12+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -558,7 +656,7 @@
       "url": "https://www.scmp.com/business/markets/article/3362123/hong-kong-stocks-hunker-down-day-packed-fed-decision-jumbo-ipo-debut?utm_source=rss_feed",
       "summary": "Hong Kong stocks are gearing up for an eventful Thursday, when a decision on interest rates by the US Federal Reserve will coincide with an initial public offering (IPO) poised to be the city’s largest in seven years, testing investors’ appetite for risk.\nAn unexpected increase in US borrowing costs, or even a hawkish tone from new US Fed chairman Kevin Warsh, risks derailing a fragile rebound in ",
       "published_at": "2026-07-29T00:00:10+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -576,7 +674,7 @@
       "url": "https://www.cnbc.com/2026/07/28/corning-glw-stock-optical-ai.html",
       "summary": "Marvell, Lumentum, AXT and Coherent were down double digits following the Corning print.",
       "published_at": "2026-07-28T20:22:32+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -600,7 +698,7 @@
       "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
       "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
       "published_at": "2026-07-28T20:01:06+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -618,7 +716,7 @@
       "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
       "summary": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
       "published_at": "2026-07-28T19:45:10+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -642,7 +740,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html",
       "summary": "",
       "published_at": "2026-07-28T19:11:44+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -652,22 +750,76 @@
       "score": 0.52
     },
     {
-      "id": "22d8103aff7eb9237e6b712da606ca28cf5b7a2e",
+      "id": "fdb21b3528670d0d21191f6d5318b43032cd0cae",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html",
+      "title": "Do Wall Street Analysts Like CVS Health Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-cvs-health-123400719.html",
       "summary": "",
-      "published_at": "2026-07-28T12:52:10+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "published_at": "2026-07-28T12:34:00+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
-      "score": 0.52
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "974c96997cb7dd24c08c9c97be0d1e55027755dd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Chip stocks down: Micron, Sandisk, Intel shares get hammered as AI uncertainty infects global markets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-down-micron-sandisk-121300514.html",
+      "summary": "",
+      "published_at": "2026-07-28T12:13:00+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "b01044ecfdfbaf4d7817a86303115585ca129545",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Textron Beats Earnings Estimates but Guidance and Funding Risks Weigh on Shares",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/textron-beats-earnings-estimates-guidance-121146401.html",
+      "summary": "",
+      "published_at": "2026-07-28T12:11:46+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "0bc2e23623b688803a20ec5afc40edc8e078bb1a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "AT&T Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-stock-outlook-wall-street-120752024.html",
+      "summary": "",
+      "published_at": "2026-07-28T12:07:52+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
     },
     {
       "id": "feda369aaa1efd231db7bbc62fa86e0e8ebac65d",
@@ -678,7 +830,7 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html",
       "summary": "",
       "published_at": "2026-07-28T12:05:08+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -688,124 +840,28 @@
       "score": 0.52
     },
     {
-      "id": "7410a567ff2c3aec04a3c92fef213e9759f62ae9",
+      "id": "733407dad5628167e9c12e22297447bbca42501e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html",
+      "title": "If You Invested $20,000 in Meta 5 Years Ago, How Much Could You Have Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invested-20-000-meta-5-120000779.html",
       "summary": "",
-      "published_at": "2026-07-28T11:40:31+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "0529f2723e97da4071bf16ead1c63077b98dff75",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Amazon Might Be Outspending Alphabet on AI, But It Doesn’t Makes AMZN Stock a Sell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-might-outspending-alphabet-ai-113002028.html",
-      "summary": "",
-      "published_at": "2026-07-28T11:30:02+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "AMZN",
-          "name": "亚马逊",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "eac08148247ca1d636b97794e8578df59507a374",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "AMD signs AI data center deal with Core Scientific",
-      "url": "https://finance.yahoo.com/technology/ai/articles/core-scientific-signs-ai-infrastructure-110814795.html",
-      "summary": "",
-      "published_at": "2026-07-28T11:08:14+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "product",
       "score": 0.85
-    },
-    {
-      "id": "c8fdf59eff1b58f3d3a4f90281613a2caaeae610",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley says SpaceX at $100 would imply zero AI value after stock plunges roughly 50% from post-IPO high",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-spacex-100-110000302.html",
-      "summary": "",
-      "published_at": "2026-07-28T11:00:00+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "5bfa572beb7866f175d4533641a96ac2ffbdd054",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting ExxonMobil Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-exxonmobil-104023941.html",
-      "summary": "",
-      "published_at": "2026-07-28T10:40:23+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "8d5b8f8eeef0e699f53d98b36f90f9cf7fa730a6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Nasdaq Futures Plunge as Chip Selloff Rages On, FOMC Meeting and Earnings on Tap",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-chip-selloff-103808061.html",
-      "summary": "",
-      "published_at": "2026-07-28T10:38:08+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "8b285a9c01942103097220029c5f4e03527eb38b",
@@ -816,7 +872,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3362139/chinas-home-grown-duv-progress-not-biggest-threat-asml-analysts-say?utm_source=rss_feed",
       "summary": "Western anxiety over a potential breakthrough in Chinese chipmaking gear may be rising, but home-grown machines are not the greatest threat facing industry leader ASML, according to analysts.\nThe Dutch firm’s shares fell more than 8 per cent at one point on Monday in the US before closing down 5.8 per cent, after The Information reported that China had begun manufacturing home-grown immersion deep",
       "published_at": "2026-07-28T10:30:08+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -834,7 +890,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3362141/hong-kongs-exchange-fund-first-half-earnings-fall-37-equity-slump-softer-bond-income?utm_source=rss_feed",
       "summary": "The Exchange Fund, the war chest used to defend the local currency, reported a 37 per cent decline in first-half earnings as losses in Hong Kong equities and weaker bond returns weighed on performance, the Hong Kong Monetary Authority (HKMA) said on Tuesday.\nEarnings stood at HK$134.7 billion (US$17.17 billion), down from the record half-year return of HK$214 billion in 2025.\nThe Hong Kong stock p",
       "published_at": "2026-07-28T10:10:08+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -852,7 +908,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3362000/tale-two-markets-wall-street-cheers-record-highs-while-beijing-deflates-bubbles?utm_source=rss_feed",
       "summary": "When the S&amp;P 500, Nasdaq and Dow Jones Industrial Average hit record highs in early July, US President Donald Trump hailed it as evidence of America’s economic revival.\n“This is WINNING. The Golden Age of America is beginning – and we are just getting started,” he wrote in a social media post on July 4, the 250th anniversary of the signing of the US Declaration of Independence.\nThough it was o",
       "published_at": "2026-07-27T22:00:06+00:00",
-      "first_seen_at": "2026-07-29T19:52:13.894567+00:00",
+      "first_seen_at": "2026-07-29T20:54:08.676159+00:00",
       "market": "US",
       "markets": [
         "US"
