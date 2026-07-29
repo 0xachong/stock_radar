@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-28T23:57:14.358154+00:00",
+  "generated_at": "2026-07-29T02:56:30.251615+00:00",
   "window_hours": 48,
-  "total_items": 30,
+  "total_items": 35,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 5,
-    "CN": 1,
-    "US": 24
+    "US": 28,
+    "HK": 7,
+    "CN": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 12
     },
     {
       "key": "earnings",
@@ -20,11 +20,19 @@
     },
     {
       "key": "ipo",
-      "count": 4
+      "count": 5
+    },
+    {
+      "key": "capital",
+      "count": 2
     },
     {
       "key": "macro",
       "count": 2
+    },
+    {
+      "key": "product",
+      "count": 1
     },
     {
       "key": "guidance",
@@ -39,104 +47,177 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 21
+      "count": 24
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 11
     }
   ],
   "items": [
     {
-      "id": "180f300b104af94238719660345dc584352ca255",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "ASMPT(00522)将于8月31日派发中期股息每股0.97港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3483760",
-      "summary": "",
-      "published_at": "2026-07-28T23:35:14+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
-      "market": "HK",
+      "id": "4ab22c2c4e645b8a7c88f0a1e7f6689e6b1824a1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit",
+      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "summary": "Asian technology stocks extended their selloff on Wednesday, with semiconductor names leading declines after another weak session in the U.S.",
+      "published_at": "2026-07-29T02:44:11+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "company",
       "score": 0.52
     },
     {
-      "id": "40d24034ce3673e50c12d2c2c4d7831150a04972",
+      "id": "65d08014ddacb62e746dedd69a77e8fcf0bb22c3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SK Hynix shares fall as exponential earnings growth fails to satisfy AI-charged expectations",
+      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+      "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+      "published_at": "2026-07-29T02:37:16+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "d62100a40829ec4faa6cb4fcfcbc6d174d68e52f",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "智通港股早知道 | 7月份国内风电招标强势回暖 ASMPT(00522)中期股东应占盈利同比增长174.1%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3483757",
+      "title": "铜锂“AI红利”引爆业绩！力拓(RIO.US)上半年盈利超预期，中期股息猛增43%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3483995",
       "summary": "",
-      "published_at": "2026-07-28T23:35:13+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "published_at": "2026-07-29T02:36:14+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.64
+      "score": 0.61
     },
     {
-      "id": "ebf310d0e17fda509f2f79d3d734ca96b43fcd31",
+      "id": "ffd54ea3141baa9e17697291c633189a20a82dd4",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "A股申购 | 珈凯生物(920165.BJ)开启申购 客户覆盖珀莱雅、福瑞达等品牌",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3483743",
+      "title": "港股异动 | 汽车股全线爆发 比亚迪人形机器人8月发布 车企悉数布局人形机器人赛道",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3483992",
       "summary": "",
-      "published_at": "2026-07-28T23:05:10+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
-      "market": "CN",
+      "published_at": "2026-07-29T02:35:12+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "HK",
       "markets": [
-        "CN"
+        "HK"
       ],
       "tickers": [],
-      "category": "company",
+      "category": "product",
       "score": 0.52
     },
     {
-      "id": "0180100df3c548330eb4e9b1e1c7b65814938a05",
+      "id": "662e4ab07e0deac3fcec115d717fd36fc54c87c3",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "新股消息 | 浙江荣泰(603119.SH)港股IPO招股书失效",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3483739",
+      "title": "新股前瞻｜万亿级AI落地大潮下，众安信科携亮眼成绩单冲刺港股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3483990",
       "summary": "",
-      "published_at": "2026-07-28T23:05:09+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "published_at": "2026-07-29T02:35:11+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "ipo",
-      "score": 0.8
+      "score": 0.52
     },
     {
-      "id": "7ec0e94ff9cffe4cd03c5d6523a7399b906e7a96",
+      "id": "161e55c5fbdd60d940cd4fe7258d04ae948dff22",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "新股消息 | 泰励生物港股IPO招股书失效",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3483740",
+      "title": "港股异动 | 德康农牧(02419)再涨超7% 6月销售商品肉猪102.989万头 公司优化财务结构蓄力新周期",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3483987",
       "summary": "",
-      "published_at": "2026-07-28T23:05:09+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "published_at": "2026-07-29T02:35:10+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.8
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "b4299237607c7485804a0843595611bc7bd153fe",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 南京熊猫电子股份(00553)跌超10% 尚无与脑机接口相关的成熟产品",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3483988",
+      "summary": "",
+      "published_at": "2026-07-29T02:35:10+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "ba70091bfab6b5914b2d4448234813027e080568",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 中国中车(01766)涨超3% 获控股股东中车集团首次增持473万股A股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3483985",
+      "summary": "",
+      "published_at": "2026-07-29T02:35:09+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "CN"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.76
+    },
+    {
+      "id": "a779b1fa2dfbdf5b16c28a6008102f1e93ba5ac5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Curbline Properties (CURB) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/28/curbline-properties-curb-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Acquisition volume surged as management raised full-year investment guidance to $1 billion.",
+      "published_at": "2026-07-29T01:39:47+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "f90eafbd24adb3a6c0d93b9535696e1e2b00b045",
@@ -146,8 +227,8 @@
       "title": "Seagate’s earnings are welcome news for the battered AI trade",
       "url": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
       "summary": "The storage maker’s June-quarter results come in ahead of Wall Street’s expectations, and the stock rallies after hours",
-      "published_at": "2026-07-28T22:17:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "published_at": "2026-07-29T00:21:00+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -155,6 +236,42 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
+    },
+    {
+      "id": "d8ae06c63b4b99cce678b87a3370180a08efe21b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Cathie Wood Doubles Down on Tesla Stock. Should Investors Follow?",
+      "url": "https://www.fool.com/investing/2026/07/28/cathie-wood-doubles-down-on-tesla-stock-should-inv/?source=iedfolrf0000001",
+      "summary": "Ark Invest increased its Tesla stake after a price drop, signaling continued bullishness, but is it warranted?",
+      "published_at": "2026-07-29T00:05:00+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "b5f33443da98f0bc2d0d20053928972b969c7e21",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Hong Kong stocks hunker down for a day packed with Fed decision, jumbo IPO debut",
+      "url": "https://www.scmp.com/business/markets/article/3362123/hong-kong-stocks-hunker-down-day-packed-fed-decision-jumbo-ipo-debut?utm_source=rss_feed",
+      "summary": "Hong Kong stocks are gearing up for an eventful day on Thursday, when both a rate decision by the US Federal Reserve and a debut of the city’s largest initial public offering (IPO) in seven years coincide to test investors’ risk appetite.\nAn unexpected increase in the US borrowing costs, or even a hawkish tone from new US Fed chairman Kevin Warsh, risks derailing a fragile rebound in Hong Kong sto",
+      "published_at": "2026-07-29T00:00:10+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
     },
     {
       "id": "9f74072ff5ad28ed7ca797a353fd19f52e25eaf1",
@@ -165,7 +282,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/down-25-is-it-finally-time-to-buy-netflix-nflx-sto/?source=iedfolrf0000001",
       "summary": "Netflix's stock is undervalued relative to its recent history.",
       "published_at": "2026-07-28T22:15:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -189,7 +306,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/07/28/advanced-micro-devices-vs-arista-networks-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "AMD trades at a steeper valuation despite slower profit margins, while Arista's high customer concentration adds risk to its premium profitability.",
       "published_at": "2026-07-28T21:58:01+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -213,7 +330,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/coca-cola-earnings-are-in-3-reasons-why-the-dividend-stock-just-hit-an-all-time-high/?source=iedfolrf0000001",
       "summary": "Coca-Cola just reported strong earnings results ahead of Wall Street consensus estimates.",
       "published_at": "2026-07-28T21:14:01+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,7 +348,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/wall-street-says-buy-the-dip-in-viking-therapeutic/?source=iedfolrf0000001",
       "summary": "The stock looks like a high-risk, high-reward play.",
       "published_at": "2026-07-28T21:00:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -249,7 +366,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/intel-is-down-by-39-since-june-time-to-buy/?source=iedfolrf0000001",
       "summary": "The stock has gone down after a massive run-up, but when will it stop falling?",
       "published_at": "2026-07-28T20:57:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -267,7 +384,7 @@
       "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
       "summary": "Japan is edging toward the exit on buying America’s debt. Here is why this matters to your retirement plans.",
       "published_at": "2026-07-28T20:54:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -285,7 +402,7 @@
       "url": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories",
       "summary": "Big Tech’s binge is draining free cash flow — and the bond markets are taking notice.",
       "published_at": "2026-07-28T20:52:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -309,7 +426,7 @@
       "url": "https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories",
       "summary": "Just weeks after driving major indexes such as the S&amp;P 500 and Nasdaq Composite to record highs, semiconductor stocks are taking a beating once again.",
       "published_at": "2026-07-28T20:46:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -327,7 +444,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/why-did-palantir-technologies-stock-drop-again/?source=iedfolrf0000001",
       "summary": "Investors are fearful about Palantir stock -- but Wall Street says it's time to get greedy.",
       "published_at": "2026-07-28T20:41:06+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -351,7 +468,7 @@
       "url": "https://www.cnbc.com/2026/07/28/corning-glw-stock-optical-ai.html",
       "summary": "Marvell, Lumentum, AXT and Coherent were down double digits following the Corning print.",
       "published_at": "2026-07-28T20:22:32+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -375,7 +492,7 @@
       "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
       "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
       "published_at": "2026-07-28T20:01:06+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -393,7 +510,7 @@
       "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
       "summary": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
       "published_at": "2026-07-28T19:45:10+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -417,7 +534,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/07/28/gld-vs-slvp-should-you-invest-in-gold-bullion-or-silver-mining-stocks-in-2026/?source=iedfolrf0000001",
       "summary": "SLVP delivered 69% returns in one year versus GLD's 22%, but endured a 48% maximum drawdown compared to GLD's 26%.",
       "published_at": "2026-07-28T19:43:01+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -435,7 +552,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/why-sp-global-stock-was-tumbling-on-tuesday/?source=iedfolrf0000001",
       "summary": "Investors were under the impression that the company had missed on second-quarter earnings.",
       "published_at": "2026-07-28T19:35:36+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -453,7 +570,7 @@
       "url": "https://www.fool.com/investing/2026/07/28/why-intel-stock-just-fell-again/?source=iedfolrf0000001",
       "summary": "Between AI spending doubts, a potential Fed surprise, and new competition from China, here's what's rattling investors.",
       "published_at": "2026-07-28T19:15:00+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -461,66 +578,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "d7ca840c3b9cd8e6ac3cb971fbf47e9d0a071af9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Space Stocks Down More Than 50% From Their Highs",
-      "url": "https://www.fool.com/investing/2026/07/28/3-space-stocks-down-more-than-50-from-their-highs/?source=iedfolrf0000001",
-      "summary": "Plant Labs, Rocket Lab, and AST SpaceMobile have all followed a similar path this year, crashing sharply after hitting a peak in late May.",
-      "published_at": "2026-07-28T17:48:05+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "771e0665436ee273d52347fffe2cd58fb352d95f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Starbucks Stock a Buy Ahead of Its Q3 Earnings Report Tomorrow?",
-      "url": "https://www.fool.com/investing/2026/07/28/is-starbuckss-stock-a-buy-ahead-of-its-q3-earnings-report-tomorrow/?source=iedfolrf0000001",
-      "summary": "As a group, analysts tracking the coffee giant are expecting a dip in revenue, but an improved earnings per share figure.",
-      "published_at": "2026-07-28T17:47:46+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
-    },
-    {
-      "id": "d2804c76bf062fefad98252f017853100ec52b77",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-      "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-      "summary": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.",
-      "published_at": "2026-07-28T17:40:03+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
     },
     {
       "id": "5ad583cda15baf11950a6df953a82e1d15f5da11",
@@ -531,7 +588,7 @@
       "url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
       "summary": "Shein disclosed the FTC is investigating its U.S. business, but the nature of the probe is unclear.",
       "published_at": "2026-07-28T17:12:52+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -549,7 +606,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3362139/chinas-home-grown-duv-progress-not-biggest-threat-asml-analysts-say?utm_source=rss_feed",
       "summary": "Western anxiety over a potential breakthrough in Chinese chipmaking gear may be rising, but home-grown machines are not the greatest threat facing industry leader ASML, according to analysts.\nThe Dutch firm’s shares fell more than 8 per cent at one point on Monday in the US before closing down 5.8 per cent, after The Information reported that China had begun manufacturing home-grown immersion deep",
       "published_at": "2026-07-28T10:30:08+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -567,13 +624,31 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3362141/hong-kongs-exchange-fund-first-half-earnings-fall-37-equity-slump-softer-bond-income?utm_source=rss_feed",
       "summary": "The Exchange Fund, the war chest used to defend the local currency, reported a 37 per cent decline in first-half earnings as losses in Hong Kong equities and weaker bond returns weighed on performance, the Hong Kong Monetary Authority (HKMA) said on Tuesday.\nEarnings stood at HK$134.7 billion (US$17.17 billion), down from the record half-year return of HK$214 billion in 2025.\nThe Hong Kong stock p",
       "published_at": "2026-07-28T10:10:08+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "7707b56c837e4160bdea86c9e501323cae786f94",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+      "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+      "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
+      "published_at": "2026-07-28T01:34:28+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.64
     },
     {
@@ -585,7 +660,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3362000/tale-two-markets-wall-street-cheers-record-highs-while-beijing-deflates-bubbles?utm_source=rss_feed",
       "summary": "When the S&amp;P 500, Nasdaq and Dow Jones Industrial Average hit record highs in early July, US President Donald Trump hailed it as evidence of America’s economic revival.\n“This is WINNING. The Golden Age of America is beginning – and we are just getting started,” he wrote in a social media post on July 4, the 250th anniversary of the signing of the US Declaration of Independence.\nThough it was o",
       "published_at": "2026-07-27T22:00:06+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -603,7 +678,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-earnings-preview-ai-155031081.html",
       "summary": "",
       "published_at": "2026-07-27T15:50:31+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -619,6 +694,24 @@
       "score": 0.97
     },
     {
+      "id": "205b641b49cabbadce9224d1071703c0f15dfe49",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SanDisk Sinks 12%, Micron Drops 5%, SK Hynix Falls 8% as China’s CXMT IPO Rattles Memory Stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sinks-12-micron-drops-150749991.html",
+      "summary": "",
+      "published_at": "2026-07-27T15:07:49+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
       "id": "9814ea2ba9b3a456a58c66283c0003a35949a6cc",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -627,7 +720,7 @@
       "url": "https://www.scmp.com/plus/tech/big-tech/article/3361997/cxmt-surge-shows-why-china-stock-buyers-see-ipos-one-way-bet?utm_source=rss_feed",
       "summary": "Chipmaker CXMT surged more than fivefold on its Shanghai trading debut to become the largest mainland-listed company by market value as the artificial intelligence boom stokes demand for memory chips.\nThe stock closed at 49 yuan, versus a sale price of 8.66 yuan. That gave the Hefei-based company a market capitalisation of 3.3 trillion yuan, surpassing Industrial and Commercial Bank of China. It t",
       "published_at": "2026-07-27T09:24:12+00:00",
-      "first_seen_at": "2026-07-28T23:57:14.358154+00:00",
+      "first_seen_at": "2026-07-29T02:56:30.251615+00:00",
       "market": "HK",
       "markets": [
         "HK"
