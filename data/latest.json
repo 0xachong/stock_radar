@@ -1,29 +1,33 @@
 {
-  "generated_at": "2026-08-01T14:25:00.307843+00:00",
+  "generated_at": "2026-08-01T15:36:01.256037+00:00",
   "window_hours": 48,
-  "total_items": 36,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 34,
-    "HK": 2
+    "US": 28,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 12
+      "count": 9
     },
     {
       "key": "macro",
-      "count": 11
+      "count": 8
     },
     {
       "key": "company",
-      "count": 7
+      "count": 6
     },
     {
       "key": "ipo",
-      "count": 4
+      "count": 3
+    },
+    {
+      "key": "capital",
+      "count": 1
     },
     {
       "key": "rating",
@@ -38,15 +42,39 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 33
+      "count": 27
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "f8c548df3f7b4e5c19d536088db04851097756a2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Insider trades: Adobe, Visa, PepsiCo among notable names",
+      "url": "https://seekingalpha.com/news/4623106-insider-trades-adobe-visa-pepsico-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-01T15:03:03+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 0.85
+    },
     {
       "id": "da04a6e7694716e5a52411509084ff0cf3d72cb0",
       "site_id": "us_global",
@@ -56,7 +84,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/spacex-is-down-19-from-its-ipo-price-teslas-histor/?source=iedfolrf0000001",
       "summary": "Is the space stock finally a buy?",
       "published_at": "2026-08-01T14:00:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -74,7 +102,7 @@
       "url": "https://seekingalpha.com/news/4623105-bond-sell-off-signals-need-maintain-credibility-feds-musalem?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-01T13:45:49+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -92,7 +120,7 @@
       "url": "https://www.cnbc.com/2026/08/01/these-stocks-reporting-next-week-have-history-of-beating-expectations.html",
       "summary": "These companies reporting next week have a track record of beating analysts' expectations and seeing shares rise after posting results.",
       "published_at": "2026-08-01T13:37:52+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -110,7 +138,7 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-01T13:17:56+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -134,7 +162,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/donald-trump-threw-fed-under-bus-interest-rates/?source=iedfolrf0000001",
       "summary": "Fed Chair Kevin Warsh and the Federal Open Market Committee (FOMC) are contending with elevated inflation, thanks in part to the president's policies.",
       "published_at": "2026-08-01T13:06:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -152,7 +180,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/american-express-raised-its-revenue-guidance-and-l/?source=iedfolrf0000001",
       "summary": "The disparity seems alarming, but there's a perfectly good reason for what won't become a long-term norm. In fact, there's a net upside for patient shareholders.",
       "published_at": "2026-08-01T12:47:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -170,7 +198,7 @@
       "url": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
       "summary": "Wall Street got back to its winning ways last week.",
       "published_at": "2026-08-01T12:16:13+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -188,7 +216,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/bloom-energy-is-soaring-is-there-a-better-way-to-p/?source=iedfolrf0000001",
       "summary": "Bloom Energy stock is up nearly 450% over the past year, but it is also down 45% from its high.",
       "published_at": "2026-08-01T12:15:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -206,7 +234,7 @@
       "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-01T12:00:21+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,24 +242,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "043398970dd7bce11c4cdb33efc39de299ab4452",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?",
-      "url": "https://www.marketwatch.com/story/3-wall-street-strategists-on-the-question-every-investor-is-asking-is-the-worst-over-for-the-stock-market-0c06aac4?mod=mw_rss_topstories",
-      "summary": "Wall Street just limped through its roughest stretch in months, and every investor is asking the same nervous question: Is the worst over in the stock market, or is the selloff just getting started?",
-      "published_at": "2026-08-01T12:00:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "8e382b6747ffc7ad63587853436745524cf09966",
@@ -242,7 +252,7 @@
       "url": "https://finance.yahoo.com/markets/article/bond-vigilantes-are-doing-the-feds-dirty-work-chart-of-the-day-114805136.html",
       "summary": "",
       "published_at": "2026-08-01T11:48:05+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,7 +270,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/should-you-buy-tesla-while-its-below-350/?source=iedfolrf0000001",
       "summary": "The EV stock is down 20% since reporting its second-quarter financial results on July 22.",
       "published_at": "2026-08-01T11:45:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -278,7 +288,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3492415",
       "summary": "",
       "published_at": "2026-08-01T11:05:08+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -296,7 +306,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/10000-invested-in-rocket-lab-3-years-ago-is-worth/?source=iedfolrf0000001",
       "summary": "The space stock's three-year return laps the market many times over. What the pullback changed deserves just as much attention.",
       "published_at": "2026-08-01T10:17:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,7 +324,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/coinbase-reports-record-share-of-global-crypto-trading-volume-but-its-price-still-drops-what-does-that-mean-for-coin-investors/?source=iedfolrf0000001",
       "summary": "The company captured over 10% of the total for the first time in its history.",
       "published_at": "2026-08-01T09:53:07+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -338,31 +348,13 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3492401",
       "summary": "",
       "published_at": "2026-08-01T09:45:18+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "20b19b697a4edb8775cd0f3d378febd50f5df359",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 立景科技再度递表港交所 全球第二大消费电子摄像头模组商",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492397",
-      "summary": "",
-      "published_at": "2026-08-01T09:35:08+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
       "score": 0.52
     },
     {
@@ -374,7 +366,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/texas-instruments-stock-down-16-high-buy/?source=iedfolrf0000001",
       "summary": "Data center revenue doubled, but soft guidance spooked Wall Street.",
       "published_at": "2026-08-01T09:12:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -392,7 +384,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/stock-market-trouble-august-how-much-sp-500-drop/?source=iedfolrf0000001",
       "summary": "The S&amp;P 500 has frequently dropped into correction territory during August in midterm election years.",
       "published_at": "2026-08-01T08:48:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -410,7 +402,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/prediction-spacex-stock-is-about-to-sink-even-more/?source=iedfolrf0000001",
       "summary": "Expect more volatility from this whipsawing IPO stock.",
       "published_at": "2026-08-01T08:44:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -418,60 +410,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "7a2bb0c5477565cf9f5bfbcbd0c5b00db9a73901",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Kevin Warsh Did Not Impress the Bond Market -- 30-Year Yields Are Up to 5.2%. Here's What This Might Mean for Investors in These 2 ETFs.",
-      "url": "https://www.fool.com/investing/2026/08/01/kevin-warsh-did-not-impress-the-bond-market-30-yea/?source=iedfolrf0000001",
-      "summary": "Unless the Fed gets tougher on inflation, investors in long-term Treasury bonds will feel the pain.",
-      "published_at": "2026-08-01T07:30:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "c0f744a435685c1387b1b6a08b228efb86849ab9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Scott Strazik's GE Vernova Has a $176 Billion Backlog. So Why Did Wall Street Sell the Stock?",
-      "url": "https://www.fool.com/investing/2026/08/01/scott-straziks-ge-vernova-has-a-176-billion-backlo/?source=iedfolrf0000001",
-      "summary": "There just wasn't room for anything less than perfection. But, there's a \"but.\"",
-      "published_at": "2026-08-01T07:05:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "015346e92c5d2373667a65670777a0201f39fd1f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Starbucks vs. Chipotle: Both Restaurants Are Seeing Turnarounds, but Which Stock Is the Better Buy Today?",
-      "url": "https://www.fool.com/investing/2026/08/01/starbucks-vs-chipotle-both-restaurants-are-seeing/?source=iedfolrf0000001",
-      "summary": "Chipotle shares shot up after strong Q2 earnings, but Starbucks stock could be the better buy.",
-      "published_at": "2026-08-01T06:05:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
     },
     {
       "id": "1fb2ac7b10829825c8392695dbbcbc02a7c3c7d8",
@@ -482,7 +420,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-drops-fed-060300978.html",
       "summary": "",
       "published_at": "2026-08-01T06:03:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -500,7 +438,7 @@
       "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
       "summary": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.",
       "published_at": "2026-07-31T20:17:54+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -524,7 +462,7 @@
       "url": "https://www.cnbc.com/2026/07/31/eaton-jumps-as-its-earnings-and-outlook-signal-hope-for-the-ai-buildout.html",
       "summary": "Eaton investors had good reason to be concerned heading into Friday's results.",
       "published_at": "2026-07-31T19:43:14+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -542,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
       "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
       "published_at": "2026-07-31T18:46:45+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -560,7 +498,7 @@
       "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
       "summary": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
       "published_at": "2026-07-31T16:59:53+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -584,7 +522,7 @@
       "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
       "summary": "Trimmed mean measures are painting a different picture than the headline numbers.",
       "published_at": "2026-07-31T16:51:30+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -602,7 +540,7 @@
       "url": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
       "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
       "published_at": "2026-07-31T15:45:15+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -620,7 +558,7 @@
       "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
       "summary": "Apple reported third-quarter earnings on Thursday after the closing bell, and Tim Cook addressed investors for the last time as CEO.",
       "published_at": "2026-07-31T14:52:08+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -628,24 +566,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
-    },
-    {
-      "id": "a589dff1dcd91048247a5ddc646e7f6ac8bd865b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Federated Hermes, Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/federated-hermes-inc-q2-2026-123000803.html",
-      "summary": "",
-      "published_at": "2026-07-31T12:30:00+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "4d7d5bd037641d159adf9a8b55c43b03ffe2b5f3",
@@ -656,7 +576,7 @@
       "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
       "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
       "published_at": "2026-07-30T22:28:58+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -680,7 +600,7 @@
       "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
       "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
       "published_at": "2026-07-30T20:34:12+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
+      "first_seen_at": "2026-08-01T15:36:01.256037+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -688,42 +608,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.76
-    },
-    {
-      "id": "31b1bda6044d5e84dceac193d26ba03856fd5e8a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Ferrari raises 2026 guidance after Q2 earnings beat",
-      "url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
-      "summary": "Ferrari is bumping up its 2026 guidance after beating Wall Street's second quarter expectations amid \"healthy\" demand for its products.",
-      "published_at": "2026-07-30T15:14:14+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "3f37e43a29cf3b0f90a02423ad4c24d2c6409cad",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Markets",
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-      "summary": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
-      "published_at": "2026-07-30T15:04:43+00:00",
-      "first_seen_at": "2026-08-01T14:25:00.307843+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
