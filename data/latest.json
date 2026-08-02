@@ -1,25 +1,29 @@
 {
-  "generated_at": "2026-08-02T14:46:51.239163+00:00",
+  "generated_at": "2026-08-02T15:59:44.254428+00:00",
   "window_hours": 48,
-  "total_items": 33,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 32,
+    "US": 28,
     "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
+      "count": 11
     },
     {
       "key": "macro",
-      "count": 10
+      "count": 7
     },
     {
       "key": "earnings",
-      "count": 9
+      "count": 6
+    },
+    {
+      "key": "rating",
+      "count": 2
     },
     {
       "key": "capital",
@@ -27,10 +31,6 @@
     },
     {
       "key": "ipo",
-      "count": 1
-    },
-    {
-      "key": "rating",
       "count": 1
     },
     {
@@ -42,7 +42,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 32
+      "count": 28
     },
     {
       "site_id": "hk_china",
@@ -52,6 +52,83 @@
   ],
   "items": [
     {
+      "id": "53fe199c416af8b5e3f07da18972c6f05894c82b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Coinbase CEO Brian Armstrong Continues to Advocate for the Clarity Act. Here's the Most Likely Scenario For the Crypto Market.",
+      "url": "https://www.fool.com/investing/2026/08/02/coinbase-ceo-brian-armstrong-continues-to-advocate/?source=iedfolrf0000001",
+      "summary": "The future of the crypto market is in limbo while waiting for the Clarity Act.",
+      "published_at": "2026-08-02T15:30:00+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        },
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.95
+    },
+    {
+      "id": "196ee5b9e686430d2901f3115263380253ea0045",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The Salesforce Dip Is a Buying Opportunity",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-dip-buying-opportunity-150500590.html",
+      "summary": "",
+      "published_at": "2026-08-02T15:05:00+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "33821c66618b75a28a40ff660ec6e25644ce4ae7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "An Analyst Just Called Meta a Top Large-Cap Buy. Here’s Why We Agree.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-called-meta-top-150000569.html",
+      "summary": "",
+      "published_at": "2026-08-02T15:00:00+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
+    },
+    {
       "id": "828c647b895ca6d4e1b8255c27d100e7d7557749",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -60,7 +137,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/3-reasons-to-buy-reddit-stock-in-august/?source=iedfolrf0000001",
       "summary": "This stock is down nearly 40% this year, but you don't have to fix what isn't broken.",
       "published_at": "2026-08-02T14:07:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -78,7 +155,7 @@
       "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
       "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
       "published_at": "2026-08-02T14:00:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,7 +173,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3492623",
       "summary": "",
       "published_at": "2026-08-02T13:35:08+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -114,7 +191,7 @@
       "url": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
       "summary": "Some states — including Connecticut, Minnesota and Rhode Island — have expanded their own student loan programs amid new limits on federal borrowing.",
       "published_at": "2026-08-02T13:30:01+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -132,7 +209,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/microsoft-vs-meta-platforms-which-is-the-better-ma/?source=iedfolrf0000001",
       "summary": "Investors looking to add one of these tech giants to their portfolios have an easy decision to make.",
       "published_at": "2026-08-02T13:23:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,7 +233,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/bond-market-call-kevin-warsh-bluff-interest-rates/?source=iedfolrf0000001",
       "summary": "Bond traders aren't counting on Warsh and the Federal Open Market Committee (FOMC) to sit on their proverbial hands for much longer.",
       "published_at": "2026-08-02T13:06:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -174,7 +251,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/08/02/advanced-micro-devices-vs-arm-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "One builds the chips; the other licenses the blueprint. Their vastly different business models and risk profiles demand different investor strategies.",
       "published_at": "2026-08-02T12:30:01+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -198,7 +275,7 @@
       "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
       "summary": "Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.",
       "published_at": "2026-08-02T12:01:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -216,7 +293,7 @@
       "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
       "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
       "published_at": "2026-08-02T12:00:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -234,7 +311,7 @@
       "url": "https://www.cnbc.com/2026/08/02/nasdaq-100-just-had-worst-month-since-march-2025-these-stocks-held-up.html",
       "summary": "All eight of these Nasdaq-100 stocks gained in July even as the flagship index suffered its steepest decline since March 2025",
       "published_at": "2026-08-02T11:59:15+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -252,7 +329,7 @@
       "url": "https://www.cnbc.com/2026/08/02/amd-sandisk-are-two-of-the-big-chip-stocks-with-earnings-momentum.html",
       "summary": "Some 130 S&amp;P 500 companies get ready to report, these stocks have earnings momentum leading them into the week",
       "published_at": "2026-08-02T11:56:25+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -276,7 +353,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/spacex-stock-down-51-outperform-ipo-xe-stdn/?source=iedfolrf0000001",
       "summary": "Which of these three high-tech market newcomers is the best?",
       "published_at": "2026-08-02T11:45:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +371,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/micron-stock-is-down-39-from-its-high-history-sugg/?source=iedfolrf0000001",
       "summary": "Is now a great opportunity to buy Micron stock?",
       "published_at": "2026-08-02T11:30:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +389,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/even-with-spacex-down-50-from-its-high-id-still-ra/?source=iedfolrf0000001",
       "summary": "Sure, SpaceX is down 50%, but I'd rather buy the profitable growth story. Here's why Cava looks like the smarter long-term investment.",
       "published_at": "2026-08-02T11:00:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -330,7 +407,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/stock-market-do-something-6-times-1871-wall-street/?source=iedfolrf0000001",
       "summary": "History can be a powerful teaching tool, with past events on Wall Street having the uncanny ability of foreshadowing the future.",
       "published_at": "2026-08-02T10:36:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -348,7 +425,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/wall-street-analysts-are-predicting-a-huge-move-in/?source=iedfolrf0000001",
       "summary": "Should you buy shares of Space Exploration Technologies now or wait?",
       "published_at": "2026-08-02T10:30:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -366,7 +443,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/mark-zuckerberg-says-hes-betting-big-on-ai-compute/?source=iedfolrf0000001",
       "summary": "Meta's free cash flow is getting crushed, but Zuckerberg's AI compute gamble could be the stock's next big catalyst.",
       "published_at": "2026-08-02T10:15:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -390,7 +467,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/wall-street-analyst-think-stock-soar-bbio/?source=iedfolrf0000001",
       "summary": "Rapid commercial momentum could justify Wall Street's bullish outlook.",
       "published_at": "2026-08-02T09:55:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -398,24 +475,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.76
-    },
-    {
-      "id": "ddc024c13bb28f871bd59bcc4d982b7367aad67e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Incredible Reason to Buy Qualcomm Stock Right Now",
-      "url": "https://www.fool.com/investing/2026/08/02/1-incredible-reason-buy-qualcomm-stock-right-now/?source=iedfolrf0000001",
-      "summary": "Qualcomm's stock is down, but its 2.5% yield and data center ambitions could make this the best time to buy.",
-      "published_at": "2026-08-02T08:05:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "bdc5b1ca43f162c85225d2bb6cc91606af3a6307",
@@ -426,7 +485,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-arm-140002670.html",
       "summary": "",
       "published_at": "2026-08-01T14:00:02+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -442,24 +501,6 @@
       "score": 0.97
     },
     {
-      "id": "3c77df5b1517fbfe5dde81dfffc696b0e8bb447b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "American Express Raised Its Revenue Guidance and Left Its Earnings Guidance Alone. Here's Where the Extra Money Is Going.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-raised-revenue-guidance-130700607.html",
-      "summary": "",
-      "published_at": "2026-08-01T13:07:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "d1ca7d9ce8a1788748484eb73e6d6329a529b78b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -468,7 +509,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/server-cpus-could-amd-stock-130002075.html",
       "summary": "",
       "published_at": "2026-08-01T13:00:02+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -492,7 +533,7 @@
       "url": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
       "summary": "Wall Street got back to its winning ways last week.",
       "published_at": "2026-08-01T12:16:13+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -500,60 +541,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "303b63aea070f6d016cfdb3420c48fa6193ac1ca",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Rebounds After Sell-Off",
-      "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-01T12:00:21+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "8e382b6747ffc7ad63587853436745524cf09966",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Bond vigilantes are doing the Fed's dirty work: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/bond-vigilantes-are-doing-the-feds-dirty-work-chart-of-the-day-114805136.html",
-      "summary": "",
-      "published_at": "2026-08-01T11:48:05+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "1fb2ac7b10829825c8392695dbbcbc02a7c3c7d8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "J.P. Morgan drops Fed rate bombshell over Warsh, inflation",
-      "url": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-drops-fed-060300978.html",
-      "summary": "",
-      "published_at": "2026-08-01T06:03:00+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "40c9ba4551e1b86278d9c62ad67768d496250e3b",
@@ -564,7 +551,7 @@
       "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
       "summary": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.",
       "published_at": "2026-07-31T20:17:54+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -588,7 +575,7 @@
       "url": "https://www.cnbc.com/2026/07/31/eaton-jumps-as-its-earnings-and-outlook-signal-hope-for-the-ai-buildout.html",
       "summary": "Eaton investors had good reason to be concerned heading into Friday's results.",
       "published_at": "2026-07-31T19:43:14+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -606,7 +593,7 @@
       "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
       "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
       "published_at": "2026-07-31T18:46:45+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -624,7 +611,7 @@
       "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
       "summary": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
       "published_at": "2026-07-31T16:59:53+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -648,49 +635,13 @@
       "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
       "summary": "Trimmed mean measures are painting a different picture than the headline numbers.",
       "published_at": "2026-07-31T16:51:30+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
+      "first_seen_at": "2026-08-02T15:59:44.254428+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "192d657270b3af2504083574c050541e9542806d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
-      "url": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
-      "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
-      "published_at": "2026-07-31T15:45:15+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "0a39adcb2c811b23d907baaae0735335453a15ae",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO",
-      "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
-      "summary": "Apple reported third-quarter earnings on Thursday after the closing bell, and Tim Cook addressed investors for the last time as CEO.",
-      "published_at": "2026-07-31T14:52:08+00:00",
-      "first_seen_at": "2026-08-02T14:46:51.239163+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
       "score": 0.52
     }
   ]
