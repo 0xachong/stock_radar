@@ -1,32 +1,27 @@
 {
-  "generated_at": "2026-08-03T03:33:27.126786+00:00",
+  "generated_at": "2026-08-03T06:58:26.837362+00:00",
   "window_hours": 48,
-  "total_items": 15,
+  "total_items": 8,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 7,
-    "US": 10
+    "US": 8
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 6
+      "count": 3
     },
     {
       "key": "company",
-      "count": 5
+      "count": 2
     },
     {
-      "key": "product",
+      "key": "macro",
       "count": 2
     },
     {
       "key": "capital",
-      "count": 1
-    },
-    {
-      "key": "macro",
       "count": 1
     }
   ],
@@ -34,164 +29,32 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 8
+      "count": 7
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 7
+      "count": 1
     }
   ],
   "items": [
     {
-      "id": "ff626d6d3e009a6b8cae330253270e8d06c2ffbc",
+      "id": "932afeb6aa92c3efb7d2c4762cd59912ac7d43bf",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "阿里巴巴发布Qwen 3.8-MAX人工智能模型，股价大涨",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492860",
+      "title": "澳大利亚股市上涨；截至收盘澳大利亚S&P/ASX200指数上涨0.47%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3492984",
       "summary": "",
-      "published_at": "2026-08-03T03:05:20+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
+      "published_at": "2026-08-03T06:30:14+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
+      "market": "US",
       "markets": [
-        "HK",
         "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "09988",
-          "name": "阿里巴巴",
-          "market": "HK"
-        },
-        {
-          "symbol": "BABA",
-          "name": "阿里巴巴",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 1.0
-    },
-    {
-      "id": "12229033388566b508bd475a44601e66c0634c37",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 浪潮数字企业(00596)盈警后跌近7% 预期中期归母净利润同比下降超六成",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492840",
-      "summary": "",
-      "published_at": "2026-08-03T03:05:12+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
-    },
-    {
-      "id": "18c30dacdd5d8f9e8d694f0f0fe83430663e0551",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 京能清洁能源(00579)跌超11% 预计上半年纯利同比减少约25%至35%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492841",
-      "summary": "",
-      "published_at": "2026-08-03T03:05:12+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
       ],
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "bfd610dc13a0ebee846d8ef6759658b7a61b946f",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 极智嘉-W(02590)涨近5% 现时于美国销售的全部AMR机型均已取得有效FCC认证",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492842",
-      "summary": "",
-      "published_at": "2026-08-03T03:05:12+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "73c2a887f81a3afdc5a46e18d1f1400d429f4a32",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 恒隆地产(00101)回升逾4% 上半年物业租赁收入同比增长5% 公司中国内地购物中心或延续积极表现",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492839",
-      "summary": "",
-      "published_at": "2026-08-03T03:05:11+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "080c21d2b8488b03e9773258d8723b8f1d9141f3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 南华期货股份(02691)再涨超7% 上半年业绩预告表现亮眼 境内外业务成长空间有望打开",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492835",
-      "summary": "",
-      "published_at": "2026-08-03T03:05:10+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
-    },
-    {
-      "id": "993518c814f5da128debcfe16c4dc40076a04374",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "阿里巴巴(09988)发布千问3.8-MAX人工智能模型 拥有2.4万亿个参数",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3492836",
-      "summary": "",
-      "published_at": "2026-08-03T03:05:10+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "HK",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "09988",
-          "name": "阿里巴巴",
-          "market": "HK"
-        },
-        {
-          "symbol": "BABA",
-          "name": "阿里巴巴",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.95
     },
     {
       "id": "2337aa77772bbac110e0ff2268b5e62fe087994c",
@@ -202,13 +65,31 @@
       "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
       "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
       "published_at": "2026-08-02T14:00:00+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "36659f3aa7f0e086edfd12c587f42da144977f46",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs",
+      "url": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
+      "summary": "Some states — including Connecticut, Minnesota and Rhode Island — have expanded their own student loan programs amid new limits on federal borrowing.",
+      "published_at": "2026-08-02T13:30:01+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
       "score": 0.52
     },
     {
@@ -220,7 +101,7 @@
       "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
       "summary": "Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.",
       "published_at": "2026-08-02T12:01:00+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -238,7 +119,7 @@
       "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
       "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
       "published_at": "2026-08-02T12:00:00+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -256,7 +137,7 @@
       "url": "https://www.cnbc.com/2026/08/02/amd-sandisk-are-two-of-the-big-chip-stocks-with-earnings-momentum.html",
       "summary": "Some 130 S&amp;P 500 companies get ready to report, these stocks have earnings momentum leading them into the week",
       "published_at": "2026-08-02T11:56:25+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -280,7 +161,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/meta-cash-engine-still-running-193002885.html",
       "summary": "",
       "published_at": "2026-08-01T19:30:02+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -296,54 +177,6 @@
       "score": 0.85
     },
     {
-      "id": "b24bfd1583b0107b38194c1e3bf3f5daf75fc732",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here Is Why Newsmax's Meta Partnership Could Accelerate the Path to Profitability for NMAX Stock.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/why-newsmaxs-meta-partnership-could-173002136.html",
-      "summary": "",
-      "published_at": "2026-08-01T17:30:02+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "e57d92f594dca8e68fbef484a92c0a24d2d1c3d6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
-      "summary": "",
-      "published_at": "2026-08-01T16:09:12+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
       "id": "45825d48fb79ee98c8a1920ce854cd03aafd3f46",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -352,7 +185,7 @@
       "url": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
       "summary": "Wall Street got back to its winning ways last week.",
       "published_at": "2026-08-01T12:16:13+00:00",
-      "first_seen_at": "2026-08-03T03:33:27.126786+00:00",
+      "first_seen_at": "2026-08-03T06:58:26.837362+00:00",
       "market": "US",
       "markets": [
         "US"
