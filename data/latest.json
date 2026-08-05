@@ -1,40 +1,45 @@
 {
-  "generated_at": "2026-08-04T23:01:57.135089+00:00",
+  "generated_at": "2026-08-05T00:53:49.051986+00:00",
   "window_hours": 48,
-  "total_items": 53,
+  "total_items": 39,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 50,
-    "HK": 4
+    "US": 34,
+    "HK": 6,
+    "CN": 1
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 20
+      "count": 16
     },
     {
       "key": "company",
-      "count": 17
-    },
-    {
-      "key": "rating",
-      "count": 5
-    },
-    {
-      "key": "ipo",
-      "count": 4
+      "count": 12
     },
     {
       "key": "macro",
-      "count": 4
-    },
-    {
-      "key": "guidance",
-      "count": 2
+      "count": 3
     },
     {
       "key": "capital",
+      "count": 2
+    },
+    {
+      "key": "ipo",
+      "count": 2
+    },
+    {
+      "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -42,7 +47,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 45
+      "count": 31
     },
     {
       "site_id": "hk_china",
@@ -52,15 +57,15 @@
   ],
   "items": [
     {
-      "id": "739489f41b7ff3f50a53b65823eecbaca12dff1c",
+      "id": "d03b60513a1f08ccfefacee8623cb413fc511ba1",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates",
+      "title": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO",
       "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
       "summary": "Follow SpaceX’s Q2 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
-      "published_at": "2026-08-04T22:51:34+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "published_at": "2026-08-05T00:51:10+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,6 +73,162 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
+    },
+    {
+      "id": "a7e6c484049d96c5b51fd3467eab11e0a2d98076",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "S&P 500 futures are little changed after massive rally lifts index to fresh record: Live updates",
+      "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
+      "summary": "Stocks rallied on Tuesday as the S&amp;P 500 and the Dow Industrials closed at new records.",
+      "published_at": "2026-08-05T00:48:33+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "18e3e2088e99ccc1571d1bbd3a5a75bbbe3f6840",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Bed Bath & Beyond outlines Q3 revenue of $505M-$525M and ~30% gross margin as it plans NASDAQ ticker NXH transition",
+      "url": "https://seekingalpha.com/news/4625540-bed-bath-and-beyond-outlines-q3-revenue-of-505m-525m-and-30-percent-gross-margin-as-it-plans?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-05T00:42:11+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "9320a7e82f16d4e549851b297faf6091b1cc4029",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "英伟达盘后股价为何上涨？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3498028",
+      "summary": "",
+      "published_at": "2026-08-05T00:24:20+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "4780ea52ee18129cef70c87ccac4159b50d1df58",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "业绩超预期难敌AI烧钱黑洞！SpaceX (SPCX.US)Q2资本支出暴增至184亿美元，盘后市值蒸发逾千亿",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3497990",
+      "summary": "",
+      "published_at": "2026-08-05T00:06:05+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "f42265f8b79a27f89f4116dba678046642c53a91",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "AMD(AMD.US)营收飙升50%、数据中心业务翻倍，却因增长预期未能“惊艳”市场而遭抛售",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3497989",
+      "summary": "",
+      "published_at": "2026-08-05T00:06:04+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "e5f2e4c17e6ff357cc4ad68d7d1937258f060b97",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股早知道 | 美国拟禁止进口中国新型数据中心设备 中方回应：停止抹黑与制裁威胁",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3497985",
+      "summary": "",
+      "published_at": "2026-08-05T00:05:10+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.52
+    },
+    {
+      "id": "1958289511f70b715c3dd5fa9a8086f50e8a179f",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股股东权益披露|8月5日",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3497982",
+      "summary": "",
+      "published_at": "2026-08-05T00:05:09+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "e10ce6fe95f781fe8b97e8ecce0dc97369b4f1d7",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "A股申购 | 恒兴股份(920107.BJ)开启申购 国内UV固化涂料及PUR热熔胶领先企业",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3497932",
+      "summary": "",
+      "published_at": "2026-08-04T23:35:08+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "379cf738a9bb56a826817c8c01eb16234ac51422",
@@ -78,7 +239,7 @@
       "url": "https://www.cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
       "summary": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
       "published_at": "2026-08-04T22:45:26+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,42 +247,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
-    },
-    {
-      "id": "10b5ef03258edd242679a6d044573fc987eb7e90",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "隔夜美股 | 美伊或将达成协议点燃多头热情 标普500指数创6月来首个新高 闪迪(SNDK.US)涨超10%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3497833",
-      "summary": "",
-      "published_at": "2026-08-04T22:36:13+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "3e22aff372e1b8bf3ce120ce1a789035c60822e1",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "无惧科技股暴涨！“大空头”伯里仍坚定看空 警告美股或正逼近重大顶部",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3497830",
-      "summary": "",
-      "published_at": "2026-08-04T22:35:08+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     },
     {
       "id": "30beb5ac6ac19c5556e58d7d00eedb6828f4f676",
@@ -132,7 +257,7 @@
       "url": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-after-the-bell-spcx-amd-pins-anet-wynn.html",
       "summary": "These are the stocks posting the largest moves after the bell.",
       "published_at": "2026-08-04T22:25:44+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,7 +281,7 @@
       "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
       "summary": "AMD's data center unit is driving the company's growth, up 107% over last year.",
       "published_at": "2026-08-04T22:09:17+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -170,48 +295,6 @@
       ],
       "category": "earnings",
       "score": 1.0
-    },
-    {
-      "id": "2580d65da7d2e795a14e093540289fa84e8c6fec",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "AMD股价盘后大跌9.1%，创纪录业绩仍难满足市场预期",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3497787",
-      "summary": "",
-      "published_at": "2026-08-04T22:06:54+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "3d1bfd79073a3d6ae71201d9af1beb18a0b57cc3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "SpaceX股价盘后大跌7.6%，资本支出远超预期引发担忧",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3497777",
-      "summary": "",
-      "published_at": "2026-08-04T22:03:04+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.61
     },
     {
       "id": "ac7f8b8e26f93466bf5971e73cfb612f56d6e54d",
@@ -222,7 +305,7 @@
       "url": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
       "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
       "published_at": "2026-08-04T21:54:00+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -230,42 +313,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "ddfaa6609533d6187fefd3cddaa220cee69ac56d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "我们的AI早已预判：这只高确信度医疗科技股因亮眼财报单月暴涨逾27%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3497769",
-      "summary": "",
-      "published_at": "2026-08-04T21:47:13+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "510ae67e836bf04a6e941975616726f46417edaf",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.20%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3497705",
-      "summary": "",
-      "published_at": "2026-08-04T21:30:14+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     },
     {
       "id": "26b35d292585982a901fe799cedcbe51c846e948",
@@ -276,7 +323,7 @@
       "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
       "summary": "Paramount Skydance reported second-quarter earnings after the bell and said it continues to prepare for its proposed merger with Warner Bros. Discovery.",
       "published_at": "2026-08-04T21:15:03+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +341,7 @@
       "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
       "summary": "The Dow had its best day in nearly two months and the S&amp;P 500 rose to new highs.",
       "published_at": "2026-08-04T21:11:05+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,42 +349,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "1e6901ed603e813131df54f20259e3533ee16ba0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/?source=iedfolrf0000001",
-      "summary": "Crude oil retreated amid diplomatic optimism over the Strait of Hormuz, as earnings strength lifted equities, today, Aug. 4, 2026.",
-      "published_at": "2026-08-04T21:01:20+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "a1685495e16edcb2637a9cba98cb7614f27619a2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, Aug. 4: Chipotle Shares Slide 10% on Minnesota Salmonella Outbreak Linked to Jalapeños",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-chipotle-shares-slide-10-on-minnesota-salmonella-outbreak-linked-to-jalapenos/?source=iedfolrf0000001",
-      "summary": "Shares plunged 10% after reports tied a food-safety issue to produce at multiple locations, on Aug. 4, 2026.",
-      "published_at": "2026-08-04T20:42:33+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.65
     },
     {
       "id": "3ed045da2001dac9758ac739a9368668f235e2a5",
@@ -348,7 +359,7 @@
       "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
       "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
       "published_at": "2026-08-04T20:26:00+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -356,24 +367,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "b84d498b3d5ed4e17d996a0feec6d34c2fc66e17",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Charles Schwab Stock Jumped in July",
-      "url": "https://www.fool.com/investing/2026/08/04/why-charles-schwab-stock-jumped-in-july/?source=iedfolrf0000001",
-      "summary": "It posted a very strong quarterly earnings report.",
-      "published_at": "2026-08-04T20:20:59+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "aa4a755ca11db3ecbeaa5673a6c3d715d91b7107",
@@ -384,7 +377,7 @@
       "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
       "summary": "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion.",
       "published_at": "2026-08-04T20:15:34+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -402,7 +395,7 @@
       "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
       "summary": "Wayfair, a pandemic darling that's seen sales slow since lockdown orders were lifted, posted its strongest U.S. growth since 2020 during its second quarter.",
       "published_at": "2026-08-04T20:15:06+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -427,7 +420,7 @@
       "url": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
       "summary": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
       "published_at": "2026-08-04T20:13:38+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -445,7 +438,7 @@
       "url": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
       "summary": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
       "published_at": "2026-08-04T20:12:20+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -463,7 +456,7 @@
       "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
       "summary": "\"Our customers have declined to become vassal states of the language labs,\" Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.",
       "published_at": "2026-08-04T20:04:32+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -477,24 +470,6 @@
       ],
       "category": "earnings",
       "score": 1.0
-    },
-    {
-      "id": "15cce03721972655c26ed13ab3d52917da2105ff",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.",
-      "url": "https://www.fool.com/investing/2026/08/04/oklos-next-earnings-report-on-aug-7-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
-      "summary": "A positive update on Oklo's reactor progress could reverse the nuclear stock's downward spiral.",
-      "published_at": "2026-08-04T20:00:01+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "d5fd6bbae244eb01cd8f25cc241cf146416ce0b4",
@@ -505,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/08/04/two-dividend-payers-just-joined-evercore-isis-list-of-best-core-ideas.html",
       "summary": "Evercore ISI just added a couple of dividend-paying stocks to its list of analysts' top stock picks.",
       "published_at": "2026-08-04T19:44:12+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -513,174 +488,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.61
-    },
-    {
-      "id": "f34bc9de4d3bb61072d9ab8de244810ae39f286f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/08/04/advanced-micro-devices-vs-intel-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "AMD is riding AI momentum with major partnerships and a 34% revenue surge, while Intel battles losses and restructuring.",
-      "published_at": "2026-08-04T19:39:01+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "eedf10083225fd1b9946187fa3b9a724d5db1d16",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Microsoft CEO Satya Nadella Just Announced Great News for AMD Stock Investors",
-      "url": "https://www.fool.com/investing/2026/08/04/microsoft-ceo-satya-nadella-just-announced-great-n/?source=iedfolrf0000001",
-      "summary": "The recent dip in AMD's stock price appears to be a buying opportunity.",
-      "published_at": "2026-08-04T19:30:00+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "a8c36d9962282e12d51ed19eb9cd4cfdd8e407ac",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "If a Stock Market Crash Is Coming, I'm Loading Up on This ETF Without a Second Thought",
-      "url": "https://www.fool.com/investing/2026/08/04/if-stock-market-crash-coming-loading-up-on-etf/?source=iedfolrf0000001",
-      "summary": "Even if there's a stock market downturn, I believe this Vanguard ETF is almost always a good buy.",
-      "published_at": "2026-08-04T19:16:00+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "9e22eadec5c2e68542efe8879ecdb8ef7626a939",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Chipotle Stock Was Down on an Up Day",
-      "url": "https://www.fool.com/investing/2026/08/04/why-chipotle-stock-was-down-on-an-up-day/?source=iedfolrf0000001",
-      "summary": "Another foodborne illness outbreak spooked investors.",
-      "published_at": "2026-08-04T18:56:35+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.76
-    },
-    {
-      "id": "a3d6a3dbd01de81e77663d9a20993b8202eb1a96",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why UFP Technologies Stock Is Skyrocketing Today",
-      "url": "https://www.fool.com/investing/2026/08/04/why-ufp-technologies-stock-is-skyrocketing-today/?source=iedfolrf0000001",
-      "summary": "UFP Technologies easily surpassed Wall Street's expectations and continued to deliver double-digit sales growth.",
-      "published_at": "2026-08-04T18:50:10+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "c095b686666ed93ca59b915a55570d10646376b2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Nasdaq Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3821_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "summary": "",
-      "published_at": "2026-08-04T18:29:46+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "5bc614e83e683bb74ae96da9795df9b35853d4c5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Palantir Just Guided to 134% U.S. Commercial Growth. After a 15% Pop, the Stock Costs 42 Times Revenue.",
-      "url": "https://www.fool.com/investing/2026/08/04/palantir-just-guided-to-134-us-commercial-growth-a/?source=iedfolrf0000001",
-      "summary": "The quarter was extraordinary, and the guidance got even better. But look at what the new price pays for each dollar of sales.",
-      "published_at": "2026-08-04T18:26:00+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "a7356255e00e4d493da8c8dbc129450e88b04849",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why AMD Stock Popped Today",
-      "url": "https://www.fool.com/investing/2026/08/04/why-amd-stock-popped-today/?source=iedfolrf0000001",
-      "summary": "The semiconductor specialist is gaining ground thanks to strong results from another key AI player.",
-      "published_at": "2026-08-04T17:46:27+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "b0fbddc2fbfb1c9f3dbadd208b3e3e67dcf101c1",
@@ -691,7 +498,7 @@
       "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
       "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
       "published_at": "2026-08-04T17:09:37+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -709,7 +516,7 @@
       "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
       "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
       "published_at": "2026-08-04T14:49:22+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -733,7 +540,7 @@
       "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
       "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
       "published_at": "2026-08-04T14:42:39+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -751,7 +558,7 @@
       "url": "https://www.cnbc.com/2026/08/04/someone-on-wall-street-thinks-spacex-could-triple-this-week.html",
       "summary": "SpaceX reports its first earnings results since its June IPO Tuesday after the bell.",
       "published_at": "2026-08-04T14:05:01+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -759,30 +566,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "774402e99117a52c1c6fe8da0eb06bf69c214e0e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying",
-      "url": "https://www.cnbc.com/2026/08/04/amd-earnings-are-a-key-test-for-chips-and-momentum-stocks-heres-what-the-options-market-is-saying.html",
-      "summary": "As AMD prepares to report earnings Tuesday after the bell, market participants face a divergence between positive earnings results and negative price action.",
-      "published_at": "2026-08-04T13:55:51+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
     },
     {
       "id": "137072627f630cc5a16d553df63ad86b26502399",
@@ -793,7 +576,7 @@
       "url": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html",
       "summary": "Merck cut its profit guidance due to a charge tied to its acquisition of biotech company Terns Pharmaceuticals.",
       "published_at": "2026-08-04T12:43:35+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -811,7 +594,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3362898/spacex-report-share-unlock-may-sway-hong-kong-mainland-china-stocks-ai-trade-recovers?utm_source=rss_feed",
       "summary": "SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&amp;P 500 within striking distance of its record high and helped Hong Kong equities outperform.\nThe first set of results from SpaceX as a publicly traded company will",
       "published_at": "2026-08-04T10:00:13+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -819,6 +602,31 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
+    },
+    {
+      "id": "b95c88eb19d719fe6177e4433c6addf1454969ec",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
+      "url": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
+      "summary": "From a surprise yuan devaluation in 2015 to crackdowns in recent years, many of Beijing's policy moves appear abrupt to outsiders.",
+      "published_at": "2026-08-03T23:00:01+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "02015",
+          "name": "理想汽车",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "da1184b841570c9b42415c45a40730c7712262e6",
@@ -829,7 +637,7 @@
       "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
       "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
       "published_at": "2026-08-03T20:02:17+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -839,99 +647,15 @@
       "score": 0.61
     },
     {
-      "id": "8a46d0ffe5b6a51157355fce691d27a16fda195c",
+      "id": "727e5d7ab90e3dd82279134bb412d56f423c8520",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Franklin Resources Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-stock-wall-street-150456633.html",
+      "title": "Are Wall Street Analysts Predicting Live Nation Entertainment Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-live-135414753.html",
       "summary": "",
-      "published_at": "2026-08-03T15:04:56+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "9933b29406eabd21db11fc8cbda02126c6d7b4a6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "ARM Stock: A $1 Billion AGI CPU Opportunity Could End Up Being Much Bigger Than Wall Street Expects",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arm-stock-1-billion-agi-150151155.html",
-      "summary": "",
-      "published_at": "2026-08-03T15:01:51+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "c888cb47f5a071d2dd7a97d5dbf7c81a582ecb52",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "AMD’s Helios Is Coming for Nvidia’s Rack, Not Just Its GPU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-helios-coming-nvidia-rack-144556787.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:45:56+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "6134f2628e1c01037ab2d8c12802ed1922238087",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NXP downgraded by UBS as China and AI risks cloud growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-downgraded-ubs-china-ai-144300140.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:43:00+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "e2400950cd1727dc3a4a736b715081d22647dee5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-western-143655241.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:36:55+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "published_at": "2026-08-03T13:54:14+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -939,120 +663,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "2a4734fd65a53b382ed4ab9a78986ccb6a60f6f4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on VICI Properties Stock?",
-      "url": "https://finance.yahoo.com/real-estate/articles/wall-street-bullish-bearish-vici-143230491.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:32:30+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "b687cd60ff2bb99b6396b7874f98edfb70857bee",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Bullish on Coinbase Global Stock?",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-analysts-bullish-coinbase-142848868.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:28:48+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "f673e8f89d9c9dc3bc980f41d180e8a13da58e1c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "FedEx Freight Holding Company (FDXF) has the Potential for Stronger Standalone Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-holding-company-fdxf-142641386.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:26:41+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "601d43e04494f4b40698ecd92e0c844699ab679f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Surging Short Interest in SpaceX Stock Sends Strong Signal to Wall Street",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/surging-short-interest-spacex-stock-142330452.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:23:30+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "ff61043e6a45703e8abd1bca2c569b301be08e69",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Interactive Brokers Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-142144487.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:21:44+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "3bca4048eac6adb8a0bcf1aafd9f3f9e32f452bc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Howmet Aerospace Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-stock-wall-street-141502170.html",
-      "summary": "",
-      "published_at": "2026-08-03T14:15:02+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "1a3d73e684b8db9e197383cd270d39c8c0d47bf7",
@@ -1063,7 +673,7 @@
       "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
       "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
       "published_at": "2026-08-03T13:45:02+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -1071,6 +681,144 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
+    },
+    {
+      "id": "0aef5ab8c11b8bc12537e0889622b6a0908fc291",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+      "url": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-03T13:10:35+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "5a73a3195d187afa5d58bef114251389c437d41b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Meta CEO Zuckerberg’s AI Gamble Just Got Dirtier",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-just-got-hammered-130944661.html",
+      "summary": "",
+      "published_at": "2026-08-03T13:09:44+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "20b4d206c20f3c16a85922d5a555a578e579beed",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Tesla’s (TSLA) AI Driven Future Beyond Cars",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-ai-driven-future-125724258.html",
+      "summary": "",
+      "published_at": "2026-08-03T12:57:24+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "facf84c93e0b846548f3e1e464d2a054751022e4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-amazon-won-ai-spending-125700641.html",
+      "summary": "",
+      "published_at": "2026-08-03T12:57:00+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "5f3e73a0c476e43c2841c903e70a3b15ac2dfc52",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Rowan Street Capital: Meta Platforms’ (META) Fundamentals Outpace Its Stock Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rowan-street-capital-meta-platforms-125528842.html",
+      "summary": "",
+      "published_at": "2026-08-03T12:55:28+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "bec31236f2d25e4f860653b843187710639ace2d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Do Wall Street Analysts Like Emerson Electric Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-emerson-electric-124937923.html",
+      "summary": "",
+      "published_at": "2026-08-03T12:49:37+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
     },
     {
       "id": "fe6130d1d606cd40eeaca91d488a21aeeae3c009",
@@ -1081,7 +829,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3362761/chinas-tech-giants-race-put-ai-delivery-riders-heads?utm_source=rss_feed",
       "summary": "Chinese e-commerce giant JD.com has launched a smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency.\nThe helmet integrates an AI-driven voice assistant with a camera that can “see” the surrounding environment, JD.com’s foo",
       "published_at": "2026-08-03T07:00:09+00:00",
-      "first_seen_at": "2026-08-04T23:01:57.135089+00:00",
+      "first_seen_at": "2026-08-05T00:53:49.051986+00:00",
       "market": "US",
       "markets": [
         "US"
