@@ -1,29 +1,33 @@
 {
-  "generated_at": "2026-08-07T21:09:59.392657+00:00",
+  "generated_at": "2026-08-07T22:05:28.184538+00:00",
   "window_hours": 48,
-  "total_items": 36,
+  "total_items": 33,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 33,
+    "US": 30,
     "CN": 1,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 14
-    },
-    {
-      "key": "macro",
-      "count": 9
+      "count": 11
     },
     {
       "key": "company",
-      "count": 8
+      "count": 9
     },
     {
-      "key": "ipo",
+      "key": "macro",
+      "count": 7
+    },
+    {
+      "key": "guidance",
+      "count": 2
+    },
+    {
+      "key": "rating",
       "count": 2
     },
     {
@@ -31,11 +35,7 @@
       "count": 1
     },
     {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "rating",
+      "key": "ipo",
       "count": 1
     }
   ],
@@ -43,15 +43,57 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 30
+      "count": 26
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
+    {
+      "id": "899a024da8c67ecb4df969ca9849bc03119c7f08",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.82%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3507090",
+      "summary": "",
+      "published_at": "2026-08-07T21:30:13+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "76f2cbe35eae3b941f6a793a8a3aae103bdbd914",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Circle Internet Group vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/08/07/circle-internet-group-vs-salesforce-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "Circle trades at a 45x forward P/E versus Salesforce's 13x, but profitability and cash generation tell starkly different stories.",
+      "published_at": "2026-08-07T21:25:37+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
     {
       "id": "2a3f10bc5d5aa8e6e4ffa13a4922828bc74be843",
       "site_id": "us_global",
@@ -61,7 +103,7 @@
       "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
       "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
       "published_at": "2026-08-07T20:54:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -77,6 +119,30 @@
       "score": 0.97
     },
     {
+      "id": "a1d9100d0dc7ddb8dacf4902503bb4500d7320e4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/07/stock-market-today-aug-7-palantir-surges-on-bank-of-america-upbeat-view-after-strong-earnings/?source=iedfolrf0000001",
+      "summary": "Post-earnings momentum accelerated today as analyst enthusiasm fueled a 10% rally, signaling investor confidence in commercial AI demand, today, Aug. 7, 2026.",
+      "published_at": "2026-08-07T20:45:16+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
       "id": "dcb35e251fb9400e9a42914b13b7c64014d5e18e",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -85,7 +151,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507052",
       "summary": "",
       "published_at": "2026-08-07T20:31:15+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -103,7 +169,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507050",
       "summary": "",
       "published_at": "2026-08-07T20:30:38+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -121,7 +187,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507049",
       "summary": "",
       "published_at": "2026-08-07T20:30:13+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -139,7 +205,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3507045",
       "summary": "",
       "published_at": "2026-08-07T20:23:22+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -157,7 +223,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/ge-vernova-holds-an-176-billion-backlog/?source=iedfolrf0000001",
       "summary": "GE Vernova's recent post-earnings dip is a good buying opportunity.",
       "published_at": "2026-08-07T20:10:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -175,7 +241,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/why-fermi-stock-collapased-379-in-july/?source=iedfolrf0000001",
       "summary": "The private electric grid developer is seeing a post IPO collapse.",
       "published_at": "2026-08-07T19:53:59+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -193,7 +259,7 @@
       "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
       "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
       "published_at": "2026-08-07T19:47:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -201,24 +267,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "3b2dba20cb0e3cd2962f3a238870995b771fffb1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Some of the urgency is gone for a Fed rate hike in September after a soft jobs report",
-      "url": "https://www.marketwatch.com/story/some-of-the-urgency-is-gone-for-a-fed-rate-hike-in-september-after-the-soft-jobs-report-19bc5565?mod=mw_rss_topstories",
-      "summary": "The chances of a hike remain, with upcoming inflation reports a key focus for Fed officials.",
-      "published_at": "2026-08-07T19:36:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "9f608219d2653eb4f2e4ee7db8b732b42f1bc6f5",
@@ -229,7 +277,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/the-trade-desk-rebuilt-its-c-suite-in-two-months-i/?source=iedfolrf0000001",
       "summary": "Is a stock down more than 80% in a year cheap, or just cheaper?",
       "published_at": "2026-08-07T19:34:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -247,7 +295,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/why-quantumscape-stock-collapsed-31-in-july/?source=iedfolrf0000001",
       "summary": "The company reported earnings in July and continues to lose money with no revenue.",
       "published_at": "2026-08-07T19:30:42+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -265,7 +313,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/us-economy-unexpectedly-lost-23000-jobs-in-july-signaling-a-weakening-labor-market/?source=iedfolrf0000001",
       "summary": "The July jobs report delivered a surprise loss, putting the Fed in a tough spot between fighting inflation and protecting workers.",
       "published_at": "2026-08-07T19:20:01+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -283,7 +331,7 @@
       "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
       "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
       "published_at": "2026-08-07T18:38:17+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -301,7 +349,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/greg-abel-reports-saturday-morning-berkshire-stock/?source=iedfolrf0000001",
       "summary": "Three lines in the weekend's filing will show how Buffett's successor is putting money to work.",
       "published_at": "2026-08-07T18:38:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -319,7 +367,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/why-palantir-technologies-stock-skyrocketed-again/?source=iedfolrf0000001",
       "summary": "The data mining and AI specialist continued its rapid rebound.",
       "published_at": "2026-08-07T17:22:41+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -343,7 +391,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/the-u-s-economy-just-experienced-its-5th-largest-month-of-job-losses-since-2020-here-s-why-it-s-both-good-and-bad-news/?source=iedfolrf0000001",
       "summary": "While a weaker labor market suggests potential cracks in the U.S. economy, it also could keep the Federal Reserve from hiking interest rates in September.",
       "published_at": "2026-08-07T16:49:01+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -368,7 +416,7 @@
       "url": "https://www.fool.com/investing/2026/08/07/mercadolibre-quarterly-revenue-just-topped-10-bill/?source=iedfolrf0000001",
       "summary": "After 30 consecutive quarters of more than 30% top-line growth, investors need more from the bottom line.",
       "published_at": "2026-08-07T16:41:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -376,66 +424,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "cd57cb21055d9e5ce3cb2ca66e8d95e7cf1bcca4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "History Says This Is the Single Best Strategy for Investors if a Market Crash Is Imminent",
-      "url": "https://www.fool.com/investing/2026/08/07/history-says-single-best-strategy-for-market-crash/?source=iedfolrf0000001",
-      "summary": "This group of stocks tends to hold up well in downturns and keep up with the market during upswings.",
-      "published_at": "2026-08-07T15:32:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "ad5f2656bc2e747a124159fb37f9f8608adf680f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is AMD a Buy After This Ugly Earnings Reaction? Here's My Honest Take",
-      "url": "https://www.fool.com/investing/2026/08/07/is-amd-a-buy-after-this-ugly-earnings-reaction-her/?source=iedfolrf0000001",
-      "summary": "AMD just got hammered right after reporting, and the reasons for the drop deserve a closer look before you panic.",
-      "published_at": "2026-08-07T15:04:31+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "c32a9f7232cf8ba5ee2c6f0db094fa190ba5845c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "New Fed Chair Kevin Warsh Promised a Policy \"Regime Change\" to Defeat Inflation When He Took Over in May 2026. Has He Delivered?",
-      "url": "https://www.fool.com/investing/2026/08/07/new-fed-chair-kevin-warsh-promised-a-policy-regime/?source=iedfolrf0000001",
-      "summary": "Warsh has not yet delivered on promises to defeat inflation.",
-      "published_at": "2026-08-07T14:30:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "cf639c3fa98f62271eb8089fa9c2bc85fe55fb0f",
@@ -446,7 +434,7 @@
       "url": "https://www.scmp.com/business/commodities/article/3363180/golds-price-potential-still-explosive-amid-beijing-hoarding-hong-kong-trading-push?utm_source=rss_feed",
       "summary": "Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion.\nSupporting the outlook, Beijing – which has added to its gold reserve for 20 straight months – wants to better connect the Shanghai Gold Exchange to Hong Kong, and the South Korean central ",
       "published_at": "2026-08-07T00:00:14+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -464,7 +452,7 @@
       "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
       "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
       "published_at": "2026-08-06T22:19:52+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -482,7 +470,7 @@
       "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
       "summary": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
       "published_at": "2026-08-06T22:01:34+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -500,7 +488,7 @@
       "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
       "summary": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
       "published_at": "2026-08-06T20:27:42+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -518,7 +506,7 @@
       "url": "https://www.cnbc.com/2026/08/06/applovin-stock-q2-earnings-revenue.html",
       "summary": "Shares of AppLovin tanked 19% Thursday off a second-quarter earnings miss, falling short of analysts' expectations for revenue.",
       "published_at": "2026-08-06T20:02:47+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -526,6 +514,114 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
+    },
+    {
+      "id": "e78593583ffdbb6dc0471cda890f48ea47b6605a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Wall Street Bullish or Bearish on Mastercard Incorporated Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-mastercard-141801591.html",
+      "summary": "",
+      "published_at": "2026-08-06T14:18:01+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "25ddeb4ec1e899744b59ef8061e0148ee738943d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Do Wall Street Analysts Like Target Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-stock-135846003.html",
+      "summary": "",
+      "published_at": "2026-08-06T13:58:46+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "845da9045c9ee78fc8d46f1d550fa1e5d4a273f3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "PPL Corporation Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-corporation-stock-outlook-wall-135609616.html",
+      "summary": "",
+      "published_at": "2026-08-06T13:56:09+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "2cb2d606e11a177991505a1798b4d15784472ec4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Wall Street Bullish or Bearish on Visa Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-visa-135248008.html",
+      "summary": "",
+      "published_at": "2026-08-06T13:52:48+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "ad24b3253c31388992bdbaba6f0b1adfc3751f2c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Abbott Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abbott-stock-wall-street-bullish-134718950.html",
+      "summary": "",
+      "published_at": "2026-08-06T13:47:18+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "dcb51d2216c15f78337edecabc9e458b0fbece29",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Are Wall Street Analysts Predicting Applied Materials Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-applied-134226835.html",
+      "summary": "",
+      "published_at": "2026-08-06T13:42:26+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
     },
     {
       "id": "9375810aeb896b06f23cea9346901f1500341166",
@@ -536,7 +632,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363202/hong-kong-raises-silver-bonds-coupon-rate-425-latest-batch?utm_source=rss_feed",
       "summary": "Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year.\nUp to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed annual coupon of 4.25 per cent, up from 3.85 per cent for the batch sold in September last year, the go",
       "published_at": "2026-08-06T12:14:00+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -544,138 +640,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "8a78ffb6a6680a6a84e59acfc7f7818d1a2712c7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-06T12:04:49+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "9b85b69ac70e5889c6cebe72755cfdff455218af",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Quantum Computing Stocks: D-Wave Earnings, Revenue Miss",
-      "url": "https://www.investors.com/news/technology/quantum-computing-stocks-dwave-stock-dwave-earnings-q22026/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-06T11:44:23+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "6efdaca31374e0ab3635850b96985b1a9322bab7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on Altria Group Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-altria-114008195.html",
-      "summary": "",
-      "published_at": "2026-08-06T11:40:08+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "0019ea6c1028fc4d907ca9a807b94db947af7970",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dominion Energy Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-stock-wall-street-113750819.html",
-      "summary": "",
-      "published_at": "2026-08-06T11:37:50+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "d20c0a02b9b3609033454fef6a7ee5f426860446",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "AMD's Beat-and-Raise Q2 Earnings Shows Just How High the AI Bar Is",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amds-beat-raise-q2-earnings-113002308.html",
-      "summary": "",
-      "published_at": "2026-08-06T11:30:02+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "06e306a78065fc31acf7fb10b38a4171b2f47553",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX Investor Nightmare: He Paid for “Pre-IPO” Exposure, Only to Learn the Shares Were Already Sold",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-nightmare-paid-pre-110556033.html",
-      "summary": "",
-      "published_at": "2026-08-06T11:05:56+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "07fdaff26d23f46c6de7f1e0b28895eaacb015af",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Citizens Financial Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-citizens-financial-110413881.html",
-      "summary": "",
-      "published_at": "2026-08-06T11:04:13+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
     },
     {
       "id": "1d68dcfdba4d54b3033e6c69ee4cf56230dcf67a",
@@ -686,7 +650,7 @@
       "url": "https://www.cnbc.com/2026/08/06/rheinmetall-stock-earnings-guidance-frigate.html",
       "summary": "The company's sales grew 39% and profits grew 74% in the first half of the year.",
       "published_at": "2026-08-06T08:57:01+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -704,25 +668,7 @@
       "url": "https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html",
       "summary": "The company slashed its full-year guidance on key metrics in its first earnings report since separating from the Honeywell conglomerate in June.",
       "published_at": "2026-08-06T00:09:36+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "ce1113475c10173cac517640e9bad8d0d2477c19",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "How Disney parks are bucking a travel slowdown",
-      "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-      "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
-      "published_at": "2026-08-05T21:22:36+00:00",
-      "first_seen_at": "2026-08-07T21:09:59.392657+00:00",
+      "first_seen_at": "2026-08-07T22:05:28.184538+00:00",
       "market": "US",
       "markets": [
         "US"
