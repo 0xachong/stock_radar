@@ -1,48 +1,40 @@
 {
-  "generated_at": "2026-08-07T06:45:13.799803+00:00",
+  "generated_at": "2026-08-07T08:12:23.922275+00:00",
   "window_hours": 48,
-  "total_items": 37,
+  "total_items": 39,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 9,
-    "US": 28
+    "HK": 3,
+    "US": 36
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 17
-    },
-    {
-      "key": "company",
-      "count": 5
+      "count": 21
     },
     {
       "key": "macro",
-      "count": 5
+      "count": 7
+    },
+    {
+      "key": "company",
+      "count": 6
     },
     {
       "key": "guidance",
-      "count": 3
-    },
-    {
-      "key": "rating",
-      "count": 3
-    },
-    {
-      "key": "capital",
-      "count": 1
+      "count": 2
     },
     {
       "key": "policy",
       "count": 1
     },
     {
-      "key": "ma",
+      "key": "ipo",
       "count": 1
     },
     {
-      "key": "ipo",
+      "key": "product",
       "count": 1
     }
   ],
@@ -50,158 +42,68 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 27
+      "count": 35
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 10
+      "count": 4
     }
   ],
   "items": [
     {
-      "id": "665efc20156f681d3dab1e1dfb2af28e1876fdcc",
+      "id": "850e20dcb2e00daf30435c9f599399674232d534",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 佳鑫国际资源(03858)涨超4% 供给受限叠加需求结构性调整 钨价中枢有望维持高位",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505492",
+      "title": "1&1上半年盈利增长推动股价上涨5.5%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3505624",
       "summary": "",
-      "published_at": "2026-08-07T06:35:12+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "e43994838e35ba20e2ea3deca400d019f8ab9ac0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 英矽智能(03696)涨超9% ISM8969/HT-001已获NMPA临床试验批件 拟用于帕金森病治疗",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505493",
-      "summary": "",
-      "published_at": "2026-08-07T06:35:12+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "f6f5a738977cfde2a9930da170aa5e133b5f459b",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "小摩：升九龙仓置业(01997)评级至“增持” 目标价大幅上调至35.7港元 管理层乐观展望带来惊喜",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505489",
-      "summary": "",
-      "published_at": "2026-08-07T06:35:11+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "f3e44bf1e2ab8daaab405b27ca01c387476851e5",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 黄金股午后涨幅扩大 韩国央行时隔13年重启实物金购买 全球央行加速增持黄金",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505491",
-      "summary": "",
-      "published_at": "2026-08-07T06:35:11+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.76
-    },
-    {
-      "id": "fe55538396abc21de956df2d5ab7411773b8196d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 中广核矿业(01164)再涨超4% 美银认为铀价涨势将延续 上调铀价预测至每磅130美元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505487",
-      "summary": "",
-      "published_at": "2026-08-07T06:35:10+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "2e95251281c94641371f4aea2d4d722603b63e0a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "花旗：升九龙仓置业(01997)目标价至36港元 展开90日正面催化剂观察",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505488",
-      "summary": "",
-      "published_at": "2026-08-07T06:35:10+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "a46b3b3af78d1f0f3468e35fd6b5a0fb7102ba5b",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 百济神州(06160)涨超5% 泽布替尼继续强劲放量 公司上调全年业绩指引",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505485",
-      "summary": "",
-      "published_at": "2026-08-07T06:35:09+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "published_at": "2026-08-07T07:51:06+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.8
+      "score": 0.61
     },
     {
-      "id": "76a5b5b38ef0afe107695c0b078d783e90ba4e06",
+      "id": "d3675a9c8b5454e45e214b14fea57f37b686bd28",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "美银证券：升百济神州(06160)目标价至255.43港元 重申“买入”评级",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3505486",
+      "title": "分拆上市仅数周即“变脸”，Honeywell Aerospace(HONA.US)首份财报全线不及预期，目标价遭法巴猛砍14%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3505598",
       "summary": "",
-      "published_at": "2026-08-07T06:35:09+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "published_at": "2026-08-07T07:35:59+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "rating",
-      "score": 0.64
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "752e06da2de128de25ebe8e65c6221f374465174",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Shares Fail to Launch Despite Soaring Revenue. Is the Stock a Buy on the Dip?",
+      "url": "https://www.fool.com/investing/2026/08/07/spacex-shares-fail-to-launch-despite-soaring-reven/?source=iedfolrf0000001",
+      "summary": "SpaceX turned in a solid quarter, but headwinds remain.",
+      "published_at": "2026-08-07T07:05:00+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "1cf6802307cf1131ee84ca887539f72fac0b87b1",
@@ -212,7 +114,7 @@
       "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
       "summary": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
       "published_at": "2026-08-07T04:11:09+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -236,7 +138,7 @@
       "url": "https://www.fool.com/investing/2026/08/06/datadog-beat-on-revenue-beat-on-earnings-and-raise/?source=iedfolrf0000001",
       "summary": "So why did a 36% growth quarter set off a double-digit sell-off?",
       "published_at": "2026-08-07T03:47:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -254,31 +156,13 @@
       "url": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
       "summary": "Shares of Sandisk and Western Digital fell hard after investors were left unimpressed by those companies’ earnings reports.",
       "published_at": "2026-08-07T02:35:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "c801e36250c028c71c4aed1902c2dda9c377f3e1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Lumen Stock a Buy After the CEO Purchased 100,000 Shares?",
-      "url": "https://www.fool.com/coverage/filings/2026/08/06/is-lumen-stock-a-buy-after-the-ceo-purchased-100-000-shares/?source=iedfolrf0000001",
-      "summary": "The telecommunications company reported a notable insider stock acquisition following a 57% one-year return in its share price.",
-      "published_at": "2026-08-07T01:47:01+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ma",
       "score": 0.61
     },
     {
@@ -290,7 +174,7 @@
       "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
       "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
       "published_at": "2026-08-07T01:28:57+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,7 +198,7 @@
       "url": "https://www.fool.com/investing/2026/08/06/amd-stock-analysis-buy-the-dip/?source=iedfolrf0000001",
       "summary": "Investors are enthusiastic about AMD stock.",
       "published_at": "2026-08-07T01:23:15+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -338,7 +222,7 @@
       "url": "https://www.fool.com/investing/2026/08/06/should-you-buy-palantir-stock-after-its-spectacula/?source=iedfolrf0000001",
       "summary": "Accelerating revenue growth is exciting Palantir stock investors.",
       "published_at": "2026-08-07T01:14:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -362,7 +246,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/06/genmab-gmab-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Revenue guidance raised to $4.3B–$4.5B as non-DARZALEX products drive half of growth.",
       "published_at": "2026-08-07T00:52:17+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -370,24 +254,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "78c969fb2676c83c9bb823d15c2e3be720e07e90",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "nCino Is Beating Its Guidance, but the Stock Is Down 30%. Here's How to Read a CEO Sale",
-      "url": "https://www.fool.com/coverage/filings/2026/08/06/ncino-is-beating-its-guidance-but-the-stock-is-down-30-here-s-how-to-read-a-ceo-sale/?source=iedfolrf0000001",
-      "summary": "The shares were sold under a Rule 10b5-1 trading plan to cover tax withholding from RSU vesting.",
-      "published_at": "2026-08-07T00:44:17+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
     },
     {
       "id": "cf639c3fa98f62271eb8089fa9c2bc85fe55fb0f",
@@ -398,7 +264,7 @@
       "url": "https://www.scmp.com/business/commodities/article/3363180/golds-price-potential-still-explosive-amid-beijing-hoarding-hong-kong-trading-push?utm_source=rss_feed",
       "summary": "Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion.\nSupporting the outlook, Beijing – which has added to its gold reserve for 20 straight months – wants to better connect the Shanghai Gold Exchange to Hong Kong, and the South Korean central ",
       "published_at": "2026-08-07T00:00:14+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -406,6 +272,24 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.61
+    },
+    {
+      "id": "f78952fa614bed4f1419b99deb55f48d8f27acc8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nuclear Wipeout: These 5 Nuclear Stocks Are Now Down 44.3% to 82.2%. Time to Buy?",
+      "url": "https://www.fool.com/investing/2026/08/06/nuclear-wipeout-these-5-nuclear-stocks-are-now-dow/?source=iedfolrf0000001",
+      "summary": "Nuclear investment is still growing, but nuclear share prices have been shrinking.",
+      "published_at": "2026-08-06T23:00:00+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "21bc68e12b7ab469c64c444bcd6c6d0abeb30887",
@@ -416,7 +300,7 @@
       "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
       "summary": "Trade Desk’s growth struggles deepened in the second quarter, as the company posted an earnings and revenue miss combined with disappointing guidance.",
       "published_at": "2026-08-06T22:59:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -424,6 +308,24 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
+    },
+    {
+      "id": "3aecec8d29133fa4a468ab206813d2e15822a02c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "1 Beaten-Down Stock to Buy and Hold for a Decade",
+      "url": "https://www.fool.com/investing/2026/08/06/1-beaten-down-stock-to-buy-and-hold-for-a-decade/?source=iedfolrf0000001",
+      "summary": "The e-commerce giant is coming back with a vengeance.",
+      "published_at": "2026-08-06T22:43:00+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "824b2d872fbbd0a2a3618d44abdd0feed01cab87",
@@ -434,7 +336,7 @@
       "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
       "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
       "published_at": "2026-08-06T22:19:52+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -452,7 +354,7 @@
       "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
       "summary": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
       "published_at": "2026-08-06T22:01:34+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -460,6 +362,42 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
+    },
+    {
+      "id": "bbd9388a60cfee6c3edf250983c30e820d7d75a8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why D-Wave Quantum Stock Just Fell",
+      "url": "https://www.fool.com/investing/2026/08/06/why-d-wave-quantum-stock-just-fell/?source=iedfolrf0000001",
+      "summary": "D-Wave Quantum posted a disappointing quarter, missing on both revenue and earnings while operating costs nearly doubled.",
+      "published_at": "2026-08-06T21:59:39+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "3f27ce29114dd01c548fe9cdb9b9f6b6e25f996c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Figma Stock Just Sank",
+      "url": "https://www.fool.com/investing/2026/08/06/why-figma-stock-just-sank/?source=iedfolrf0000001",
+      "summary": "Figma crushed its Q2 revenue and earnings targets, yet the stock cratered nearly 15%. The culprit? Soaring AI costs that are growing more than twice as fast as sales.",
+      "published_at": "2026-08-06T21:48:12+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "9b2673d3d2fd65e35eface305d72731add05eafd",
@@ -470,7 +408,7 @@
       "url": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
       "summary": "Gold miners’ stocks can offer a high-quality play for investors worried about inflation and the Fed.",
       "published_at": "2026-08-06T20:57:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -488,7 +426,7 @@
       "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earnings-report.html",
       "summary": "Airbnb said it's seeing strong demand \"across all regions\", contributing to the company's better-than-expected forecast.",
       "published_at": "2026-08-06T20:53:18+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -506,7 +444,7 @@
       "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
       "summary": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
       "published_at": "2026-08-06T20:27:42+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -524,7 +462,7 @@
       "url": "https://www.cnbc.com/2026/08/06/applovin-stock-q2-earnings-revenue.html",
       "summary": "Shares of AppLovin tanked 19% Thursday off a second-quarter earnings miss, falling short of analysts' expectations for revenue.",
       "published_at": "2026-08-06T20:02:47+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -542,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/08/06/trump-fed-chairman-kevin-warsh-relationship.html",
       "summary": "Trump's reported phone calls to the Fed chairman will complicate his efforts to prove he will act independently on inflation and interest rates.",
       "published_at": "2026-08-06T19:38:44+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -560,7 +498,7 @@
       "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
       "summary": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
       "published_at": "2026-08-06T15:19:56+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -578,7 +516,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363202/hong-kong-raises-silver-bonds-coupon-rate-425-latest-batch?utm_source=rss_feed",
       "summary": "Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year.\nUp to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed annual coupon of 4.25 per cent, up from 3.85 per cent for the batch sold in September last year, the go",
       "published_at": "2026-08-06T12:14:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -596,7 +534,7 @@
       "url": "https://www.cnbc.com/2026/08/06/rheinmetall-stock-earnings-guidance-frigate.html",
       "summary": "The company's sales grew 39% and profits grew 74% in the first half of the year.",
       "published_at": "2026-08-06T08:57:01+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -614,7 +552,7 @@
       "url": "https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html",
       "summary": "The company slashed its full-year guidance on key metrics in its first earnings report since separating from the Honeywell conglomerate in June.",
       "published_at": "2026-08-06T00:09:36+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -632,7 +570,7 @@
       "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
       "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
       "published_at": "2026-08-05T21:22:36+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -640,6 +578,120 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
+    },
+    {
+      "id": "3375df67c1b5a6671e8c5a71d265dabce738f998",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "ADBE Stock: Where Compounding Could Take The Price",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adbe-stock-where-compounding-could-204618320.html",
+      "summary": "",
+      "published_at": "2026-08-05T20:46:18+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "3422e132904865a2b6d48dd245eed2d1674d471f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Scores Record As SpaceX Craters; SharkNinja Soars",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-05T20:44:23+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "0cee40b20fbe3531ef29c01d3dc120dba4cd571e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Fed's Cook ready to raise rates if inflation doesn't start easing",
+      "url": "https://finance.yahoo.com/economy/policy/articles/feds-cook-says-ready-raise-201114697.html",
+      "summary": "",
+      "published_at": "2026-08-05T20:42:22+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "ad263cb8978f4d4079f10022b7675044c5f92142",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets.",
+      "url": "https://www.investors.com/news/spacex-stock-earnings-analyst-reactions-price-target-starlink-ai-expenditures-starship-q2-2026/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-05T20:24:42+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "b164442a5526bf7e955b5569cf1bdbd5c593c68f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Kratos Defense Rallies Above Key Level On Upgrade, Q2 Beat, Outlook 'Comfort' Analyst",
+      "url": "https://www.investors.com/news/kratos-defense-ktos-stock-upgrade-earnings-q2-2026-cathie-wood-ark-invest/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-05T20:19:23+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.61
+    },
+    {
+      "id": "b747f944d1bb40cef7acb36a6aa45208a3ed8940",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated",
+      "url": "https://finance.yahoo.com/economy/policy/article/fed-governor-lisa-cook-i-am-prepared-to-act-on-interest-rates-if-inflation-remains-elevated-201309391.html",
+      "summary": "",
+      "published_at": "2026-08-05T20:13:09+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "282a8257119ecb40d304b4d2cc67e7afe357967f",
@@ -650,7 +702,7 @@
       "url": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
       "summary": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
       "published_at": "2026-08-05T20:09:17+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -668,7 +720,7 @@
       "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
       "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
       "published_at": "2026-08-05T20:02:56+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -684,48 +736,6 @@
       "score": 1.0
     },
     {
-      "id": "4ab9ac85c7446d9a5fbf936f223027ecefc00fe5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Reaction to AMD Earnings Shows Why It’s Hard Being in Second Place",
-      "url": "https://www.barrons.com/articles/amd-stock-price-earnings-nvidia-bfee4198?siteid=yhoof2&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-05T18:47:00+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "fb4429fe1a00a5cc7fec080c0d02737efef57f2d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/feds-nft-founder-raised-10-184347289.html",
-      "summary": "",
-      "published_at": "2026-08-05T18:43:47+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "2e28984683f90ff049ed31f4069be75363f246e6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -734,7 +744,7 @@
       "url": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
       "summary": "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from previous guidance of $82 billion to $85 billion.",
       "published_at": "2026-08-05T14:35:37+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -752,7 +762,7 @@
       "url": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
       "summary": "Wall Street isn't convinced the Ozempic maker has a promising path back to sustainable growth as competition from Eli Lilly intensifies.",
       "published_at": "2026-08-05T11:02:21+00:00",
-      "first_seen_at": "2026-08-07T06:45:13.799803+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -760,6 +770,24 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "cf561ccccb21ea9b3b18d059730c69c7e8c18ee3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow posts record on hopes for Iran deal, S&P 500 and Nasdaq snap 4-day rally",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-hormuz-093653327.html",
+      "summary": "",
+      "published_at": "2026-08-05T09:36:53+00:00",
+      "first_seen_at": "2026-08-07T08:12:23.922275+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "product",
+      "score": 0.64
     }
   ]
 }
