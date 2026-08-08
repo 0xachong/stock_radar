@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-08T08:38:22.756229+00:00",
+  "generated_at": "2026-08-08T09:35:43.076538+00:00",
   "window_hours": 48,
-  "total_items": 19,
+  "total_items": 16,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 18,
+    "US": 15,
     "HK": 1
   },
   "category_stats": [
     {
-      "key": "earnings",
-      "count": 8
-    },
-    {
       "key": "macro",
-      "count": 5
+      "count": 6
     },
     {
       "key": "company",
+      "count": 4
+    },
+    {
+      "key": "earnings",
       "count": 3
     },
     {
@@ -34,7 +34,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 14
+      "count": 11
     },
     {
       "site_id": "hk_china",
@@ -44,6 +44,24 @@
   ],
   "items": [
     {
+      "id": "45b487242d3d2653e79e0f6dc914acc3accfd1a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+      "url": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
+      "summary": "",
+      "published_at": "2026-08-08T08:48:40+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
       "id": "026f20395af9d6152b66115fd1250f1371b8402b",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -52,7 +70,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507273",
       "summary": "",
       "published_at": "2026-08-08T08:05:57+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,24 +86,6 @@
       "score": 1.0
     },
     {
-      "id": "8d81dd0d949c49d123d59bf4cf01ff2ca8cbc71e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business",
-      "url": "https://www.fool.com/investing/2026/08/08/ceo-elon-musk-says-this-is-the-most-underappreciat/?source=iedfolrf0000001",
-      "summary": "Musk recently addressed Wall Street analysts on SpaceX's second-quarter earnings call.",
-      "published_at": "2026-08-08T07:05:00+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
       "id": "61ec826094e25eef88d89ca84ee14e0968fc49c1",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -94,7 +94,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507227",
       "summary": "",
       "published_at": "2026-08-08T04:05:08+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -112,7 +112,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507219",
       "summary": "",
       "published_at": "2026-08-08T03:06:30+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -120,42 +120,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.8
-    },
-    {
-      "id": "62236ff98fc7329526054975fb83ca6cb74d6415",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "NatWest (NWG) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/natwest-nwg-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Record returns and upgraded guidance after Evelyn Partners acquisition.",
-      "published_at": "2026-08-08T02:11:42+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
-    },
-    {
-      "id": "a5b987dcf809bd0b7a6c1a2228007f7c26e73d58",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Crocs (CROX) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/crocs-crox-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Crocs brand surpasses $1 billion in quarterly revenue for the first time.",
-      "published_at": "2026-08-08T01:54:50+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "f0ad351932c409f30b673eb028ea1b8f16003fea",
@@ -166,7 +130,7 @@
       "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
       "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
       "published_at": "2026-08-07T22:05:00+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -184,7 +148,7 @@
       "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
       "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
       "published_at": "2026-08-07T20:54:00+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -208,7 +172,7 @@
       "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
       "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
       "published_at": "2026-08-07T18:38:17+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,7 +190,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
       "summary": "",
       "published_at": "2026-08-07T16:03:00+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -242,6 +206,30 @@
       "score": 0.97
     },
     {
+      "id": "8742d3ab62f247ffa7cfe7fbbe8ab314841f8dcb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "JD Sports appoints former IKEA boss Peter Agnefjäll as chair",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jd-sports-appoints-peter-agnefj-062600581.html",
+      "summary": "",
+      "published_at": "2026-08-07T06:26:00+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "JD",
+          "name": "京东",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
       "id": "02d55bbf19332a1a13ea58cea64bd4f1438f9826",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -250,7 +238,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/analysis-jobs-report-offer-fresh-050406143.html",
       "summary": "",
       "published_at": "2026-08-07T05:11:06+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -258,24 +246,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.64
-    },
-    {
-      "id": "9dc0fb2bfa37d95d8141db80bba1b239a5b51950",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Vistra Earnings Offer Window Into Power Generation Ramp-Up for AI Data Centers",
-      "url": "https://finance.yahoo.com/energy/articles/vistra-earnings-offer-window-power-040100318.html",
-      "summary": "",
-      "published_at": "2026-08-07T04:01:00+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
     },
     {
       "id": "cf639c3fa98f62271eb8089fa9c2bc85fe55fb0f",
@@ -286,7 +256,7 @@
       "url": "https://www.scmp.com/business/commodities/article/3363180/golds-price-potential-still-explosive-amid-beijing-hoarding-hong-kong-trading-push?utm_source=rss_feed",
       "summary": "Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion.\nSupporting the outlook, Beijing – which has added to its gold reserve for 20 straight months – wants to better connect the Shanghai Gold Exchange to Hong Kong, and the South Korean central ",
       "published_at": "2026-08-07T00:00:14+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -304,7 +274,7 @@
       "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
       "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
       "published_at": "2026-08-06T22:19:52+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -322,7 +292,7 @@
       "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
       "summary": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
       "published_at": "2026-08-06T22:01:34+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -340,7 +310,7 @@
       "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
       "summary": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
       "published_at": "2026-08-06T20:27:42+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -358,7 +328,7 @@
       "url": "https://www.cnbc.com/2026/08/06/applovin-stock-q2-earnings-revenue.html",
       "summary": "Shares of AppLovin tanked 19% Thursday off a second-quarter earnings miss, falling short of analysts' expectations for revenue.",
       "published_at": "2026-08-06T20:02:47+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -376,7 +346,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363202/hong-kong-raises-silver-bonds-coupon-rate-425-latest-batch?utm_source=rss_feed",
       "summary": "Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year.\nUp to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed annual coupon of 4.25 per cent, up from 3.85 per cent for the batch sold in September last year, the go",
       "published_at": "2026-08-06T12:14:00+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
+      "first_seen_at": "2026-08-08T09:35:43.076538+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -384,24 +354,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "1d68dcfdba4d54b3033e6c69ee4cf56230dcf67a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Rheinmetall stock volatile after trimming guidance as Germany's F126 warship cancellation hits sales outlook",
-      "url": "https://www.cnbc.com/2026/08/06/rheinmetall-stock-earnings-guidance-frigate.html",
-      "summary": "The company's sales grew 39% and profits grew 74% in the first half of the year.",
-      "published_at": "2026-08-06T08:57:01+00:00",
-      "first_seen_at": "2026-08-08T08:38:22.756229+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     }
   ]
 }
