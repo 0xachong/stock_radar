@@ -1,25 +1,29 @@
 {
-  "generated_at": "2026-08-08T11:54:41.803461+00:00",
+  "generated_at": "2026-08-08T12:43:44.661209+00:00",
   "window_hours": 48,
-  "total_items": 20,
+  "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 3,
-    "US": 17
+    "US": 22,
+    "HK": 3
   },
   "category_stats": [
+    {
+      "key": "company",
+      "count": 9
+    },
     {
       "key": "earnings",
       "count": 6
     },
     {
       "key": "macro",
-      "count": 6
+      "count": 5
     },
     {
-      "key": "company",
-      "count": 5
+      "key": "rating",
+      "count": 2
     },
     {
       "key": "capital",
@@ -38,15 +42,105 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 21
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 4
     }
   ],
   "items": [
+    {
+      "id": "20d6af6fc56e0d661b533fe0f59140259a296eb9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+      "published_at": "2026-08-08T12:00:01+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "550f8dee16b80dc906514e244d5abba370c8d6d9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "summary": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
+      "published_at": "2026-08-08T12:00:01+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "360e0d39d6c6b09f3a9ea84c94581422ae74496b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is Salesforce The Most Undervalued AI Stock Right Now?",
+      "url": "https://www.fool.com/investing/2026/08/08/is-salesforce-the-most-undervalued-ai-stock-right/?source=iedfolrf0000001",
+      "summary": "Salesforce may be building a far more valuable business than its current reputation suggests. See what could reshape its growth story and which risks investors cannot ignore.",
+      "published_at": "2026-08-08T11:50:41+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "d60efda4720f28c44867cf30002dddd9adcef09e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%?",
+      "url": "https://www.fool.com/investing/2026/08/08/should-you-buy-amd-stock-after-12-month-return-200/?source=iedfolrf0000001",
+      "summary": "AMD's data center revenue is soaring on strong demand from the artificial intelligence industry.",
+      "published_at": "2026-08-08T11:45:00+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
     {
       "id": "6f7ee0b2da930e05f6e46b845bf5ec70c76da985",
       "site_id": "hk_china",
@@ -56,7 +150,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507291",
       "summary": "",
       "published_at": "2026-08-08T10:05:08+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -74,7 +168,7 @@
       "url": "https://www.fool.com/investing/2026/08/08/all-it-takes-is-1700-shares-of-this-high-yielding/?source=iedfolrf0000001",
       "summary": "Over the long term, this company has a solid chance of delivering growing dividend income while also appreciating in value.",
       "published_at": "2026-08-08T10:05:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -92,7 +186,7 @@
       "url": "https://www.fool.com/investing/2026/08/08/amds-data-center-business-is-skyrocketing-the-stoc/?source=iedfolrf0000001",
       "summary": "A lot of AMD's success has already been priced into the stock.",
       "published_at": "2026-08-08T10:00:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -116,7 +210,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507283",
       "summary": "",
       "published_at": "2026-08-08T09:35:28+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -134,7 +228,7 @@
       "url": "https://www.fool.com/investing/2026/08/08/10000-in-axon-stock-a-decade-ago-would-be-worth-ab/?source=iedfolrf0000001",
       "summary": "What does a 35%-plus slide mean for one of the market's great decade-long compounders?",
       "published_at": "2026-08-08T09:23:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -152,7 +246,7 @@
       "url": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
       "summary": "",
       "published_at": "2026-08-08T08:48:40+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -170,7 +264,7 @@
       "url": "https://www.fool.com/investing/2026/08/08/inflation-quadruple-whammy-trumpflation-wall-st/?source=iedfolrf0000001",
       "summary": "President Donald Trump's policies, coupled with Wall Street's hottest trend, are a dangerous recipe for stocks.",
       "published_at": "2026-08-08T08:06:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -188,7 +282,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507273",
       "summary": "",
       "published_at": "2026-08-08T08:05:57+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -212,7 +306,7 @@
       "url": "https://www.fool.com/investing/2026/08/08/ceo-elon-musk-says-this-is-the-most-underappreciat/?source=iedfolrf0000001",
       "summary": "Musk recently addressed Wall Street analysts on SpaceX's second-quarter earnings call.",
       "published_at": "2026-08-08T07:05:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -220,24 +314,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "62236ff98fc7329526054975fb83ca6cb74d6415",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "NatWest (NWG) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/natwest-nwg-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Record returns and upgraded guidance after Evelyn Partners acquisition.",
-      "published_at": "2026-08-08T02:11:42+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
     },
     {
       "id": "f0ad351932c409f30b673eb028ea1b8f16003fea",
@@ -248,7 +324,7 @@
       "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
       "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
       "published_at": "2026-08-07T22:05:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -266,7 +342,7 @@
       "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
       "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
       "published_at": "2026-08-07T20:54:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -290,7 +366,7 @@
       "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
       "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
       "published_at": "2026-08-07T18:38:17+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -308,7 +384,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
       "summary": "",
       "published_at": "2026-08-07T16:03:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -324,6 +400,84 @@
       "score": 0.97
     },
     {
+      "id": "7833f888467678597e8fcb421f9b8857edb66767",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Here’s The Real Reason Wall Street Cut ON Semiconductor Stock’s Price Target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-reason-wall-street-cut-113002187.html",
+      "summary": "",
+      "published_at": "2026-08-07T11:30:02+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "50f103163192779ba72ff5ddb26022cddf7d509c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Are Wall Street Analysts Predicting PepsiCo Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-pepsico-110527623.html",
+      "summary": "",
+      "published_at": "2026-08-07T11:05:27+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "43aef70aa797ca6f68e03db0bbcc00058d8e5713",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "AMD Stock tumbles because of SpaceX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-tumbles-because-spacex-110300036.html",
+      "summary": "",
+      "published_at": "2026-08-07T11:03:00+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "24b71a8fddafd5c444a1572235c8692174b43e6b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Want to give a stuffed boar to charity? It may be more curse than gift, as the IRS cracks down on non-cash donations",
+      "url": "https://finance.yahoo.com/economy/policy/articles/want-stuffed-boar-charity-may-110000284.html",
+      "summary": "",
+      "published_at": "2026-08-07T11:00:00+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
       "id": "cf639c3fa98f62271eb8089fa9c2bc85fe55fb0f",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -332,7 +486,7 @@
       "url": "https://www.scmp.com/business/commodities/article/3363180/golds-price-potential-still-explosive-amid-beijing-hoarding-hong-kong-trading-push?utm_source=rss_feed",
       "summary": "Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpiling bullion.\nSupporting the outlook, Beijing – which has added to its gold reserve for 20 straight months – wants to better connect the Shanghai Gold Exchange to Hong Kong, and the South Korean central ",
       "published_at": "2026-08-07T00:00:14+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -340,24 +494,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.61
-    },
-    {
-      "id": "824b2d872fbbd0a2a3618d44abdd0feed01cab87",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-      "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
-      "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
-      "published_at": "2026-08-06T22:19:52+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "c3b43ebfa357fd13c9230ffccdb593491772d2f0",
@@ -368,7 +504,7 @@
       "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
       "summary": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
       "published_at": "2026-08-06T22:01:34+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -386,7 +522,7 @@
       "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
       "summary": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
       "published_at": "2026-08-06T20:27:42+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -404,7 +540,7 @@
       "url": "https://www.cnbc.com/2026/08/06/applovin-stock-q2-earnings-revenue.html",
       "summary": "Shares of AppLovin tanked 19% Thursday off a second-quarter earnings miss, falling short of analysts' expectations for revenue.",
       "published_at": "2026-08-06T20:02:47+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
+      "first_seen_at": "2026-08-08T12:43:44.661209+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -412,24 +548,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
-    },
-    {
-      "id": "9375810aeb896b06f23cea9346901f1500341166",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch",
-      "url": "https://www.scmp.com/business/banking-finance/article/3363202/hong-kong-raises-silver-bonds-coupon-rate-425-latest-batch?utm_source=rss_feed",
-      "summary": "Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year.\nUp to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed annual coupon of 4.25 per cent, up from 3.85 per cent for the batch sold in September last year, the go",
-      "published_at": "2026-08-06T12:14:00+00:00",
-      "first_seen_at": "2026-08-08T11:54:41.803461+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
