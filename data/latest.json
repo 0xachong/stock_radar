@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-09T14:32:37.996563+00:00",
+  "generated_at": "2026-08-09T15:30:01.488528+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 21,
+    "US": 22,
     "CN": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
+      "count": 9
     },
     {
       "key": "macro",
-      "count": 6
+      "count": 8
     },
     {
       "key": "earnings",
-      "count": 4
+      "count": 5
     },
     {
-      "key": "rating",
-      "count": 2
+      "key": "ipo",
+      "count": 1
     },
     {
       "key": "capital",
@@ -34,7 +34,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 20
+      "count": 21
     },
     {
       "site_id": "hk_china",
@@ -44,6 +44,107 @@
   ],
   "items": [
     {
+      "id": "5f75a0717869a5235e1ef158d853e5c3bfe63161",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "A Retired Couple Can Pull About $47,500 From Their IRAs This Year and Pay $0 Federal Tax. Most Leave the Free Space Unused.",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/retired-couple-pull-47-500-150506863.html",
+      "summary": "",
+      "published_at": "2026-08-09T15:05:06+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "e2b922a0bab6ad1fc608eeb264b1a06998b7c0dc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Strong S&P 500 Earnings Provide Support as AI Stocks Remain Volatile",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-p-500-earnings-support-144043778.html",
+      "summary": "",
+      "published_at": "2026-08-09T14:40:43+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "6160aac597e8750290e71e5a3ced4b9fccd2ea6f",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "超纯应材(301717.SZ)股票将于8月11日在创业板上市",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3507564",
+      "summary": "",
+      "published_at": "2026-08-09T14:35:09+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
+    },
+    {
+      "id": "9b210c6356988f6d9a1adb5e15a94312332f25a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Palantir vs. Salesforce: Two Visions of Enterprise AI, One Clear Winner",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html",
+      "summary": "",
+      "published_at": "2026-08-09T14:30:41+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        },
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.95
+    },
+    {
+      "id": "be8afd795124aeffca0cce9a6ec022295f162284",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Bank of America issues stark warning on Fed and economy",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bank-america-issues-stark-warning-141700672.html",
+      "summary": "",
+      "published_at": "2026-08-09T14:17:00+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
       "id": "20f359b4eb40755dbb01d8443efef20562f6737c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -52,7 +153,7 @@
       "url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
       "summary": "Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
       "published_at": "2026-08-09T14:00:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -70,7 +171,7 @@
       "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
       "summary": "For the first time in four years, the average stock is beating the stock market.",
       "published_at": "2026-08-09T13:00:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,7 +189,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/memory-sector-stock-down-from-high-buy/?source=iedfolrf0000001",
       "summary": "Rather than chasing the biggest AI memory winners, investors may find better long-term opportunities in discounted companies like Western Digital and Silicon Motion.",
       "published_at": "2026-08-09T12:55:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -106,7 +207,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507544",
       "summary": "",
       "published_at": "2026-08-09T12:35:17+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -124,7 +225,7 @@
       "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
       "summary": "Investors are closely monitoring earnings releases of AI companies amid concerns about the durability of high spending and demand.",
       "published_at": "2026-08-09T12:01:56+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -142,7 +243,7 @@
       "url": "https://www.scmp.com/economy/global-economy/article/3363328/how-chinas-brands-are-thriving-us-despite-rising-geopolitical-tensions?utm_source=rss_feed",
       "summary": "The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton.\nThe Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely gave them a second glance.\nA few shoppers said they vaguely recalled hearing the brand’s name somewh",
       "published_at": "2026-08-09T12:00:08+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +261,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/spacex-vs-meta-platforms-which-will-reach-the-2-tr/?source=iedfolrf0000001",
       "summary": "SpaceX and Meta Platforms are closer businesses than you may think.",
       "published_at": "2026-08-09T12:00:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -176,24 +277,6 @@
       "score": 0.85
     },
     {
-      "id": "6d687bd9ef62d7e43c85aafc92bcf5797d993c30",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "中信证券：A股市场处于超跌反弹阶段 科技聚焦核心资产 增配能化、有色等板块",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3507532",
-      "summary": "",
-      "published_at": "2026-08-09T11:35:10+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.76
-    },
-    {
       "id": "4f50aa73e4ee2036a2bc7784207dd85d0ba98e44",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -202,7 +285,7 @@
       "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
       "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
       "published_at": "2026-08-09T11:31:42+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,7 +309,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/heres-how-many-shares-of-realty-income-o-stock-you/?source=iedfolrf0000001",
       "summary": "This stock should be especially attractive to some for its monthly dividend. (It recently yielded 5.12%, too.)",
       "published_at": "2026-08-09T11:05:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,7 +327,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/stock-market-do-something-4-times-1997-wall-street/?source=iedfolrf0000001",
       "summary": "History has a surprising ability to accurately foreshadow the future.",
       "published_at": "2026-08-09T10:36:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -262,7 +345,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/nike-stock-is-down-76-from-its-high-is-it-time-to/?source=iedfolrf0000001",
       "summary": "Nike has begun to address past missteps, but investors must decide if that is enough.",
       "published_at": "2026-08-09T10:15:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -280,7 +363,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/theres-a-58-chance-of-a-fed-rate-hike-in-october-t/?source=iedfolrf0000001",
       "summary": "The odds are pretty good that higher rates are ahead. But some stocks can still flourish.",
       "published_at": "2026-08-09T09:41:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -298,7 +381,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/what-happens-bond-price-fed-cuts-rates-history/?source=iedfolrf0000001",
       "summary": "Short-term notes tend to be highly influenced by the Federal Reserve. Long-term bonds have been responding to something else.",
       "published_at": "2026-08-09T09:15:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -316,7 +399,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/down-29-is-mercadolibre-stock-a-better-buy-than-sp/?source=iedfolrf0000001",
       "summary": "Investors can often prosper by avoiding the higher-profile stocks.",
       "published_at": "2026-08-09T09:00:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -334,7 +417,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/stock-market-investors-bad-news-federal-reserve/?source=iedfolrf0000001",
       "summary": "Three Fed officials recently voted to raise interest rates.",
       "published_at": "2026-08-09T08:12:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -352,7 +435,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/fed-kevin-warsh-dagger-wall-st-12-word-statement/?source=iedfolrf0000001",
       "summary": "Warsh, the monetary hawk, has arrived amid the evolution of Trumpflation.",
       "published_at": "2026-08-09T08:06:00+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -360,6 +443,30 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "1bfb5ae30d93cb1f332086e8cd0d15979c468190",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
+      "url": "https://www.fool.com/investing/2026/08/09/cathie-woods-ark-piled-into-nvidia-and-taiwan-semi/?source=iedfolrf0000001",
+      "summary": "Ark Invest just doubled down on Nvidia and TSMC stock, and the reason why is obvious.",
+      "published_at": "2026-08-09T07:05:00+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
     },
     {
       "id": "ee285936709b32eb252b9f8b5312270a00ec89a3",
@@ -370,7 +477,7 @@
       "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
       "summary": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
       "published_at": "2026-08-08T15:43:23+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -388,7 +495,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-reported-data-center-134502782.html",
       "summary": "",
       "published_at": "2026-08-08T13:45:02+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
+      "first_seen_at": "2026-08-09T15:30:01.488528+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -401,96 +508,6 @@
         }
       ],
       "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "a63dfefc25eb2529d77001b5f6a779689ed91d9a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-price-130011101.html",
-      "summary": "",
-      "published_at": "2026-08-08T13:00:11+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "646845eb2d1fbeeab4e74fe513bb11ffcd129330",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html",
-      "summary": "",
-      "published_at": "2026-08-08T12:55:33+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "0b4d63a492e996963dc7d6bcd27e83f1217eb258",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Arista Beats Views",
-      "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-08T12:00:21+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "e1159dd3f9188245aec052439c7f64385192b182",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Palantir (PLTR) Posted Record 93% Growth, Here’s Why Analysts Think It Won’t Last",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-posted-record-93-113953926.html",
-      "summary": "",
-      "published_at": "2026-08-08T11:39:53+00:00",
-      "first_seen_at": "2026-08-09T14:32:37.996563+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
       "score": 0.97
     }
   ]
