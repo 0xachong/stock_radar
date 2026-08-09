@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-09T20:30:17.966943+00:00",
+  "generated_at": "2026-08-09T21:30:01.252235+00:00",
   "window_hours": 48,
-  "total_items": 16,
+  "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 13,
+    "US": 17,
     "HK": 1,
     "CN": 2
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 6
+      "key": "earnings",
+      "count": 8
     },
     {
-      "key": "earnings",
-      "count": 6
+      "key": "company",
+      "count": 5
+    },
+    {
+      "key": "macro",
+      "count": 2
+    },
+    {
+      "key": "rating",
+      "count": 1
+    },
+    {
+      "key": "product",
+      "count": 1
     },
     {
       "key": "capital",
@@ -29,17 +41,13 @@
     {
       "key": "ipo",
       "count": 1
-    },
-    {
-      "key": "macro",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 12
+      "count": 16
     },
     {
       "site_id": "hk_china",
@@ -49,28 +57,88 @@
   ],
   "items": [
     {
-      "id": "85ee6a07e86a9145a61a85578da76de229921770",
+      "id": "ff7d6c688b90f311ead75e2fa9354260cc36ea32",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/heres-why-iren-edge-neocloud-192000275.html",
+      "title": "5-star analyst resets AMD stock price target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-amd-210300850.html",
       "summary": "",
-      "published_at": "2026-08-09T19:20:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "published_at": "2026-08-09T21:03:00+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "META",
-          "name": "Meta",
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "fd63188bcd988fe2eca9508600cd3050a3f58a55",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-09T20:58:45+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "87ff7a5286e18463f7a29aaa1e58b542a3568e0b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-shareholders-rejected-203304503.html",
+      "summary": "",
+      "published_at": "2026-08-09T20:33:04+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "product",
       "score": 0.85
+    },
+    {
+      "id": "eed99abf9439df86add1dd4a9051e945965e16ba",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth.",
+      "url": "https://www.fool.com/investing/2026/08/09/rocket-lab-reports-monday-night-wall-street-wants/?source=iedfolrf0000001",
+      "summary": "A fifth straight quarterly revenue record is the bar -- and the stock climbed 9% on Friday heading into the report.",
+      "published_at": "2026-08-09T20:18:00+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
     },
     {
       "id": "88fb3188087d6cb121901980cb74c7df5d23d1f0",
@@ -81,7 +149,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/this-dividend-stocks-moat-is-as-wide-as-it-gets-3/?source=iedfolrf0000001",
       "summary": "This consumer staples Dividend King is down nearly 20% since its 2024 high despite its industry-leading business.",
       "published_at": "2026-08-09T19:15:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -99,7 +167,7 @@
       "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
       "summary": "For the first time in four years, the average stock is beating the stock market.",
       "published_at": "2026-08-09T19:11:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -117,7 +185,7 @@
       "url": "https://www.fool.com/coverage/charts/2026/08/09/arista-networks-vs-arm-comparing-revenue-growth-trajectories-for-these-artificial-intelligence-companies/?source=iedfolrf0000001",
       "summary": "Arista has posted eight straight quarters of revenue gains while Arm battled volatility and federal scrutiny.",
       "published_at": "2026-08-09T19:09:01+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -133,6 +201,30 @@
       "score": 1.0
     },
     {
+      "id": "4bfd3422f6c6ee075d7464515dd9f17120710955",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
+      "url": "https://www.fool.com/investing/2026/08/09/heres-why-iren-has-an-edge-in-the-neocloud-market/?source=iedfolrf0000001",
+      "summary": "Zuckerberg’s confirmation of AI compute scarcity strengthens the case for Iren's strategy, positioning it for substantial long-term value.",
+      "published_at": "2026-08-09T19:00:00+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
       "id": "89997d7a65fdc77310ab62a8ee857af013fb3c0f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -141,7 +233,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/atlassian-jumped-more-than-30-after-guiding-next-y/?source=iedfolrf0000001",
       "summary": "A slower forecast and a soaring stock look like a contradiction. The profit line resolves it.",
       "published_at": "2026-08-09T18:32:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -159,7 +251,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html",
       "summary": "",
       "published_at": "2026-08-09T18:19:31+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -193,7 +285,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/wall-street-punish-sandisk-outlook-investor/?source=iedfolrf0000001",
       "summary": "Sandisk stock has been a huge winner over the past year, but more recently has seen its share sink.",
       "published_at": "2026-08-09T18:16:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -211,7 +303,7 @@
       "url": "https://www.fool.com/investing/2026/08/09/rivian-is-worth-23-billion-with-the-r2-just-rampin/?source=iedfolrf0000001",
       "summary": "It comes down to how many vehicles the R2 ramp delivers, and how much profit rides on each one.",
       "published_at": "2026-08-09T16:47:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -229,7 +321,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507569",
       "summary": "",
       "published_at": "2026-08-09T16:05:08+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -247,7 +339,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507564",
       "summary": "",
       "published_at": "2026-08-09T14:35:09+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -265,7 +357,7 @@
       "url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
       "summary": "Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
       "published_at": "2026-08-09T14:00:00+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -283,7 +375,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3507544",
       "summary": "",
       "published_at": "2026-08-09T12:35:17+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -301,7 +393,7 @@
       "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
       "summary": "Investors are closely monitoring earnings releases of AI companies amid concerns about the durability of high spending and demand.",
       "published_at": "2026-08-09T12:01:56+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -319,7 +411,7 @@
       "url": "https://www.scmp.com/economy/global-economy/article/3363328/how-chinas-brands-are-thriving-us-despite-rising-geopolitical-tensions?utm_source=rss_feed",
       "summary": "The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton.\nThe Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely gave them a second glance.\nA few shoppers said they vaguely recalled hearing the brand’s name somewh",
       "published_at": "2026-08-09T12:00:08+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -337,7 +429,7 @@
       "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
       "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
       "published_at": "2026-08-09T11:31:42+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -361,7 +453,7 @@
       "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
       "summary": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
       "published_at": "2026-08-08T15:43:23+00:00",
-      "first_seen_at": "2026-08-09T20:30:17.966943+00:00",
+      "first_seen_at": "2026-08-09T21:30:01.252235+00:00",
       "market": "US",
       "markets": [
         "US"
