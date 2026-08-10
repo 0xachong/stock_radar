@@ -1,37 +1,33 @@
 {
-  "generated_at": "2026-08-10T22:06:13.856472+00:00",
+  "generated_at": "2026-08-10T23:05:34.152520+00:00",
   "window_hours": 48,
   "total_items": 30,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 7,
-    "US": 23
+    "US": 25,
+    "HK": 5
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
+      "count": 11
     },
     {
       "key": "earnings",
-      "count": 9
+      "count": 8
+    },
+    {
+      "key": "ipo",
+      "count": 4
     },
     {
       "key": "macro",
-      "count": 5
+      "count": 4
     },
     {
       "key": "rating",
       "count": 2
-    },
-    {
-      "key": "ipo",
-      "count": 2
-    },
-    {
-      "key": "ma",
-      "count": 1
     },
     {
       "key": "product",
@@ -52,6 +48,120 @@
   ],
   "items": [
     {
+      "id": "1f5a18259a07bb24ab56b6dcf3e22db6e547a282",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "url": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "summary": "Uncertainty around Iran lifted oil prices, dragging down the major averages Monday. Tune in to CNBC to see Ravi Ahuja, CEO of Sony Pictures Entertainment.",
+      "published_at": "2026-08-10T22:54:50+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "ce2ab7de020c919f9355039adb805bda1c275079",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "This Nvidia change could spell good news for Micron",
+      "url": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
+      "summary": "An analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory.",
+      "published_at": "2026-08-10T22:42:00+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "e7676b25fdc7209eddcb35e65c391abbc3559cb8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
+      "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
+      "published_at": "2026-08-10T22:39:00+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.65
+    },
+    {
+      "id": "c5dcd54b41c88ccf48bf19c25bf87fbd286aec87",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "隔夜美股 | 美伊互相要求赔偿军事冲突损失 国际油价暴涨5% 三大指数收跌",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3509788",
+      "summary": "",
+      "published_at": "2026-08-10T22:35:49+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "1146670e8ffb9120d6d42df214e4a4762d71a205",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Meta(META.US)紧急叫停审判失败！青少年社交媒体成瘾案本周开庭 潜在索赔或高达1.4万亿美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3509789",
+      "summary": "",
+      "published_at": "2026-08-10T22:35:49+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "c4d707df59938008794ab697d279c6e950a5bfbe",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Stock Is Down 17% Since Its IPO. Here's What a $10,000 Investment Could Look Like in 5 Years.",
+      "url": "https://www.fool.com/investing/2026/08/10/spacex-stock-is-down-17-since-its-ipo-heres-what-a/?source=iedfolrf0000001",
+      "summary": "With shares now trading at a steep discount, is this a generational buying opportunity?",
+      "published_at": "2026-08-10T22:05:00+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
+    },
+    {
       "id": "8b0f9df63ce64e70cbc961e7ab638b447a35bfe5",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -60,7 +170,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509747",
       "summary": "",
       "published_at": "2026-08-10T21:57:14+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -78,7 +188,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509746",
       "summary": "",
       "published_at": "2026-08-10T21:56:39+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -96,7 +206,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509738",
       "summary": "",
       "published_at": "2026-08-10T21:54:44+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -114,7 +224,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509724",
       "summary": "",
       "published_at": "2026-08-10T21:47:53+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -122,42 +232,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.61
-    },
-    {
-      "id": "48b547ee2295804c0f79690b37f24370ff03ec5e",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "巴布科克与威尔科克斯股价盘后飙升逾37%，二季度业绩全面超预期",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509722",
-      "summary": "",
-      "published_at": "2026-08-10T21:47:13+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "d14b825050f0666776cb570a67fb5a6c3d569da2",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "USA Rare Earth股价盘后为何大跌？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509721",
-      "summary": "",
-      "published_at": "2026-08-10T21:47:10+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.76
     },
     {
       "id": "88d3bbf76d8ff134347f9cb48e7d33f3119ea2b7",
@@ -168,7 +242,7 @@
       "url": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
       "summary": "The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.",
       "published_at": "2026-08-10T21:23:04+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -186,7 +260,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/why-kevin-warsh-might-raise-interest-rates-at-the/?source=iedfolrf0000001",
       "summary": "Fed chair Kevin Warsh is focused on getting inflation to 2%.",
       "published_at": "2026-08-10T21:21:48+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -204,7 +278,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/why-amd-stock-tumbled-18-in-july/?source=iedfolrf0000001",
       "summary": "AMD suffered from the broad decline of chip stocks last month, as investors grew skeptical of AI spending.",
       "published_at": "2026-08-10T20:19:00+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -228,7 +302,7 @@
       "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
       "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
       "published_at": "2026-08-10T20:08:55+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -246,7 +320,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/why-bausch-health-companies-stock-skyrocketed-by-a/?source=iedfolrf0000001",
       "summary": "Much of this was due to a very well-received quarterly earnings report.",
       "published_at": "2026-08-10T20:06:19+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -254,24 +328,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "ce2ab7de020c919f9355039adb805bda1c275079",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "This Nvidia change could spell good news for Micron",
-      "url": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
-      "summary": "An analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory.",
-      "published_at": "2026-08-10T19:42:00+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
     },
     {
       "id": "94ea02c41c7c865dec603e703cbe9107b7e9037c",
@@ -282,7 +338,7 @@
       "url": "https://www.fool.com/coverage/filings/2026/08/10/braveheart-bio-cfo-acquires-27-777-shares-for-usd500-000-is-this-a-signal-brve-ipo-is-a-success/?source=iedfolrf0000001",
       "summary": "Option exercise expands executive's long-term equity stake to 612,251 shares, now valued at $18.37 million based on August 7 market close.",
       "published_at": "2026-08-10T19:39:01+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -300,7 +356,7 @@
       "url": "https://www.fool.com/coverage/filings/2026/08/10/braveheart-bio-chairman-chris-viehbacher-buys-usd1-5m-shares-at-ipo-what-does-this-mean-for-investors/?source=iedfolrf0000001",
       "summary": "Insider exercise expanded his direct stake by 16% to 609,519 shares, bringing total beneficial ownership to ~760,000 shares valued at $22.8 million.",
       "published_at": "2026-08-10T19:20:01+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -318,7 +374,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/is-soundhound-ai-stock-a-buy-after-posting-massive/?source=iedfolrf0000001",
       "summary": "SoundHound's revenue hit a record high last quarter, and the company boosted its guidance.",
       "published_at": "2026-08-10T19:15:00+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +392,7 @@
       "url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "published_at": "2026-08-10T19:09:56+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -360,7 +416,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/whats-wrong-with-celsius-holdings-stock/?source=iedfolrf0000001",
       "summary": "Shares of Celsius are down more than 40% this year.",
       "published_at": "2026-08-10T18:54:50+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +434,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/mark-zuckerberg-is-borrowing-facebooks-old-playbook-to-win-the-ai-race/?source=iedfolrf0000001",
       "summary": "The Meta Platforms CEO shared his vision for AI. Here's how his company can also profit.",
       "published_at": "2026-08-10T18:54:39+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -402,7 +458,7 @@
       "url": "https://www.fool.com/investing/2026/08/10/can-palantir-reach-207-per-share-to-claim-a-new-al/?source=iedfolrf0000001",
       "summary": "Palantir's fantastic quarter wasn't enough to set a new all-time high.",
       "published_at": "2026-08-10T18:30:00+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -418,60 +474,6 @@
       "score": 0.85
     },
     {
-      "id": "868a27385b0be391bb2c8684640edc6b1de0c0e3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Target Stock: Next Stop, $166?",
-      "url": "https://www.fool.com/investing/2026/08/10/target-stock-next-stop-166/?source=iedfolrf0000001",
-      "summary": "The retailer is rolling in 2026, and Wall Street pros are going along for the ride.",
-      "published_at": "2026-08-10T18:04:00+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "88d635f16b84cb372cb61c741e02f1d3c30abfc8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Boston Scientific Director Habiger Buys $100k of Shares Amid 54% Decline. What Does This Mean for BSX in 2026?",
-      "url": "https://www.fool.com/coverage/filings/2026/08/10/boston-scientific-director-habiger-buys-usd100k-of-shares-amid-54-decline-what-does-this-mean-for-bsx-in-2026/?source=iedfolrf0000001",
-      "summary": "Habiger's $100,000 purchase expanded his direct holdings by 14%, signaling confidence despite the stock's recent weakness. The acquisition came as shares traded near their lowest levels in over a year.",
-      "published_at": "2026-08-10T17:54:01+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.61
-    },
-    {
-      "id": "06222abe8ac3ed7077f9474eadd02fb6f962fd11",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Pfizer's Earnings Have Declined 58% This Year. Is a Dividend Cut Around the Corner?",
-      "url": "https://www.fool.com/investing/2026/08/10/pfizers-earnings-have-declined-58-this-year-is-a-d/?source=iedfolrf0000001",
-      "summary": "The stock's 6.4% yield is attractive, but it comes with risk.",
-      "published_at": "2026-08-10T17:40:59+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "3853baf32cfcb5ff9f2f01fdd63d631b17eb7697",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -480,7 +482,7 @@
       "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
       "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
       "published_at": "2026-08-10T12:40:36+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -496,24 +498,6 @@
       "score": 0.85
     },
     {
-      "id": "bbda45cbd3ae872480c03e674b13ba1b8c0e607b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Student loan borrowers face steeper 'marriage penalty' under new repayment plan",
-      "url": "https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html",
-      "summary": "Recent changes to the federal student loan system could impact married couples. Here's what borrowers should consider.",
-      "published_at": "2026-08-10T12:15:01+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "4fc9a07aa20f39b1e2895554e41a2bb6eb073369",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -522,7 +506,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
       "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say.\nCXMT, China’s biggest maker of dynamic random access memory (DRAM) chips used mostly in electronic products, joined the MSCI China All Shares Index on Monda",
       "published_at": "2026-08-10T05:00:21+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -530,6 +514,71 @@
       "tickers": [],
       "category": "rating",
       "score": 0.61
+    },
+    {
+      "id": "e2b922a0bab6ad1fc608eeb264b1a06998b7c0dc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Strong S&P 500 Earnings Provide Support as AI Stocks Remain Volatile",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-p-500-earnings-support-144043778.html",
+      "summary": "",
+      "published_at": "2026-08-09T14:40:43+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "9b210c6356988f6d9a1adb5e15a94312332f25a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Palantir vs. Salesforce: Two Visions of Enterprise AI, One Clear Winner",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html",
+      "summary": "",
+      "published_at": "2026-08-09T14:30:41+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        },
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.95
+    },
+    {
+      "id": "be8afd795124aeffca0cce9a6ec022295f162284",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Bank of America issues stark warning on Fed and economy",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bank-america-issues-stark-warning-141700672.html",
+      "summary": "",
+      "published_at": "2026-08-09T14:17:00+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "7f7c7bac25a8df8b2e305e69a32f63f6ad2c06a2",
@@ -540,7 +589,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-off-39-high-141502831.html",
       "summary": "",
       "published_at": "2026-08-09T14:15:02+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -564,7 +613,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-reported-record-131502549.html",
       "summary": "",
       "published_at": "2026-08-09T13:15:02+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -580,24 +629,6 @@
       "score": 1.0
     },
     {
-      "id": "43c19c144762f0da2462aa18feeaf816619978e9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Memory Sector Stocks Are Down 30% or More From Their Highs, But These 2 Are Worth Buying Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-sector-stocks-down-30-131500141.html",
-      "summary": "",
-      "published_at": "2026-08-09T13:15:00+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "00a4913b27d6a3996b9cd8aeab236b3aa0709270",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -606,25 +637,7 @@
       "url": "https://www.scmp.com/economy/global-economy/article/3363328/how-chinas-brands-are-thriving-us-despite-rising-geopolitical-tensions?utm_source=rss_feed",
       "summary": "The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton.\nThe Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely gave them a second glance.\nA few shoppers said they vaguely recalled hearing the brand’s name somewh",
       "published_at": "2026-08-09T12:00:08+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "1dcd0d285a8d713d2dbd08209680706098372b9c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-      "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
-      "summary": "",
-      "published_at": "2026-08-09T11:35:29+00:00",
-      "first_seen_at": "2026-08-10T22:06:13.856472+00:00",
+      "first_seen_at": "2026-08-10T23:05:34.152520+00:00",
       "market": "US",
       "markets": [
         "US"
