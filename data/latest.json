@@ -1,40 +1,44 @@
 {
-  "generated_at": "2026-08-11T18:23:52.625351+00:00",
+  "generated_at": "2026-08-11T19:34:10.629325+00:00",
   "window_hours": 48,
-  "total_items": 26,
+  "total_items": 22,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 23,
+    "US": 19,
     "HK": 3
   },
   "category_stats": [
     {
-      "key": "rating",
-      "count": 6
-    },
-    {
       "key": "earnings",
-      "count": 6
+      "count": 8
     },
     {
-      "key": "company",
+      "key": "macro",
       "count": 5
     },
     {
       "key": "ipo",
-      "count": 4
-    },
-    {
-      "key": "macro",
       "count": 3
     },
     {
-      "key": "policy",
+      "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "company",
+      "count": 1
+    },
+    {
+      "key": "product",
       "count": 1
     },
     {
       "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "policy",
       "count": 1
     }
   ],
@@ -42,43 +46,134 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 18
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
     {
-      "id": "4ebd1c4c318dd800c2d8dc29e58cdad41573a365",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "SA analyst upgrades/downgrades: INTC, AMD, ANET, GILD",
-      "url": "https://seekingalpha.com/news/4630944-sa-analyst-upgrades-downgrades-intc-amd-anet-gild?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "id": "327c5c215d982e9767134148391db197fa5ea53a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "台积电逼近$426关键阻力，多空高度胶着：实时更新",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509121",
       "summary": "",
-      "published_at": "2026-08-11T18:13:29+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "published_at": "2026-08-11T19:06:10+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "INTC",
-          "name": "英特尔",
-          "market": "US"
-        },
-        {
-          "symbol": "AMD",
-          "name": "AMD",
+          "symbol": "TSM",
+          "name": "台积电",
           "market": "US"
         }
       ],
-      "category": "rating",
-      "score": 1.0
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "cd9a04572f3e19f74170a8c9343f55f69df8bf2a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+      "summary": "The consumer price index is expected to show only a modest increase for July.",
+      "published_at": "2026-08-11T18:34:41+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "564347c69225635069c3df37865ad94c59da54d4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "C3.ai vs. Salesforce: Which Software Stock Pursuing Artificial Intelligence Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/08/11/c3-ai-vs-salesforce-which-software-stock-pursuing-artificial-intelligence-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "C3.ai burns cash and relies on a handful of customers, while Salesforce generates billions in profit with a fortress balance sheet.",
+      "published_at": "2026-08-11T18:30:42+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "489f39ec934cba8c664beadc9394e5c35b515b19",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Aug. 6 Turned Out to Be a Nonevent for SpaceX. After a 15% Rally, Here's How High the Stock Could Still Climb in the Next 12 Months.",
+      "url": "https://www.fool.com/investing/2026/08/11/aug-6-turned-out-to-be-a-nonevent-for-spacex-after/?source=iedfolrf0000001",
+      "summary": "Wall Street sees upside ahead for SpaceX, but shareholders will still have to deal with plenty of uncertainty along the way.",
+      "published_at": "2026-08-11T18:30:00+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "product",
+      "score": 0.52
+    },
+    {
+      "id": "7b5a37e215a978d4f5f16f9bb8ddf06065db603c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+      "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+      "summary": "Credit card balances are ticking higher midway through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
+      "published_at": "2026-08-11T18:23:43+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "e4c940b6960157eceff5a1a7aa96bba9648daa7c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Sundar Pichai Raised Alphabet's 2026 Capex Forecast to as Much as $205 Billion, Sending the Stock Down 7%. Is This an Overreaction Investors Should Buy Into?",
+      "url": "https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/?source=iedfolrf0000001",
+      "summary": "Alphabet shares may have seen a short-term dip, but the long-term outlook remains bright.",
+      "published_at": "2026-08-11T18:15:00+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.76
     },
     {
       "id": "ad85984d85c5def098d30e0dbe7d807c41b58131",
@@ -89,7 +184,7 @@
       "url": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
       "summary": "Trump in a Truth Social post called Mamdani's pied-à-terre tax a \"dangerous political 'experiment' in New York will destroy\" the city and state.",
       "published_at": "2026-08-11T18:10:10+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -97,6 +192,24 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "c164bfe73d9b4d9a39d9bb1ec1e3009af3d90cd0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nu Holdings' Next Earnings Report on Aug. 13 Could Send the Stock Soaring. Here's Why.",
+      "url": "https://www.fool.com/investing/2026/08/11/nu-holdings-next-earnings-report-on-aug-13-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
+      "summary": "Nu shares are up more than 15% this year.",
+      "published_at": "2026-08-11T18:04:01+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "751bd29803f25cb53e99a589c899a4749a15e69a",
@@ -107,7 +220,7 @@
       "url": "https://www.fool.com/investing/2026/08/11/cathie-wood-just-sold-21-million-of-palantir-stock/?source=iedfolrf0000001",
       "summary": "Ark Invest's ETFs took profits after the AI stock's impressive week.",
       "published_at": "2026-08-11T17:51:00+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -131,7 +244,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/blackstone-digital-bxdc-q2-2026-earnings-call/?source=iedfolrf0000001",
       "summary": "Blind pool REIT targets stabilized data centers with $2 billion IPO proceeds.",
       "published_at": "2026-08-11T17:26:37+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -149,7 +262,7 @@
       "url": "https://www.fool.com/investing/2026/08/11/prediction-nvidia-stock-is-going-soar-after-aug-26/?source=iedfolrf0000001",
       "summary": "Nvidia looks like a bargain heading into its upcoming quarterly earnings event.",
       "published_at": "2026-08-11T17:20:00+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -167,7 +280,7 @@
       "url": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
       "summary": "The Chinese company will be the first to market in a wave of new humanoid-robotics IPOs.",
       "published_at": "2026-08-11T17:17:00+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -185,7 +298,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/strata-critical-medical-srta-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Clinical revenue surged 22.6% (including acquisitions) sequentially as acquisitions bolster transplant services.",
       "published_at": "2026-08-11T17:15:43+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -203,7 +316,7 @@
       "url": "https://www.fool.com/investing/2026/08/11/down-75-in-the-past-year-has-the-trade-desk-stock/?source=iedfolrf0000001",
       "summary": "The company's recent earnings report was underwhelming and led to yet another sell-off.",
       "published_at": "2026-08-11T17:15:00+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -221,7 +334,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/harmony-biosciences-hrmy-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "WAKIX revenue surged 30% to $261.3 million, confirming $1 billion annual guidance.",
       "published_at": "2026-08-11T17:09:26+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -229,24 +342,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "86740740b99f0271fbe84a1b832de28582b2c6f7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Stocks I Think Are Hands-Down Better Picks Than SpaceX Right Now",
-      "url": "https://www.fool.com/investing/2026/08/11/2-stocks-i-think-are-hands-down-better-picks-than/?source=iedfolrf0000001",
-      "summary": "SpaceX has attractive prospects, but the market has already factored that into its share price.",
-      "published_at": "2026-08-11T17:00:00+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "ddf70b1a46da1e8fec992a895755ca14fbb30dc2",
@@ -257,7 +352,7 @@
       "url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
       "summary": "Last December, Meta said it planned to acquire Manus for $2 billion, its latest effort to shore up its AI strategy.",
       "published_at": "2026-08-11T16:12:27+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -273,24 +368,6 @@
       "score": 0.85
     },
     {
-      "id": "7b5a37e215a978d4f5f16f9bb8ddf06065db603c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
-      "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
-      "summary": "Credit card balances are ticking higher mid-way through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
-      "published_at": "2026-08-11T15:08:48+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "7c358295d9f92ee3f39d262326cfeb6ea695aedf",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -299,7 +376,7 @@
       "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
       "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
       "published_at": "2026-08-11T09:57:10+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -317,7 +394,7 @@
       "url": "https://www.scmp.com/plus/tech/tech-trends/article/3363659/unitree-ipo-deluge-masks-humanoid-robots-limitations?utm_source=rss_feed",
       "summary": "Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban.\nThe 6.1 billion yuan (US$900 million) share sale drew 9.8 million orders from individual investors, the robot maker said in a statement on Monday. Just 0.018 per cent of orders wi",
       "published_at": "2026-08-11T09:05:41+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -335,7 +412,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
       "summary": "While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares.\nNearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online subscription process on Monday, fighting for just 9.7 million shares, its filings in the evening showed",
       "published_at": "2026-08-11T01:00:09+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -343,6 +420,24 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "d897fbf602846ae72504e87913ea34e7e4516432",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: Fed's Cook grilled again",
+      "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-feds-cook-grilled-103813938.html",
+      "summary": "",
+      "published_at": "2026-08-10T10:38:13+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "5300cd6bafad27c2899e97a79dc34fe8dbc5cb84",
@@ -353,7 +448,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ge-094929883.html",
       "summary": "",
       "published_at": "2026-08-10T09:49:29+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -361,168 +456,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "20511833bab8fc40496d2c6a1dff5f793797d7b5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Bullish on Accenture Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-accenture-094302678.html",
-      "summary": "",
-      "published_at": "2026-08-10T09:43:02+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "7c05ec5170d0b8eabec98297b32103e7bdabfdf1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on Honeywell Aerospace Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-honeywell-093240757.html",
-      "summary": "",
-      "published_at": "2026-08-10T09:32:40+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "95e323e076714ca02829c0bac6ecce831761a8d0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SpaceX Stock Is Down 34% From Its Post-IPO Peak. A $10,000 Investment Today Could Be Worth This Much by the End of 2027. (NASDAQ: SPCX)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-34-post-092000570.html",
-      "summary": "",
-      "published_at": "2026-08-10T09:20:00+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "baf43cda80b8b53b8a1c8ba4a66c845ffca14f39",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Gold holds close to seven-week peak as markets assess Iran risks and Fed outlook",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-close-seven-week-090927290.html",
-      "summary": "",
-      "published_at": "2026-08-10T09:09:27+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.64
-    },
-    {
-      "id": "dc23375f72f8fbbadf574f31e18d696cb9007b61",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Kalshi ties up with Nasdaq to bolster trade surveillance",
-      "url": "https://finance.yahoo.com/markets/options/articles/kalshi-ties-nasdaq-bolster-trade-090302425.html",
-      "summary": "",
-      "published_at": "2026-08-10T09:03:02+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "56a97e0af7b45d0d345146b3025aa043ecefa33e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Global Payments Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-090218664.html",
-      "summary": "",
-      "published_at": "2026-08-10T09:02:18+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "11e8b66d8aa9deb596bafc3422eb5e0097a785e6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on Stanley Black & Decker Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-stanley-085859245.html",
-      "summary": "",
-      "published_at": "2026-08-10T08:58:59+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "a9bb4e814eaed74ec823e231a7dfc47721b492d0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Bullish on Ventas Stock?",
-      "url": "https://finance.yahoo.com/real-estate/articles/wall-street-analysts-bullish-ventas-085504268.html",
-      "summary": "",
-      "published_at": "2026-08-10T08:55:04+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "2aab46047c01b9583bc3f7acfee123b0aa2acebe",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "American Express Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-stock-wall-street-085218991.html",
-      "summary": "",
-      "published_at": "2026-08-10T08:52:18+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "4fc9a07aa20f39b1e2895554e41a2bb6eb073369",
@@ -533,7 +466,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
       "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say.\nCXMT, China’s biggest maker of dynamic random access memory (DRAM) chips used mostly in electronic products, joined the MSCI China All Shares Index on Monda",
       "published_at": "2026-08-10T05:00:21+00:00",
-      "first_seen_at": "2026-08-11T18:23:52.625351+00:00",
+      "first_seen_at": "2026-08-11T19:34:10.629325+00:00",
       "market": "HK",
       "markets": [
         "HK"
