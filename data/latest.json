@@ -1,33 +1,29 @@
 {
-  "generated_at": "2026-08-11T07:04:23.123867+00:00",
+  "generated_at": "2026-08-11T08:29:49.399919+00:00",
   "window_hours": 48,
-  "total_items": 20,
+  "total_items": 19,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17,
-    "HK": 3
+    "US": 15,
+    "HK": 4
   },
   "category_stats": [
     {
-      "key": "earnings",
+      "key": "company",
       "count": 7
     },
     {
-      "key": "company",
+      "key": "earnings",
       "count": 5
-    },
-    {
-      "key": "rating",
-      "count": 2
     },
     {
       "key": "macro",
       "count": 2
     },
     {
-      "key": "capital",
-      "count": 1
+      "key": "rating",
+      "count": 2
     },
     {
       "key": "policy",
@@ -46,56 +42,97 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 13
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "8256765c2a546cee93238f5e74fba6d3e74b17d3",
+      "id": "a572ca8cf60e7c585b600e8f0bb4e2dadfa48696",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "英特尔公司扩大股票发行规模至200亿美元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3510347",
+      "title": "郭明錤澄清苹果芯片积压传闻：苹果(AAPL.US)按料定产，台积电(TSM.US)大规模积压在制品并不常见",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3510503",
       "summary": "",
-      "published_at": "2026-08-11T06:51:06+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "published_at": "2026-08-11T08:05:16+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "INTC",
-          "name": "英特尔",
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.97
+      "score": 0.95
     },
     {
-      "id": "087056d26624e36dd56d667d90422c2fc770b4d7",
+      "id": "5cff127f8ec24ec9381aeb6d70c82d0fd2ed9fa2",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 创想三维(03388)跌超5% 预计中期股东应占亏损约5300万元至6300万元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3510318",
+      "title": "港股异动 | “机器人大脑第一股”仙工智能(06106)午后涨超8% 预计上半年收入同比增长不低于60%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3510504",
       "summary": "",
-      "published_at": "2026-08-11T06:35:10+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "published_at": "2026-08-11T08:05:16+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "capital",
-      "score": 0.76
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "14d76c1dec4cd7a9f541c64f434624edc4700684",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 纳芯微(02676)涨超5% 据报ADI将于9月调价 模拟芯片行业处于上行周期",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3510499",
+      "summary": "",
+      "published_at": "2026-08-11T08:05:14+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "865958001e4374348fdbb5676147fb287cb92222",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is Zillow (Z) Stock a Buy After Falling Nearly 13% in 1 Day?",
+      "url": "https://www.fool.com/investing/2026/08/11/is-zillow-z-stock-a-buy-after-falling-nearly-13-in/?source=iedfolrf0000001",
+      "summary": "It's also down about 60% over the past year, making the stock more attractive to many.",
+      "published_at": "2026-08-11T07:30:00+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "7c358295d9f92ee3f39d262326cfeb6ea695aedf",
@@ -106,7 +143,7 @@
       "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
       "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
       "published_at": "2026-08-11T04:59:53+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -124,7 +161,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/inspire-medical-systems-insp-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Revenue fell 7.6% on coding disruptions, but management raised full-year guidance.",
       "published_at": "2026-08-11T01:38:36+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -142,7 +179,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/v2x-vvx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Aerospace and training programs drove 17% revenue growth, prompting full-year guidance hikes.",
       "published_at": "2026-08-11T01:29:41+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +197,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/hillman-solutions-hlmn-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Management raised guidance and announced $315M industrial acquisition.",
       "published_at": "2026-08-11T01:28:19+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -178,7 +215,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/innovex-invx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "TCO acquisition boosts Q3 revenue guidance to $260M-$270M.",
       "published_at": "2026-08-11T01:28:19+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -196,25 +233,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/commercial-vehicle-group-cvgi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Revenue hit $195.2 million with adjusted EBITDA guidance raised to $26M–$31M for full year.",
       "published_at": "2026-08-11T01:26:47+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "69daab382decb28f6e54c32b8aa08117bec18c13",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Sportradar (SRAD) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/sportradar-srad-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Revenue grew 19% as betting content surged, but U.S. softness tempered guidance.",
-      "published_at": "2026-08-11T01:26:46+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -232,7 +251,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
       "summary": "While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares.\nNearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online subscription process on Monday, fighting for just 9.7 million shares, its filings in the evening showed",
       "published_at": "2026-08-11T01:00:09+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -250,7 +269,7 @@
       "url": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
       "summary": "Uncertainty around Iran lifted oil prices, dragging down the major averages Monday. Tune in to CNBC to see Ravi Ahuja, CEO of Sony Pictures Entertainment.",
       "published_at": "2026-08-10T22:54:50+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -258,24 +277,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "ce2ab7de020c919f9355039adb805bda1c275079",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "This Nvidia change could spell good news for Micron",
-      "url": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
-      "summary": "An analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory.",
-      "published_at": "2026-08-10T22:42:00+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
     },
     {
       "id": "9becd719a31f9974b6a0440b5c16c2cae44f61f1",
@@ -286,7 +287,7 @@
       "url": "https://www.cnbc.com/video/2026/08/10/europe-tech-startups-scale-hermann-houser.html",
       "summary": "Arm co-founder Hermann Hauser explains why Europe struggles to scale startups into tech giants — and what AI, chips and quantum could change.",
       "published_at": "2026-08-10T22:00:01+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -310,7 +311,7 @@
       "url": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
       "summary": "The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.",
       "published_at": "2026-08-10T21:23:04+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -328,7 +329,7 @@
       "url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "published_at": "2026-08-10T19:09:56+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -352,7 +353,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
       "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say.\nCXMT, China’s biggest maker of dynamic random access memory (DRAM) chips used mostly in electronic products, joined the MSCI China All Shares Index on Monda",
       "published_at": "2026-08-10T05:00:21+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -360,6 +361,30 @@
       "tickers": [],
       "category": "rating",
       "score": 0.61
+    },
+    {
+      "id": "ff7d6c688b90f311ead75e2fa9354260cc36ea32",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "5-star analyst resets AMD stock price target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-amd-210300850.html",
+      "summary": "",
+      "published_at": "2026-08-09T21:03:00+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
     },
     {
       "id": "87ff7a5286e18463f7a29aaa1e58b542a3568e0b",
@@ -370,7 +395,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-shareholders-rejected-203304503.html",
       "summary": "",
       "published_at": "2026-08-09T20:33:04+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -386,54 +411,6 @@
       "score": 0.85
     },
     {
-      "id": "b8ee333f51e74996e5713ffa352a425cdb4182bc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Arista Networks vs. Arm: Comparing Revenue Growth Trajectories for These Artificial Intelligence Companies",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-arm-comparing-192901271.html",
-      "summary": "",
-      "published_at": "2026-08-09T19:29:01+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "85ee6a07e86a9145a61a85578da76de229921770",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/heres-why-iren-edge-neocloud-192000275.html",
-      "summary": "",
-      "published_at": "2026-08-09T19:20:00+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
       "id": "00a4913b27d6a3996b9cd8aeab236b3aa0709270",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -442,7 +419,7 @@
       "url": "https://www.scmp.com/economy/global-economy/article/3363328/how-chinas-brands-are-thriving-us-despite-rising-geopolitical-tensions?utm_source=rss_feed",
       "summary": "The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton.\nThe Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely gave them a second glance.\nA few shoppers said they vaguely recalled hearing the brand’s name somewh",
       "published_at": "2026-08-09T12:00:08+00:00",
-      "first_seen_at": "2026-08-11T07:04:23.123867+00:00",
+      "first_seen_at": "2026-08-11T08:29:49.399919+00:00",
       "market": "US",
       "markets": [
         "US"
