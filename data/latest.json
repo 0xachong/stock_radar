@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T19:38:17.930325+00:00",
+  "generated_at": "2026-08-12T20:41:22.012770+00:00",
   "window_hours": 48,
-  "total_items": 32,
+  "total_items": 35,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
     "US": 30,
-    "HK": 2
+    "HK": 5
   },
   "category_stats": [
     {
@@ -14,71 +14,107 @@
       "count": 11
     },
     {
-      "key": "macro",
-      "count": 7
-    },
-    {
       "key": "earnings",
-      "count": 6
+      "count": 8
     },
     {
-      "key": "rating",
-      "count": 3
+      "key": "macro",
+      "count": 4
     },
     {
       "key": "ipo",
-      "count": 3
+      "count": 4
     },
     {
-      "key": "product",
-      "count": 1
+      "key": "rating",
+      "count": 4
     },
     {
       "key": "guidance",
-      "count": 1
+      "count": 2
+    },
+    {
+      "key": "product",
+      "count": 2
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 10
     }
   ],
   "items": [
     {
-      "id": "3b143cf63d0bf5b7c278628b251fedc7c5d3578b",
+      "id": "7671e61cc419af67ecb638b3aa716602f4ecf934",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "S&P 500 rises after tame inflation data; AI-related shares jump: Live updates",
-      "url": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
-      "summary": "Investors are bracing for an important inflation report that could determine the near-term direction for interest rates.",
-      "published_at": "2026-08-12T19:31:19+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+      "published_at": "2026-08-12T20:28:48+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "9333acaa2ca41f3ad56da8306df0f1013f5c7567",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Coherent第四季度业绩亮眼、指引激进，股价却下跌5%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3514653",
+      "summary": "",
+      "published_at": "2026-08-12T20:17:56+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "4aa0bcae1dab086392bc41788ef14afc6a46a6f5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Chevron Just Paid Down $8.4 Billion in Debt. Should You Invest $500 in the Stock Right Now?",
+      "url": "https://www.fool.com/investing/2026/08/12/chevron-just-paid-down-84-billion-in-debt-should-y/?source=iedfolrf0000001",
+      "summary": "Chevron does everything at scale, including reducing its debt burden, and that's a good thing for investors.",
+      "published_at": "2026-08-12T20:05:00+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     },
     {
-      "id": "2217c603729bfbb0fcd5a409ba1cb887281a7686",
+      "id": "3f97d0cd7436e54a87b59792ea766902a7ec0c18",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "How to trade gold prices as Fed rate hike and inflation odds shifts",
+      "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
       "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
       "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
-      "published_at": "2026-08-12T19:22:32+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "published_at": "2026-08-12T19:57:25+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,6 +122,96 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
+    },
+    {
+      "id": "e847f4b9c0568dfd21ca9d1fa1144a0afd5c83ba",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Which Is the Better S&P 500 ETF, Vanguard's VOO or the iShares IVV?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/12/which-is-the-better-s-and-p-500-etf-vanguard-s-voo-or-the-ishares-ivv/?source=iedfolrf0000001",
+      "summary": "Both funds charge 0.03% annually and delivered identical 22.8% returns over the past year, but one holds significantly more assets.",
+      "published_at": "2026-08-12T19:39:22+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "5aeefd7ff74e77e29a89bbfeb5bbbac1141693c0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Shutterstock股价今日为何大涨？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3514615",
+      "summary": "",
+      "published_at": "2026-08-12T19:35:02+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.61
+    },
+    {
+      "id": "57f5d2b5a4158d9a547ab972f00b69637b752a31",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "A Remitly Director Cashed In Pre-IPO Options. Here's What to Know",
+      "url": "https://www.fool.com/coverage/filings/2026/08/12/a-remitly-director-cashed-in-pre-ipo-options-here-s-what-to-know/?source=iedfolrf0000001",
+      "summary": "Exercise of fully vested options at $0.64 per share reduced his direct holdings by half, though he retains 261,094 shares and 169,818 outstanding options.",
+      "published_at": "2026-08-12T19:25:31+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "caf59bd938334e0e5cc780235c58965fcc1c4d3f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Kontoor Brands Stock Jumped 13% This Morning",
+      "url": "https://www.fool.com/investing/2026/08/12/why-kontoor-brands-stock-jumped-13-this-morning/?source=iedfolrf0000001",
+      "summary": "Kontoor Brands raised its full-year guidance and announced a major buyback. The Wrangler and Helly Hansen parent is streamlining its brand portfolio.",
+      "published_at": "2026-08-12T19:25:05+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.61
+    },
+    {
+      "id": "d71ef904ca056de8a25f478e8b7136ad8fc83a36",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "图库网站Shutterstock推出Claude内容连接器后股价上涨4.1%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3514604",
+      "summary": "",
+      "published_at": "2026-08-12T19:23:17+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "product",
+      "score": 0.61
     },
     {
       "id": "ff14c36d19b2af60147638e1e0c55ef7cb3a6cb5",
@@ -96,7 +222,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3514603",
       "summary": "",
       "published_at": "2026-08-12T19:21:22+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -112,6 +238,30 @@
       "score": 1.0
     },
     {
+      "id": "3219e8070ccc4f1b2e343360130ff39d13a66812",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch",
+      "url": "https://www.fool.com/investing/2026/08/12/alphabet-amazon-meta-platforms-and-microsoft-this/?source=iedfolrf0000001",
+      "summary": "Microsoft is already relatively close to its median 12-month price target.",
+      "published_at": "2026-08-12T19:21:00+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
+    },
+    {
       "id": "9a059cb58efcfa305fb677815704d940112ecbdb",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -120,7 +270,7 @@
       "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
       "summary": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
       "published_at": "2026-08-12T19:15:54+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -128,48 +278,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "d7380f3cece8c1d43e9d94c9532d9236de38ec1d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "标普因低杠杆率与强劲增长上调新闻集团评级",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3514595",
-      "summary": "",
-      "published_at": "2026-08-12T19:08:18+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "d4887ef1f61415a36177d9edf0c043425f23e142",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电反弹遇阻斐波那契61.8%关键压力位：实时追踪",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509121",
-      "summary": "",
-      "published_at": "2026-08-12T19:07:32+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "410f5b3e8eb04f83c445cebe8c2fb498105fc90c",
@@ -180,7 +288,7 @@
       "url": "https://www.fool.com/investing/2026/08/12/why-spacex-stock-just-gained-11/?source=iedfolrf0000001",
       "summary": "SpaceX shares soared after Elon Musk revealed AI could soon become the company's biggest revenue driver. But with heavy spending and a lofty valuation, is the excitement justified?",
       "published_at": "2026-08-12T19:03:29+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -198,7 +306,7 @@
       "url": "https://www.fool.com/investing/2026/08/12/why-oracle-stock-just-jumped/?source=iedfolrf0000001",
       "summary": "Oracle shares rallied Thursday after two neoclouds posted blowout earnings, but does this AI tailwind justify the stock's risks?",
       "published_at": "2026-08-12T18:39:39+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -216,7 +324,7 @@
       "url": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
       "summary": "Investors are concerned that Alphabet faces a fresh threat from Nvidia’s plans to help fund the AI buildout alongside major Wall Street players.",
       "published_at": "2026-08-12T18:19:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -234,7 +342,7 @@
       "url": "https://www.fool.com/investing/2026/08/12/spacex-slumped-on-its-debut-here-is-where-history/?source=iedfolrf0000001",
       "summary": "The hottest IPO of 2026 fizzled out over the past two months.",
       "published_at": "2026-08-12T18:10:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -252,7 +360,7 @@
       "url": "https://www.fool.com/investing/2026/08/12/sp-500-stays-near-records-after-mild-july-inflatio/?source=iedfolrf0000001",
       "summary": "July inflation came in exactly as expected, and stocks rallied for about half an hour. Here's what actually moved the market after that.",
       "published_at": "2026-08-12T17:33:14+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -270,7 +378,7 @@
       "url": "https://www.fool.com/investing/2026/08/12/coreweave-and-nebius-group-deliver-earnings-shocker-here-s-what-it-signals-about-the-future-of-ai/?source=iedfolrf0000001",
       "summary": "Investors have been concerned about a potential slowdown in AI adoption, but results from these neocloud operators suggest otherwise.",
       "published_at": "2026-08-12T17:25:05+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -278,6 +386,42 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
+    },
+    {
+      "id": "8fadf4b1faf928865fcfbc17c3f25d5d526a074c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Astec Industries (ASTE) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/astec-industries-aste-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Revenue surged 23.6% as backlog hit $601.1 million, though guidance was trimmed.",
+      "published_at": "2026-08-12T17:24:45+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "582b15eaee4567fc70dbb873f1c591ca0904c345",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Insulet (PODD) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/insulet-podd-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Type 2 retention challenges force management to trim full-year outlook despite revenue beat.",
+      "published_at": "2026-08-12T17:23:29+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "a593ad3f973f914eeae8fb8370091fd894e828aa",
@@ -288,7 +432,7 @@
       "url": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
       "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
       "published_at": "2026-08-12T16:44:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -296,119 +440,17 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "692cfb995db594c29516b0e5f138ed3241dd9eec",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Michael Burry Just Shorted Palantir Again -- He Thinks It's Headed Below $1",
-      "url": "https://www.fool.com/investing/2026/08/12/michael-burry-just-shorted-palantir-again-he-think/?source=iedfolrf0000001",
-      "summary": "\"Big Short\" investor Michael Burry thinks Palantir stock is worthless.",
-      "published_at": "2026-08-12T16:25:07+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "74e882b1d30da7d8885973be975bb84e97695b9b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: Palantir Stock Will Trade At $300 in 2027. Here's the Math",
-      "url": "https://www.fool.com/investing/2026/08/12/prediction-palantir-stock-will-trade-at-300-in-202/?source=iedfolrf0000001",
-      "summary": "Palantir's newfound momentum seems sustainable, driven by accelerating growth and a solid revenue pipeline.",
-      "published_at": "2026-08-12T16:23:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "a62116376c05b9a8854b3a4f516e126fa1fd4f73",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "If I Could Invest $1,000 in Just 1 ETF in August, I'd Pick This Clear Standout Over the Vanguard S&P 500 ETF (VOO)",
-      "url": "https://www.fool.com/investing/2026/08/12/if-i-could-invest-1000-in-just-1-etf-in-august-id/?source=iedfolrf0000001",
-      "summary": "This ETF offers investors a rare balance of growth, value, and income stocks.",
-      "published_at": "2026-08-12T15:45:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "6e751813b5d1d0d8543a35b430c30a779424587e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "July Inflation Data Came in as Expected, Lowering the Odds of a Fed Hike in September Yet Again",
-      "url": "https://www.fool.com/investing/2026/08/12/july-inflation-data-came-in-as-expected-lowering-the-odds-of-a-fed-hike-in-september-yet-again/?source=iedfolrf0000001",
-      "summary": "The Consumer Price Index rose 0.1% in July, while core CPI rose 0.2%, in line with economists' estimates.",
-      "published_at": "2026-08-12T15:35:01+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "fd0aa16e9a6f87a73b806bf29e17f0b94c621643",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Super Micro Computer Stock Popped Today",
-      "url": "https://www.fool.com/investing/2026/08/12/why-super-micro-computer-stock-popped-today/?source=iedfolrf0000001",
-      "summary": "Wall Street expects Super Micro to keep burning cash for another year. Should you buy it anyway?",
-      "published_at": "2026-08-12T15:31:48+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "a11b29338eb56d38620f8c7d96a16b7c1bab7d82",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Markets",
       "title": "AI’s costly build-out complicates the Fed’s inflation fight",
       "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
       "published_at": "2026-08-12T15:23:12+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -426,7 +468,7 @@
       "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
       "summary": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
       "published_at": "2026-08-12T14:20:10+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -450,7 +492,7 @@
       "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
       "summary": "The consumer price index is expected to show only a modest increase for July.",
       "published_at": "2026-08-12T14:04:06+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -468,25 +510,7 @@
       "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
       "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
       "published_at": "2026-08-12T13:31:54+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "124442e1fcd7e4267b602a7833d727adfd5486eb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Intuitive Surgical (ISRG) Stock Has Plunged 33% in 2026. Here's Why One Fund Manager Remains Bullish -- and Why I Do, Too.",
-      "url": "https://www.fool.com/investing/2026/08/12/intuitive-surgical-isrg-has-plunged-why-one-fund/?source=iedfolrf0000001",
-      "summary": "The stock may be down sharply, but don't count it out -- and the lower price makes it more attractive.",
-      "published_at": "2026-08-12T13:00:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -504,7 +528,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3363780/blackout-chinas-terracotta-army-museum-triggers-nationwide-cultural-safety-review?utm_source=rss_feed",
       "summary": "China’s National Cultural Heritage Administration is putting museums nationwide on notice to strengthen emergency management during the summer peak season, following a series of operational failures, including a sudden power outage in Xian’s Terracotta Warriors museum last week.\nAccording to the notice published on Monday, there have been issues such as blackouts, air conditioning failures and sev",
       "published_at": "2026-08-12T11:00:20+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -528,7 +552,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363733/fed-policy-outweighs-geopolitical-risks-china-purchases-gold-forecasts-retreat-survey?utm_source=rss_feed",
       "summary": "The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey.\nAnalysts cut their price projections for 2026 compared with six months ago, said the London Bullion Market Association (LBMA), the world’s authority for precious",
       "published_at": "2026-08-12T08:00:14+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -546,7 +570,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363741/hong-kong-seeks-tech-exposure-take-nasdaq-amid-beijings-rising-ai-dominance?utm_source=rss_feed",
       "summary": "Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq.\nSeveral mainland Chinese hardware tech companies – particularly producers of the optical transceivers used in AI data centres – are lining up for stock offerings in the cit",
       "published_at": "2026-08-12T06:00:38+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -564,7 +588,7 @@
       "url": "https://www.scmp.com/business/article/3363634/hong-kong-property-recovery-faces-new-risk-china-widens-offshore-tax-net?utm_source=rss_feed",
       "summary": "The recovery of Hong Kong’s property market could face a fresh test if Beijing’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing demand from mainland China and adding pressure to decentralised office markets, according to analysts.\nThe immediate issue is a reported 20 per cent personal income tax on certain returns earned by mainland ",
       "published_at": "2026-08-11T23:51:55+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -574,51 +598,69 @@
       "score": 0.52
     },
     {
-      "id": "65cce8b63ba53edf0aa62d14dcd562d5ed073ae2",
+      "id": "307f861c805274811d5a72ca7da44e84061b63b8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "‘My primary concern is inflation’: Fed’s Schmid pushes rates higher as mortgages hit 6.69%. Make high rates work for you",
-      "url": "https://finance.yahoo.com/economy/policy/articles/primary-concern-inflation-fed-schmid-110500327.html",
+      "title": "Is Wall Street Bullish or Bearish on Datadog Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-datadog-122206564.html",
       "summary": "",
-      "published_at": "2026-08-11T11:05:00+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "published_at": "2026-08-11T12:22:06+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "score": 0.52
     },
     {
-      "id": "6c8e50004d6e650175c63eb51d5c15d2196dfd9e",
+      "id": "c52ccf2da479e23011dd4d7f5def4bcde1bd51e3",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "YPF shares gain 4% after Q2 earnings and revenue beat expectations",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ypf-shares-gain-4-q2-104036130.html",
+      "title": "Yum! Brands Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-stock-wall-street-122055597.html",
       "summary": "",
-      "published_at": "2026-08-11T10:40:36+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "published_at": "2026-08-11T12:20:55+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.61
+      "category": "company",
+      "score": 0.52
     },
     {
-      "id": "3248a02e57e7c88c939ee6463d0c1dfe6831d0c0",
+      "id": "c67f1172c130a65156fcdf6b65c97874ae13b56c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Consolidated Edison Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-consolidated-edison-102139930.html",
+      "title": "Are Wall Street Analysts Bullish on Cigna Group Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-cigna-121605571.html",
       "summary": "",
-      "published_at": "2026-08-11T10:21:39+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "published_at": "2026-08-11T12:16:05+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "269f608ad239fb7b63a02f1197a030eccfae9b7b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "What Are Wall Street Analysts' Target Price for Lennox Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121302165.html",
+      "summary": "",
+      "published_at": "2026-08-11T12:13:02+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -636,7 +678,7 @@
       "url": "https://www.scmp.com/plus/tech/tech-trends/article/3363659/unitree-ipo-deluge-masks-humanoid-robots-limitations?utm_source=rss_feed",
       "summary": "Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban.\nThe 6.1 billion yuan (US$900 million) share sale drew 9.8 million orders from individual investors, the robot maker said in a statement on Monday. Just 0.018 per cent of orders wi",
       "published_at": "2026-08-11T09:05:41+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -654,7 +696,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
       "summary": "While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares.\nNearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online subscription process on Monday, fighting for just 9.7 million shares, its filings in the evening showed",
       "published_at": "2026-08-11T01:00:09+00:00",
-      "first_seen_at": "2026-08-12T19:38:17.930325+00:00",
+      "first_seen_at": "2026-08-12T20:41:22.012770+00:00",
       "market": "HK",
       "markets": [
         "HK"
