@@ -1,36 +1,40 @@
 {
-  "generated_at": "2026-08-13T20:40:02.016140+00:00",
+  "generated_at": "2026-08-13T21:42:30.816398+00:00",
   "window_hours": 48,
-  "total_items": 25,
+  "total_items": 37,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
-    "CN": 1
+    "US": 33,
+    "HK": 4
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 8
+      "count": 15
     },
     {
       "key": "company",
-      "count": 7
-    },
-    {
-      "key": "rating",
-      "count": 5
+      "count": 10
     },
     {
       "key": "macro",
-      "count": 2
+      "count": 6
     },
     {
-      "key": "guidance",
-      "count": 2
+      "key": "rating",
+      "count": 3
+    },
+    {
+      "key": "ma",
+      "count": 1
     },
     {
       "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -38,25 +42,25 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 10
+      "count": 12
     }
   ],
   "items": [
     {
-      "id": "c0b8aab31d872eee8237679c2494757b6e819199",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国股市上涨；截至收盘道琼斯工业平均指数上涨0.13%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3517311",
-      "summary": "",
-      "published_at": "2026-08-13T20:31:28+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "id": "94deb89fc43555fc2e3e6758a708f8467b11922b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Reddit stock jumps on inclusion in S&P 500",
+      "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+      "summary": "Reddit shares jumped on the company's inclusion in the S&amp;P 500.",
+      "published_at": "2026-08-13T21:38:59+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -66,15 +70,69 @@
       "score": 0.64
     },
     {
-      "id": "bd6b92b35cacbcc9a6e6df855ed2544e00786125",
+      "id": "14f6b5bf35c681eefc5e5993436f3920f39a0a73",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
+      "url": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
+      "summary": "Shares of the HR software company rose 18% on Thursday on reports of a potential private-equity acquisition.",
+      "published_at": "2026-08-13T21:34:00+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.61
+    },
+    {
+      "id": "77d257148d3f2016ddbb22d2ee2aa064d923af89",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Mamdani's NYC pied-à-terre tax can continue rollout during court appeal",
+      "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
+      "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
+      "published_at": "2026-08-13T21:31:44+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "a3c5565c873764b6577041b1a3a3038326c8533b",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "加拿大股市上涨；截至收盘加拿大多伦多S&P/TSX 综合指数上涨0.26%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3517310",
+      "title": "标普因AI冲击与现金流疲弱下调Teads评级",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3517422",
       "summary": "",
-      "published_at": "2026-08-13T20:30:48+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "published_at": "2026-08-13T21:27:40+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "426518d9f00de7aa63af7bf809a8b8c85fcaf1af",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Reddit将于8月18日加入标普500指数，股价大涨逾8.8%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3517414",
+      "summary": "",
+      "published_at": "2026-08-13T21:22:59+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -84,22 +142,195 @@
       "score": 0.64
     },
     {
-      "id": "834b6805ab8cc70afc409c740b23cbccb5b2ef82",
+      "id": "dbda036e5f3da91192232e0de0f324faec1a6318",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Aug. 13: Stocks Rise as Inflation Cools, Workday Soars 18%",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-stocks-rise-as-inflation-cools-workday-soars-18/?source=iedfolrf0000001",
+      "summary": "Today, Aug. 13, 2026, softer wholesale and consumer inflation figures ease Fed pressure and boost markets.",
+      "published_at": "2026-08-13T21:16:37+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "1ec7a737df8f70fe6db992ca33b6b64b35273ce0",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "巴西股市收低；截至收盘巴西IBOVESPA股指下跌0.23%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3517309",
+      "title": "QXO股价今日盘后上涨，原因何在？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3517376",
       "summary": "",
-      "published_at": "2026-08-13T20:30:16+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
-      "market": "CN",
+      "published_at": "2026-08-13T21:05:11+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "HK",
       "markets": [
-        "CN"
+        "HK"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.61
+    },
+    {
+      "id": "8527a7581acb95f162952906d00fdee1937dd151",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Aug. 13: Cellebrite Shares Plummet 29% After Missing Earnings, Cutting 2026 Revenue Guidance",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-cellebrite-shares-plummet-29-after-missing-earnings-cutting-2026-revenue-guidance/?source=iedfolrf0000001",
+      "summary": "On Aug. 13, 2026, the digital forensics firm reported delays in large transactions and heightened demand for cloud and AI procurement, prompting a leadership change.",
+      "published_at": "2026-08-13T21:02:02+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "9b7169f532cd78b91b330f8fc66b0215d5a71d71",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Heartbeam股价盘后下滑，二季度业绩逊于预期",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3517372",
+      "summary": "",
+      "published_at": "2026-08-13T21:01:30+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "1f8c81692c73d4a91a5cf189f627ae3c81a5d9ae",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Aug. 13: Cisco Falls on Margin Concerns Despite Record Revenue and AI Demand",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-cisco-falls-on-margin-concerns-despite-record-revenue-and-ai-demand/?source=iedfolrf0000001",
+      "summary": "Today, Aug. 13, 2026, the networking giant's stock tumbled 8.4% after earnings, as investors weighed hyperscaler AI orders against gross margin headwinds.",
+      "published_at": "2026-08-13T20:58:32+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "65925f88313f1c2c1cfb8869760da19238e8443b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
+      "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
+      "summary": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
+      "published_at": "2026-08-13T20:57:31+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "0ecb02dda2bf83fcc4bd22dac688d704acf17abf",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Globant股价盘后暴跌逾13%，业绩未达预期且三季度指引令市场失望",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3517363",
+      "summary": "",
+      "published_at": "2026-08-13T20:56:59+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "9948ca6cbada3af1a62a006f76f277b151bd9378",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "应用材料股价盘后下滑，强劲业绩为何难提振市场？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3517362",
+      "summary": "",
+      "published_at": "2026-08-13T20:56:51+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "619a54063b452c5a8bb7ed85ceb1a15f0374f672",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Coinbase CEO Brian Armstrong Makes a Strong Case for Global Crypto Adoption. Here's What That Could Mean For Your Crypto Portfolio.",
+      "url": "https://www.fool.com/investing/2026/08/13/coinbase-ceo-brian-armstrong-makes-a-strong-case-f/?source=iedfolrf0000001",
+      "summary": "Armstrong is bullish on stablecoins, DeFi applications, and tokenized stocks.",
+      "published_at": "2026-08-13T20:30:00+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        },
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "d8ee93d89210baa9923f5c684a55de03bd789304",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Which Small-Cap ETF Is the Better Buy: iShares' Growth-Focused IWO or Invesco's Revenue-Weighted RWJ?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/13/which-small-cap-etf-is-the-better-buy-ishares-growth-focused-iwo-or-invesco-s-revenue-weighted-rwj/?source=iedfolrf0000001",
+      "summary": "Small-cap stocks are surging, but how you own them matters more than most investors realize.",
+      "published_at": "2026-08-13T20:19:01+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "33e572fea2fcf7e9e56a06eb0edc1ef4a73e391a",
@@ -110,7 +341,7 @@
       "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
       "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
       "published_at": "2026-08-13T19:52:00+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -118,48 +349,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "f5d2b647108d9e96465a7201135b98b289872403",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电逼近$434.91关键阻力超买警告：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3509121",
-      "summary": "",
-      "published_at": "2026-08-13T19:07:09+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "2429646ce3d5a0db9a36caac373d748eebc89b33",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
-      "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-      "summary": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
-      "published_at": "2026-08-13T18:17:37+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "09c330c5bf7a740a15339c20d44e8bd95ca948b6",
@@ -170,7 +359,7 @@
       "url": "https://www.fool.com/investing/2026/08/13/why-fermi-stock-is-down-10-today/?source=iedfolrf0000001",
       "summary": "Fermi celebrated new customers and financing in Q2. Investors focused on the missing revenue instead.",
       "published_at": "2026-08-13T18:15:56+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -188,7 +377,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-13T17:18:20+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -206,7 +395,7 @@
       "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
       "published_at": "2026-08-13T15:59:16+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -224,7 +413,7 @@
       "url": "https://www.scmp.com/business/companies/article/3363947/sf-reits-distributable-income-falls-73-first-half-occupancy-holds-steady?utm_source=rss_feed",
       "summary": "SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year.\nThe firm – which is controlled by the Chinese logistics giant SF Holding – recorded total revenue of HK$219.3 million for the first six months of 2026, down 4.6 per cent from a ",
       "published_at": "2026-08-13T13:16:18+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -242,7 +431,7 @@
       "url": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
       "summary": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
       "published_at": "2026-08-13T12:15:02+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,7 +449,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3363931/jdcoms-second-quarter-profit-climbs-15-food-delivery-losses-narrow?utm_source=rss_feed",
       "summary": "Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new business lines.\nNet revenue for the three months ended June 30 fell 2.9 per cent to 346.4 billion yuan,",
       "published_at": "2026-08-13T11:11:07+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -284,7 +473,7 @@
       "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
       "summary": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
       "published_at": "2026-08-12T22:54:18+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,7 +491,109 @@
       "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
       "summary": "The consumer price index is expected to show only a modest increase for July.",
       "published_at": "2026-08-12T14:04:06+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "0aeafcaf11d4b4d73b0b22bf61c178a743fa7d96",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
+      "url": "https://www.investors.com/news/cpi-inflation-july-federal-reserve-rate-hike-apple-sp-500/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-12T13:45:11+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.76
+    },
+    {
+      "id": "c3baa4860809d61c6e7889711a3cea992a1c33c7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html",
+      "summary": "",
+      "published_at": "2026-08-12T13:38:46+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "503430c76d74632aca8f1c7fc3cfb6b69a2cfe79",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Are Wall Street Analysts Bullish on ONEOK Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-oneok-133834214.html",
+      "summary": "",
+      "published_at": "2026-08-12T13:38:34+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "723d70ca63e8921ef344842e53ea2915d5cad5ca",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jefferies' Latest Warning on Palantir Sends Clear Message: Stay Cautious on PLTR Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-latest-warning-palantir-sends-133832548.html",
+      "summary": "",
+      "published_at": "2026-08-12T13:38:32+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "732817f7daebac10b31a90bd464922738c7aabd4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nasdaq Rallies After In-Line Inflation Report",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/nasdaq-rallies-after-in-line-inflation-report-YchFJvXxGwoE5wmiiPhJ?siteid=yhoof2&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-12T13:34:19+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -320,7 +611,7 @@
       "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
       "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
       "published_at": "2026-08-12T13:31:54+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -330,112 +621,64 @@
       "score": 0.52
     },
     {
-      "id": "90393534db515459150109e42043e1206493f06e",
+      "id": "897c604e6e23a945657bee105383574f02c7f266",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121901530.html",
+      "title": "Marvell Technology (MRVL) Stock Might Offer a Quick Bounce Before Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-stock-might-131502420.html",
       "summary": "",
-      "published_at": "2026-08-12T12:19:01+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "published_at": "2026-08-12T13:15:02+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "8b97f28ce7917e1338edb87b8d6c0fac7f1a1768",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Union Pacific Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-union-pacific-121153984.html",
-      "summary": "",
-      "published_at": "2026-08-12T12:11:53+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
-      "market": "US",
-      "markets": [
-        "US"
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
       ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
+      "category": "earnings",
+      "score": 1.0
     },
     {
-      "id": "42239f06e70aa689e909a23ebbc37b0fab172c82",
+      "id": "42a0a0f1a20b70e5ed8e1677955dafb262266a89",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
+      "title": "Quantinuum Rises Amid First Post-IPO Earnings Report, Oracle System Sale",
+      "url": "https://www.investors.com/news/technology/quantinuum-stock-qnt-quantinuum-earnings-q22026/?src=A00220&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-08-12T12:09:21+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "published_at": "2026-08-12T13:10:30+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.76
+      "score": 0.61
     },
     {
-      "id": "3b6b7c7340456d05f02b1d118c5b31f4a14e335b",
+      "id": "ae47bd3c874ea7b1e0aa1abb6a2bfbc57f66584a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Ball Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ball-stock-outlook-wall-street-120410229.html",
+      "title": "Is Wall Street Bullish or Bearish on Edwards Lifesciences Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-edwards-130114969.html",
       "summary": "",
-      "published_at": "2026-08-12T12:04:10+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "published_at": "2026-08-12T13:01:14+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "guidance",
-      "score": 0.64
-    },
-    {
-      "id": "798b1d7b9d1369bb95dde41143b72b8a8fa966a4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting the Bank of New York Mellon Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-bank-115847601.html",
-      "summary": "",
-      "published_at": "2026-08-12T11:58:47+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "17156d0473dd84dc5df42ad479bdc935f72f4181",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Teradyne Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-teradyne-stock-115011724.html",
-      "summary": "",
-      "published_at": "2026-08-12T11:50:11+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "c9b51cdde14caca06b407156556bed074a37c131",
@@ -446,7 +689,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3363780/blackout-chinas-terracotta-army-museum-triggers-nationwide-cultural-safety-review?utm_source=rss_feed",
       "summary": "China’s National Cultural Heritage Administration is putting museums nationwide on notice to strengthen emergency management during the summer peak season, following a series of operational failures, including a sudden power outage in Xian’s Terracotta Warriors museum last week.\nAccording to the notice published on Monday, there have been issues such as blackouts, air conditioning failures and sev",
       "published_at": "2026-08-12T11:00:20+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -470,7 +713,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363733/fed-policy-outweighs-geopolitical-risks-china-purchases-gold-forecasts-retreat-survey?utm_source=rss_feed",
       "summary": "The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey.\nAnalysts cut their price projections for 2026 compared with six months ago, said the London Bullion Market Association (LBMA), the world’s authority for precious",
       "published_at": "2026-08-12T08:00:14+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -488,7 +731,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363741/hong-kong-seeks-tech-exposure-take-nasdaq-amid-beijings-rising-ai-dominance?utm_source=rss_feed",
       "summary": "Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq.\nSeveral mainland Chinese hardware tech companies – particularly producers of the optical transceivers used in AI data centres – are lining up for stock offerings in the cit",
       "published_at": "2026-08-12T06:00:38+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -506,7 +749,7 @@
       "url": "https://www.scmp.com/business/article/3363634/hong-kong-property-recovery-faces-new-risk-china-widens-offshore-tax-net?utm_source=rss_feed",
       "summary": "The recovery of Hong Kong’s property market could face a fresh test if Beijing’s expanding crackdown on offshore wealth extends beyond insurance returns to property income, potentially curbing demand from mainland China and adding pressure to decentralised office markets, according to analysts.\nThe immediate issue is a reported 20 per cent personal income tax on certain returns earned by mainland ",
       "published_at": "2026-08-11T23:51:55+00:00",
-      "first_seen_at": "2026-08-13T20:40:02.016140+00:00",
+      "first_seen_at": "2026-08-13T21:42:30.816398+00:00",
       "market": "US",
       "markets": [
         "US"
