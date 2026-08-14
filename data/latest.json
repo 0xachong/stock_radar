@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-14T11:03:04.799983+00:00",
+  "generated_at": "2026-08-14T12:07:04.552008+00:00",
   "window_hours": 48,
-  "total_items": 30,
+  "total_items": 28,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 29,
-    "HK": 1
+    "US": 26,
+    "HK": 2
   },
   "category_stats": [
     {
-      "key": "earnings",
-      "count": 12
+      "key": "company",
+      "count": 8
     },
     {
-      "key": "company",
+      "key": "earnings",
       "count": 8
     },
     {
@@ -26,11 +26,19 @@
       "count": 3
     },
     {
+      "key": "guidance",
+      "count": 1
+    },
+    {
       "key": "capital",
       "count": 1
     },
     {
       "key": "ipo",
+      "count": 1
+    },
+    {
+      "key": "policy",
       "count": 1
     }
   ],
@@ -38,50 +46,98 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 20
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "460a5b75fe18e09dde3fb9f4c3e1dd358479a16b",
+      "id": "31ad2a3f2b7462a9ea073da60dd732f3d3fc558d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates",
+      "title": "S&P 500 futures are little changed after benchmark sets record above 7,800, heads for winning week: Live updates",
       "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
       "summary": "Thursday's gain put the S&amp;P 500 and Nasdaq Composite on pace for their third straight weekly advances.",
-      "published_at": "2026-08-14T11:02:41+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "published_at": "2026-08-14T11:54:08+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.52
     },
     {
-      "id": "b5255a63f90d26d484fa5c1f206a4ed42347b38b",
+      "id": "2921c8c60ef04c77a76f8e05dc2f60dccdd093ed",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "弘毅文化集团(00419)发盈警 预计中期亏损少于1000万港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3518622",
+      "title": "美光科技股价今日为何大涨？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3518817",
       "summary": "",
-      "published_at": "2026-08-14T10:35:15+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "published_at": "2026-08-14T11:37:30+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "1b7ac3764dad361e86061bdc541b422cbc540ca5",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "金沙中国有限公司(01928)发布中期业绩，股东应占利润3.98亿美元 同比减少3.63%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3518799",
+      "summary": "",
+      "published_at": "2026-08-14T11:35:17+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "01928",
+          "name": "金沙中国",
+          "market": "HK"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "8781a4806388ed32a74bb2758d3c7da07eee1fb4",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "FUTURE BRIGHT(00703)预期中期股东应占未经审核亏损约170万港元 同比盈转亏",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3518796",
+      "summary": "",
+      "published_at": "2026-08-14T11:35:16+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.52
+      "category": "guidance",
+      "score": 0.64
     },
     {
       "id": "a030c9e366df95318c10843d7ffde2ad50ab05c1",
@@ -92,7 +148,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/ionis-stock-has-plunged-30-is-it-time-to-buy-the-b/?source=iedfolrf0000001",
       "summary": "A drug that didn't meet expectations in a trial is to blame.",
       "published_at": "2026-08-14T10:15:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -110,7 +166,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3364054/chinese-museums-left-red-faced-after-caption-errors-mar-communist-party-themed-displays?utm_source=rss_feed",
       "summary": "Chinese museums have been criticised for spelling errors in their information boards, including one in Zhejiang province where one of the captions for an exhibition about the Long March turned the Red Army into a “red car”.\nSuch mistakes are especially embarrassing given the high importance the authorities attach to Communist Party history and come amid an ongoing push to promote “red tourism” or ",
       "published_at": "2026-08-14T09:22:03+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -134,7 +190,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/warren-buffett-abel-drop-bombshell-wall-st-today/?source=iedfolrf0000001",
       "summary": "In a matter of hours, we're going to know exactly which stocks Berkshire Hathaway's new boss bought and sold in the second quarter.",
       "published_at": "2026-08-14T09:06:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -152,7 +208,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/spacex-stock-climbs-back-above-its-135-ipo-price-h/?source=iedfolrf0000001",
       "summary": "Even after its recent rally, there could be more meaningful gains ahead for SpaceX.",
       "published_at": "2026-08-14T09:05:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -170,7 +226,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/should-you-buy-salesforce-stock-before-the-huge-in/?source=iedfolrf0000001",
       "summary": "The company is scheduled to report quarterly financial results that could have meaningful implications.",
       "published_at": "2026-08-14T08:15:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -194,7 +250,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/why-under-armour-stock-was-underwater-this-week/?source=iedfolrf0000001",
       "summary": "An analyst downgraded her rating on the apparel company.",
       "published_at": "2026-08-14T08:07:49+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -218,7 +274,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/lower-odds-fed-rate-hike-sinister-inflation-metric/?source=iedfolrf0000001",
       "summary": "Fed Chair Kevin Warsh and the Federal Open Market Committee (FOMC) have a \"core\" dilemma.",
       "published_at": "2026-08-14T08:06:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -236,7 +292,7 @@
       "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
       "summary": "While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagship companies owned by the family of Hong Kong billionaire Li Ka-shing.\nUnitree’s retail subscription",
       "published_at": "2026-08-14T08:00:07+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,24 +300,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
-    },
-    {
-      "id": "57886ab73fa821a35963708ebb9c581c40665e60",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Atlanticus (ATLC) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/atlanticus-atlc-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Revenue surged 89% to $744.3 million on Mercury acquisition and portfolio growth.",
-      "published_at": "2026-08-14T06:38:58+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "6efaccdd8212b87d7bc7318fc3290834dc918c2e",
@@ -272,7 +310,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/mp-materials-vs-the-metals-company-which-critical/?source=iedfolrf0000001",
       "summary": "Commercial success still separates these two companies.",
       "published_at": "2026-08-14T06:05:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -288,48 +326,6 @@
       "score": 0.97
     },
     {
-      "id": "9ea5d782ee916e89904647fad702503c57495dfd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Wheaton Precious Metals (WPM) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/wheaton-precious-metals-wpm-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Record revenue and earnings powered by higher commodity prices and Antamina deal.",
-      "published_at": "2026-08-14T04:54:14+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "36f0dbbc952bef3b9ee83cc26244adb718ed169a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Serve Robotics (SERV) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/serve-robotics-serv-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Revenue guidance slashed as Uber partnership faces likely termination in 2027.",
-      "published_at": "2026-08-14T04:39:40+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "7d3832c74a8c260ed9e91cd7e6d6eaca87012583",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -338,7 +334,7 @@
       "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
       "summary": "After past snubs, social-media site Reddit has landed a spot on the S&amp;P 500, sending shares on an after-hours rally Thursday.",
       "published_at": "2026-08-14T00:19:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -356,7 +352,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363937/transit-giant-crrc-sets-down-marker-hong-kong-sales-pitch-overseas-cities?utm_source=rss_feed",
       "summary": "Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity.\nExecutives from the world-leading railway vehicle manufacturer said the company aims to use the former airport s",
       "published_at": "2026-08-14T00:00:15+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -364,6 +360,48 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "5c83a812a96e43ded2df54bb8400506e11910e8b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stablecoin Issuer Circle Now Runs a Bank (of Sorts). Does That Matter for Circle Stock?",
+      "url": "https://www.fool.com/investing/2026/08/13/stablecoin-issuer-circle-now-runs-a-bank-of-sorts/?source=iedfolrf0000001",
+      "summary": "Circle now runs a federally regulated bank that takes no deposits and makes no loans. Here's what it actually does, and what would make it matter.",
+      "published_at": "2026-08-13T23:53:00+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.64
+    },
+    {
+      "id": "de5a5e70f5738a4a6952aad84b98f96ca1a660fd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "1 Jaw-Dropping Metric That Shows Why Amazon Is a Force to Be Reckoned With in the AI Arms Race",
+      "url": "https://www.fool.com/investing/2026/08/13/1-jaw-dropping-metric-that-shows-amazon-is-a-force/?source=iedfolrf0000001",
+      "summary": "AWS' growth rate is accelerating.",
+      "published_at": "2026-08-13T23:26:00+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.85
     },
     {
       "id": "94deb89fc43555fc2e3e6758a708f8467b11922b",
@@ -374,7 +412,7 @@
       "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
       "summary": "Reddit shares jumped on the company's inclusion in the S&amp;P 500.",
       "published_at": "2026-08-13T23:04:21+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -392,7 +430,7 @@
       "url": "https://www.cnbc.com/2026/08/13/jim-cramer-says-ciscos-post-earnings-plunge-is-a-buying-opportunity-heres-why.html",
       "summary": "CNBC’s Jim Cramer said investors shouldn’t automatically sell a stock that falls on weak earnings guidance.",
       "published_at": "2026-08-13T22:56:18+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -400,72 +438,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "3cc63b282e812a51490df2a129faf55c9ce54d4f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-      "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-      "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
-      "published_at": "2026-08-13T22:09:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "dfa6b1af695841e49f5052d6b54afc3fc2bfc989",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-      "url": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-      "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
-      "published_at": "2026-08-13T22:07:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "33e572fea2fcf7e9e56a06eb0edc1ef4a73e391a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-      "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
-      "published_at": "2026-08-13T22:05:00+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "77d257148d3f2016ddbb22d2ee2aa064d923af89",
@@ -476,7 +448,7 @@
       "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
       "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
       "published_at": "2026-08-13T21:31:44+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -494,7 +466,7 @@
       "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
       "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
       "published_at": "2026-08-13T19:59:46+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -512,7 +484,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-13T17:18:20+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -530,7 +502,7 @@
       "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
       "published_at": "2026-08-13T15:59:16+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -548,7 +520,7 @@
       "url": "https://www.scmp.com/business/companies/article/3363947/sf-reits-distributable-income-falls-73-first-half-occupancy-holds-steady?utm_source=rss_feed",
       "summary": "SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year.\nThe firm – which is controlled by the Chinese logistics giant SF Holding – recorded total revenue of HK$219.3 million for the first six months of 2026, down 4.6 per cent from a ",
       "published_at": "2026-08-13T13:16:18+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -566,7 +538,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3363931/jdcoms-second-quarter-profit-climbs-15-food-delivery-losses-narrow?utm_source=rss_feed",
       "summary": "Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new business lines.\nNet revenue for the three months ended June 30 fell 2.9 per cent to 346.4 billion yuan,",
       "published_at": "2026-08-13T11:11:07+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -590,7 +562,7 @@
       "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
       "summary": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
       "published_at": "2026-08-12T22:54:18+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -608,7 +580,7 @@
       "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
       "summary": "The consumer price index is expected to show only a modest increase for July.",
       "published_at": "2026-08-12T14:04:06+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -626,7 +598,7 @@
       "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
       "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
       "published_at": "2026-08-12T13:31:54+00:00",
-      "first_seen_at": "2026-08-14T11:03:04.799983+00:00",
+      "first_seen_at": "2026-08-14T12:07:04.552008+00:00",
       "market": "US",
       "markets": [
         "US"
