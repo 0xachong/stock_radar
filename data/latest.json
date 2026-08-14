@@ -1,40 +1,36 @@
 {
-  "generated_at": "2026-08-14T22:49:18.371449+00:00",
+  "generated_at": "2026-08-14T23:19:49.044420+00:00",
   "window_hours": 48,
-  "total_items": 34,
+  "total_items": 28,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 2,
-    "US": 33
+    "US": 28,
+    "HK": 2
   },
   "category_stats": [
     {
-      "key": "earnings",
-      "count": 10
-    },
-    {
       "key": "company",
       "count": 9
+    },
+    {
+      "key": "earnings",
+      "count": 8
     },
     {
       "key": "macro",
       "count": 5
     },
     {
-      "key": "capital",
-      "count": 4
-    },
-    {
       "key": "rating",
       "count": 3
     },
     {
-      "key": "guidance",
+      "key": "capital",
       "count": 2
     },
     {
-      "key": "ipo",
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -42,33 +38,15 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 22
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 10
+      "count": 6
     }
   ],
   "items": [
-    {
-      "id": "19bd88d602953cae35645816f9a2794fbb8d4111",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Anthropic季度营收突破115亿美元，积极筹备IPO上市",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3519567",
-      "summary": "",
-      "published_at": "2026-08-14T21:39:38+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
-    },
     {
       "id": "3e249b871c2b69c910c1d55c96f0bb27b39acf37",
       "site_id": "us_global",
@@ -78,7 +56,7 @@
       "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
       "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
       "published_at": "2026-08-14T21:34:00+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -88,33 +66,15 @@
       "score": 0.52
     },
     {
-      "id": "d21fa3a8c428d91f0817bc842130604fa1b39005",
+      "id": "dfa360029c58bc820c0f53f6c7abbcb1868123db",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.66%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3519560",
-      "summary": "",
-      "published_at": "2026-08-14T21:30:13+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "cd9c2157afef973b1e008073368187f312651204",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "德鲁肯米勒大举买入Amazon.com和AMD，同时减持多只芯片股",
+      "title": "ĺžˇé˛č‚Żçąłĺ‹’ĺ¤§ä¸žäš°ĺ…ĽAmazon.comĺ’ŒAMDďźŒĺŒć—śĺ‡ćŒĺ¤šĺŞčŠŻç‰‡č‚Ą",
       "url": "https://cn.investing.com/news/stock-market-news/article-3519558",
       "summary": "",
       "published_at": "2026-08-14T21:26:38+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -126,50 +86,8 @@
           "market": "US"
         }
       ],
-      "category": "capital",
-      "score": 1.0
-    },
-    {
-      "id": "43bdcab03a667645c26361ca3b0cf3c8d9bd9fec",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "伯克希尔·哈撒韦B大举增持谷歌股份，同时削减银行业敞口",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3519531",
-      "summary": "",
-      "published_at": "2026-08-14T20:53:58+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "capital",
-      "score": 1.0
-    },
-    {
-      "id": "844c0829c312f17635887e90b7fd2dfb32c42d92",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国股市收低；截至收盘道琼斯工业平均指数下跌0.20%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3519520",
-      "summary": "",
-      "published_at": "2026-08-14T20:31:26+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.85
     },
     {
       "id": "65c15ededa1f1a366ce0ef9a4c8921c8be2cca66",
@@ -180,7 +98,7 @@
       "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
       "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
       "published_at": "2026-08-14T19:50:11+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -188,24 +106,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "71ce6887a66cacc368d8781eaec92f5fb22a4ed1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "AbbVie vs. Bristol-Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/08/14/abbvie-vs-bristol-myers-squibb-which-healthcare-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Bristol-Myers Squibb trades at less than half the valuation multiple of AbbVie, but AbbVie's revenue growth tells a different story about future earnings power.",
-      "published_at": "2026-08-14T19:26:29+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "f6ff14eecf1578cd44db47fdc528344bf05ac684",
@@ -216,7 +116,7 @@
       "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
       "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
       "published_at": "2026-08-14T19:09:00+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -234,7 +134,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/a-once-in-a-decade-opportunity-1-growth-stock-down/?source=iedfolrf0000001",
       "summary": "Despite its plummeting share price in recent years, this stock has delivered annualized total returns of 16% since 2015.",
       "published_at": "2026-08-14T19:05:00+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -259,7 +159,7 @@
       "url": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories",
       "summary": "Analysts weighed in positively on the company’s new financial targets — helping to further a rally that’s brought shares up more than 60% from their recent low point.",
       "published_at": "2026-08-14T18:24:00+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -277,7 +177,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/why-hawkeye-360-stock-crashed-friday/?source=iedfolrf0000001",
       "summary": "HawkEye 360 just had a fabulous Q2 -- but its stock costs too much, so it's going down today.",
       "published_at": "2026-08-14T17:46:12+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -295,7 +195,7 @@
       "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
       "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
       "published_at": "2026-08-14T17:40:00+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -313,7 +213,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-14T17:39:05+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -331,7 +231,7 @@
       "url": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
       "summary": "The market is winding down an exceptionally strong reporting season, and there's an underlying trend that remains front and center.",
       "published_at": "2026-08-14T16:57:01+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -349,7 +249,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/sp-500-eases-off-its-record-as-the-consumer-blinks/?source=iedfolrf0000001",
       "summary": "Retail sales just fell for the first time in nine months, and consumer confidence dropped to 51. Here's what a tired shopper means for the stock market.",
       "published_at": "2026-08-14T16:54:50+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -367,7 +267,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/why-york-space-systems-stock-crashed-again-friday/?source=iedfolrf0000001",
       "summary": "Strike 2! York Space IPO'ed just earlier this year, and has already missed earnings twice.",
       "published_at": "2026-08-14T16:54:35+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -385,7 +285,7 @@
       "url": "https://www.fool.com/investing/2026/08/14/why-intuitive-machines-stock-is-soaring-today/?source=iedfolrf0000001",
       "summary": "Intuitive Machines' Q2 results misses Wall Street's targets, but its shares are still rallying.",
       "published_at": "2026-08-14T16:41:30+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -403,13 +303,74 @@
       "url": "https://www.fool.com/investing/2026/08/14/wall-street-is-obsessing-over-every-word-from-fed/?source=iedfolrf0000001",
       "summary": "Fed Chair Kevin Warsh has limited what he says to public audiences.",
       "published_at": "2026-08-14T16:23:00+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "257c87c010293e7ac32a79569d1ca24ec2a42954",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "I Think You Missed CoreWeave's Zero-Cost-Basis Engine",
+      "url": "https://www.fool.com/investing/2026/08/14/i-think-you-missed-coreweaves-zero-cost-basis-engi/?source=iedfolrf0000001",
+      "summary": "CoreWeave's bear case rests on GPUs aging out fast. But the company just signed a multi-year contract for Nvidia's 2020-era A100 chips, extending their revenue life through 2029. The debt markets are starting to price in what that means: Older Nvidia silicon may hold value far longer than Wall Street's depreciation models assume.",
+      "published_at": "2026-08-14T15:24:00+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "c509ae67aaa5bd9e8609e0c300126da5b80ee238",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Shares of Trump Media & Technology Stock Sank 18% This Week",
+      "url": "https://www.fool.com/investing/2026/08/14/why-shares-of-trump-media-technology-stock-sank-18/?source=iedfolrf0000001",
+      "summary": "The stock is down a whopping 87% from all-time highs.",
+      "published_at": "2026-08-14T15:18:16+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "ca9f40d810094265ef389e0fbdb7014cc3fe76e7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "BridgeBio Stock Has Soared 29% in Just 3 Months. Here's Why Wall Street Thinks It Could Go Even Higher.",
+      "url": "https://www.fool.com/investing/2026/08/14/bridgebio-stock-has-soared-29-in-just-3-months/?source=iedfolrf0000001",
+      "summary": "The company clearly has a winner on its hands with the recently approved Attruby.",
+      "published_at": "2026-08-14T15:15:00+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     },
     {
@@ -421,7 +382,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3364054/chinese-museums-left-red-faced-after-caption-errors-mar-communist-party-themed-displays?utm_source=rss_feed",
       "summary": "Chinese museums have been criticised for spelling errors in their information boards, including one in Zhejiang province where one of the captions for an exhibition about the Long March turned the Red Army into a “red car”.\nSuch mistakes are especially embarrassing given the high importance the authorities attach to Communist Party history and come amid an ongoing push to promote “red tourism” or ",
       "published_at": "2026-08-14T09:22:03+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -445,7 +406,7 @@
       "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
       "summary": "While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagship companies owned by the family of Hong Kong billionaire Li Ka-shing.\nUnitree’s retail subscription",
       "published_at": "2026-08-14T08:00:07+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -463,7 +424,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363937/transit-giant-crrc-sets-down-marker-hong-kong-sales-pitch-overseas-cities?utm_source=rss_feed",
       "summary": "Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity.\nExecutives from the world-leading railway vehicle manufacturer said the company aims to use the former airport s",
       "published_at": "2026-08-14T00:00:15+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -481,7 +442,7 @@
       "url": "https://www.cnbc.com/2026/08/13/jim-cramer-says-ciscos-post-earnings-plunge-is-a-buying-opportunity-heres-why.html",
       "summary": "CNBC’s Jim Cramer said investors shouldn’t automatically sell a stock that falls on weak earnings guidance.",
       "published_at": "2026-08-13T22:56:18+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -499,7 +460,7 @@
       "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
       "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
       "published_at": "2026-08-13T21:31:44+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -507,6 +468,48 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "069276a423d2a754de3bf34e8683fea1624b3ef6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Retail Stock Almost Touches Buy Point As Analyst Upgrades, Citing Big Transformation",
+      "url": "https://www.investors.com/news/five-below-upgrade-retail-stock/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-13T16:27:43+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.61
+    },
+    {
+      "id": "32eec5e6cc4295b6469252c019b90459ff66c1e4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-looks-raise-4-billion-160009191.html",
+      "summary": "",
+      "published_at": "2026-08-13T16:00:09+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "a11b29338eb56d38620f8c7d96a16b7c1bab7d82",
@@ -517,7 +520,7 @@
       "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
       "published_at": "2026-08-13T15:59:16+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -535,7 +538,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-stock-outlook-wall-154328427.html",
       "summary": "",
       "published_at": "2026-08-13T15:43:28+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -543,108 +546,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.64
-    },
-    {
-      "id": "c7e8a7a4c9719a002754432eb6125cea7c85cf22",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta (META) Deletes 756,000 Teen Accounts, But Is It Enough?",
-      "url": "https://finance.yahoo.com/technology/articles/meta-meta-deletes-756-000-152146698.html",
-      "summary": "",
-      "published_at": "2026-08-13T15:21:46+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "ad823935d863988fab5e56f16dfab2260f6c83e9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Billionaire Bill Ackman Thinks Netflix (NFLX) Will Rebound Despite Slowdown Trends. Is He Right?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-thinks-netflix-152138158.html",
-      "summary": "",
-      "published_at": "2026-08-13T15:21:38+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "9e4f83f2ed399e92df3f48d1c1a28896e500138a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Clorox Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-clorox-150756816.html",
-      "summary": "",
-      "published_at": "2026-08-13T15:07:56+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "e67b4923ba3fe245dc1d56d76b4af76e1e5f2c33",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market",
-      "url": "https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-13T15:05:04+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "a39eede0bf1ce02cadaaadf17abe700fb246d522",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Soft Outlook Overshadows Trimble’s (TRMB) Strong Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soft-outlook-overshadows-trimble-trmb-144409470.html",
-      "summary": "",
-      "published_at": "2026-08-13T14:44:09+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.52
     },
     {
       "id": "1c9eab64de8ae8f6e88cb7e2b1f54ca68099c266",
@@ -655,7 +556,7 @@
       "url": "https://www.scmp.com/business/companies/article/3363947/sf-reits-distributable-income-falls-73-first-half-occupancy-holds-steady?utm_source=rss_feed",
       "summary": "SF Reit, Hong Kong’s first real estate investment trust to focus on logistics properties, saw its distributable income fall by 7.3 per cent year on year to HK$110.7 million (US$14.11 million) in the first half of the year.\nThe firm – which is controlled by the Chinese logistics giant SF Holding – recorded total revenue of HK$219.3 million for the first six months of 2026, down 4.6 per cent from a ",
       "published_at": "2026-08-13T13:16:18+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -673,7 +574,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3363931/jdcoms-second-quarter-profit-climbs-15-food-delivery-losses-narrow?utm_source=rss_feed",
       "summary": "Chinese e-commerce giant JD.com saw its second-quarter net profit soar 15 per cent year on year to 7.1 billion yuan (US$1.1 billion), beating market expectations despite a slight dip in overall revenue, as it contends with sluggish domestic consumer demand, fierce competition and a push into new business lines.\nNet revenue for the three months ended June 30 fell 2.9 per cent to 346.4 billion yuan,",
       "published_at": "2026-08-13T11:11:07+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
+      "first_seen_at": "2026-08-14T23:19:49.044420+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -687,24 +588,6 @@
       ],
       "category": "earnings",
       "score": 0.97
-    },
-    {
-      "id": "189524828d28162bf92caf8c09e1f85b4dd06812",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Cisco's stock drops despite earnings, revenue beat",
-      "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
-      "summary": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
-      "published_at": "2026-08-12T22:54:18+00:00",
-      "first_seen_at": "2026-08-14T22:49:18.371449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.8
     }
   ]
 }
