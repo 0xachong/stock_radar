@@ -1,31 +1,39 @@
 {
-  "generated_at": "2026-08-15T14:20:13.789674+00:00",
+  "generated_at": "2026-08-15T14:47:55.183358+00:00",
   "window_hours": 48,
-  "total_items": 20,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20
+    "US": 29
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 6
+      "count": 9
     },
     {
       "key": "macro",
-      "count": 6
+      "count": 8
     },
     {
       "key": "earnings",
-      "count": 5
-    },
-    {
-      "key": "capital",
-      "count": 2
+      "count": 7
     },
     {
       "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "capital",
       "count": 1
     }
   ],
@@ -33,7 +41,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 24
     },
     {
       "site_id": "hk_china",
@@ -43,6 +51,24 @@
   ],
   "items": [
     {
+      "id": "00ba54f049f2439c9ccba6d2bfafc305ef7b0038",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+      "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+      "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
+      "published_at": "2026-08-15T14:46:43+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.52
+    },
+    {
       "id": "fbedb47e2a99552e24f919374bbc9c3242739174",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -51,7 +77,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3519868",
       "summary": "",
       "published_at": "2026-08-15T14:05:49+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -80,7 +106,7 @@
       "url": "https://seekingalpha.com/news/4633486-notable-analyst-calls-this-week-sandisk-apple-and-salesforce-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-15T14:05:25+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,6 +122,24 @@
       "score": 0.97
     },
     {
+      "id": "aba6ebf96c14e245e69bffaa1f5227839f1202ac",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Home Depot and Lowe's Have Both Raised Their Dividends for 17 Straight Years. Which Stock Is the Smarter Buy Heading Into Earnings?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-lowes-both-raised-135500414.html",
+      "summary": "",
+      "published_at": "2026-08-15T13:55:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
       "id": "6af661310b47ba0d0e9e2f42d78cea48c61c6789",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -104,7 +148,7 @@
       "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
       "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
       "published_at": "2026-08-15T13:51:00+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -122,7 +166,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html",
       "summary": "",
       "published_at": "2026-08-15T13:43:00+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -146,7 +190,7 @@
       "url": "https://seekingalpha.com/news/4633029-earnings-scoreboard-9-of-10-key-sp-500-reporting-firms-top-eps-estimates-and-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-15T13:30:12+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,15 +200,15 @@
       "score": 0.52
     },
     {
-      "id": "94ea4d9aee0c59f1d23d83a56161d993660be3f7",
+      "id": "18caa85b426b960da76ab9ad0bb2922a6e40d995",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?",
-      "url": "https://www.marketwatch.com/story/ai-inflation-is-putting-even-more-pressure-on-the-fed-could-higher-interest-rates-be-next-557db399?mod=mw_rss_topstories",
-      "summary": "One thing the Federal Reserve could always count on to keep inflation low was falling prices for computers, cell phones and other high-tech stuff — but not anymore.",
-      "published_at": "2026-08-15T13:00:00+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "source": "CNBC Top News",
+      "title": "College can cost $100,000 a year. Here's how families are covering the tab",
+      "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
+      "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
+      "published_at": "2026-08-15T13:30:01+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -172,6 +216,24 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "bb30ba2861bff614eb8c31c5593b0cbbaa1c16a9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street",
+      "url": "https://www.fool.com/investing/2026/08/15/fed-kevin-warsh-reforms-unintended-consequences/?source=iedfolrf0000001",
+      "summary": "Reforming the Federal Reserve comes at a potentially steep cost to an already expensive stock market.",
+      "published_at": "2026-08-15T13:06:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
     },
     {
       "id": "38f1a8de3f133d4ba36700ae0523b0b56258b2ea",
@@ -182,7 +244,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3519852",
       "summary": "",
       "published_at": "2026-08-15T12:35:59+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -206,7 +268,7 @@
       "url": "https://finance.yahoo.com/markets/article/markets-just-flipped-the-script-on-kevin-warshs-fed-chart-of-the-day-114428977.html",
       "summary": "",
       "published_at": "2026-08-15T11:44:28+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -224,7 +286,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
       "summary": "",
       "published_at": "2026-08-15T11:07:38+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -240,6 +302,156 @@
       "score": 0.85
     },
     {
+      "id": "1af45baa81b5e8fb3a6676682579cd0c325e4c95",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Reddit Stock Soared on the News of Its Inclusion in the S&P 500. Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026.",
+      "url": "https://www.fool.com/investing/2026/08/15/reddit-stock-soared-on-the-news-of-its-inclusion-in-the-s-and-p-500-here-are-3-things-investors-need-to-know-about-the-social-media-stock-in-2026/?source=iedfolrf0000001",
+      "summary": "The company has been a stunning success since its 2024 market debut.",
+      "published_at": "2026-08-15T10:32:32+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "18e21537247836408ecab98448361a2dd04f9cd9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Jensen Huang Explained $500 Billion of Wall Street Money in Five Words",
+      "url": "https://www.fool.com/investing/2026/08/15/jensen-huang-explained-500-billion-of-wall-street/?source=iedfolrf0000001",
+      "summary": "\"In AI, compute is revenue.\" The whole credit structure announced Monday stands on that sentence -- and on what a repossessed chip is worth.",
+      "published_at": "2026-08-15T09:14:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "ceb32762e315b71f8c64f1a6c0ec475256c19d59",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nvidia Stock Investors Just Got Good News From SpaceX. Wall Street Says It's Time to Buy.",
+      "url": "https://www.fool.com/investing/2026/08/15/nvidia-stock-investors-got-good-news-from-spacex/?source=iedfolrf0000001",
+      "summary": "Elon Musk's SpaceX will build its AI services exclusively on Nvidia system.",
+      "published_at": "2026-08-15T08:48:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "b62161e173398b603879831c32a6728c0de3e74e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
+      "url": "https://www.fool.com/investing/2026/08/15/up-over-35-since-aug-3-is-it-too-late-to-buy-palan/?source=iedfolrf0000001",
+      "summary": "The company's second-quarter results caused a major rally in the stock.",
+      "published_at": "2026-08-15T08:45:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "fbbaacc168d57bdfd6175d0b5fb782a7f200ad3a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "New Federal Bill Would Protect Against Elder Financial Fraud: Until It Passes, Here's What States Are Doing to Help",
+      "url": "https://www.fool.com/retirement/2026/08/15/new-federal-bill-would-protect-against-elder-finan/?source=iedfolrf0000001",
+      "summary": "In 2025 alone, seniors lost $7.748 billion to financial fraudsters. Tighter laws may help.",
+      "published_at": "2026-08-15T08:38:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "60d06782db2a847f3bb03f010ebde4522f0d6197",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Micron Technology Stock Below $920 per Share? Wall Street Thinks It's Heading to $1,500.",
+      "url": "https://www.fool.com/investing/2026/08/15/should-you-buy-micron-technology-stock-below-920-p/?source=iedfolrf0000001",
+      "summary": "If Wall Street is right, it's a no-brainer buy now.",
+      "published_at": "2026-08-15T08:15:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "20a508b5bfa21ffcf09996abb1721e5b89d25b0a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Social Security's 2027 COLA Just Got Downgraded: What Retirees Need to Know Now",
+      "url": "https://www.fool.com/retirement/2026/08/15/social-securitys-2027-cola-just-got-downgraded-wha/?source=iedfolrf0000001",
+      "summary": "Benefits may not rise as much as expected in the new year, but the news isn't totally dire.",
+      "published_at": "2026-08-15T08:07:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "aecfeca91d000cdda85d581cf9e9f7c05a17f9a8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise",
+      "url": "https://www.fool.com/investing/2026/08/15/trump-claims-stock-market-will-double-history-says/?source=iedfolrf0000001",
+      "summary": "History has an uncanny ability to forecast the future on Wall Street.",
+      "published_at": "2026-08-15T08:06:00+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.52
+    },
+    {
       "id": "65c15ededa1f1a366ce0ef9a4c8921c8be2cca66",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -248,7 +460,7 @@
       "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
       "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
       "published_at": "2026-08-14T19:50:11+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -266,7 +478,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-14T17:39:05+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -284,7 +496,7 @@
       "url": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
       "summary": "The market is winding down an exceptionally strong reporting season, and there's an underlying trend that remains front and center.",
       "published_at": "2026-08-14T16:57:01+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -292,48 +504,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
-    },
-    {
-      "id": "bd45362db5ebae0a94bd5a42a43984a78702fb3b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-14T12:20:22+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "c03d61a4c859a63ec233a79a9d3888e98f49e3ee",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Here’s Insiders Fund’s Thesis on Intel Corp. (INTC)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/insiders-fund-thesis-intel-corp-121051373.html",
-      "summary": "",
-      "published_at": "2026-08-14T12:10:51+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "INTC",
-          "name": "英特尔",
-          "market": "US"
-        }
-      ],
-      "category": "capital",
-      "score": 0.85
     },
     {
       "id": "7cb7070c83b76e441864a6f2eec19a90dc2fc3da",
@@ -344,7 +514,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3364054/chinese-museums-left-red-faced-after-caption-errors-mar-communist-party-themed-displays?utm_source=rss_feed",
       "summary": "Chinese museums have been criticised for spelling errors in their information boards, including one in Zhejiang province where one of the captions for an exhibition about the Long March turned the Red Army into a “red car”.\nSuch mistakes are especially embarrassing given the high importance the authorities attach to Communist Party history and come amid an ongoing push to promote “red tourism” or ",
       "published_at": "2026-08-14T09:22:03+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -368,7 +538,7 @@
       "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
       "summary": "While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagship companies owned by the family of Hong Kong billionaire Li Ka-shing.\nUnitree’s retail subscription",
       "published_at": "2026-08-14T08:00:07+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -386,7 +556,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363937/transit-giant-crrc-sets-down-marker-hong-kong-sales-pitch-overseas-cities?utm_source=rss_feed",
       "summary": "Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity.\nExecutives from the world-leading railway vehicle manufacturer said the company aims to use the former airport s",
       "published_at": "2026-08-14T00:00:15+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -404,7 +574,7 @@
       "url": "https://www.cnbc.com/2026/08/13/jim-cramer-says-ciscos-post-earnings-plunge-is-a-buying-opportunity-heres-why.html",
       "summary": "CNBC’s Jim Cramer said investors shouldn’t automatically sell a stock that falls on weak earnings guidance.",
       "published_at": "2026-08-13T22:56:18+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -422,7 +592,7 @@
       "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
       "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
       "published_at": "2026-08-13T21:31:44+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -440,7 +610,7 @@
       "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
       "published_at": "2026-08-13T15:59:16+00:00",
-      "first_seen_at": "2026-08-15T14:20:13.789674+00:00",
+      "first_seen_at": "2026-08-15T14:47:55.183358+00:00",
       "market": "US",
       "markets": [
         "US"
