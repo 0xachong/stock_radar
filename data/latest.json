@@ -1,24 +1,28 @@
 {
-  "generated_at": "2026-08-15T17:18:43.611313+00:00",
+  "generated_at": "2026-08-15T17:44:33.719536+00:00",
   "window_hours": 48,
-  "total_items": 20,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20
+    "US": 23
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 7
+      "count": 8
     },
     {
       "key": "earnings",
-      "count": 6
+      "count": 7
     },
     {
       "key": "macro",
       "count": 5
+    },
+    {
+      "key": "ma",
+      "count": 1
     },
     {
       "key": "policy",
@@ -33,15 +37,57 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 17
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
+    {
+      "id": "7bd24f403dbc26fed303103d1202c727146f6872",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
+      "url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-15T17:23:09+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "ma",
+      "score": 0.85
+    },
+    {
+      "id": "9642880445a280da99ffc5278a117f74c7eade9a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "标普500指数涨势之下：股价表现与基本面出现背离",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3519895",
+      "summary": "",
+      "published_at": "2026-08-15T17:16:30+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
     {
       "id": "2ca8274fa2a70d5ae652c0039237411c79dec26d",
       "site_id": "us_global",
@@ -51,7 +97,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/prediction-amd-stock-wont-split-soon/?source=iedfolrf0000001",
       "summary": "AMD stock has significantly outperformed Nvidia over the last year.",
       "published_at": "2026-08-15T15:51:00+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -75,7 +121,7 @@
       "url": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-15T15:18:39+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -93,7 +139,7 @@
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
       "published_at": "2026-08-15T14:46:43+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -111,7 +157,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/reddit-joins-the-sp-500-tuesday-heres-what-history/?source=iedfolrf0000001",
       "summary": "Shares of the social media company jumped double digits on the news. Decades of research say the pop is usually the whole prize.",
       "published_at": "2026-08-15T14:34:00+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -129,7 +175,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3519868",
       "summary": "",
       "published_at": "2026-08-15T14:05:49+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -158,7 +204,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/home-depot-lowes-raised-dividend-stock-buy/?source=iedfolrf0000001",
       "summary": "The rapid growth days of each company are probably over, but each stock remains an excellent choice for income investors.",
       "published_at": "2026-08-15T13:35:00+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -176,7 +222,7 @@
       "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
       "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
       "published_at": "2026-08-15T13:30:01+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -194,7 +240,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/not-nvidia-not-amd-this-chip-stock-will-be-the-big/?source=iedfolrf0000001",
       "summary": "Investors looking to make the most of the AI-driven chip boom will do well to take a closer look at this foundry giant before it doubles over the next three years.",
       "published_at": "2026-08-15T13:23:00+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -218,7 +264,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/fed-kevin-warsh-reforms-unintended-consequences/?source=iedfolrf0000001",
       "summary": "Reforming the Federal Reserve comes at a potentially steep cost to an already expensive stock market.",
       "published_at": "2026-08-15T13:06:00+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -236,7 +282,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3519852",
       "summary": "",
       "published_at": "2026-08-15T12:35:59+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,7 +306,7 @@
       "url": "https://finance.yahoo.com/markets/article/markets-just-flipped-the-script-on-kevin-warshs-fed-chart-of-the-day-114428977.html",
       "summary": "",
       "published_at": "2026-08-15T11:44:28+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -278,13 +324,31 @@
       "url": "https://www.fool.com/investing/2026/08/15/reddit-stock-soared-on-the-news-of-its-inclusion-in-the-s-and-p-500-here-are-3-things-investors-need-to-know-about-the-social-media-stock-in-2026/?source=iedfolrf0000001",
       "summary": "The company has been a stunning success since its 2024 market debut.",
       "published_at": "2026-08-15T10:32:32+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "18e21537247836408ecab98448361a2dd04f9cd9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Jensen Huang Explained $500 Billion of Wall Street Money in Five Words",
+      "url": "https://www.fool.com/investing/2026/08/15/jensen-huang-explained-500-billion-of-wall-street/?source=iedfolrf0000001",
+      "summary": "\"In AI, compute is revenue.\" The whole credit structure announced Monday stands on that sentence -- and on what a repossessed chip is worth.",
+      "published_at": "2026-08-15T09:14:00+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
       "score": 0.52
     },
     {
@@ -296,7 +360,7 @@
       "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
       "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
       "published_at": "2026-08-14T19:50:11+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,7 +378,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-14T17:39:05+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -332,7 +396,7 @@
       "url": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
       "summary": "The market is winding down an exceptionally strong reporting season, and there's an underlying trend that remains front and center.",
       "published_at": "2026-08-14T16:57:01+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -350,7 +414,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3364054/chinese-museums-left-red-faced-after-caption-errors-mar-communist-party-themed-displays?utm_source=rss_feed",
       "summary": "Chinese museums have been criticised for spelling errors in their information boards, including one in Zhejiang province where one of the captions for an exhibition about the Long March turned the Red Army into a “red car”.\nSuch mistakes are especially embarrassing given the high importance the authorities attach to Communist Party history and come amid an ongoing push to promote “red tourism” or ",
       "published_at": "2026-08-14T09:22:03+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -374,7 +438,7 @@
       "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
       "summary": "While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagship companies owned by the family of Hong Kong billionaire Li Ka-shing.\nUnitree’s retail subscription",
       "published_at": "2026-08-14T08:00:07+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -392,7 +456,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3363937/transit-giant-crrc-sets-down-marker-hong-kong-sales-pitch-overseas-cities?utm_source=rss_feed",
       "summary": "Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity.\nExecutives from the world-leading railway vehicle manufacturer said the company aims to use the former airport s",
       "published_at": "2026-08-14T00:00:15+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -410,7 +474,7 @@
       "url": "https://www.cnbc.com/2026/08/13/jim-cramer-says-ciscos-post-earnings-plunge-is-a-buying-opportunity-heres-why.html",
       "summary": "CNBC’s Jim Cramer said investors shouldn’t automatically sell a stock that falls on weak earnings guidance.",
       "published_at": "2026-08-13T22:56:18+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -428,7 +492,7 @@
       "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
       "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
       "published_at": "2026-08-13T21:31:44+00:00",
-      "first_seen_at": "2026-08-15T17:18:43.611313+00:00",
+      "first_seen_at": "2026-08-15T17:44:33.719536+00:00",
       "market": "US",
       "markets": [
         "US"
