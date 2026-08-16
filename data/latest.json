@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T07:55:08.655112+00:00",
+  "generated_at": "2026-08-16T08:26:59.872845+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20,
+    "CN": 1,
+    "US": 18,
     "HK": 1
   },
   "category_stats": [
@@ -15,11 +16,15 @@
     },
     {
       "key": "earnings",
-      "count": 7
+      "count": 6
+    },
+    {
+      "key": "ipo",
+      "count": 1
     },
     {
       "key": "ma",
-      "count": 2
+      "count": 1
     },
     {
       "key": "policy",
@@ -42,7 +47,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 17
+      "count": 16
     },
     {
       "site_id": "hk_china",
@@ -52,6 +57,66 @@
   ],
   "items": [
     {
+      "id": "942aecfcac73b0324810efa2cc65fef6b4e4514a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "频准激光(688826.SH)将于8月18日在上交所科创板上市",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520084",
+      "summary": "",
+      "published_at": "2026-08-16T08:05:09+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "46f5e392508fdd2897c6c9fda8508dc1f2d530c0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Costco: Patient Investors Know the Bear Case (NASDAQ: COST)",
+      "url": "https://www.fool.com/investing/2026/08/16/costco-patient-investors-bear-case-nasdaq-cost/?source=iedfolrf0000001",
+      "summary": "It's easy to be bullish about a company when its shares have produced a total return of 564% in the past decade.",
+      "published_at": "2026-08-16T07:55:00+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "cc7e77aec1ddbee4cfeb8adab97b148bca4136dc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's What a $10,000 Palantir Investment Could Be Worth by 2028",
+      "url": "https://www.fool.com/investing/2026/08/16/heres-what-a-10000-palantir-investment-could-be-wo/?source=iedfolrf0000001",
+      "summary": "If Palantir can continue its success, the sky is the limit.",
+      "published_at": "2026-08-16T07:00:00+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
       "id": "43742d21d572ab6386c842750ad098e9f6b22645",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -60,7 +125,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520036",
       "summary": "",
       "published_at": "2026-08-16T05:05:09+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -84,7 +149,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520028",
       "summary": "",
       "published_at": "2026-08-16T04:35:48+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -102,7 +167,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/amd-just-borrowed-475-billion-more-than-triple-its/?source=iedfolrf0000001",
       "summary": "The chipmaker is sitting on $13 billion in cash and investments. Why the biggest debt sale in its history?",
       "published_at": "2026-08-16T02:19:00+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -126,7 +191,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/whats-going-on-with-amd-stock/?source=iedfolrf0000001",
       "summary": "The market for artificial intelligence is moving in AMD's favor.",
       "published_at": "2026-08-15T23:31:03+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -150,7 +215,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/spacex-stock-is-down-35-from-its-high-elon-musk-ex/?source=iedfolrf0000001",
       "summary": "The company is pursuing massive goals for data center compute, both on Earth and in orbit.",
       "published_at": "2026-08-15T23:30:00+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -168,7 +233,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/palantir-makes-its-case-against-frontier-ai/?source=iedfolrf0000001",
       "summary": "CEO Alex Karp made the case that Palantir’s offerings posed fewer risks than the AI models other coming out today.",
       "published_at": "2026-08-15T21:30:19+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -192,7 +257,7 @@
       "url": "https://www.fool.com/investing/2026/08/15/spacex-is-poised-to-hit-220-by-june-2027-hint-its/?source=iedfolrf0000001",
       "summary": "Space Exploration Technologies' outlook for rising revenues could give the stock plenty of room to run even if the market doesn't give it a richer valuation multiple.",
       "published_at": "2026-08-15T21:15:00+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -200,24 +265,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "c6065b111d2578648e23dfabf6d60054e4161ff1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
-      "url": "https://www.fool.com/investing/2026/08/15/bill-ackmans-new-stock-picks-are-interesting-sp-gl/?source=iedfolrf0000001",
-      "summary": "The same investor just bought all three -- but only one of the charts looks like something went wrong.",
-      "published_at": "2026-08-15T19:47:00+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "7bd24f403dbc26fed303103d1202c727146f6872",
@@ -228,7 +275,7 @@
       "url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-15T17:23:09+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,30 +291,6 @@
       "score": 0.85
     },
     {
-      "id": "2ca8274fa2a70d5ae652c0039237411c79dec26d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
-      "url": "https://www.fool.com/investing/2026/08/15/prediction-amd-stock-wont-split-soon/?source=iedfolrf0000001",
-      "summary": "AMD stock has significantly outperformed Nvidia over the last year.",
-      "published_at": "2026-08-15T15:51:00+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
       "id": "00ba54f049f2439c9ccba6d2bfafc305ef7b0038",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -276,7 +299,7 @@
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
       "published_at": "2026-08-15T14:46:43+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +317,7 @@
       "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
       "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
       "published_at": "2026-08-15T13:30:01+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +335,7 @@
       "url": "https://finance.yahoo.com/healthcare/articles/abbott-laboratories-abt-lingo-partnership-010526256.html",
       "summary": "",
       "published_at": "2026-08-15T01:05:26+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +359,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-anthropic-ipo-valuation-hinges-001158885.html",
       "summary": "",
       "published_at": "2026-08-15T00:11:58+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +377,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-pltr-000702429.html",
       "summary": "",
       "published_at": "2026-08-15T00:07:02+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +401,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html",
       "summary": "",
       "published_at": "2026-08-14T23:58:46+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -394,30 +417,6 @@
       "score": 0.85
     },
     {
-      "id": "82edcbd44befb3af9fe2731c3cf003b134f86369",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
-      "summary": "",
-      "published_at": "2026-08-14T22:06:16+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "ma",
-      "score": 0.97
-    },
-    {
       "id": "7671e61cc419af67ecb638b3aa716602f4ecf934",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -426,7 +425,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-14T17:39:05+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -444,7 +443,7 @@
       "url": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
       "summary": "The market is winding down an exceptionally strong reporting season, and there's an underlying trend that remains front and center.",
       "published_at": "2026-08-14T16:57:01+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -462,7 +461,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3364054/chinese-museums-left-red-faced-after-caption-errors-mar-communist-party-themed-displays?utm_source=rss_feed",
       "summary": "Chinese museums have been criticised for spelling errors in their information boards, including one in Zhejiang province where one of the captions for an exhibition about the Long March turned the Red Army into a “red car”.\nSuch mistakes are especially embarrassing given the high importance the authorities attach to Communist Party history and come amid an ongoing push to promote “red tourism” or ",
       "published_at": "2026-08-14T09:22:03+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
+      "first_seen_at": "2026-08-16T08:26:59.872845+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -476,24 +475,6 @@
       ],
       "category": "capital",
       "score": 0.85
-    },
-    {
-      "id": "75d22ec587c4adbdacdace06d41cbc3dbf3ae6d4",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "From chasing robots to chasing profits: the numbers moving markets",
-      "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
-      "summary": "While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagship companies owned by the family of Hong Kong billionaire Li Ka-shing.\nUnitree’s retail subscription",
-      "published_at": "2026-08-14T08:00:07+00:00",
-      "first_seen_at": "2026-08-16T07:55:08.655112+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
     }
   ]
 }
