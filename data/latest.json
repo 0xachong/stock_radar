@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-16T17:44:02.754883+00:00",
+  "generated_at": "2026-08-16T18:25:57.166203+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 21,
+    "US": 27,
     "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 16
+    },
+    {
+      "key": "capital",
+      "count": 4
     },
     {
       "key": "macro",
       "count": 4
-    },
-    {
-      "key": "capital",
-      "count": 3
     },
     {
       "key": "earnings",
@@ -38,7 +38,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 20
+      "count": 26
     },
     {
       "site_id": "hk_china",
@@ -48,6 +48,30 @@
   ],
   "items": [
     {
+      "id": "3d902741b93bd6b3afad3802d85c2e3349a04029",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Top global stories last week: JD.com, SK Hynix among notable names",
+      "url": "https://seekingalpha.com/news/4633611-top-global-stories-last-week-jdcom-sk-hynix-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-16T17:46:28+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "JD",
+          "name": "京东",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
       "id": "55246f8627cb720ee5323bf9c6478c73521f42e4",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -56,7 +80,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/meet-high-yield-dividend-king-170100400.html",
       "summary": "",
       "published_at": "2026-08-16T17:01:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -66,15 +90,33 @@
       "score": 0.52
     },
     {
-      "id": "5c9142c67b7a16fc22b440857e862aef961e82a6",
+      "id": "e1eb7e37516395c14fde5328ed7bf0460f8ee7c5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
+      "title": "Planet Fitness Director Spinelli Buys 10,000 Shares for $492,800 -- Should Investors Buy Too?",
+      "url": "https://www.fool.com/coverage/filings/2026/08/16/planet-fitness-director-spinelli-buys-10-000-shares-for-usd492-800-should-investors-buy-too/?source=iedfolrf0000001",
+      "summary": "Spinelli's 28% increase in his stake signals confidence despite the stock being down 54% over the past year. His total direct holdings now stand at 45,516 shares, worth $2.23 million.",
+      "published_at": "2026-08-16T16:35:00+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "9d52cfa4001eb79253b4a4b771cd102ccb4760a3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
       "title": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-meta-platforms-stock-below-164000665.html",
-      "summary": "",
-      "published_at": "2026-08-16T16:40:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "url": "https://www.fool.com/investing/2026/08/16/should-buy-meta-platforms-stock-ai-cloud/?source=iedfolrf0000001",
+      "summary": "The company is making risky bets on artificial intelligence, but that may be undervaluing the stock.",
+      "published_at": "2026-08-16T16:20:00+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -90,24 +132,6 @@
       "score": 0.97
     },
     {
-      "id": "e1eb7e37516395c14fde5328ed7bf0460f8ee7c5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Planet Fitness Director Spinelli Buys 10,000 Shares for $492,800 -- Should Investors Buy Too?",
-      "url": "https://www.fool.com/coverage/filings/2026/08/16/planet-fitness-director-spinelli-buys-10-000-shares-for-usd492-800-should-investors-buy-too/?source=iedfolrf0000001",
-      "summary": "Spinelli's 28% increase in his stake signals confidence despite the stock being down 54% over the past year. His total direct holdings now stand at 45,516 shares, worth $2.23 million.",
-      "published_at": "2026-08-16T16:35:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
       "id": "a02f6712eed7b7b9da5879b8f3d86bb81e482aea",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -116,7 +140,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520182",
       "summary": "",
       "published_at": "2026-08-16T16:05:09+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -134,7 +158,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html",
       "summary": "",
       "published_at": "2026-08-16T16:04:49+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -158,7 +182,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520178",
       "summary": "",
       "published_at": "2026-08-16T15:28:02+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -176,7 +200,7 @@
       "url": "https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html",
       "summary": "",
       "published_at": "2026-08-16T15:16:10+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -194,7 +218,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/energy-transfer-just-raised-its-2026-guidance-is/?source=iedfolrf0000001",
       "summary": "The midstream company raised its guidance for yearly adjusted EBITDA during its second-quarter earnings report.",
       "published_at": "2026-08-16T14:23:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -212,7 +236,7 @@
       "url": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
       "summary": "",
       "published_at": "2026-08-16T13:51:41+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -236,7 +260,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
       "summary": "",
       "published_at": "2026-08-16T13:51:05+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,13 +284,31 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520166",
       "summary": "",
       "published_at": "2026-08-16T13:41:11+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "6ac6afc2afed24e5e845e214617ac73f1bd48bb4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
+      "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
+      "summary": "",
+      "published_at": "2026-08-16T12:55:00+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
       "score": 0.52
     },
     {
@@ -278,7 +320,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/amd-turned-10000-into-more-than-700000-in-a-decade/?source=iedfolrf0000001",
       "summary": "One chipmaker beat the index by a factor of 17 over ten years. The path there included a 55% single-year drop.",
       "published_at": "2026-08-16T12:34:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,7 +344,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/why-is-everyone-talking-about-amd-stock/?source=iedfolrf0000001",
       "summary": "AMD is beginning to capture its massive opportunity in the data center segment.",
       "published_at": "2026-08-16T12:15:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -326,7 +368,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/vanguard-sp-500-etf-voo-beat-vanguard-vti/?source=iedfolrf0000001",
       "summary": "The Vanguard Morningstar Total Stock Market ETF is more value-oriented and diversified than the Vanguard S&amp;P 500 ETF.",
       "published_at": "2026-08-16T12:05:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -344,7 +386,7 @@
       "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
       "published_at": "2026-08-16T11:58:15+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -362,7 +404,7 @@
       "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
       "summary": "The Wall Street powerhouse notes areas where execution of corporate strategy matters more than macroeconomic trends.",
       "published_at": "2026-08-16T11:55:08+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -380,7 +422,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/netflix-stock-is-down-nearly-40-whats-going-on/?source=iedfolrf0000001",
       "summary": "Investors seem pessimistic about Netflix's future. But is that justified?",
       "published_at": "2026-08-16T11:09:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -398,7 +440,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/strategy-ceo-phong-le-thinks-mstr-will-outperform/?source=iedfolrf0000001",
       "summary": "Even if Bitcoin recovers, Strategy may have a difficult time regaining its former mojo.",
       "published_at": "2026-08-16T10:40:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -422,7 +464,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/stock-market-do-something-not-witnessed-156-years/?source=iedfolrf0000001",
       "summary": "Eventually, the music always stops.",
       "published_at": "2026-08-16T10:36:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -440,7 +482,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/broadcom-vs-amd-which-ai-chip-stock-is-the-better/?source=iedfolrf0000001",
       "summary": "These chipmakers have crushed the S&amp;P 500, but it's a close call when comparing them.",
       "published_at": "2026-08-16T10:35:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -464,7 +506,85 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
       "summary": "",
       "published_at": "2026-08-16T02:03:00+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "73afd70283da8eb2412ca30924e1145001418ed4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
+      "summary": "",
+      "published_at": "2026-08-15T21:36:04+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "37506ece994dfbab3e01b4cb4f53aa6c10555b2f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
+      "summary": "",
+      "published_at": "2026-08-15T21:35:09+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "9107aed857cab86fc0f2ca7e2cd49c9b0c378764",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)’s Dreamforce Conference",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-worried-potential-impact-213039883.html",
+      "summary": "",
+      "published_at": "2026-08-15T21:30:39+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "179b7e054324729ddfbcfbd81e451441f43598fc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+      "summary": "",
+      "published_at": "2026-08-15T21:29:10+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -482,7 +602,7 @@
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
       "published_at": "2026-08-15T14:46:43+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -500,7 +620,7 @@
       "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
       "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
       "published_at": "2026-08-15T13:30:01+00:00",
-      "first_seen_at": "2026-08-16T17:44:02.754883+00:00",
+      "first_seen_at": "2026-08-16T18:25:57.166203+00:00",
       "market": "US",
       "markets": [
         "US"
