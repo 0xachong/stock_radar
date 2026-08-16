@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-16T14:20:09.252433+00:00",
+  "generated_at": "2026-08-16T14:48:04.289214+00:00",
   "window_hours": 48,
-  "total_items": 18,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 16,
+    "US": 22,
     "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
+      "count": 10
+    },
+    {
+      "key": "macro",
       "count": 6
     },
     {
       "key": "earnings",
       "count": 5
-    },
-    {
-      "key": "macro",
-      "count": 3
     },
     {
       "key": "capital",
@@ -28,17 +28,13 @@
     {
       "key": "policy",
       "count": 1
-    },
-    {
-      "key": "ipo",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 21
     },
     {
       "site_id": "hk_china",
@@ -48,52 +44,22 @@
   ],
   "items": [
     {
-      "id": "758d34014ef1795f30d18ceed80c170e05c42adf",
+      "id": "27449bdb052da28afeb462c683b07c7433783b6c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta to face massive social media addiction trial Tuesday",
-      "url": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
-      "summary": "",
-      "published_at": "2026-08-16T13:51:41+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "source": "The Motley Fool",
+      "title": "Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?",
+      "url": "https://www.fool.com/investing/2026/08/16/energy-transfer-just-raised-its-2026-guidance-is/?source=iedfolrf0000001",
+      "summary": "The midstream company raised its guidance for yearly adjusted EBITDA during its second-quarter earnings report.",
+      "published_at": "2026-08-16T14:23:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "63928d18e1bb436da98763e7a46e832469260fa3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Tells Caller to Average Down on Netflix (NFLX)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
-      "summary": "",
-      "published_at": "2026-08-16T13:51:05+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "a5b76b4e954a78427b51c7fd7f98e4c42278f375",
@@ -104,7 +70,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520166",
       "summary": "",
       "published_at": "2026-08-16T13:41:11+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -112,6 +78,54 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "6391fba92476fca4d7c6b80a1c33f232ed6282ac",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "AMD Turned $10,000 Into More Than $700,000 in a Decade. The S&P 500 Turned It Into About $42,000.",
+      "url": "https://www.fool.com/investing/2026/08/16/amd-turned-10000-into-more-than-700000-in-a-decade/?source=iedfolrf0000001",
+      "summary": "One chipmaker beat the index by a factor of 17 over ten years. The path there included a 55% single-year drop.",
+      "published_at": "2026-08-16T12:34:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "99098d1239f253ab2268ad954ed902db20e955e1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Is Everyone Talking About AMD Stock?",
+      "url": "https://www.fool.com/investing/2026/08/16/why-is-everyone-talking-about-amd-stock/?source=iedfolrf0000001",
+      "summary": "AMD is beginning to capture its massive opportunity in the data center segment.",
+      "published_at": "2026-08-16T12:15:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "4995d520ebb104ac7aa25c40b21e247b189003d1",
@@ -122,7 +136,7 @@
       "url": "https://seekingalpha.com/news/4633183-earnings-week-ahead-wmt-baba-hd-tgt-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-16T12:07:05+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -138,22 +152,22 @@
       "score": 0.97
     },
     {
-      "id": "50ab9d4156ed799a6b3dc8ee7072d17bdb0672c3",
+      "id": "e49080188287994b9ba480042eaaf67491d73052",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Trending stocks this week as earnings and inflation shape Wall Street",
-      "url": "https://seekingalpha.com/news/4633591-trending-stocks-this-week-as-earnings-and-inflation-shape-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-08-16T12:05:37+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "source": "The Motley Fool",
+      "title": "The Vanguard S&P 500 ETF (VOO) Beat the Vanguard Morningstar Total Stock Market ETF (VTI) for 4 Straight Years. Here's Why That's About to Change.",
+      "url": "https://www.fool.com/investing/2026/08/16/vanguard-sp-500-etf-voo-beat-vanguard-vti/?source=iedfolrf0000001",
+      "summary": "The Vanguard Morningstar Total Stock Market ETF is more value-oriented and diversified than the Vanguard S&amp;P 500 ETF.",
+      "published_at": "2026-08-16T12:05:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.64
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "59471ca2871bbb9ce95f560a6c84cd6078bd374f",
@@ -164,7 +178,7 @@
       "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
       "published_at": "2026-08-16T11:58:15+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -182,7 +196,7 @@
       "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
       "summary": "The Wall Street powerhouse notes areas where execution of corporate strategy matters more than macroeconomic trends.",
       "published_at": "2026-08-16T11:55:08+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -200,7 +214,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520142",
       "summary": "",
       "published_at": "2026-08-16T11:35:12+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -208,6 +222,24 @@
       "tickers": [],
       "category": "capital",
       "score": 0.64
+    },
+    {
+      "id": "b758ed611103321937e9c42c8f64fda6da6dad42",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Netflix Stock Is Down Nearly 40%. What's Going On?",
+      "url": "https://www.fool.com/investing/2026/08/16/netflix-stock-is-down-nearly-40-whats-going-on/?source=iedfolrf0000001",
+      "summary": "Investors seem pessimistic about Netflix's future. But is that justified?",
+      "published_at": "2026-08-16T11:09:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "50ab37200bc8febf1fe4bc545052ddf84ae07796",
@@ -218,7 +250,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3520134",
       "summary": "",
       "published_at": "2026-08-16T11:05:10+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -226,6 +258,114 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
+    },
+    {
+      "id": "89fb010874e60477f1e5d93e15fc88592673d802",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Strategy CEO Phong Le Thinks MSTR Stock Will Outperform Bitcoin During the Next Bull Market. Here's Why He's Wrong.",
+      "url": "https://www.fool.com/investing/2026/08/16/strategy-ceo-phong-le-thinks-mstr-will-outperform/?source=iedfolrf0000001",
+      "summary": "Even if Bitcoin recovers, Strategy may have a difficult time regaining its former mojo.",
+      "published_at": "2026-08-16T10:40:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.97
+    },
+    {
+      "id": "3dd941820e900dbe5c3f4df96727c4f1ecca1738",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Stock Market Is on the Verge of Doing Something That No One's Witnessed in Nearly 156 Years, and the Consequences May Be Dire for Wall Street",
+      "url": "https://www.fool.com/investing/2026/08/16/stock-market-do-something-not-witnessed-156-years/?source=iedfolrf0000001",
+      "summary": "Eventually, the music always stops.",
+      "published_at": "2026-08-16T10:36:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "3b1e24fb9c7f184458c8d8b930fb45c9b44c798a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Broadcom vs. AMD: Which AI Chip Stock Is the Better Buy?",
+      "url": "https://www.fool.com/investing/2026/08/16/broadcom-vs-amd-which-ai-chip-stock-is-the-better/?source=iedfolrf0000001",
+      "summary": "These chipmakers have crushed the S&amp;P 500, but it's a close call when comparing them.",
+      "published_at": "2026-08-16T10:35:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "a23736395fd052552c107fa46e0de7b40be88490",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's How Much Money You'd Have Today If You Invested $1,000 in the S&P 500 During Every Stock Market Crash Since 1950 (Spoiler Alert: Wow!)",
+      "url": "https://www.fool.com/investing/2026/08/16/heres-how-much-money-youd-have-today-if-you-invest/?source=iedfolrf0000001",
+      "summary": "With inflation lingering and a potential rate hike on the horizon, some economists worry that an economic slowdown could be on the way.",
+      "published_at": "2026-08-16T09:30:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "977f154e733bae711cebe53a8ff6229e20999a16",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Apple: For Investors, the 3 Things That Matter Now Are AI, Growth, and Valuation (NASDAQ: AAPL)",
+      "url": "https://www.fool.com/investing/2026/08/16/apple-ai-growth-and-valuation-nasdaq-aapl/?source=iedfolrf0000001",
+      "summary": "Investors who are interested in this dominant consumer tech business should pay close attention to the factors that matter most to its investment thesis.",
+      "published_at": "2026-08-16T09:07:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "00ba54f049f2439c9ccba6d2bfafc305ef7b0038",
@@ -236,7 +376,7 @@
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
       "published_at": "2026-08-15T14:46:43+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -254,7 +394,25 @@
       "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
       "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
       "published_at": "2026-08-15T13:30:01+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "e7186fe382874bd0d8b7355aaa95ecb9f7132f93",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-reshaping-132600878.html",
+      "summary": "",
+      "published_at": "2026-08-15T13:26:00+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -272,7 +430,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-alert-nvidia-ceo-130002278.html",
       "summary": "",
       "published_at": "2026-08-15T13:00:02+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -296,7 +454,7 @@
       "url": "https://finance.yahoo.com/markets/article/markets-just-flipped-the-script-on-kevin-warshs-fed-chart-of-the-day-114428977.html",
       "summary": "",
       "published_at": "2026-08-15T11:44:28+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,7 +472,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
       "summary": "",
       "published_at": "2026-08-15T11:07:38+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -330,48 +488,6 @@
       "score": 0.85
     },
     {
-      "id": "a90c6facf0b053afbb738803fc69bbbda73b29d8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "How New Mexico’s $567 Million Ruling Could Change Meta",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html",
-      "summary": "",
-      "published_at": "2026-08-15T10:25:45+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "5e72bc4ac94b7ed09115454eb1ddce5b59db2dd6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Here's How Much Investing $10,000 in Oklo Stock at Its IPO Is Worth Today",
-      "url": "https://www.fool.com/investing/2026/08/15/heres-how-much-investing-10000-in-oklo-stock-at/?source=iedfolrf0000001",
-      "summary": "Oklo had a disastrous market debut. Investors who held on to their shares, however, have had the last laugh.",
-      "published_at": "2026-08-15T06:30:00+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.65
-    },
-    {
       "id": "7671e61cc419af67ecb638b3aa716602f4ecf934",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -380,7 +496,7 @@
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
       "published_at": "2026-08-14T17:39:05+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -398,7 +514,7 @@
       "url": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
       "summary": "The market is winding down an exceptionally strong reporting season, and there's an underlying trend that remains front and center.",
       "published_at": "2026-08-14T16:57:01+00:00",
-      "first_seen_at": "2026-08-16T14:20:09.252433+00:00",
+      "first_seen_at": "2026-08-16T14:48:04.289214+00:00",
       "market": "US",
       "markets": [
         "US"
