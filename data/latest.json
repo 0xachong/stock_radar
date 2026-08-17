@@ -1,33 +1,36 @@
 {
-  "generated_at": "2026-08-17T11:49:49.251839+00:00",
+  "generated_at": "2026-08-17T12:39:54.581005+00:00",
   "window_hours": 48,
-  "total_items": 28,
+  "total_items": 31,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 27,
-    "CN": 1
+    "US": 31
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 8
+      "count": 9
     },
     {
       "key": "company",
       "count": 8
     },
     {
-      "key": "guidance",
+      "key": "macro",
       "count": 4
     },
     {
-      "key": "macro",
+      "key": "rating",
       "count": 3
     },
     {
-      "key": "rating",
-      "count": 2
+      "key": "guidance",
+      "count": 3
+    },
+    {
+      "key": "capital",
+      "count": 1
     },
     {
       "key": "product",
@@ -46,15 +49,207 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 21
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 7
+      "count": 6
     }
   ],
   "items": [
+    {
+      "id": "e72cb12593fd75d67c272590e1fb739b0fa0fe37",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "从大蒜出村看拼多多（PDD.US）赋能乡村的实践，“免费送货入村”搅动经济活水",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3521331",
+      "summary": "",
+      "published_at": "2026-08-17T12:06:20+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PDD",
+          "name": "拼多多",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "624f13c6fc6183fd89b0f59c5c8ea8e78cd48dc5",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股前瞻 | 三大股指期货涨跌不一 芯片、光通信股盘前普涨 美股迎“零售财报周”",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3521332",
+      "summary": "",
+      "published_at": "2026-08-17T12:06:20+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.8
+    },
+    {
+      "id": "1c33c1d82cffd28c394d07bb713aa4e810f3e496",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Alphabet(GOOGL.US)成SpaceX(SPCX.US)最大机构股东：持仓达940亿美元，2015年9亿美元押注豪赚百倍",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3521333",
+      "summary": "",
+      "published_at": "2026-08-17T12:06:20+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 0.97
+    },
+    {
+      "id": "653a56cef9924187303f0e948dbb5106e0113379",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Meta trial: States allege Facebook, Instagram addicted kids",
+      "url": "https://finance.yahoo.com/media-advertising/articles/meta-trial-states-allege-facebook-120213334.html",
+      "summary": "",
+      "published_at": "2026-08-17T12:02:13+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "8fd4454da7aaa7bdabe62827474adf1ed06ff8e5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+      "published_at": "2026-08-17T12:00:01+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "d31b7b7b596fcb9fa13cc1f850eccb357e9cfc42",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Palantir Trades at 74x Sales. History Says This Is What Happens to Software Stocks That Cross That Multiple After a Blowout Quarter.",
+      "url": "https://www.fool.com/investing/2026/08/17/palantir-trades-at-roughly-151x-earnings-history-s/?source=iedfolrf0000001",
+      "summary": "Palantir's revenue is growing over 90% year over year, but the company's stock price is trading at a historically high level.",
+      "published_at": "2026-08-17T12:00:00+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "2c50d475b8c7a3822825ce19d5e040361bf247a5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-17T11:58:59+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "c3f75aa30ae71e6ecfb58733fb8972d7c652d3cb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-115421667.html",
+      "summary": "",
+      "published_at": "2026-08-17T11:54:21+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "0871e3e3d026f8c906091bf13d894fb630015838",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Wall Street eyes retail earnings as futures drift ahead of the bell",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-retail-earnings-114800359.html",
+      "summary": "",
+      "published_at": "2026-08-17T11:48:00+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
     {
       "id": "a54543fb0e65e1bd924cf6eaf3b6f3d7dad72bd6",
       "site_id": "us_global",
@@ -64,7 +259,7 @@
       "url": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
       "summary": "Goldman expects that the Fed will stand pat — barring any dramatic data.",
       "published_at": "2026-08-17T11:33:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -82,7 +277,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
       "summary": "Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker.\nLi, the 63-year-old founder of the automotive group, announced his resignation just after Hong Kong-listed Geely reported record first-half revenue in China’s cutthroat car market on Monday.",
       "published_at": "2026-08-17T11:32:39+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -100,7 +295,7 @@
       "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
       "summary": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
       "published_at": "2026-08-17T11:24:23+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -116,102 +311,6 @@
       "score": 0.85
     },
     {
-      "id": "7ae4812fb8fdba760783bd02c8944b0951aa5d45",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Two Squeezed Hyperscalers: Does Meta or Amazon Have The Bigger Cash Flow Problem?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-squeezed-hyperscalers-does-meta-111035405.html",
-      "summary": "",
-      "published_at": "2026-08-17T11:10:35+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "69979da7fa5417730b1cefee06b74ca8bd119d0d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "加拿大TSX股指期货小幅走高，美联储加息预期降温，霍尔木兹海峡局势持续紧张",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3521151",
-      "summary": "",
-      "published_at": "2026-08-17T11:10:10+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "e30e63f3cbe1ce603d5460b5a5a7ca2243236410",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美股异动 | Argenx(ARGX.US)盘前涨超10% 自身免疫性肌炎药物Vyvgart III期研究达主要终点",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3521125",
-      "summary": "",
-      "published_at": "2026-08-17T11:06:03+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.76
-    },
-    {
-      "id": "76c6c1dd3d16211a23a2210e5c1aec93aa353752",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "道琼斯指数、纳斯达克指数、标普500指数前瞻：财报季持续成为市场焦点",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3521114",
-      "summary": "",
-      "published_at": "2026-08-17T10:42:49+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "e5f044d1c6c674a179e4889d44c3879bf4ba6d08",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Okta股价今日为何上涨？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521085",
-      "summary": "",
-      "published_at": "2026-08-17T10:37:15+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
       "id": "f0f0f35d19e5c2a0c31cd1fd7a900159c30625ea",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -220,7 +319,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/google-amazon-and-meta-all-just-raised-capex-guida/?source=iedfolrf0000001",
       "summary": "Just be sure to look more than a year down the road.",
       "published_at": "2026-08-17T10:30:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,7 +343,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/10000-in-oklo-stock-at-its-high-is-worth-about-230/?source=iedfolrf0000001",
       "summary": "The nuclear start-up's stock is down about 77% from its 52-week high. Its operating record went the other direction.",
       "published_at": "2026-08-17T10:18:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -262,7 +361,7 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
       "summary": "",
       "published_at": "2026-08-17T09:44:21+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -280,7 +379,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/salesforce-borrowed-25-billion-to-buy-its-own-stoc/?source=iedfolrf0000001",
       "summary": "The software giant retired a tenth of its share count in a single stroke. The bill shows up in fiscal 2027 cash flow.",
       "published_at": "2026-08-17T08:52:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -304,7 +403,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/stock-market-return-will-crush-long-term-average/?source=iedfolrf0000001",
       "summary": "The S&amp;P 500 returned 9.5% annually over the past two decades. Wall Street expects much bigger gains in the next year.",
       "published_at": "2026-08-17T08:44:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -322,7 +421,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/fed-chair-kevin-warshs-job-just-got-much-easier-he/?source=iedfolrf0000001",
       "summary": "The pressure for a rate hike has subsided -- but maybe only temporarily.",
       "published_at": "2026-08-17T08:24:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -340,7 +439,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/where-palantir-stock-lands-in-5-years-comes-down-t/?source=iedfolrf0000001",
       "summary": "The AI software maker is worth $418 billion after growing revenue 93% last quarter. Whether the stock beats the market from here hinges on a single growth rate.",
       "published_at": "2026-08-17T07:47:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -364,7 +463,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
       "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.\nThe company, which has been listed on Shenzhen’s Nasdaq-like ChiNext board since 2011, is offering 31.29 million H shares priced at up to HK$102.80 eac",
       "published_at": "2026-08-17T06:40:22+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -382,7 +481,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/where-will-palantir-stock-be-in-2030/?source=iedfolrf0000001",
       "summary": "Palantir's rapid growth could continue to lift the stock.",
       "published_at": "2026-08-17T03:30:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -406,7 +505,7 @@
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
       "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
       "published_at": "2026-08-17T03:02:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -424,7 +523,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/sk-hynixs-stock-trades-at-around-5-times-next-year/?source=iedfolrf0000001",
       "summary": "The commoditized nature of memory chips has traditionally made companies vulnerable to industry cycles.",
       "published_at": "2026-08-17T02:00:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -442,7 +541,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/2-stocks-down-buy-right-now-hold-decade/?source=iedfolrf0000001",
       "summary": "Two category leaders are still off their highs, yet continue to report double-digit revenue growth.",
       "published_at": "2026-08-17T01:15:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -460,7 +559,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/this-software-stock-just-produced-a-rule-of-40-sco/?source=iedfolrf0000001",
       "summary": "Despite rapid growth, shares of this AI-fueled software company are cheap.",
       "published_at": "2026-08-17T00:30:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -484,7 +583,7 @@
       "url": "https://www.fool.com/investing/2026/08/16/the-trade-desk-s-woes-and-a-new-ai-doughnut/?source=iedfolrf0000001",
       "summary": "As earnings season winds down, it's time to reflect on lessons from this quarter.",
       "published_at": "2026-08-16T23:29:14+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -502,7 +601,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050?utm_source=rss_feed",
       "summary": "More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report.\nUnder a current policy scenario – in which existing climate rules remain unchanged and global temperature rises by around 2.9 degrees Celsius above pre-industrial leve",
       "published_at": "2026-08-16T23:00:11+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -520,7 +619,7 @@
       "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
       "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
       "published_at": "2026-08-16T21:32:25+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -528,24 +627,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "299efb9801cf0e7587d19739dfdba74934317d65",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
-      "url": "https://www.fool.com/investing/2026/08/16/micron-is-worth-11-trillion-and-sits-23-below-its/?source=iedfolrf0000001",
-      "summary": "The memory maker's earnings keep setting records, and its guidance points to another one. The stock sits about 23% below its high anyway.",
-      "published_at": "2026-08-16T21:29:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "0aa282f7c93a36b9e6d666205d117d9e028fccbd",
@@ -556,7 +637,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
       "summary": "",
       "published_at": "2026-08-16T02:03:00+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -574,7 +655,7 @@
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
       "published_at": "2026-08-15T14:46:43+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -592,7 +673,7 @@
       "url": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
       "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
       "published_at": "2026-08-15T13:30:01+00:00",
-      "first_seen_at": "2026-08-17T11:49:49.251839+00:00",
+      "first_seen_at": "2026-08-17T12:39:54.581005+00:00",
       "market": "US",
       "markets": [
         "US"
