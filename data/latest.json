@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-08-17T16:54:45.932711+00:00",
+  "generated_at": "2026-08-17T17:25:07.293840+00:00",
   "window_hours": 48,
-  "total_items": 19,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 16,
+    "US": 20,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 6
+      "count": 7
     },
     {
       "key": "company",
-      "count": 5
+      "count": 6
     },
     {
-      "key": "macro",
-      "count": 3
+      "key": "rating",
+      "count": 4
+    },
+    {
+      "key": "ipo",
+      "count": 2
     },
     {
       "key": "ma",
       "count": 2
     },
     {
-      "key": "rating",
+      "key": "macro",
       "count": 2
-    },
-    {
-      "key": "ipo",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 13
+      "count": 17
     },
     {
       "site_id": "hk_china",
@@ -48,22 +48,128 @@
   ],
   "items": [
     {
-      "id": "afc2e9da7a48f8502f360097591a39f22036dfa9",
+      "id": "4a67ee8a59a7370545bb6dd7be534adae63d542c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Equinox Gold secures final federal permit to construct Nevada mine",
-      "url": "https://seekingalpha.com/news/4633991-equinox-gold-secures-final-federal-permit-to-construct-nevada-mine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Yahoo Finance",
+      "title": "Top analyst sees nearly 50% upside in beaten-down space stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-nearly-50-170700945.html",
       "summary": "",
-      "published_at": "2026-08-17T16:46:36+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "published_at": "2026-08-17T17:07:00+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "1aa60909333b9497208ddcc37a19f9b240097924",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Quant ratings on Appaloosa Management's top holdings: AMZN, MU, TSM",
+      "url": "https://seekingalpha.com/news/4633889-quant-ratings-on-appaloosa-managements-top-holdings-amzn-mu-tsm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-17T17:05:59+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        },
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.95
+    },
+    {
+      "id": "9ed72e9f7e64cbab99ab51242b6d871805683834",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nebius's Revenue Is Forecast to Roughly Quadruple Year Over Year. Here's Why Analysts Are Still Debating Whether That's Enough to Justify the Stock.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebiuss-revenue-forecast-roughly-quadruple-165809392.html",
+      "summary": "",
+      "published_at": "2026-08-17T16:58:09+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "3d55c038b70cd8d115e4a9b3b6cca1ca88f06ceb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Meet the Newest Stock in the S&P 500. It Soared 424% Since Its 2024 IPO, and It's a Buy Right Now, According to Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-newest-stock-p-500-165537866.html",
+      "summary": "",
+      "published_at": "2026-08-17T16:55:37+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.76
+    },
+    {
+      "id": "aaa386c07a4c061e31ae98fe9764482e6e6dccd6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Warren Buffett's Berkshire doubles down on undervalued retail stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-doubles-down-164700214.html",
+      "summary": "",
+      "published_at": "2026-08-17T16:47:00+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "86c04d8a666e1a493395ea644d3a052a3071eb7b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Camtek (CAMT) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/camtek-camt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Record revenue and backlog fuel over 30% H2 growth guidance.",
+      "published_at": "2026-08-17T16:34:33+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "4795ad5799c7748f6174d837426c2b0db40572c5",
@@ -74,7 +180,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521944",
       "summary": "",
       "published_at": "2026-08-17T16:23:34+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -92,7 +198,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521935",
       "summary": "",
       "published_at": "2026-08-17T16:16:03+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -100,24 +206,6 @@
       "tickers": [],
       "category": "ma",
       "score": 0.61
-    },
-    {
-      "id": "a6ee56411e1e5190f0684a471bf76032b15beec6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SoFi Is Dividing Wall Street. This Is the Bull Case for the Fintech Stock.",
-      "url": "https://www.barrons.com/articles/sofi-stock-buy-bullish-case-fintech-27801263?siteid=yhoof2&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-17T16:16:00+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "1e561d4fe901241f7c48aea1e60c49c36aec369b",
@@ -128,7 +216,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521931",
       "summary": "",
       "published_at": "2026-08-17T16:13:52+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -146,7 +234,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/quanterix-qtrx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Revenue guidance slashed as commercial execution stumbles and academic spending weakens.",
       "published_at": "2026-08-17T16:08:45+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -164,7 +252,7 @@
       "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
       "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
       "published_at": "2026-08-17T16:06:28+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -188,7 +276,7 @@
       "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
       "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
       "published_at": "2026-08-17T16:01:46+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -206,7 +294,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/bill-ackman-is-buying-netflix-should-investors/?source=iedfolrf0000001",
       "summary": "Shares of Netflix are still down 30% over the past 12 months, but there are plenty of reasons for investors to be optimistic.",
       "published_at": "2026-08-17T15:45:00+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -224,7 +312,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-gemini-space-station-stock-is-plummeting-today/?source=iedfolrf0000001",
       "summary": "Gemini stock is now down more than 60% in 2026.",
       "published_at": "2026-08-17T15:43:58+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -242,7 +330,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/heron-hrtx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Patent setback forces guidance withdrawal as acute care revenue surges 44% year over year.",
       "published_at": "2026-08-17T15:39:30+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,7 +348,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/sohu-sohu-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Gaming revenue beat guidance on expansion packs, but Q3 outlook signals sharp slowdown ahead.",
       "published_at": "2026-08-17T15:39:30+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -278,7 +366,7 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-17T15:39:17+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -296,7 +384,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/reddit-to-join-sp-500-will-this-send-the-stock-bac/?source=iedfolrf0000001",
       "summary": "Stocks that join the broad index typically see their share prices rise afterward.",
       "published_at": "2026-08-17T15:00:00+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,7 +402,7 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html",
       "summary": "",
       "published_at": "2026-08-17T13:57:47+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -332,7 +420,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
       "summary": "Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker.\nLi, the 63-year-old founder of the automotive group, announced his resignation just after Hong Kong-listed Geely reported record first-half revenue in China’s cutthroat car market on Monday.",
       "published_at": "2026-08-17T11:32:39+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -342,22 +430,22 @@
       "score": 0.52
     },
     {
-      "id": "9a9d1674ce959f9c1259d210070580f70544e26c",
+      "id": "50362e933c9acc4d14bbbd88379dba3dbcc20045",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as Treasury yields rise, US-Iran tensions remain in focus",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
       "summary": "",
       "published_at": "2026-08-17T09:44:21+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.76
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "2a6a4fc63e69c66c66b6334aa340fbe2ecc4ddf2",
@@ -368,7 +456,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
       "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.\nThe company, which has been listed on Shenzhen’s Nasdaq-like ChiNext board since 2011, is offering 31.29 million H shares priced at up to HK$102.80 eac",
       "published_at": "2026-08-17T06:40:22+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -386,7 +474,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050?utm_source=rss_feed",
       "summary": "More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report.\nUnder a current policy scenario – in which existing climate rules remain unchanged and global temperature rises by around 2.9 degrees Celsius above pre-industrial leve",
       "published_at": "2026-08-16T23:00:11+00:00",
-      "first_seen_at": "2026-08-17T16:54:45.932711+00:00",
+      "first_seen_at": "2026-08-17T17:25:07.293840+00:00",
       "market": "US",
       "markets": [
         "US"
