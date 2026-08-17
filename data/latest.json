@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-08-17T21:23:57.841848+00:00",
+  "generated_at": "2026-08-17T21:49:45.353450+00:00",
   "window_hours": 48,
-  "total_items": 35,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 32,
-    "HK": 2,
-    "CN": 1
+    "US": 25,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 15
-    },
-    {
-      "key": "earnings",
-      "count": 8
+      "count": 13
     },
     {
       "key": "macro",
       "count": 4
+    },
+    {
+      "key": "earnings",
+      "count": 3
     },
     {
       "key": "rating",
@@ -32,10 +31,6 @@
     },
     {
       "key": "ipo",
-      "count": 2
-    },
-    {
-      "key": "product",
       "count": 1
     }
   ],
@@ -43,38 +38,50 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 27
+      "count": 21
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 5
     }
   ],
   "items": [
     {
-      "id": "fd330d7dba262a969708705bc250e199eceb5c3f",
+      "id": "b3109bb5d8ebb5de314f6894ae772c44558e3094",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Seeking Alpha Market News",
-      "title": "Parsons's unit wins $664.8M multi-year Army technical, logistics support contract",
-      "url": "https://seekingalpha.com/news/4634137-parsonss-unit-wins-6648m-multi-year-army-technical-logistics-support-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Gold gains as dollar moves lower on reduced bets for Fed rate hike",
+      "url": "https://seekingalpha.com/news/4634130-gold-gains-as-dollar-moves-lower-on-reduced-bets-for-fed-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
-      "published_at": "2026-08-17T21:16:28+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "published_at": "2026-08-17T21:37:07+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "4f7fb2e965c7fb9cc0cddfc571994f26606ffa80",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.22%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3522114",
+      "summary": "",
+      "published_at": "2026-08-17T21:30:14+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
-      "category": "product",
-      "score": 0.85
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "ede15da7e855cc5d562ee67afb575ee2a5d671dd",
@@ -85,7 +92,7 @@
       "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
       "summary": "Here’s another factoid that should get the AI bears excited: Stocks in the S&amp;P 500 are increasingly trading in opposite directions on a given day. That means higher volatility than the performance of the index would lead one to believe.",
       "published_at": "2026-08-17T21:15:00+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -93,6 +100,24 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "940d54dba0058e9d44f76094f89138f35ee718f1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Investor Insight: Universal Insurance Executive Chairman Sells 20,000 Shares for $885,400",
+      "url": "https://www.fool.com/coverage/filings/2026/08/17/investor-insight-universal-insurance-executive-chairman-sells-20-000-shares-for-usd885-400/?source=iedfolrf0000001",
+      "summary": "Sean P. Downes reduced his direct holdings on the back of a strong rally over the last 12 months from the Universal Insurance stock price.",
+      "published_at": "2026-08-17T21:00:01+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "079e4b8901b97f245ee2c7239ba36cce7c5400c2",
@@ -103,7 +128,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/repay-holdings-rpay-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "KUBRA acquisition doubled pro forma revenue; management targets deleveraging below 3.0x in 18 months.",
       "published_at": "2026-08-17T20:54:41+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -121,7 +146,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/alico-alco-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Land leasing income drove revenue growth as citrus winds down and development advances.",
       "published_at": "2026-08-17T20:54:40+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -139,7 +164,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3522092",
       "summary": "",
       "published_at": "2026-08-17T20:49:33+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -147,78 +172,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.61
-    },
-    {
-      "id": "fd5d4aced448ba2563c3cbba6e0b6a4fc3fe7729",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "DocGo盘后股价上涨，二季度财报超预期成主要推手",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3522088",
-      "summary": "",
-      "published_at": "2026-08-17T20:40:17+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
-    },
-    {
-      "id": "bf78c2a46b57228700e20edc50e19e81d2fd1f7d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国股市收低；截至收盘道琼斯工业平均指数下跌0.51%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3522074",
-      "summary": "",
-      "published_at": "2026-08-17T20:31:19+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "306edf1d9dbe215de4ea30fcc56ca5f01d8ca2d0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌0.17%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3522072",
-      "summary": "",
-      "published_at": "2026-08-17T20:30:40+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "56ba01a6a13eb32f197acb577d3a2fec33b6cc77",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "巴西股市收低；截至收盘巴西IBOVESPA股指下跌0.09%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3522071",
-      "summary": "",
-      "published_at": "2026-08-17T20:30:13+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     },
     {
       "id": "39e6f1d818cff0e63a28974d53bcbe5fba62fa36",
@@ -229,7 +182,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/gold-and-silver-prices-are-rising-heres-which-prec/?source=iedfolrf0000001",
       "summary": "The gold-silver ratio can provide clues as to which metal may do better in a market downturn.",
       "published_at": "2026-08-17T20:28:22+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -253,7 +206,7 @@
       "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
       "summary": "Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
       "published_at": "2026-08-17T20:13:27+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -271,7 +224,7 @@
       "url": "https://www.cnbc.com/2026/08/17/this-small-cap-etf-just-hit-a-fresh-high-and-its-members-have-lots-of-cash.html",
       "summary": "Some small-cap stocks offer a potent combination of dividends and healthy free cash flows. Wall Street sees more upside ahead for these names.",
       "published_at": "2026-08-17T19:44:35+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -289,7 +242,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-marvell-technology-rallied-today/?source=iedfolrf0000001",
       "summary": "The stock rallied on a good day for chip stocks, while multiple Wall Street analysts delivered positive notes.",
       "published_at": "2026-08-17T19:36:46+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -313,7 +266,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/whats-wrong-with-applovin-stock/?source=iedfolrf0000001",
       "summary": "AppLovin shares are down more than 50% this year.",
       "published_at": "2026-08-17T18:49:39+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -331,7 +284,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-meta-stock-is-falling-today/?source=iedfolrf0000001",
       "summary": "Could this be big tech's \"big tobacco\" moment?",
       "published_at": "2026-08-17T18:48:57+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -355,7 +308,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-the-trade-desk-stock-plunged-to-another-7-year/?source=iedfolrf0000001",
       "summary": "Wall Street is increasingly bearish on the adtech specialist.",
       "published_at": "2026-08-17T18:35:11+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -363,24 +316,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "f5909c378110f93409cb48d86547eed21e5eb8ea",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
-      "summary": "Amazon is very far from its goal of achieving $1 trillion in cloud revenue, but it could deliver handsome returns for investors as it pursues that target, an analyst notes.",
-      "published_at": "2026-08-17T17:57:00+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "6e46a9bea27b4d468c1b15b7b54d75c064a90aa1",
@@ -391,7 +326,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/dow-falls-03-while-memory-chip-stocks-keep-the-nas/?source=iedfolrf0000001",
       "summary": "Why is the Dow down 200 points while the Nasdaq holds flat? Two chipmakers are doing a lot of heavy lifting for the tech-heavy index.",
       "published_at": "2026-08-17T17:19:17+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -409,7 +344,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/vistra-is-under-150-heres-why-i-think-it-wont-stay/?source=iedfolrf0000001",
       "summary": "Vistra's stock is down 32% from its 52-week high. Here's why I think the energy stock has upside potential from here.",
       "published_at": "2026-08-17T17:15:00+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -417,60 +352,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "a2b80febaec597c537d5b914bdb7329ecb3fba51",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nebius's Revenue Is Forecast to Roughly Quadruple Year Over Year. Here's Why Analysts Are Still Debating Whether That's Enough to Justify the Stock.",
-      "url": "https://www.fool.com/investing/2026/08/17/nebiuss-revenue-is-expected-to-roughly-quadruple-y/?source=iedfolrf0000001",
-      "summary": "Nebius is one of the fastest-growing businesses in AI infrastructure, but it's pricey.",
-      "published_at": "2026-08-17T16:38:09+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "9dee4cd958b9a6ca6cf8b4a8386ede83127c1a31",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet the Newest Stock in the S&P 500. It Soared 424% Since Its 2024 IPO, and It's a Buy Right Now, According to Wall Street",
-      "url": "https://www.fool.com/investing/2026/08/17/meet-the-newest-stock-in-the-s-and-p-500-it-soared-424-since-its-2024-ipo-and-it-s-a-buy-right-now-according-to-wall-street/?source=iedfolrf0000001",
-      "summary": "This company's human-powered platform bucks the artificial intelligence (AI) trend.",
-      "published_at": "2026-08-17T16:35:37+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.76
-    },
-    {
-      "id": "86c04d8a666e1a493395ea644d3a052a3071eb7b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Camtek (CAMT) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/camtek-camt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Record revenue and backlog fuel over 30% H2 growth guidance.",
-      "published_at": "2026-08-17T16:34:33+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "8fd4454da7aaa7bdabe62827474adf1ed06ff8e5",
@@ -481,7 +362,7 @@
       "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
       "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
       "published_at": "2026-08-17T16:06:28+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -505,7 +386,7 @@
       "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
       "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
       "published_at": "2026-08-17T16:01:46+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -523,7 +404,7 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html",
       "summary": "",
       "published_at": "2026-08-17T13:57:47+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -541,7 +422,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
       "summary": "Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker.\nLi, the 63-year-old founder of the automotive group, announced his resignation just after Hong Kong-listed Geely reported record first-half revenue in China’s cutthroat car market on Monday.",
       "published_at": "2026-08-17T11:32:39+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -559,7 +440,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
       "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.\nThe company, which has been listed on Shenzhen’s Nasdaq-like ChiNext board since 2011, is offering 31.29 million H shares priced at up to HK$102.80 eac",
       "published_at": "2026-08-17T06:40:22+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -577,7 +458,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050?utm_source=rss_feed",
       "summary": "More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report.\nUnder a current policy scenario – in which existing climate rules remain unchanged and global temperature rises by around 2.9 degrees Celsius above pre-industrial leve",
       "published_at": "2026-08-16T23:00:11+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -595,7 +476,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
       "summary": "",
       "published_at": "2026-08-16T13:51:05+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -619,7 +500,7 @@
       "url": "https://finance.yahoo.com/markets/options/articles/investors-microsoft-love-shorting-money-131502468.html",
       "summary": "",
       "published_at": "2026-08-16T13:15:02+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -643,7 +524,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
       "summary": "",
       "published_at": "2026-08-16T12:55:00+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -653,82 +534,28 @@
       "score": 0.52
     },
     {
-      "id": "486315ca83b2953031edc238e6ff03bd6450d17b",
+      "id": "bd47fd4723b8307c87e6f2dd9cae68658371e372",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "The Vanguard S&P 500 ETF (VOO) Beat the Vanguard Morningstar Total Stock Market ETF (VTI) for 4 Straight Years. Here's Why That's About to Change.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-etf-voo-122500800.html",
+      "title": "AMD Turned $10,000 Into More Than $700,000 in a Decade. The S&P 500 Turned It Into About $42,000.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-turned-10-000-more-125400982.html",
       "summary": "",
-      "published_at": "2026-08-16T12:25:00+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "11fddbf2eb8ecd4d72fc89a09047e7cace0aaab9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-face-bigger-threat-fed-120000846.html",
-      "summary": "",
-      "published_at": "2026-08-16T12:00:00+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "d756c4984ec5e6151e2cae5e4bc605682a261b94",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html",
-      "summary": "",
-      "published_at": "2026-08-16T10:27:22+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "d6abd56918fb5ad6be7eb55faa174a98c851bd28",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html",
-      "summary": "",
-      "published_at": "2026-08-16T10:17:19+00:00",
-      "first_seen_at": "2026-08-17T21:23:57.841848+00:00",
+      "published_at": "2026-08-16T12:54:00+00:00",
+      "first_seen_at": "2026-08-17T21:49:45.353450+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "NVDA",
-          "name": "英伟达",
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 1.0
     }
   ]
 }
