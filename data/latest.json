@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-17T20:24:16.719590+00:00",
+  "generated_at": "2026-08-17T20:53:42.525583+00:00",
   "window_hours": 48,
   "total_items": 30,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 30
+    "HK": 1,
+    "US": 28,
+    "CN": 1
   },
   "category_stats": [
     {
@@ -14,11 +16,11 @@
     },
     {
       "key": "earnings",
-      "count": 6
+      "count": 7
     },
     {
       "key": "macro",
-      "count": 3
+      "count": 4
     },
     {
       "key": "rating",
@@ -31,14 +33,6 @@
     {
       "key": "ipo",
       "count": 2
-    },
-    {
-      "key": "policy",
-      "count": 1
-    },
-    {
-      "key": "product",
-      "count": 1
     }
   ],
   "site_stats": [
@@ -55,6 +49,78 @@
   ],
   "items": [
     {
+      "id": "fd5d4aced448ba2563c3cbba6e0b6a4fc3fe7729",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "DocGo盘后股价上涨，二季度财报超预期成主要推手",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3522088",
+      "summary": "",
+      "published_at": "2026-08-17T20:40:17+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "bf78c2a46b57228700e20edc50e19e81d2fd1f7d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美国股市收低；截至收盘道琼斯工业平均指数下跌0.51%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3522074",
+      "summary": "",
+      "published_at": "2026-08-17T20:31:19+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "306edf1d9dbe215de4ea30fcc56ca5f01d8ca2d0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌0.17%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3522072",
+      "summary": "",
+      "published_at": "2026-08-17T20:30:40+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "56ba01a6a13eb32f197acb577d3a2fec33b6cc77",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "巴西股市收低；截至收盘巴西IBOVESPA股指下跌0.09%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3522071",
+      "summary": "",
+      "published_at": "2026-08-17T20:30:13+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
       "id": "e7f6b6a885c35d13a15afd5bfd88b521d6c86beb",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -63,7 +129,7 @@
       "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
       "summary": "Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
       "published_at": "2026-08-17T20:13:27+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -71,54 +137,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "91ba7c296f02f45f174cd045dc0e5ee39f751fa4",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "苹果因德国调查将修改广告追踪规则",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3522035",
-      "summary": "",
-      "published_at": "2026-08-17T20:02:06+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
-      "category": "policy",
-      "score": 0.85
-    },
-    {
-      "id": "64b0bf052885f0e6a93115632b1680c6baaa66aa",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "谷歌赢得Spirit Airlines数据拍卖，将用于AI训练",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3522031",
-      "summary": "",
-      "published_at": "2026-08-17T19:54:40+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "dbc8422caace2426e42ebb6f783051a31c1dc09f",
@@ -129,7 +147,7 @@
       "url": "https://www.cnbc.com/2026/08/17/this-small-cap-etf-just-hit-a-fresh-high-and-its-members-have-lots-of-cash.html",
       "summary": "Some small-cap stocks offer a potent combination of dividends and healthy free cash flows. Wall Street sees more upside ahead for these names.",
       "published_at": "2026-08-17T19:44:35+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -137,54 +155,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.64
-    },
-    {
-      "id": "89fd021fdb54d74ce62c548c56b70ea071fe6096",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "特斯拉计划本月在奥斯汀公开推出Cybercab无人驾驶出租车",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3522027",
-      "summary": "",
-      "published_at": "2026-08-17T19:43:52+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "75818d2cf9f1fc0d13ef39514ff10d3484c1c54e",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Uber、Lyft股价下跌，报道称特斯拉CyberCab将于8月上线",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3522021",
-      "summary": "",
-      "published_at": "2026-08-17T19:37:13+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
     },
     {
       "id": "1b102eb005325e07a106f66c53d8e5577a86d5b7",
@@ -195,7 +165,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-marvell-technology-rallied-today/?source=iedfolrf0000001",
       "summary": "The stock rallied on a good day for chip stocks, while multiple Wall Street analysts delivered positive notes.",
       "published_at": "2026-08-17T19:36:46+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -219,7 +189,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/whats-wrong-with-applovin-stock/?source=iedfolrf0000001",
       "summary": "AppLovin shares are down more than 50% this year.",
       "published_at": "2026-08-17T18:49:39+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -237,7 +207,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-meta-stock-is-falling-today/?source=iedfolrf0000001",
       "summary": "Could this be big tech's \"big tobacco\" moment?",
       "published_at": "2026-08-17T18:48:57+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -261,7 +231,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/why-the-trade-desk-stock-plunged-to-another-7-year/?source=iedfolrf0000001",
       "summary": "Wall Street is increasingly bearish on the adtech specialist.",
       "published_at": "2026-08-17T18:35:11+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -279,7 +249,7 @@
       "url": "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
       "summary": "Amazon is very far from its goal of achieving $1 trillion in cloud revenue, but it could deliver handsome returns for investors as it pursues that target, an analyst notes.",
       "published_at": "2026-08-17T17:57:00+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -297,7 +267,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/dow-falls-03-while-memory-chip-stocks-keep-the-nas/?source=iedfolrf0000001",
       "summary": "Why is the Dow down 200 points while the Nasdaq holds flat? Two chipmakers are doing a lot of heavy lifting for the tech-heavy index.",
       "published_at": "2026-08-17T17:19:17+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -315,7 +285,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/vistra-is-under-150-heres-why-i-think-it-wont-stay/?source=iedfolrf0000001",
       "summary": "Vistra's stock is down 32% from its 52-week high. Here's why I think the energy stock has upside potential from here.",
       "published_at": "2026-08-17T17:15:00+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -333,7 +303,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/nebiuss-revenue-is-expected-to-roughly-quadruple-y/?source=iedfolrf0000001",
       "summary": "Nebius is one of the fastest-growing businesses in AI infrastructure, but it's pricey.",
       "published_at": "2026-08-17T16:38:09+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -351,7 +321,7 @@
       "url": "https://www.fool.com/investing/2026/08/17/meet-the-newest-stock-in-the-s-and-p-500-it-soared-424-since-its-2024-ipo-and-it-s-a-buy-right-now-according-to-wall-street/?source=iedfolrf0000001",
       "summary": "This company's human-powered platform bucks the artificial intelligence (AI) trend.",
       "published_at": "2026-08-17T16:35:37+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -369,7 +339,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/camtek-camt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Record revenue and backlog fuel over 30% H2 growth guidance.",
       "published_at": "2026-08-17T16:34:33+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -387,7 +357,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/quanterix-qtrx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Revenue guidance slashed as commercial execution stumbles and academic spending weakens.",
       "published_at": "2026-08-17T16:08:45+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -405,7 +375,7 @@
       "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
       "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
       "published_at": "2026-08-17T16:06:28+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -429,31 +399,13 @@
       "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
       "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
       "published_at": "2026-08-17T16:01:46+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "19c44d14b165f1290dab3f3cde0278179c8e0d34",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Bill Ackman Is Buying Netflix. Should Investors Load Up, Too?",
-      "url": "https://www.fool.com/investing/2026/08/17/bill-ackman-is-buying-netflix-should-investors/?source=iedfolrf0000001",
-      "summary": "Shares of Netflix are still down 30% over the past 12 months, but there are plenty of reasons for investors to be optimistic.",
-      "published_at": "2026-08-17T15:45:00+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -465,7 +417,7 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html",
       "summary": "",
       "published_at": "2026-08-17T13:57:47+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -483,7 +435,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
       "summary": "Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker.\nLi, the 63-year-old founder of the automotive group, announced his resignation just after Hong Kong-listed Geely reported record first-half revenue in China’s cutthroat car market on Monday.",
       "published_at": "2026-08-17T11:32:39+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -501,7 +453,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
       "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.\nThe company, which has been listed on Shenzhen’s Nasdaq-like ChiNext board since 2011, is offering 31.29 million H shares priced at up to HK$102.80 eac",
       "published_at": "2026-08-17T06:40:22+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -519,7 +471,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050?utm_source=rss_feed",
       "summary": "More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report.\nUnder a current policy scenario – in which existing climate rules remain unchanged and global temperature rises by around 2.9 degrees Celsius above pre-industrial leve",
       "published_at": "2026-08-16T23:00:11+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -537,7 +489,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
       "summary": "",
       "published_at": "2026-08-16T13:51:05+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -561,7 +513,7 @@
       "url": "https://finance.yahoo.com/markets/options/articles/investors-microsoft-love-shorting-money-131502468.html",
       "summary": "",
       "published_at": "2026-08-16T13:15:02+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -585,13 +537,31 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
       "summary": "",
       "published_at": "2026-08-16T12:55:00+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "11fddbf2eb8ecd4d72fc89a09047e7cace0aaab9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-face-bigger-threat-fed-120000846.html",
+      "summary": "",
+      "published_at": "2026-08-16T12:00:00+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
       "score": 0.52
     },
     {
@@ -603,7 +573,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-down-nearly-40-112900340.html",
       "summary": "",
       "published_at": "2026-08-16T11:29:00+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -621,7 +591,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html",
       "summary": "",
       "published_at": "2026-08-16T10:27:22+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -639,7 +609,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html",
       "summary": "",
       "published_at": "2026-08-16T10:17:19+00:00",
-      "first_seen_at": "2026-08-17T20:24:16.719590+00:00",
+      "first_seen_at": "2026-08-17T20:53:42.525583+00:00",
       "market": "US",
       "markets": [
         "US"
