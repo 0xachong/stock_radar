@@ -1,40 +1,41 @@
 {
-  "generated_at": "2026-08-17T03:48:17.099881+00:00",
+  "generated_at": "2026-08-17T04:39:47.938386+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 32,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 18,
-    "HK": 5
+    "US": 25,
+    "HK": 6,
+    "CN": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 14
     },
     {
       "key": "earnings",
-      "count": 3
+      "count": 11
     },
     {
-      "key": "rating",
+      "key": "guidance",
       "count": 2
     },
     {
       "key": "ipo",
-      "count": 2
+      "count": 1
     },
     {
-      "key": "macro",
-      "count": 2
-    },
-    {
-      "key": "guidance",
+      "key": "rating",
       "count": 1
     },
     {
       "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "macro",
       "count": 1
     },
     {
@@ -46,7 +47,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 24
     },
     {
       "site_id": "hk_china",
@@ -56,82 +57,22 @@
   ],
   "items": [
     {
-      "id": "986f69ffc039da251ecd69e6315d7b5001777dae",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "用多元融资驳斥AI泡沫!从百年债到澳元债首秀 谷歌母公司Alphabet(GOOGL.US)用全球融资撑起AI雄心壮志",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520491",
-      "summary": "",
-      "published_at": "2026-08-17T03:37:27+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "id": "f22b3dceb8724ca9bf9f7517d1308fdc9784a0d3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Stock futures mixed after S&P 500 posts three-week win streak: Live updates",
+      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+      "summary": "The stock market remains near all-time highs.",
+      "published_at": "2026-08-17T04:26:38+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
+      "tickers": [],
       "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "0581cf8f60c768d2ec10acad891f4eb6f3a1c84e",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "中金：维持中石化炼化工程(02386)跑赢行业评级 目标价6.6港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520489",
-      "summary": "",
-      "published_at": "2026-08-17T03:35:13+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "a803b654b4b8e8d0a084b38dc87a5f0b9fdd9098",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 德兰明海港股IPO招股书失效",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520487",
-      "summary": "",
-      "published_at": "2026-08-17T03:35:12+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
-    },
-    {
-      "id": "9ef1134e09ec856412efcd0278fa1352aa62e172",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 哥瑞利港股IPO招股书失效",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520488",
-      "summary": "",
-      "published_at": "2026-08-17T03:35:12+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.8
+      "score": 0.52
     },
     {
       "id": "23db367be18001b4e27d68c2aa0dcc6e7251be17",
@@ -141,8 +82,8 @@
       "title": "科技股为何“越涨越便宜”？靠80%盈利跳涨撑估值，AI预期落空将瞬间变贵",
       "url": "https://cn.investing.com/news/stock-market-news/article-3520485",
       "summary": "",
-      "published_at": "2026-08-17T03:35:11+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "published_at": "2026-08-17T04:08:35+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -152,69 +93,136 @@
       "score": 0.65
     },
     {
-      "id": "607ddac1853bc4bfe63448c47abf29b470fd698e",
+      "id": "1ad0799aed0ab0128e5a8e2733ce63f9c3a7bd3d",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "Coinbase(COIN.US)CEO预言：加密货币成AI金融理想货币",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520486",
+      "title": "港股异动 | 铜业股涨幅居前  库存持续去化叠加加息预期降温 铜价直逼历史前高",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520520",
       "summary": "",
-      "published_at": "2026-08-17T03:35:11+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
-      "market": "US",
+      "published_at": "2026-08-17T04:08:17+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "HK",
       "markets": [
-        "US"
+        "HK"
       ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        },
-        {
-          "symbol": "LI",
-          "name": "理想",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.95
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.76
     },
     {
-      "id": "8810bac8a699e130121b867ac3af092074b0dd65",
+      "id": "98aeaa56604ab5f871a74d36e728c54f2855d1dd",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 小菜园(00999)跌超4% 上半年归母净利同比减少24.2% 堂食客单价降至50.5元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520483",
+      "title": "港元拆息个别发展 一个月拆息无升跌报2.55476%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520521",
       "summary": "",
-      "published_at": "2026-08-17T03:35:10+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "published_at": "2026-08-17T04:05:12+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "eedfb7c8da99831d1191782d7a096edaa873f343",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 传奇异摩尔秘密递表港交所 估值目标约20亿美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520518",
+      "summary": "",
+      "published_at": "2026-08-17T04:05:11+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
+    },
+    {
+      "id": "651c019acde0e1d0e4e16cf94f6692becafc8c8e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 药明康德(02359)涨超4%再创新高 初步禁令申请获批 公司全面上调2026年业绩指引",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520519",
+      "summary": "",
+      "published_at": "2026-08-17T04:05:11+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.76
+      "score": 0.8
     },
     {
-      "id": "a65d06244208063e218a2d37c46c001169853776",
+      "id": "4a8a0a52cd4219b4658cf0ef4ca9a276e31f0d5b",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "A股午盘 | 三大指数收涨，科创50涨超3%，CPO存储领涨",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520515",
+      "summary": "",
+      "published_at": "2026-08-17T04:05:10+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "ff8efc55479f34c9447f0105f0220aa48852dea5",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 金风科技(02208)反弹近4% 朱雀三号遥二火箭发射窗口敲定 公司风机盈利能力有望修复",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520517",
+      "summary": "",
+      "published_at": "2026-08-17T04:05:10+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "09be709756dfa8119f2177108650065526f6b5fa",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
-      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
-      "summary": "The stock market remains near all-time highs.",
-      "published_at": "2026-08-17T03:24:51+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "source": "The Motley Fool",
+      "title": "Where Will Palantir Stock Be in 2030?",
+      "url": "https://www.fool.com/investing/2026/08/16/where-will-palantir-stock-be-in-2030/?source=iedfolrf0000001",
+      "summary": "Palantir's rapid growth could continue to lift the stock.",
+      "published_at": "2026-08-17T03:30:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
       "category": "company",
-      "score": 0.52
+      "score": 0.97
     },
     {
       "id": "002119834b766a6ea01de766bbb0f68eea287e67",
@@ -225,7 +233,7 @@
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
       "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
       "published_at": "2026-08-17T03:02:00+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -233,6 +241,84 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.76
+    },
+    {
+      "id": "3cb6b1d383c3b7e5030dbc6f27a4730f17a5e046",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SK Hynix's Stock Trades at Around 5 Times Next Year's Earnings Even After Revenue Grew 257%. Here's What a Multiple That Low Usually Signals About a Cyclical Business.",
+      "url": "https://www.fool.com/investing/2026/08/16/sk-hynixs-stock-trades-at-around-5-times-next-year/?source=iedfolrf0000001",
+      "summary": "The commoditized nature of memory chips has traditionally made companies vulnerable to industry cycles.",
+      "published_at": "2026-08-17T02:00:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "6182e3bf080cf896946956d21056f1313e2d3ffb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "2 Stocks Down 15% and 30% to Buy Right Now and Hold for the Next Decade",
+      "url": "https://www.fool.com/investing/2026/08/16/2-stocks-down-buy-right-now-hold-decade/?source=iedfolrf0000001",
+      "summary": "Two category leaders are still off their highs, yet continue to report double-digit revenue growth.",
+      "published_at": "2026-08-17T01:15:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "fec34cfa1e647521869d3a4d9c5c0e598d6da98e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+      "url": "https://www.fool.com/investing/2026/08/16/this-software-stock-just-produced-a-rule-of-40-sco/?source=iedfolrf0000001",
+      "summary": "Despite rapid growth, shares of this AI-fueled software company are cheap.",
+      "published_at": "2026-08-17T00:30:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "58dde464527dd3357b3b894264665830be741074",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Trade Desk’s Woes & A New AI Doughnut?",
+      "url": "https://www.fool.com/investing/2026/08/16/the-trade-desk-s-woes-and-a-new-ai-doughnut/?source=iedfolrf0000001",
+      "summary": "As earnings season winds down, it's time to reflect on lessons from this quarter.",
+      "published_at": "2026-08-16T23:29:14+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
     },
     {
       "id": "59fd543aeaadfff6619ff72f9c064298ca86c384",
@@ -243,7 +329,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050?utm_source=rss_feed",
       "summary": "More than a third of Asian Infrastructure Investment Bank’s (AIIB) sovereign borrowers could face credit rating downgrades by 2050 if global climate policy fails to strengthen, the Beijing-based multilateral lender said in a report.\nUnder a current policy scenario – in which existing climate rules remain unchanged and global temperature rises by around 2.9 degrees Celsius above pre-industrial leve",
       "published_at": "2026-08-16T23:00:11+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -261,7 +347,7 @@
       "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
       "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
       "published_at": "2026-08-16T21:32:25+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -269,6 +355,132 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "299efb9801cf0e7587d19739dfdba74934317d65",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
+      "url": "https://www.fool.com/investing/2026/08/16/micron-is-worth-11-trillion-and-sits-23-below-its/?source=iedfolrf0000001",
+      "summary": "The memory maker's earnings keep setting records, and its guidance points to another one. The stock sits about 23% below its high anyway.",
+      "published_at": "2026-08-16T21:29:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "82e6eb370bf74df3f43b85d3b34da05a5ac05400",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "1 Major Red Flag AMD Investors Can't Afford to Ignore",
+      "url": "https://www.fool.com/investing/2026/08/16/1-major-red-flag-amd-investors-cant-afford-to-igno/?source=iedfolrf0000001",
+      "summary": "The chipmaker's valuation is far higher than those of its peers.",
+      "published_at": "2026-08-16T19:58:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "093279a002aa80faa9474da9972c8a2f7fed01c8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nvidia vs. Meta: Is Custom Silicon a Critical Threat to Nvidia's AI Moat?",
+      "url": "https://www.fool.com/investing/2026/08/16/nvidia-vs-meta-is-custom-silicon-a-critical-threat/?source=iedfolrf0000001",
+      "summary": "Nvidia and Meta are attacking artificial intelligence from opposite ends. Discover where each moat is strongest, what could weaken it, and why this battle may produce two winners.",
+      "published_at": "2026-08-16T19:27:57+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "c4f43d4f1267fc0f4c16d959919e31a1fee91d0d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Adobe Trades at 10 Times Next Year's Earnings. Is It Finally Time to Buy the Stock?",
+      "url": "https://www.fool.com/investing/2026/08/16/adobe-trades-at-10-times-next-years-earnings-is-it/?source=iedfolrf0000001",
+      "summary": "A multiple this low usually means the market smells decline -- yet the latest quarter set records.",
+      "published_at": "2026-08-16T19:08:00+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "ab6feba1ba29072c2792c86e5b35c266eb7d1f67",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Encompass Health's CFO Trimmed His Stake as Shares Jumped After Earnings. Here's What to Know",
+      "url": "https://www.fool.com/coverage/filings/2026/08/16/encompass-health-s-cfo-trimmed-his-stake-as-shares-jumped-after-earnings-here-s-what-to-know/?source=iedfolrf0000001",
+      "summary": "This sale reduced an insider's direct common stock position by 27%, though a majority of the position remains held through trusts and spousal holdings.",
+      "published_at": "2026-08-16T19:05:41+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "1e2fd80e9b3dcc43eba823fc4cd048ce317bc83e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "An AppFolio Insider Sold on a Preset Plan After Earnings. Here's What to Know",
+      "url": "https://www.fool.com/coverage/filings/2026/08/16/an-appfolio-insider-sold-on-a-preset-plan-after-earnings-here-s-what-to-know/?source=iedfolrf0000001",
+      "summary": "Evan Pickering's automated sale of 661 shares represents 10% of his direct Class A common stock holdings, executed under a pre-scheduled Rule 10b5-1 plan established in Marc.",
+      "published_at": "2026-08-16T18:34:23+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "59471ca2871bbb9ce95f560a6c84cd6078bd374f",
@@ -279,7 +491,7 @@
       "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
       "published_at": "2026-08-16T11:58:15+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -297,7 +509,7 @@
       "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
       "summary": "The Wall Street powerhouse notes areas where execution of corporate strategy matters more than macroeconomic trends.",
       "published_at": "2026-08-16T11:55:08+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -315,7 +527,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
       "summary": "",
       "published_at": "2026-08-16T02:03:00+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -333,7 +545,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
       "summary": "",
       "published_at": "2026-08-15T21:36:04+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -351,7 +563,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
       "summary": "",
       "published_at": "2026-08-15T21:35:09+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -369,7 +581,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-worried-potential-impact-213039883.html",
       "summary": "",
       "published_at": "2026-08-15T21:30:39+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -393,7 +605,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
       "summary": "",
       "published_at": "2026-08-15T21:29:10+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -411,7 +623,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-focused-d-wave-183002547.html",
       "summary": "",
       "published_at": "2026-08-15T18:30:02+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -429,7 +641,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sergey-brin-wants-google-double-170001830.html",
       "summary": "",
       "published_at": "2026-08-15T17:00:01+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -445,48 +657,6 @@
       "score": 1.0
     },
     {
-      "id": "4242d5f29d6db23bd3cfcb47163168c983a2af95",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-even-soaring-180-stock-161100281.html",
-      "summary": "",
-      "published_at": "2026-08-15T16:11:00+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "98b20241036437de16740b7dfe38bc6573c1099c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "FedEx closes more U.S. locations as it changes how packages move",
-      "url": "https://finance.yahoo.com/small-business/articles/fedex-closes-more-u-locations-160300304.html",
-      "summary": "",
-      "published_at": "2026-08-15T16:03:00+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "00ba54f049f2439c9ccba6d2bfafc305ef7b0038",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -495,7 +665,7 @@
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
       "published_at": "2026-08-15T14:46:43+00:00",
-      "first_seen_at": "2026-08-17T03:48:17.099881+00:00",
+      "first_seen_at": "2026-08-17T04:39:47.938386+00:00",
       "market": "US",
       "markets": [
         "US"
