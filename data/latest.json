@@ -1,29 +1,33 @@
 {
-  "generated_at": "2026-08-19T14:31:33.480764+00:00",
+  "generated_at": "2026-08-19T15:29:06.798008+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 28,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 22,
-    "HK": 1
+    "HK": 2,
+    "US": 26
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 7
+      "count": 10
     },
     {
       "key": "earnings",
-      "count": 6
-    },
-    {
-      "key": "capital",
-      "count": 3
+      "count": 7
     },
     {
       "key": "macro",
       "count": 3
+    },
+    {
+      "key": "product",
+      "count": 2
+    },
+    {
+      "key": "capital",
+      "count": 2
     },
     {
       "key": "guidance",
@@ -42,38 +46,236 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 18
+      "count": 20
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "c2a90f2552ad163f5526f583b502459d83ea2c0f",
+      "id": "3a362731fcbf328d0e24ba08802dc3723a36c82b",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Moderna做空者因股价创纪录暴涨而面临$48亿亏损",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526191",
+      "summary": "",
+      "published_at": "2026-08-19T15:21:43+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.65
+    },
+    {
+      "id": "c95fa663a5abd92d05c050f3d88dbd5b85a46088",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
-      "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
-      "summary": "Even a loss in the landmark youth-safety trial would do little to hurt Mark Zuckerberg’s empire.",
-      "published_at": "2026-08-19T14:15:00+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "source": "CNBC Top News",
+      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+      "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+      "published_at": "2026-08-19T15:09:51+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "META",
-          "name": "Meta",
+          "symbol": "MRVL",
+          "name": "Marvell",
           "market": "US"
         }
       ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "8640d5d713163f31ae64f5c42b3ce8e989d3ec35",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | 热门中概股普涨 华住(HTHT.US)涨近6%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526168",
+      "summary": "",
+      "published_at": "2026-08-19T15:06:25+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "248f1c01b5128aaf2a3d9f1a782112edd1f25fcb",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | 金山云(KC.US)大涨逾11% Q2营收同比增长30.8% 创单季历史新高",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526169",
+      "summary": "",
+      "published_at": "2026-08-19T15:06:25+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
       "category": "earnings",
+      "score": 0.76
+    },
+    {
+      "id": "f980c25a6c426c72b043eb73018016f29c148787",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "AI测试需求加速爆发！Keysight Technologies(KEYS.US)业绩与指引均超预期 华尔街最高看至440美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526170",
+      "summary": "",
+      "published_at": "2026-08-19T15:06:25+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "5cb1d5ed27074a8f3716397ac4ced95dbd9a2d81",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "“国民水果”杀疯了！苹果茶饮在七夕爆单，有人定闹钟都没抢到",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526164",
+      "summary": "",
+      "published_at": "2026-08-19T15:06:05+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "company",
       "score": 0.85
+    },
+    {
+      "id": "455d64a698b63d42ea6f3053ed4e5fa0221d7e2e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+      "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+      "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
+      "published_at": "2026-08-19T15:05:00+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "ed3bb12d7ffbde33d74dac9915911e0d0275d8b1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Alphabet Could Own 7% of Marvell — But Here’s What Google Has to Do to Get It",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-could-own-7-marvell-145906141.html",
+      "summary": "",
+      "published_at": "2026-08-19T14:59:06+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "ab9a0d994a9fbfa11efedb6143db93009c505639",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Gathers Steam On Treasury News; Moderna Soars As Bitcoin Rises (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-19T14:56:45+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "6096c70b6702e952e1319d965029e7bc0551f911",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
+      "url": "https://www.fool.com/investing/2026/08/19/worried-about-a-market-crash-these-3-stocks-beat-the-s-and-p-500-in-2008-and-2022/?source=iedfolrf0000001",
+      "summary": "These stocks can be safe-haven investments to hide out in amid market turmoil.",
+      "published_at": "2026-08-19T14:46:58+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "6967fa49c9fb13e00a1d986feae6087b8d72b0f4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Warren Buffett Thinks Investors Are \"Gambling\" and \"Playing With Fire\" Right Now. But Here Are 3 Safe Stocks Even the Oracle of Omaha Would Like.",
+      "url": "https://www.fool.com/investing/2026/08/19/warren-buffett-thinks-investors-are-gambling-and/?source=iedfolrf0000001",
+      "summary": "While investors treat Wall Street like a casino, stick to these Buffett-style \"wonderful investments.\"",
+      "published_at": "2026-08-19T14:30:00+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "bfc50c74ba0a2032b8d2499d9d2ed89c8c9104ee",
@@ -83,8 +285,8 @@
       "title": "Target Earnings Double, Outlook Hiked. TGT Stock Jumps To A High.",
       "url": "https://www.investors.com/news/target-earnings-q2-tgt-stock/?src=A00220&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-08-19T14:13:41+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "published_at": "2026-08-19T14:27:40+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -92,6 +294,42 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
+    },
+    {
+      "id": "ed37489158ca62611bfbf80b76cfa3b41c82c26c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why TJX Stock Dropped Today",
+      "url": "https://www.fool.com/investing/2026/08/19/why-tjx-stock-dropped-today/?source=iedfolrf0000001",
+      "summary": "TJX stock beat on sales and earnings this morning. Investors sold the stock anyway after they got a look at guidance.",
+      "published_at": "2026-08-19T14:22:22+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "6dfcad3eb1c737fe71fbd6eb3ae71f30e5286b37",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Jamie Dimon Has Run JPMorgan Chase for 2 Decades. What Happens to the Stock When He Steps Down?",
+      "url": "https://www.fool.com/investing/2026/08/19/jamie-dimon-has-run-jpmorgan-chase-for-2-decades-w/?source=iedfolrf0000001",
+      "summary": "Jamie Dimon's track record at JPMorgan Chase is a good one, but he's still just one of many leaders.",
+      "published_at": "2026-08-19T14:15:00+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "2f31c6267ecc98b4cfb2f5d7cc49dcedc1a85969",
@@ -102,7 +340,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/protalix-plx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "Elfabrio sales surge drives $19.9M quarterly revenue and $22.1M H1 net income.",
       "published_at": "2026-08-19T14:08:33+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -110,72 +348,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "5ff2c09ebab08faa96574133bb357a61273f2110",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电跌破404美元支撑风险升温：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521699",
-      "summary": "",
-      "published_at": "2026-08-19T14:08:23+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "6879bf33358035bad8df29935d94a96c6ef5b9fc",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Nasdaq 100测试200均线极度超卖：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521697",
-      "summary": "",
-      "published_at": "2026-08-19T14:07:56+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "de7e994bb7daeb7f2af353366ffb496c61791f4e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Where Will AMD Stock Be in 5 Years?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/where-amd-stock-5-years-140600280.html",
-      "summary": "",
-      "published_at": "2026-08-19T14:06:00+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "ab4c3e1968d58cc9dc939713b8ba09574d06dce6",
@@ -186,7 +358,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/this-dividend-king-that-yields-more-than-4-times/?source=iedfolrf0000001",
       "summary": "The market's largely ignoring -- and underpricing -- just how close this company is to pushing past its recent challenges and restoring its historical growth rate.",
       "published_at": "2026-08-19T14:00:00+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -204,7 +376,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/is-investing-in-the-total-stock-market-a-better-long-term-move-than-holding-s-and-p-500-index-funds/?source=iedfolrf0000001",
       "summary": "The S&amp;P 500 is trading at record levels, and for investors, tracking the total stock market may be more appealing right now -- but that doesn't mean it's a sound strategy.",
       "published_at": "2026-08-19T13:57:41+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -214,64 +386,28 @@
       "score": 0.52
     },
     {
-      "id": "c6ce492c9b32a8be43eb6c4899d4119ddcdc5362",
+      "id": "fc5f936c4fb5e0ea42a2da95023e8f21bbde4223",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "15 S&P 500 stocks are up 100% or more this year — here's what they have in common",
-      "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html",
-      "summary": "",
-      "published_at": "2026-08-19T13:54:48+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "5b484a48ca814d385f8f04f53f82c5bba4f7cded",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rises On Treasury Buybacks; Moderna Soars On Cancer Drug News (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-19T13:39:24+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "1385da5db38b6550d9f966ac458efc21c69bfabe",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-133617895.html",
-      "summary": "",
-      "published_at": "2026-08-19T13:36:17+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "source": "The Motley Fool",
+      "title": "Where Will AMD Stock Be in 5 Years?",
+      "url": "https://www.fool.com/investing/2026/08/19/where-will-amd-stock-be-in-5-years/?source=iedfolrf0000001",
+      "summary": "This fast-growing AI chip company could become a multibagger once again.",
+      "published_at": "2026-08-19T13:46:00+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "TSM",
-          "name": "台积电",
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 1.0
+      "score": 0.97
     },
     {
       "id": "04e69f9cf75290b51b29967558a99e46b79d95c0",
@@ -282,43 +418,7 @@
       "url": "https://www.fool.com/coverage/filings/2026/08/19/insider-sells-30-000-shares-of-small-cap-stock-up-14-over-last-year/?source=iedfolrf0000001",
       "summary": "Insider sale reduces stake by 13% as stock trades near $10.35 per share. Red Cat continues operating at a loss despite $53 million in annual revenue.",
       "published_at": "2026-08-19T13:35:01+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "41381285dee54c27b3acb3a11d09e23a7b334230",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn",
-      "url": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories",
-      "summary": "Fundstrat’s Mark Newton says it’s not time to panic about surging bond yields driving a deeper stock rout. He offers technical evidence to back his case.",
-      "published_at": "2026-08-19T13:35:00+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "9adf9729e26996f71407a1665969c3edaf605a5c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SpaceX's Capital Spending Was 2.4 Times Its Revenue Last Quarter. The IPO Left $93.5 Billion to Cover It.",
-      "url": "https://www.fool.com/investing/2026/08/19/spacex-s-capital-spending-was-2-4-times-its-revenue-last-quarter-the-ipo-left-usd93-5-billion-to-cover-it/?source=iedfolrf0000001",
-      "summary": "The cash pile sounds bottomless. The spending plan it funds is built to outgrow it.",
-      "published_at": "2026-08-19T13:14:01+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +436,7 @@
       "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
       "summary": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
       "published_at": "2026-08-19T11:08:03+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +454,7 @@
       "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
       "summary": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
       "published_at": "2026-08-19T09:30:25+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -372,7 +472,7 @@
       "url": "https://www.scmp.com/business/money/wealth/article/3364521/goldman-sachs-upbeat-wealth-outlook-amid-market-worries-over-chinas-tighter-scrutiny?utm_source=rss_feed",
       "summary": "Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows.\nThe Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while projecting 16 to 25 per cent growth for Singapore banks.\n“We continue to believe offshore wealth al",
       "published_at": "2026-08-19T09:00:05+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -390,7 +490,7 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
       "summary": "",
       "published_at": "2026-08-19T08:11:16+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -408,7 +508,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
       "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion).\nThe opening pop from its IPO price of 150.80 yuan gave way to a pullback later in the session, with the stock closing at 845 yuan",
       "published_at": "2026-08-19T01:57:38+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -426,7 +526,7 @@
       "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
       "summary": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
       "published_at": "2026-08-19T01:34:22+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -450,7 +550,7 @@
       "url": "https://www.cnbc.com/2026/08/18/retailer-earnings-could-put-this-season-to-the-test.html",
       "summary": "Some of the largest retailers report earnings this week. Here's what Wall Street is expecting.",
       "published_at": "2026-08-18T18:20:11+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -468,7 +568,7 @@
       "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
       "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
       "published_at": "2026-08-18T13:43:28+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -486,7 +586,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364358/several-us-billionaire-investors-reshuffle-their-chinese-technology-stocks-amid-ai-boom?utm_source=rss_feed",
       "summary": "Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu.\nDruckenmiller, an investor known for his decades-long track record of outsized returns, bought 88,200 of Baidu’s American depositary r",
       "published_at": "2026-08-18T03:00:17+00:00",
-      "first_seen_at": "2026-08-19T14:31:33.480764+00:00",
+      "first_seen_at": "2026-08-19T15:29:06.798008+00:00",
       "market": "US",
       "markets": [
         "US"
