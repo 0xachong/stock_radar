@@ -1,45 +1,48 @@
 {
-  "generated_at": "2026-08-20T02:36:29.204333+00:00",
+  "generated_at": "2026-08-20T03:44:29.270720+00:00",
   "window_hours": 48,
-  "total_items": 28,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 5,
-    "US": 22,
-    "CN": 1
+    "US": 21,
+    "HK": 5
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 8
     },
     {
       "key": "earnings",
-      "count": 4
-    },
-    {
-      "key": "rating",
-      "count": 4
-    },
-    {
-      "key": "product",
-      "count": 3
+      "count": 5
     },
     {
       "key": "macro",
-      "count": 3
-    },
-    {
-      "key": "capital",
-      "count": 2
+      "count": 4
     },
     {
       "key": "guidance",
+      "count": 3
+    },
+    {
+      "key": "product",
       "count": 2
     },
     {
+      "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
       "key": "ipo",
+      "count": 1
+    },
+    {
+      "key": "rating",
       "count": 1
     }
   ],
@@ -47,67 +50,127 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 20
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "99093f447b539125c4fe60734daf2bab0f30e7c1",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 黄金股再度走高 美国财政部扩大长债回购 美元下行助推国际金价大涨",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3526799",
-      "summary": "",
-      "published_at": "2026-08-20T02:22:31+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "HK",
+      "id": "d1bb49cbec1de7239bec76bf946e20c3ceaa887c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+      "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+      "summary": "Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.",
+      "published_at": "2026-08-20T03:30:54+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "capital",
-      "score": 0.76
+      "score": 0.61
     },
     {
-      "id": "5138ff5893458409d9025f87e284e10e02701e3d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "带摄像头AirPods Pro 3遭泄露乌龙！供应链难题未解决，苹果(AAPL.US)新款 AI 耳机仍锁定 2027 年发布",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3526804",
-      "summary": "",
-      "published_at": "2026-08-20T02:06:06+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "id": "f3e337d2f5fedc275cf5d9d173979aab411df92e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Yielding 4.5%, Should Dividend Stock Investors Buy AT&T Stock?",
+      "url": "https://www.fool.com/investing/2026/08/19/yielding-45-should-dividend-stock-investors-buy-at/?source=iedfolrf0000001",
+      "summary": "Increasing average revenue per customer is one of the only paths to growth for AT&amp;T.",
+      "published_at": "2026-08-20T03:14:48+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "0db6310adfba204811efa9a0e86be19a0eaf280e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Great News for Nvidia Stock, AMD Stock, Micron Stock, and Broadcom Stock Investors",
+      "url": "https://www.fool.com/investing/2026/08/19/great-news-for-nvidia-stock-amd-stock-micron-stock/?source=iedfolrf0000001",
+      "summary": "Estimates for how much will be spent on AI computing are increasing.",
+      "published_at": "2026-08-20T03:10:00+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "AAPL",
-          "name": "苹果",
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
-      "category": "product",
-      "score": 0.85
+      "category": "company",
+      "score": 0.97
     },
     {
-      "id": "f92d90b8ae509b9ef0f6eacb4d42b92b35245635",
+      "id": "b5a5efb408846f751a303e8296ba9d3c1627115c",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 洛阳钼业(03993)绩后涨超5% 中期归母净利同比增长86.27% 公司进一步完善黄金业务布局",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3526800",
+      "title": "港股异动 | 德适-B(02526)涨超23% 上半年模型服务收入同比翻倍 公司构建全链路自主可控闭环",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526876",
       "summary": "",
-      "published_at": "2026-08-20T02:05:14+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "published_at": "2026-08-20T03:05:14+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "0b14e5db4ff5a004cca843d90ae96d268b332c14",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "高盛：友邦保险(01299)二季度东盟市场表现超预期 市场关注对最新销售动能更新",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526870",
+      "summary": "",
+      "published_at": "2026-08-20T03:05:12+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "01299",
+          "name": "友邦保险",
+          "market": "HK"
+        }
+      ],
+      "category": "guidance",
+      "score": 0.85
+    },
+    {
+      "id": "be14179c7d1af22c7fa71a569ab4aa09e7f31f14",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 先声药业(02096)早盘涨超5% 今日将发中期业绩 创新药及BD收入带动业绩高增",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526873",
+      "summary": "",
+      "published_at": "2026-08-20T03:05:12+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -117,58 +180,46 @@
       "score": 0.76
     },
     {
-      "id": "6831c1cc3bfe6ff706d7911503357316d7655b21",
+      "id": "94d09e9aab3c86edb6965fd58c84449533d09307",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "中金：维持惠理集团(00806)“跑赢行业”评级 目标价降至2.6港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3526801",
+      "title": "港股异动 | 轻松健康(02661)涨超5% 全球AI安全监管进一步收紧 公司合规先发优势成为拓展市场核心支撑",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3526868",
       "summary": "",
-      "published_at": "2026-08-20T02:05:14+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "published_at": "2026-08-20T03:05:11+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "rating",
+      "category": "policy",
       "score": 0.64
     },
     {
-      "id": "18570d7af907181fc1f2f39ea5cf721680f10d6d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股开盘 | 恒指高开1.11% 黄金股、创新药概念走强 云顶新耀-B(01952)高开近15%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3526797",
-      "summary": "",
-      "published_at": "2026-08-20T02:05:13+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "HK",
+      "id": "e71b84c503206d54741b0c65891415e470fa0f96",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Marvell Stock Surged Today",
+      "url": "https://www.fool.com/investing/2026/08/19/why-marvell-stock-surged-today/?source=iedfolrf0000001",
+      "summary": "Investors are excited about a lucrative chip supply deal with an AI titan.",
+      "published_at": "2026-08-20T02:45:29+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "e0216d7f63d6cd112cdd889202c169d857ab6efb",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "A股开盘速递 | 三大指数集体高开 贵金属医药领涨",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3526798",
-      "summary": "",
-      "published_at": "2026-08-20T02:05:13+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
       ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
+      "category": "product",
+      "score": 0.97
     },
     {
       "id": "083a24f66967d83f8d0863d9e2d6d642bc58845d",
@@ -179,7 +230,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/why-wheaton-precious-metals-zoomed-11-higher-today/?source=iedfolrf0000001",
       "summary": "Its favorite commodities staged a surprise Hump Day rally.",
       "published_at": "2026-08-19T23:24:45+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -203,7 +254,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/optimizerx-oprx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "AI software revenue grew 25% despite overall quarterly decline from customer inactivity.",
       "published_at": "2026-08-19T23:24:07+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -221,7 +272,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/sunshine-silver-ssmr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "IPO proceeds boost cash to $288.7M as company advances toward 2028 production restart.",
       "published_at": "2026-08-19T23:08:54+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -229,54 +280,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "c9117103e0b68eaef62dfe4bdf80711eed9e5b45",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Marvell Technology vs. Verizon Communications: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/08/19/marvell-technology-vs-verizon-communications-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Marvell offers high-octane growth at the center of the AI chip build-out, while Verizon offers steady income and improving fundamentals for more conservative investors.",
-      "published_at": "2026-08-19T21:36:23+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "60a9b40106b99b7b074aed1bef0749cc72eb12bc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Billionaire Stanley Druckenmiller Just Dumped Micron and Intel While Adding These 2 AI Stocks. Should Investors Follow Suit?",
-      "url": "https://www.fool.com/investing/2026/08/19/billionaire-stanley-druckenmiller-just-dumped-micr/?source=iedfolrf0000001",
-      "summary": "AMD and Alphabet look like good long-term buys.",
-      "published_at": "2026-08-19T21:32:00+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "685fcf101d1b5d25d73bc6813ab2b9135bf96304",
@@ -287,7 +290,7 @@
       "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
       "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
       "published_at": "2026-08-19T21:29:38+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -305,7 +308,7 @@
       "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
       "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
       "published_at": "2026-08-19T21:26:00+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -329,7 +332,7 @@
       "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
       "summary": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
       "published_at": "2026-08-19T20:02:32+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -337,30 +340,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "8b624c10cf9a070155e87528fd8778b7142ec287",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-      "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-      "published_at": "2026-08-19T20:01:53+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 1.0
     },
     {
       "id": "0f3620677dea3d64fefd0d7e8e248fa99b6d0201",
@@ -371,7 +350,7 @@
       "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "published_at": "2026-08-19T18:58:48+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -395,7 +374,7 @@
       "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
       "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
       "published_at": "2026-08-19T18:54:50+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -413,7 +392,7 @@
       "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
       "summary": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
       "published_at": "2026-08-19T17:25:05+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -437,7 +416,7 @@
       "url": "https://www.scmp.com/business/money/wealth/article/3364521/goldman-sachs-upbeat-wealth-outlook-amid-market-worries-over-chinas-tighter-scrutiny?utm_source=rss_feed",
       "summary": "Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows.\nThe Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while projecting 16 to 25 per cent growth for Singapore banks.\n“We continue to believe offshore wealth al",
       "published_at": "2026-08-19T09:00:05+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -455,7 +434,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
       "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion).\nThe opening pop from its IPO price of 150.80 yuan gave way to a pullback later in the session, with the stock closing at 845 yuan",
       "published_at": "2026-08-19T01:57:38+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -473,7 +452,7 @@
       "url": "https://www.cnbc.com/2026/08/18/retailer-earnings-could-put-this-season-to-the-test.html",
       "summary": "Some of the largest retailers report earnings this week. Here's what Wall Street is expecting.",
       "published_at": "2026-08-18T18:20:11+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -483,15 +462,15 @@
       "score": 0.64
     },
     {
-      "id": "5297fceb201a81c4ef986bb45be902a9ee7a1bfe",
+      "id": "2cb80850fe40817a67e454a8ab7be35e9b04732b",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "3 Growth Stocks Down More Than 50% From Their Highs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-down-more-145236116.html",
+      "title": "TKO Group  Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tko-group-stock-wall-street-162422728.html",
       "summary": "",
-      "published_at": "2026-08-18T14:52:36+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "published_at": "2026-08-18T16:24:22+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -501,15 +480,75 @@
       "score": 0.52
     },
     {
-      "id": "02a859ac1045314277c8003f74dc2da0370545bb",
+      "id": "1e4e1c55c62ea8c9b0ebd06e77e2ac63a1200c96",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "What's Going On With The Metals Company Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-metals-company-stock-145000632.html",
+      "title": "Are Wall Street Analysts Predicting Northrop Grumman Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-northrop-160908248.html",
       "summary": "",
-      "published_at": "2026-08-18T14:50:00+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "published_at": "2026-08-18T16:09:08+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "2038b54c0d7c6e784859236d15bb3d65d09192fc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "US manufacturing grows at steady pace, led by business equipment: Fed",
+      "url": "https://finance.yahoo.com/economy/articles/us-manufacturing-grows-steady-pace-154625203.html",
+      "summary": "",
+      "published_at": "2026-08-18T15:46:25+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "a2137db6fb8fbe7f318f858f74068ec2307db22a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
+      "url": "https://finance.yahoo.com/technology/articles/salesforces-servicenow-business-models-danger-154622056.html",
+      "summary": "",
+      "published_at": "2026-08-18T15:46:22+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "816de1a6aa4df58b6d329af1388b86055fb64aff",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "BHP Finds Its New Metal Machine",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-finds-metal-machine-153802766.html",
+      "summary": "",
+      "published_at": "2026-08-18T15:38:02+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -522,61 +561,7 @@
         }
       ],
       "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "35760fd6009c8570ead98d16e4a90deb698b1cfe",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Deutsche Bank Just Downgraded Workday Stock. Here's Why.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-just-downgraded-workday-144333755.html",
-      "summary": "",
-      "published_at": "2026-08-18T14:43:33+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "6de49538e61b24be75a169c0cc5c3a99652881cd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Automatic Data Processing Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-automatic-data-144309712.html",
-      "summary": "",
-      "published_at": "2026-08-18T14:43:09+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "5c73b6fcddfc14415f4d08e1dbc2444f6a3e5dd2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Bullish on Deere & Company Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-deere-143316001.html",
-      "summary": "",
-      "published_at": "2026-08-18T14:33:16+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
+      "score": 0.85
     },
     {
       "id": "837cab096b7cc94637fe352fb8fab1b40babc6f5",
@@ -587,31 +572,13 @@
       "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
       "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
       "published_at": "2026-08-18T13:43:28+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
+      "first_seen_at": "2026-08-20T03:44:29.270720+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "guidance",
-      "score": 0.52
-    },
-    {
-      "id": "3f8acd4cc81817c64466d4a70f0a4d217613773a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "US billionaires reshuffle Chinese tech stock buys amid AI boom",
-      "url": "https://www.scmp.com/business/china-business/article/3364358/several-us-billionaire-investors-reshuffle-their-chinese-technology-stocks-amid-ai-boom?utm_source=rss_feed",
-      "summary": "Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu.\nDruckenmiller, an investor known for his decades-long track record of outsized returns, bought 88,200 of Baidu’s American depositary r",
-      "published_at": "2026-08-18T03:00:17+00:00",
-      "first_seen_at": "2026-08-20T02:36:29.204333+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
       "score": 0.52
     }
   ]
