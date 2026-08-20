@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T19:29:09.966024+00:00",
+  "generated_at": "2026-08-20T19:57:14.211361+00:00",
   "window_hours": 48,
-  "total_stories": 12,
+  "total_stories": 11,
   "stories": [
     {
       "key": "US:company",
@@ -18,7 +18,7 @@
         "港股 / 中概",
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-08-20T19:06:46+00:00",
+      "latest_at": "2026-08-20T19:39:43+00:00",
       "earliest_at": "2026-08-20T15:45:00+00:00",
       "primary_item": {
         "id": "f717d438a3cf514af18221bf1372fee5ad329b6a",
@@ -29,7 +29,7 @@
         "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521697",
         "summary": "",
         "published_at": "2026-08-20T19:06:46+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -40,6 +40,24 @@
       },
       "items": [
         {
+          "id": "e792e8b130b8ef100bb0d8f2b84d820e1a283c6c",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
+          "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+          "summary": "U.S. stocks fell on Thursday as Treasury yields reversed course from the decline seen in the prior trading day.",
+          "published_at": "2026-08-20T19:39:43+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "company",
+          "score": 0.52
+        },
+        {
           "id": "f717d438a3cf514af18221bf1372fee5ad329b6a",
           "site_id": "hk_china",
           "site_name": "港股 / 中概",
@@ -48,7 +66,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521697",
           "summary": "",
           "published_at": "2026-08-20T19:06:46+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -56,24 +74,6 @@
           "tickers": [],
           "category": "company",
           "score": 0.64
-        },
-        {
-          "id": "e792e8b130b8ef100bb0d8f2b84d820e1a283c6c",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
-          "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-          "summary": "U.S. stocks fell on Thursday as Treasury yields reversed course from the decline seen in the prior trading day.",
-          "published_at": "2026-08-20T18:57:51+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "company",
-          "score": 0.52
         },
         {
           "id": "c3c054bb7f2a368d07ae0a2963e2b4609f79ea0f",
@@ -84,7 +84,7 @@
           "url": "https://www.fool.com/retirement/2026/08/20/should-you-automatically-delay-retirement-if-the-s/?source=iedfolrf0000001",
           "summary": "Here's how to handle an ill-timed market downturn.",
           "published_at": "2026-08-20T17:36:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -102,13 +102,87 @@
           "url": "https://www.fool.com/investing/2026/08/20/stanley-druckenmiller-is-buying-beaten-down-stocks/?source=iedfolrf0000001",
           "summary": "Druckenmiller's investments aren't necessarily intended to be for the long term.",
           "published_at": "2026-08-20T15:45:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
           "category": "company",
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "key": "US:guidance",
+      "label": "美股·guidance",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "importance": 2,
+      "count": 2,
+      "sources": [
+        "港股 / 中概",
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-08-19T11:11:35+00:00",
+      "earliest_at": "2026-08-19T09:00:05+00:00",
+      "primary_item": {
+        "id": "66f3cc99471e686a7602fe0fff5d92c1aee486cb",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "Yahoo Finance",
+        "title": "Brown-Forman Stock Outlook: Is Wall Street Bullish or Bearish?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-stock-outlook-wall-111135383.html",
+        "summary": "",
+        "published_at": "2026-08-19T11:11:35+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "guidance",
+        "score": 0.64
+      },
+      "items": [
+        {
+          "id": "66f3cc99471e686a7602fe0fff5d92c1aee486cb",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Yahoo Finance",
+          "title": "Brown-Forman Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-stock-outlook-wall-111135383.html",
+          "summary": "",
+          "published_at": "2026-08-19T11:11:35+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "guidance",
+          "score": 0.64
+        },
+        {
+          "id": "d2b9dac9ab73de399df15f5ffe756a07956e83b7",
+          "site_id": "hk_china",
+          "site_name": "港股 / 中概",
+          "source": "SCMP Business",
+          "title": "Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny",
+          "url": "https://www.scmp.com/business/money/wealth/article/3364521/goldman-sachs-upbeat-wealth-outlook-amid-market-worries-over-chinas-tighter-scrutiny?utm_source=rss_feed",
+          "summary": "Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows.\nThe Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while projecting 16 to 25 per cent growth for Singapore banks.\n“We continue to believe offshore wealth al",
+          "published_at": "2026-08-19T09:00:05+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "guidance",
           "score": 0.52
         }
       ]
@@ -123,12 +197,12 @@
       "tickers": [],
       "category": "macro",
       "importance": 2,
-      "count": 5,
+      "count": 4,
       "sources": [
         "美股 / 全球财经"
       ],
       "latest_at": "2026-08-20T18:03:00+00:00",
-      "earliest_at": "2026-08-19T09:13:00+00:00",
+      "earliest_at": "2026-08-19T15:50:00+00:00",
       "primary_item": {
         "id": "49f5f6eadb9ee2481ef75bc03e34018e9ef47d09",
         "site_id": "us_global",
@@ -138,7 +212,7 @@
         "url": "https://www.marketwatch.com/story/if-rising-rates-were-enough-to-end-a-bull-market-wed-have-entered-a-bear-market-long-ago-0c6790a0?mod=mw_rss_topstories",
         "summary": "The “Fed Model” has turned bearish — how much should you care?",
         "published_at": "2026-08-20T18:03:00+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -157,7 +231,7 @@
           "url": "https://www.marketwatch.com/story/if-rising-rates-were-enough-to-end-a-bull-market-wed-have-entered-a-bear-market-long-ago-0c6790a0?mod=mw_rss_topstories",
           "summary": "The “Fed Model” has turned bearish — how much should you care?",
           "published_at": "2026-08-20T18:03:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -175,7 +249,7 @@
           "url": "https://www.fool.com/investing/2026/08/20/a-rare-u-s-sales-miss-for-walmart-is-concerning-for-the-economy-but-it-could-also-prove-to-be-a-bad-news-is-good-news-event-for-the-fed/?source=iedfolrf0000001",
           "summary": "U.S. consumers may finally be at their breaking point when it comes to inflation.",
           "published_at": "2026-08-20T16:58:01+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -188,12 +262,12 @@
           "id": "685fcf101d1b5d25d73bc6813ab2b9135bf96304",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
-          "source": "CNBC Markets",
+          "source": "CNBC Top News",
           "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
           "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
           "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
           "published_at": "2026-08-19T21:29:38+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -211,25 +285,7 @@
           "url": "https://finance.yahoo.com/personal-finance/investing/article/us-debt-tops-40-trillion-how-soaring-federal-debt-affects-you-personally-155000383.html",
           "summary": "",
           "published_at": "2026-08-19T15:50:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.52
-        },
-        {
-          "id": "aa57f70ff2fc5106936c616b0da6b9bc267c8c44",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Global Government Bond Yields Stabilize Ahead of Fed Minutes",
-          "url": "https://finance.yahoo.com/economy/policy/articles/global-government-bond-yields-stabilize-091300584.html",
-          "summary": "",
-          "published_at": "2026-08-19T09:13:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -265,7 +321,7 @@
         "url": "https://seekingalpha.com/news/4635626-spacex-stock-falls-back-to-below-ipo-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "summary": "",
         "published_at": "2026-08-20T19:22:10+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -284,7 +340,7 @@
           "url": "https://seekingalpha.com/news/4635626-spacex-stock-falls-back-to-below-ipo-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
           "published_at": "2026-08-20T19:22:10+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -320,7 +376,7 @@
         "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
         "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
         "published_at": "2026-08-20T15:51:26+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -339,7 +395,7 @@
           "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
           "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
           "published_at": "2026-08-20T15:51:26+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -375,7 +431,7 @@
         "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
         "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion).\nThe opening pop from its IPO price of 150.80 yuan gave way to a pullback later in the session, with the stock closing at 845 yuan",
         "published_at": "2026-08-19T01:57:38+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "HK",
         "markets": [
           "HK"
@@ -394,7 +450,7 @@
           "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
           "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion).\nThe opening pop from its IPO price of 150.80 yuan gave way to a pullback later in the session, with the stock closing at 845 yuan",
           "published_at": "2026-08-19T01:57:38+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -419,7 +475,7 @@
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "macro",
       "importance": 1,
       "count": 2,
       "sources": [
@@ -436,7 +492,7 @@
         "url": "https://www.fool.com/investing/2026/08/20/is-amd-catching-nvidia-heres-the-best-stock-to-buy/?source=iedfolrf0000001",
         "summary": "AMD's stock is crushing Nvidia's, but that's not consistent with how the businesses are doing.",
         "published_at": "2026-08-20T16:00:00+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -461,7 +517,7 @@
           "url": "https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/?source=iedfolrf0000001",
           "summary": "Nvidia's AI ecosystem gives it an edge in the AI chip trade -- here's how Broadcom and AMD stack up.",
           "published_at": "2026-08-20T18:33:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -485,7 +541,7 @@
           "url": "https://www.fool.com/investing/2026/08/20/is-amd-catching-nvidia-heres-the-best-stock-to-buy/?source=iedfolrf0000001",
           "summary": "AMD's stock is crushing Nvidia's, but that's not consistent with how the businesses are doing.",
           "published_at": "2026-08-20T16:00:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -527,7 +583,7 @@
         "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
         "summary": "U.S. Treasury Secretary Scott Bessent doubled down on his department’s intervention in the bond market, saying the Treasury could make additional moves and that its buybacks may be bigger than what was initially announced.",
         "published_at": "2026-08-20T18:09:00+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -546,7 +602,7 @@
           "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
           "summary": "U.S. Treasury Secretary Scott Bessent doubled down on his department’s intervention in the bond market, saying the Treasury could make additional moves and that its buybacks may be bigger than what was initially announced.",
           "published_at": "2026-08-20T18:09:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -564,7 +620,7 @@
           "url": "https://www.fool.com/investing/2026/08/20/this-dow-stock-and-soon-to-be-dividend-king-recent/?source=iedfolrf0000001",
           "summary": "The reason for the pullback makes enough superficial sense. It's just not a permanent problem.",
           "published_at": "2026-08-20T15:53:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -576,75 +632,75 @@
       ]
     },
     {
-      "key": "GOOGL",
-      "label": "谷歌",
+      "key": "US:rating",
+      "label": "美股·rating",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
+      "tickers": [],
+      "category": "rating",
       "importance": 1,
-      "count": 1,
+      "count": 2,
       "sources": [
-        "港股 / 中概"
+        "美股 / 全球财经"
       ],
-      "latest_at": "2026-08-20T18:16:18+00:00",
-      "earliest_at": "2026-08-20T18:16:18+00:00",
+      "latest_at": "2026-08-19T11:17:20+00:00",
+      "earliest_at": "2026-08-19T11:04:56+00:00",
       "primary_item": {
-        "id": "b827d33281773411c00bb875efc205a140cd5f26",
-        "site_id": "hk_china",
-        "site_name": "港股 / 中概",
-        "source": "Investing.com 中文",
-        "title": "谷歌将Antigravity编程智能体捆绑入Gemini企业版订阅",
-        "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3528714",
+        "id": "25e8699b2bbc43e7995398a959266d8409d89340",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "Yahoo Finance",
+        "title": "Do Wall Street Analysts Like Federal Realty Stock?",
+        "url": "https://finance.yahoo.com/real-estate/articles/wall-street-analysts-federal-realty-110456131.html",
         "summary": "",
-        "published_at": "2026-08-20T18:16:18+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "published_at": "2026-08-19T11:04:56+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
-        "tickers": [
-          {
-            "symbol": "GOOGL",
-            "name": "谷歌",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.85
+        "tickers": [],
+        "category": "rating",
+        "score": 0.76
       },
       "items": [
         {
-          "id": "b827d33281773411c00bb875efc205a140cd5f26",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "Investing.com 中文",
-          "title": "谷歌将Antigravity编程智能体捆绑入Gemini企业版订阅",
-          "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3528714",
+          "id": "de7fd11ef8e9334d14d90a223f60c5b492f0809b",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Yahoo Finance",
+          "title": "Are Wall Street Analysts Predicting Hartford Insurance Group Stock Will Climb or Sink?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-hartford-111720137.html",
           "summary": "",
-          "published_at": "2026-08-20T18:16:18+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "published_at": "2026-08-19T11:17:20+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
-          "tickers": [
-            {
-              "symbol": "GOOGL",
-              "name": "谷歌",
-              "market": "US"
-            }
+          "tickers": [],
+          "category": "rating",
+          "score": 0.64
+        },
+        {
+          "id": "25e8699b2bbc43e7995398a959266d8409d89340",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Yahoo Finance",
+          "title": "Do Wall Street Analysts Like Federal Realty Stock?",
+          "url": "https://finance.yahoo.com/real-estate/articles/wall-street-analysts-federal-realty-110456131.html",
+          "summary": "",
+          "published_at": "2026-08-19T11:04:56+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
+          "market": "US",
+          "markets": [
+            "US"
           ],
-          "category": "company",
-          "score": 0.85
+          "tickers": [],
+          "category": "rating",
+          "score": 0.76
         }
       ]
     },
@@ -679,7 +735,7 @@
         "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?source=iedfolrf0000001",
         "summary": "Ackman sold shares of Amazon and Alphabet while buying shares of Microsoft and Meta Platforms.",
         "published_at": "2026-08-20T17:47:00+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -704,7 +760,7 @@
           "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?source=iedfolrf0000001",
           "summary": "Ackman sold shares of Amazon and Alphabet while buying shares of Microsoft and Meta Platforms.",
           "published_at": "2026-08-20T17:47:00+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -752,7 +808,7 @@
         "url": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
         "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project.\nKnown officially as Shanghai Spacecom Satellite Technology, the operator of China’s Qianfan constellation completed its Series B round on Mond",
         "published_at": "2026-08-20T06:00:29+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+        "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -777,7 +833,7 @@
           "url": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
           "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project.\nKnown officially as Shanghai Spacecom Satellite Technology, the operator of China’s Qianfan constellation completed its Series B round on Mond",
           "published_at": "2026-08-20T06:00:29+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
+          "first_seen_at": "2026-08-20T19:57:14.211361+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -791,134 +847,6 @@
           ],
           "category": "macro",
           "score": 0.85
-        }
-      ]
-    },
-    {
-      "key": "AMZN",
-      "label": "亚马逊",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-08-19T09:18:56+00:00",
-      "earliest_at": "2026-08-19T09:18:56+00:00",
-      "primary_item": {
-        "id": "564fb838c5631666b2fd651d9940134c79161887",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "Yahoo Finance",
-        "title": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-added-over-70-091856254.html",
-        "summary": "",
-        "published_at": "2026-08-19T09:18:56+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "AMZN",
-            "name": "亚马逊",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.97
-      },
-      "items": [
-        {
-          "id": "564fb838c5631666b2fd651d9940134c79161887",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-added-over-70-091856254.html",
-          "summary": "",
-          "published_at": "2026-08-19T09:18:56+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "AMZN",
-              "name": "亚马逊",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "US:guidance",
-      "label": "美股·guidance",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "港股 / 中概"
-      ],
-      "latest_at": "2026-08-19T09:00:05+00:00",
-      "earliest_at": "2026-08-19T09:00:05+00:00",
-      "primary_item": {
-        "id": "d2b9dac9ab73de399df15f5ffe756a07956e83b7",
-        "site_id": "hk_china",
-        "site_name": "港股 / 中概",
-        "source": "SCMP Business",
-        "title": "Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny",
-        "url": "https://www.scmp.com/business/money/wealth/article/3364521/goldman-sachs-upbeat-wealth-outlook-amid-market-worries-over-chinas-tighter-scrutiny?utm_source=rss_feed",
-        "summary": "Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows.\nThe Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while projecting 16 to 25 per cent growth for Singapore banks.\n“We continue to believe offshore wealth al",
-        "published_at": "2026-08-19T09:00:05+00:00",
-        "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "guidance",
-        "score": 0.52
-      },
-      "items": [
-        {
-          "id": "d2b9dac9ab73de399df15f5ffe756a07956e83b7",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "SCMP Business",
-          "title": "Goldman Sachs upbeat on wealth outlook despite worries over China’s tax scrutiny",
-          "url": "https://www.scmp.com/business/money/wealth/article/3364521/goldman-sachs-upbeat-wealth-outlook-amid-market-worries-over-chinas-tighter-scrutiny?utm_source=rss_feed",
-          "summary": "Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows.\nThe Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while projecting 16 to 25 per cent growth for Singapore banks.\n“We continue to believe offshore wealth al",
-          "published_at": "2026-08-19T09:00:05+00:00",
-          "first_seen_at": "2026-08-20T19:29:09.966024+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "guidance",
-          "score": 0.52
         }
       ]
     }
