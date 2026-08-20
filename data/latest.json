@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T05:28:37.316403+00:00",
+  "generated_at": "2026-08-20T05:58:34.982337+00:00",
   "window_hours": 48,
   "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 3,
-    "US": 22
+    "HK": 2,
+    "US": 23
   },
   "category_stats": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "key": "earnings",
-      "count": 6
+      "count": 5
     },
     {
       "key": "macro",
@@ -30,15 +30,15 @@
       "count": 2
     },
     {
+      "key": "rating",
+      "count": 2
+    },
+    {
       "key": "capital",
       "count": 1
     },
     {
       "key": "ipo",
-      "count": 1
-    },
-    {
-      "key": "rating",
       "count": 1
     }
   ],
@@ -46,50 +46,38 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 21
+      "count": 22
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "2267ff69d4c7f1e3da6f1d1093cf341028a6c5b9",
+      "id": "9cc3b55605467258155f1b2f2f2d5a858b028e1d",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "狂揽11个涨停，温州老板的食品公司被炒成“长鑫概念股”：股价异常上涨或申请停牌核查",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3527014",
+      "title": "快手股价今日为何大跌？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3527059",
       "summary": "",
-      "published_at": "2026-08-20T05:06:09+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "published_at": "2026-08-20T05:43:14+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
-      "tickers": [],
+      "tickers": [
+        {
+          "symbol": "01024",
+          "name": "快手",
+          "market": "HK"
+        }
+      ],
       "category": "company",
-      "score": 0.65
-    },
-    {
-      "id": "a2ea978408e7bd76d57e672dd5711c6395f30eed",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "伟仕佳杰(00856)发布中期业绩 股东应占溢利9.15亿港元 同比增长49.87%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3527010",
-      "summary": "",
-      "published_at": "2026-08-20T05:05:12+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
+      "score": 1.0
     },
     {
       "id": "d1bb49cbec1de7239bec76bf946e20c3ceaa887c",
@@ -100,7 +88,7 @@
       "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
       "summary": "Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.",
       "published_at": "2026-08-20T03:30:54+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -118,7 +106,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/yielding-45-should-dividend-stock-investors-buy-at/?source=iedfolrf0000001",
       "summary": "Increasing average revenue per customer is one of the only paths to growth for AT&amp;T.",
       "published_at": "2026-08-20T03:14:48+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -136,7 +124,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/great-news-for-nvidia-stock-amd-stock-micron-stock/?source=iedfolrf0000001",
       "summary": "Estimates for how much will be spent on AI computing are increasing.",
       "published_at": "2026-08-20T03:10:00+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +148,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/why-marvell-stock-surged-today/?source=iedfolrf0000001",
       "summary": "Investors are excited about a lucrative chip supply deal with an AI titan.",
       "published_at": "2026-08-20T02:45:29+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -184,7 +172,7 @@
       "url": "https://www.fool.com/investing/2026/08/19/why-wheaton-precious-metals-zoomed-11-higher-today/?source=iedfolrf0000001",
       "summary": "Its favorite commodities staged a surprise Hump Day rally.",
       "published_at": "2026-08-19T23:24:45+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -208,7 +196,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/optimizerx-oprx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "AI software revenue grew 25% despite overall quarterly decline from customer inactivity.",
       "published_at": "2026-08-19T23:24:07+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,7 +214,7 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/sunshine-silver-ssmr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
       "summary": "IPO proceeds boost cash to $288.7M as company advances toward 2028 production restart.",
       "published_at": "2026-08-19T23:08:54+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,7 +232,7 @@
       "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
       "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
       "published_at": "2026-08-19T21:29:38+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -262,7 +250,7 @@
       "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
       "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
       "published_at": "2026-08-19T21:26:00+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -286,7 +274,7 @@
       "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
       "summary": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
       "published_at": "2026-08-19T20:02:32+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -304,7 +292,7 @@
       "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "published_at": "2026-08-19T18:58:48+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -328,7 +316,7 @@
       "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
       "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
       "published_at": "2026-08-19T18:54:50+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -346,7 +334,7 @@
       "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
       "summary": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
       "published_at": "2026-08-19T17:25:05+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -370,7 +358,7 @@
       "url": "https://www.scmp.com/business/money/wealth/article/3364521/goldman-sachs-upbeat-wealth-outlook-amid-market-worries-over-chinas-tighter-scrutiny?utm_source=rss_feed",
       "summary": "Goldman Sachs has remained upbeat about offshore wealth management despite concerns over Beijing’s tighter scrutiny of cross-border money flows.\nThe Wall Street investment bank forecast wealth fee income at Standard Chartered and HSBC to grow 30 per cent and 13 per cent, respectively, in 2026, while projecting 16 to 25 per cent growth for Singapore banks.\n“We continue to believe offshore wealth al",
       "published_at": "2026-08-19T09:00:05+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -388,7 +376,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
       "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion).\nThe opening pop from its IPO price of 150.80 yuan gave way to a pullback later in the session, with the stock closing at 845 yuan",
       "published_at": "2026-08-19T01:57:38+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -396,6 +384,30 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.65
+    },
+    {
+      "id": "d08d80166c9a4452e4bb2d26cc6d23651ef10221",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Marvell Stock Sinks 35%, But Most Analysts Are Bullish on MRVL Ahead of Q2",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-sinks-35-most-185216847.html",
+      "summary": "",
+      "published_at": "2026-08-18T18:52:16+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
     },
     {
       "id": "134c5bbbc5b1928396d79be3009d3281dc5915f2",
@@ -406,7 +418,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html",
       "summary": "",
       "published_at": "2026-08-18T18:39:16+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -430,7 +442,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-tmus-market-favorite-182709672.html",
       "summary": "",
       "published_at": "2026-08-18T18:27:09+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -448,7 +460,7 @@
       "url": "https://www.cnbc.com/2026/08/18/retailer-earnings-could-put-this-season-to-the-test.html",
       "summary": "Some of the largest retailers report earnings this week. Here's what Wall Street is expecting.",
       "published_at": "2026-08-18T18:20:11+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -456,6 +468,30 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
+    },
+    {
+      "id": "0e5c8c91043378c87e4f257f8d52f6aa493e96aa",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Cerebras, Intel, and AMD Shares Fall Ahead of Tonight’s ‘Supernova’ Event",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-intel-amd-shares-fall-175607547.html",
+      "summary": "",
+      "published_at": "2026-08-18T17:56:07+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "9f717d5e49057c2fb4b909083c6b6bfdd022dce3",
@@ -466,7 +502,7 @@
       "url": "https://www.investors.com/news/sp-500-q2-earnings-amazon-google/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-18T17:53:10+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -476,57 +512,39 @@
       "score": 0.64
     },
     {
-      "id": "bc49486cb15b768532ea8fb12e47414bcc7379b6",
+      "id": "d634a3a589e8bc6eb856fea0e4947bf09b343648",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Gorilla Technology Rises 3% as AI Infrastructure Momentum Builds: How GRRR Compares With Palantir",
-      "url": "https://finance.yahoo.com/technology/ai/articles/gorilla-technology-rises-3-ai-172605828.html",
+      "title": "Why Intel, Marvell Stocks Are Dropping After Chip Stocks Enter New Bull Market",
+      "url": "https://www.barrons.com/articles/intel-stock-marvell-chips-bull-market-1e739b69?siteid=yhoof2&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-08-18T17:26:05+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "published_at": "2026-08-18T17:51:00+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "PLTR",
-          "name": "Palantir",
+          "symbol": "MRVL",
+          "name": "Marvell",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
     },
     {
-      "id": "633ea21daa3a3941cdc5d6402260a6d19e2a13d4",
+      "id": "953cfce67ea052bd08086a8c9b295bb43f2e0084",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4%",
-      "url": "https://finance.yahoo.com/energy/articles/behind-meter-energy-stocks-fall-172353733.html",
+      "title": "Why Meta Platforms Stock Crashed Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-platforms-stock-crashed-174804783.html",
       "summary": "",
-      "published_at": "2026-08-18T17:23:53+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "2324ca91fdf41c7550eb11d091525863fefdc3a3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Meta Exploits Youths on Social Media, States Allege at Trial",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-exploits-youths-social-media-171958195.html",
-      "summary": "",
-      "published_at": "2026-08-18T17:19:58+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "published_at": "2026-08-18T17:48:04+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -539,7 +557,7 @@
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
     },
     {
       "id": "837cab096b7cc94637fe352fb8fab1b40babc6f5",
@@ -550,7 +568,7 @@
       "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
       "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
       "published_at": "2026-08-18T13:43:28+00:00",
-      "first_seen_at": "2026-08-20T05:28:37.316403+00:00",
+      "first_seen_at": "2026-08-20T05:58:34.982337+00:00",
       "market": "US",
       "markets": [
         "US"
