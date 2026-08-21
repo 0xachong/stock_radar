@@ -1,37 +1,36 @@
 {
-  "generated_at": "2026-08-21T21:22:03.252174+00:00",
+  "generated_at": "2026-08-21T21:48:42.988692+00:00",
   "window_hours": 48,
-  "total_items": 28,
+  "total_items": 27,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
     "US": 26,
-    "CN": 1,
     "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 16
-    },
-    {
-      "key": "macro",
-      "count": 5
+      "count": 14
     },
     {
       "key": "earnings",
       "count": 4
     },
     {
+      "key": "macro",
+      "count": 4
+    },
+    {
       "key": "ipo",
-      "count": 1
+      "count": 2
     },
     {
       "key": "product",
-      "count": 1
+      "count": 2
     },
     {
-      "key": "rating",
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -39,15 +38,51 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 21
+      "count": 22
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 7
+      "count": 5
     }
   ],
   "items": [
+    {
+      "id": "103e4fec94469368f7d559afdfeb65cb3dc02cb7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+      "published_at": "2026-08-21T21:44:30+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "7cc76aba4980628d882c2ebedaaeb6a1bd8fd0b9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨2.14%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3530816",
+      "summary": "",
+      "published_at": "2026-08-21T21:30:14+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
     {
       "id": "10f422e726864c183551e1fbcdc6fcf91fa87748",
       "site_id": "us_global",
@@ -57,13 +92,31 @@
       "url": "https://seekingalpha.com/news/4636028-solarmax-technology-receives-nasdaq-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-21T21:16:16+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "0a050ed014f151db3b1124631b60d4de4baa9722",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Lululemon Is Down 49% From Its All-Time High. Should You Buy Before Sept. 3?",
+      "url": "https://www.fool.com/investing/2026/08/21/lululemon-is-down-45-from-its-all-time-high-should/?source=iedfolrf0000001",
+      "summary": "The athleisure specialist is struggling, but a strong earnings report can turn momentum around.",
+      "published_at": "2026-08-21T21:07:00+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
       "score": 0.52
     },
     {
@@ -75,7 +128,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3530794",
       "summary": "",
       "published_at": "2026-08-21T20:45:28+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -91,60 +144,6 @@
       "score": 0.85
     },
     {
-      "id": "adca321e79cc503a971651f9382197cb94134896",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国股市上涨；截至收盘道琼斯工业平均指数上涨0.98%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3530772",
-      "summary": "",
-      "published_at": "2026-08-21T20:31:18+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "98bb29a7d1d2fd74c8565fb1769a15e1e44a1df3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "加拿大股市上涨；截至收盘加拿大多伦多S&P/TSX 综合指数上涨0.70%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3530770",
-      "summary": "",
-      "published_at": "2026-08-21T20:30:40+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "3159cfc0e9bece946c5a60bf62c6e362d22790d8",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "巴西股市上涨；截至收盘巴西IBOVESPA股指上涨1.85%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3530769",
-      "summary": "",
-      "published_at": "2026-08-21T20:30:14+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
       "id": "460c3517e6f37496f9a1020535a2de6d915229aa",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -153,7 +152,7 @@
       "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
       "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
       "published_at": "2026-08-21T20:17:08+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -171,7 +170,7 @@
       "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
       "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
       "published_at": "2026-08-21T20:11:31+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -189,7 +188,7 @@
       "url": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
       "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
       "published_at": "2026-08-21T20:11:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -207,7 +206,7 @@
       "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
       "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
       "published_at": "2026-08-21T20:03:13+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,7 +230,7 @@
       "url": "https://www.fool.com/coverage/charts/2026/08/21/advanced-micro-devices-vs-arm-holdings-comparing-revenue-trends-between-these-artificial-intelligence-companies/?source=iedfolrf0000001",
       "summary": "AMD's revenue has climbed steadily for eight straight quarters, while ARM's growth pattern tells a starkly different story.",
       "published_at": "2026-08-21T19:41:41+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,7 +259,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/netflix-is-down-46-from-its-all-time-high-with-no/?source=iedfolrf0000001",
       "summary": "The streaming media leader is still growing faster than its industry rivals.",
       "published_at": "2026-08-21T19:25:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -268,24 +267,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "93a1749fdd81cf73114415a1110b994dd4f313c4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The Treasury, the Fed and the threat to your money",
-      "url": "https://www.marketwatch.com/story/the-treasury-the-fed-and-the-threat-to-your-money-774442ad?mod=mw_rss_topstories",
-      "summary": "Also in Weekend Reads: The Gen Z online sports-betting trend, what’s next for Apple as Tim Cook exits, and a bullish take on Nvidia heading into earnings.",
-      "published_at": "2026-08-21T18:15:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "95bbc504961acbe7676e2199f41daf24e94e5053",
@@ -296,7 +277,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/the-u-s-senate-faces-a-critical-vote-on-the-clarity-act-on-sept-15-coinbase-ceo-brian-armstrong-says-it-will-pass/?source=iedfolrf0000001",
       "summary": "The Senate will take up a vote on cloture on Sept. 15.",
       "published_at": "2026-08-21T17:19:01+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -325,7 +306,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/with-bitcoin-rallying-strategy-mstr-just-flipped-from-a-13-billion-loss-to-a-14-billion-gain-should-investors-buy-the-rally/?source=iedfolrf0000001",
       "summary": "Bitcoin has risen more than 20% over the past week.",
       "published_at": "2026-08-21T16:14:02+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -349,7 +330,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/amd-has-more-than-tripled-off-its-low-and-still-trades-20-below-its-high/?source=iedfolrf0000001",
       "summary": "The chipmaker's business keeps getting better. The argument is over which end of a wild 52-week range tells the truth.",
       "published_at": "2026-08-21T16:07:01+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -373,7 +354,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/bloom-energy-vs-palantir-which-story-stock-actuall/?source=iedfolrf0000001",
       "summary": "These two hot hypergrowth stocks have significant upside potential.",
       "published_at": "2026-08-21T16:05:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -397,7 +378,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/broadcom-vs-marvell-broadcom-stock-is-still-the-be/?source=iedfolrf0000001",
       "summary": "While Marvell stock has been hot, Broadcom looks like the better buy.",
       "published_at": "2026-08-21T15:53:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -421,7 +402,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/palantir-co-founder-peter-thiels-hedge-fund-just-m/?source=iedfolrf0000001",
       "summary": "Thiel Macro loaded up on Amazon shares during the second quarter.",
       "published_at": "2026-08-21T15:21:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -437,24 +418,6 @@
       "score": 1.0
     },
     {
-      "id": "f83820a818ac43ac9caab4b7e3f1d498c275e6a7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editing Stock Dead Money?",
-      "url": "https://www.fool.com/investing/2026/08/21/crispr-therapeutics-stock-is-up-only-8-this-year/?source=iedfolrf0000001",
-      "summary": "This year, the biotech stock has underperformed both the Nasdaq Biotechnology Index and the S&amp;P 500.",
-      "published_at": "2026-08-21T14:30:00+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
       "id": "e95239969cb2b147a948278b6c5e10c975c9b1e1",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -463,7 +426,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
       "summary": "",
       "published_at": "2026-08-21T11:21:06+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -487,7 +450,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3364835/hong-kong-stock-exchange-extends-listing-application-window-12-months?utm_source=rss_feed",
       "summary": "The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday.\nThe extension was designed to give listing candidates, their sponsors and advisers more time to complete their listings – allowing them to avoid having to repeatedly refile their applications – said the excha",
       "published_at": "2026-08-21T09:50:32+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -505,7 +468,7 @@
       "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
       "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
       "published_at": "2026-08-21T08:10:55+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -529,7 +492,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms?utm_source=rss_feed",
       "summary": "Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday.\nThe new entrants are Hua Hong Grace Semiconductor, one of China’s top contract chipmakers, and truck and engine maker Weichai Power. The change would take effect on Sept",
       "published_at": "2026-08-21T02:59:26+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -547,7 +510,7 @@
       "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
       "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
       "published_at": "2026-08-20T20:01:49+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -557,40 +520,88 @@
       "score": 0.76
     },
     {
-      "id": "6f2e07e40051cd6fd52d0cf5ddb640eeaa1fa74f",
+      "id": "74625acb898c81af1a91dc607b2f01da4498bf02",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Stock Market Today (Aug. 20, 2026): Nasdaq, S&P 500 slip as Treasury rally fades",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-20-135212527.html",
+      "title": "Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-shares-surge-ai-arm-143100574.html",
       "summary": "",
-      "published_at": "2026-08-20T13:52:12+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "published_at": "2026-08-20T14:31:00+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "f672b6638b0ebfc2e07f1fec48f2ff48a493f5bd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Search and Cloud Strength Drive Alphabet’s (GOOG) Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/search-cloud-strength-drive-alphabet-143014236.html",
+      "summary": "",
+      "published_at": "2026-08-20T14:30:14+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOG",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "55b610654a2d533da69d4535860d65dc7f294375",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SBA Communications Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sba-communications-stock-outlook-wall-140525919.html",
+      "summary": "",
+      "published_at": "2026-08-20T14:05:25+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "90e910c1f7bab8cf7a19dc16b51dcdbcd4eeca10",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "After Moderna stock surge of 177% on cancer drug breakthrough, here's what Wall Street thinks happens next",
+      "url": "https://finance.yahoo.com/healthcare/article/after-moderna-stock-surge-of-177-on-cancer-drug-breakthrough-heres-what-wall-street-thinks-happens-next-091040601.html",
+      "summary": "",
+      "published_at": "2026-08-20T09:10:40+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "4175525f1c88c79d274b6da82576cc67a1c9deb0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Verisk Analytics Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-verisk-analytics-131939899.html",
-      "summary": "",
-      "published_at": "2026-08-20T13:19:39+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
+      "score": 0.52
     },
     {
       "id": "3280d67d5caa5d74f2a4f11cb4989647d0f668ed",
@@ -601,7 +612,7 @@
       "url": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
       "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project.\nKnown officially as Shanghai Spacecom Satellite Technology, the operator of China’s Qianfan constellation completed its Series B round on Mond",
       "published_at": "2026-08-20T06:00:29+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
+      "first_seen_at": "2026-08-21T21:48:42.988692+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -615,24 +626,6 @@
       ],
       "category": "macro",
       "score": 0.85
-    },
-    {
-      "id": "685fcf101d1b5d25d73bc6813ab2b9135bf96304",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Markets",
-      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-      "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
-      "published_at": "2026-08-19T21:29:38+00:00",
-      "first_seen_at": "2026-08-21T21:22:03.252174+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
