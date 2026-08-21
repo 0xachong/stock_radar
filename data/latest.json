@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-08-21T13:42:57.637279+00:00",
+  "generated_at": "2026-08-21T14:33:09.943322+00:00",
   "window_hours": 48,
-  "total_items": 29,
+  "total_items": 31,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 26,
-    "HK": 2,
-    "CN": 1
+    "US": 30,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
+      "count": 13
     },
     {
       "key": "earnings",
-      "count": 6
+      "count": 5
     },
     {
       "key": "macro",
@@ -43,25 +42,25 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "6daeebf1225990009c744ab520ca77844ea0e74d",
+      "id": "1b4c24bb44a84558a15a52a583dea42367fdc325",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "JPMorgan is worried about an autumn downturn. Says AI stocks show similarities to 2000 tech peak",
-      "url": "https://www.cnbc.com/2026/08/21/jpmorgan-worries-about-autumn-downturn-in-stocks.html",
-      "summary": "Stocks are headed for a weekly decline, and JPMorgan thinks there could be further downside ahead.",
-      "published_at": "2026-08-21T13:34:59+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "title": "S&P 500 rebounds after sell-off but remains on pace for weekly decline: Live updates",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
+      "published_at": "2026-08-21T14:25:00+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -71,15 +70,111 @@
       "score": 0.52
     },
     {
-      "id": "9bab984d36db3fec407c1a091d3b594d620273c3",
+      "id": "95988882da4b149b6c08cd819c21574678334219",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | 有色金属概念股普涨 南方铜业(SCCO.US)涨逾8%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3530473",
+      "summary": "",
+      "published_at": "2026-08-21T14:06:28+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "ac79dfa1fb1bdcd273e9cec329234251e2371b39",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | 加密货币概念股普涨 Circle(CRCL.US)涨近10%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3530474",
+      "summary": "",
+      "published_at": "2026-08-21T14:06:28+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "604f4e73dcc16e9973c96790586d8a823eab47cc",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "台积电盘整区间蓄势待发，突破方向即将揭晓：实时更新",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3521699",
+      "summary": "",
+      "published_at": "2026-08-21T14:06:02+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "87b1a937cb63c4ae7d71153110d49168862b2269",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rebounding From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-21T13:51:45+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "0f85abec6dcdfbf98c0a3b3b30c595a18bd15ead",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Billionaire Stanley Druckenmiller Bought This Newly Added S&P 500 Stock That's Up 351% Since Its IPO",
+      "url": "https://www.fool.com/investing/2026/08/21/billionaire-stanley-druckenmiller-bought-this-newl/?source=iedfolrf0000001",
+      "summary": "His Duquesne Family Office opened a position in Reddit in the second quarter.",
+      "published_at": "2026-08-21T13:51:00+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.76
+    },
+    {
+      "id": "6daeebf1225990009c744ab520ca77844ea0e74d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
-      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-      "summary": "The Dow ended Thursday's session down 700 points, marking its worst day since July 29.",
-      "published_at": "2026-08-21T13:33:45+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "title": "JPMorgan is worried about an autumn downturn. Says AI stocks show similarities to 2000 tech peak",
+      "url": "https://www.cnbc.com/2026/08/21/jpmorgan-worries-about-autumn-downturn-in-stocks.html",
+      "summary": "Stocks are headed for a weekly decline, and JPMorgan thinks there could be further downside ahead.",
+      "published_at": "2026-08-21T13:34:59+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -97,7 +192,7 @@
       "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
       "summary": "Shares of Jensen Huang’s company have struggled to make headway since its previous results day.",
       "published_at": "2026-08-21T13:33:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -105,42 +200,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "eb9c0608a6d44a628a8292fa728505b214c79b03",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Modine股价盘前涨逾5%，获Hunterbrook看涨报告提振",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3530334",
-      "summary": "",
-      "published_at": "2026-08-21T13:28:28+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "5a75e70445d3354878e441ed7e2d54485beca96f",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "长存控股科创板IPO已受理 为世界一流的存储器IDM企业",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3530282",
-      "summary": "",
-      "published_at": "2026-08-21T13:05:29+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.76
     },
     {
       "id": "1367b848298af0a8eaf12ef0416e2fe0adc8bc5a",
@@ -151,7 +210,7 @@
       "url": "https://www.cnbc.com/2026/08/21/walmart-just-had-its-worst-day-in-4-years-jpmorgan-says-buy-it-now.html",
       "summary": "Walmart shares are cheaper than usual following the stock's steep decline on Thursday after its earnings report, according to JPMorgan.",
       "published_at": "2026-08-21T12:17:51+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -169,7 +228,7 @@
       "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
       "summary": "\"These trials are often compared to the Big Tobacco lawsuits of the 90s, and the outcome will likely be analogous as well,\" one analyst told CNBC.",
       "published_at": "2026-08-21T12:11:14+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -193,7 +252,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/new-member-sp-500-up-365-ipo-reddit/?source=iedfolrf0000001",
       "summary": "Fears of AI disruption may have created an incredible buying opportunity for this company.",
       "published_at": "2026-08-21T11:32:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -211,7 +270,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
       "summary": "",
       "published_at": "2026-08-21T11:21:06+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -235,7 +294,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/donald-trump-threw-fed-under-bus-interest-rates/?source=iedfolrf0000001",
       "summary": "The president's repeated calls for lower interest rates are falling on deaf ears amid elevated inflation that's primarily been driven by his policies.",
       "published_at": "2026-08-21T11:06:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -253,7 +312,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3364835/hong-kong-stock-exchange-extends-listing-application-window-12-months?utm_source=rss_feed",
       "summary": "The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday.\nThe extension was designed to give listing candidates, their sponsors and advisers more time to complete their listings – allowing them to avoid having to repeatedly refile their applications – said the excha",
       "published_at": "2026-08-21T09:50:32+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -271,7 +330,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/prediction-nvidia-stock-will-go-parabolic-after-aug-26-here-are-2-3-trillion-reasons-why/?source=iedfolrf0000001",
       "summary": "The huge revenue backlogs of major U.S. hyperscalers could help Nvidia crush expectations when it releases its quarterly results.",
       "published_at": "2026-08-21T09:38:01+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -279,24 +338,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "b4ffaff4291acbd00a972b48ff206a30171c4470",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Hedge funds are doubling down on megacap tech stocks after summer volatility triggers massive portfolio cleanup",
-      "url": "https://www.marketwatch.com/story/hedge-funds-are-doubling-down-on-big-tech-even-after-summer-volatility-triggered-a-massive-portfolio-cleanup-57dbbf8a?mod=mw_rss_topstories",
-      "summary": "Hedge funds entered the second quarter all-in on the AI trade, but have begun to diversify their portfolios lately. They’re dipping into healthcare, energy and financials.",
-      "published_at": "2026-08-21T09:11:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "008695d51e68f7505ac84a093333cced465ca2d9",
@@ -307,7 +348,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/bond-market-rare-warning-stock-market-do-this-next/?source=iedfolrf0000001",
       "summary": "History says the S&amp;P 500 and Nasdaq Composite could be headed for a correction.",
       "published_at": "2026-08-21T08:12:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -325,7 +366,7 @@
       "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
       "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
       "published_at": "2026-08-21T08:10:55+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -349,7 +390,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/examine-top-holding-17-billionaire-3-common-stocks/?source=iedfolrf0000001",
       "summary": "Artificial intelligence (AI) is a big theme for Wall Street's savviest asset managers.",
       "published_at": "2026-08-21T08:06:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -357,6 +398,24 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "653be3373534586d90d8e57384b147d6ad091295",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+      "summary": "",
+      "published_at": "2026-08-21T08:05:33+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "46222cb9c6b363b78ddde00958764ffa20b3ea90",
@@ -367,7 +426,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/3-ai-chip-stocks-down-15-or-more-to-buy-right-now/?source=iedfolrf0000001",
       "summary": "Broadcom, AMD, and SK Hynix look like buys on the dip.",
       "published_at": "2026-08-21T08:00:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -391,7 +450,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/marc-benioffs-salesforce-spent-a-record-27-billion/?source=iedfolrf0000001",
       "summary": "The company is making a big change to its balance sheet.",
       "published_at": "2026-08-21T07:22:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -415,7 +474,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/?source=iedfolrf0000001",
       "summary": "Druckenmiller has never had a down year in all his years as a professional investor.",
       "published_at": "2026-08-21T07:05:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -433,7 +492,7 @@
       "url": "https://www.fool.com/investing/2026/08/21/marc-benioff-says-wall-streets-fears-that-ai-will/?source=iedfolrf0000001",
       "summary": "The software titan experienced record revenue as it embraced the AI threat.",
       "published_at": "2026-08-21T06:00:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -457,7 +516,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms?utm_source=rss_feed",
       "summary": "Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday.\nThe new entrants are Hua Hong Grace Semiconductor, one of China’s top contract chipmakers, and truck and engine maker Weichai Power. The change would take effect on Sept",
       "published_at": "2026-08-21T02:59:26+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -475,7 +534,7 @@
       "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
       "summary": "Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.",
       "published_at": "2026-08-20T21:53:44+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -493,7 +552,7 @@
       "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
       "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
       "published_at": "2026-08-20T20:01:49+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -511,7 +570,7 @@
       "url": "https://finance.yahoo.com/healthcare/articles/wall-street-analysts-bullish-vertex-071850030.html",
       "summary": "",
       "published_at": "2026-08-20T07:18:50+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -529,7 +588,7 @@
       "url": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
       "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project.\nKnown officially as Shanghai Spacecom Satellite Technology, the operator of China’s Qianfan constellation completed its Series B round on Mond",
       "published_at": "2026-08-20T06:00:29+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -553,7 +612,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-textron-033226964.html",
       "summary": "",
       "published_at": "2026-08-20T03:32:26+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -561,24 +620,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "18cc14d2388eefd142f2f8aaf4630ea7395fa368",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Zip shares surge 17% as FY26 profit jumps and FY27 earnings outlook strengthens",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zip-shares-surge-17-fy26-014100430.html",
-      "summary": "",
-      "published_at": "2026-08-20T01:41:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "685fcf101d1b5d25d73bc6813ab2b9135bf96304",
@@ -589,7 +630,7 @@
       "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
       "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
       "published_at": "2026-08-19T21:29:38+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -607,7 +648,7 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/us-debt-tops-40-trillion-how-soaring-federal-debt-affects-you-personally-155000383.html",
       "summary": "",
       "published_at": "2026-08-19T15:50:00+00:00",
-      "first_seen_at": "2026-08-21T13:42:57.637279+00:00",
+      "first_seen_at": "2026-08-21T14:33:09.943322+00:00",
       "market": "US",
       "markets": [
         "US"
