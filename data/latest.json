@@ -1,36 +1,37 @@
 {
-  "generated_at": "2026-08-22T13:30:13.068278+00:00",
+  "generated_at": "2026-08-22T14:19:15.710258+00:00",
   "window_hours": 48,
-  "total_items": 31,
+  "total_items": 33,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 27,
-    "HK": 4
+    "CN": 1,
+    "US": 29,
+    "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 12
-    },
-    {
-      "key": "ipo",
-      "count": 5
+      "count": 15
     },
     {
       "key": "earnings",
       "count": 4
     },
     {
-      "key": "capital",
-      "count": 3
+      "key": "ipo",
+      "count": 4
     },
     {
       "key": "rating",
-      "count": 3
+      "count": 4
     },
     {
       "key": "guidance",
+      "count": 2
+    },
+    {
+      "key": "capital",
       "count": 2
     },
     {
@@ -46,7 +47,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 26
+      "count": 28
     },
     {
       "site_id": "hk_china",
@@ -56,6 +57,60 @@
   ],
   "items": [
     {
+      "id": "72512b009e93e903c98cbe79bfc92ab46bbe1c5d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美银证券：CTA股票仓位回升至伊朗冲突爆发前水平",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3531061",
+      "summary": "",
+      "published_at": "2026-08-22T13:47:56+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "2d9825a0876948444c5aef4957b32e5356e2ed6b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Earnings Scoreboard: All 12 key S&P 500 reporting firms top EPS estimates; 11 deliver Y/Y growth",
+      "url": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-22T13:35:27+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "edfcd847125277e0f29f2bddd22d53360327a834",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-22T13:27:37+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
       "id": "8dc59a33e09578e00185a8dc73fb85f2f15ab150",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -64,7 +119,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/treasury-bond-intervention-nightmare-kevin-warsh/?source=iedfolrf0000001",
       "summary": "Thanks to Scott Bessent, Fed Chair Warsh now finds himself stuck between a rock and a hard place.",
       "published_at": "2026-08-22T13:06:01+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -82,7 +137,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531056",
       "summary": "",
       "published_at": "2026-08-22T12:35:12+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -100,7 +155,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/if-a-stock-market-crash-is-coming-history-says-buy/?source=iedfolrf0000001",
       "summary": "Bear markets are a normal part of investing, so you should always own some stocks that are resilient to market downturns.",
       "published_at": "2026-08-22T12:15:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -118,7 +173,7 @@
       "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
       "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
       "published_at": "2026-08-22T12:12:03+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -134,24 +189,6 @@
       "score": 0.85
     },
     {
-      "id": "edfcd847125277e0f29f2bddd22d53360327a834",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-22T12:08:44+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
       "id": "c2ca3f9ae6c4828df653b53731608b47d325e0b2",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -160,7 +197,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531051",
       "summary": "",
       "published_at": "2026-08-22T12:05:11+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -178,7 +215,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/prediction-this-artificial-intelligence-ai-semicon/?source=iedfolrf0000001",
       "summary": "AMD looks poised to outperform Nvidia over the next three years.",
       "published_at": "2026-08-22T12:05:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -202,7 +239,7 @@
       "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-22T12:00:19+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,7 +263,7 @@
       "url": "https://seekingalpha.com/news/4636031-marvells-tightening-ties-with-hyperscalers-likely-prompts-guidance-raise-gf?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-22T12:00:03+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -250,7 +287,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-113500363.html",
       "summary": "",
       "published_at": "2026-08-22T11:35:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -268,7 +305,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/why-navitas-semiconductor-stock-sank-this-week/?source=iedfolrf0000001",
       "summary": "Navitas stock is now down 59% from the peak it hit earlier this year.",
       "published_at": "2026-08-22T11:30:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -286,7 +323,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/why-opera-stock-sank-this-week/?source=iedfolrf0000001",
       "summary": "Opera beat Wall Street's sales target in Q2, but that wasn't enough for investors.",
       "published_at": "2026-08-22T11:15:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -304,7 +341,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/software-as-a-service-saas-stocks-big-upside-ai/?source=iedfolrf0000001",
       "summary": "Palantir, Microsoft, and GitLab all have strong upside from AI.",
       "published_at": "2026-08-22T11:15:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -320,21 +357,21 @@
       "score": 0.97
     },
     {
-      "id": "7ffed7fbf019a538cb03f4990da826d65fa8b1ff",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股消息 | 彤程新材(603650.SH)二次递表港交所 在全球及中国轮胎用酚醛树脂橡胶助剂市场销售金额均排名第一",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3531036",
+      "id": "797744c4072de1532fc37be615bb0529315304e9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Airbnb Just Hit a Four-Year High. The Downgrade Says That’s the Problem.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-110129364.html",
       "summary": "",
-      "published_at": "2026-08-22T10:05:11+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
-      "market": "HK",
+      "published_at": "2026-08-22T11:01:29+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
-      "category": "ipo",
+      "category": "rating",
       "score": 0.52
     },
     {
@@ -346,7 +383,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/this-dividend-etf-wont-let-a-stock-in-unless-it-pa/?source=iedfolrf0000001",
       "summary": "The iShares Core Dividend Growth ETF aims to hold companies that increase their dividends.",
       "published_at": "2026-08-22T10:00:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -364,7 +401,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/prediction-this-will-be-palantirs-stock-price-by-t/?source=iedfolrf0000001",
       "summary": "The AI superstar is growing fast, but that does not neccesarily mean a rising stock price.",
       "published_at": "2026-08-22T09:15:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -388,7 +425,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/warren-buffett-warning-stock-market-this-next/?source=iedfolrf0000001",
       "summary": "Warren Buffett says many traders are treating the stock market like a casino.",
       "published_at": "2026-08-22T08:48:00+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -406,7 +443,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/every-s-and-p-500-index-fund-owner-holds-more-nvidia-than-apple/?source=iedfolrf0000001",
       "summary": "The top spot first changed hands in 2024, and the gap now runs to hundreds of billions of dollars. A quarter of the biggest index fund sits in five stocks.",
       "published_at": "2026-08-22T08:12:01+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -416,22 +453,52 @@
       "score": 0.52
     },
     {
-      "id": "fbb7cbb48aab5df599378ec7dd8b7b0971117ede",
+      "id": "fe84d50d8769645a6003921c706aa522878106d2",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Tapestry's CEO Gave Up Stock Right After a Rough Earnings Reaction. Here's What to Know",
-      "url": "https://www.fool.com/coverage/filings/2026/08/22/tapestry-s-ceo-gave-up-stock-right-after-a-rough-earnings-reaction-here-s-what-to-know/?source=iedfolrf0000001",
-      "summary": "This disposition of 72,573 shares was non-discretionary, driven by option exercise costs and tax withholding.",
-      "published_at": "2026-08-22T07:35:34+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
+      "url": "https://www.fool.com/investing/2026/08/22/amd-investors-must-be-ready-for-major-news-on-aug/?source=iedfolrf0000001",
+      "summary": "AMD and Nvidia are closely linked.",
+      "published_at": "2026-08-22T05:00:00+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "09ecf2ab77f8d0e86c3e873b2ccb44a6419cb8f2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
+      "url": "https://www.fool.com/investing/2026/08/21/google-is-getting-paid-in-marvell-stock-warrants-for-buying-marvell-s-chips/?source=iedfolrf0000001",
+      "summary": "The search giant lined up another custom silicon partner this summer. It also negotiated something a purchase order never includes: the right to buy its supplier's stock at a fixed price.",
+      "published_at": "2026-08-22T03:27:01+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "e727ac86c59d7842c7612fa90c3a4a65052c34e5",
@@ -442,7 +509,7 @@
       "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
       "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
       "published_at": "2026-08-21T23:12:26+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -466,7 +533,7 @@
       "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
       "published_at": "2026-08-21T22:03:39+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -484,7 +551,7 @@
       "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
       "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
       "published_at": "2026-08-21T20:11:31+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -494,15 +561,15 @@
       "score": 0.52
     },
     {
-      "id": "d1f81562ac5f5a3b7cd3a2fb179044e1f576f9c1",
+      "id": "fff722fd74ba3857c4cbd1ff25b107dfae14390f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Nucor Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-nucor-114745483.html",
+      "title": "Do Wall Street Analysts Like Veralto Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-veralto-stock-122255083.html",
       "summary": "",
-      "published_at": "2026-08-21T11:47:45+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "published_at": "2026-08-21T12:22:55+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -512,15 +579,15 @@
       "score": 0.64
     },
     {
-      "id": "e89b3b83239a7cb025f9b5f279f4593c88c8fd33",
+      "id": "0c099207fb2ccc324e874619a8fb52ecca0aa3f0",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "IQVIA Holdings Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/healthcare/articles/iqvia-holdings-stock-outlook-wall-114049704.html",
+      "title": "Cboe Global Markets Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-global-markets-stock-outlook-121853876.html",
       "summary": "",
-      "published_at": "2026-08-21T11:40:49+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "published_at": "2026-08-21T12:18:53+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -530,15 +597,15 @@
       "score": 0.64
     },
     {
-      "id": "9a2602f29bb3267b49ae74a6d0ae289d2c3d793c",
+      "id": "7190531a25e9b87ad9006ec49f43882af1f27c71",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like HCA Healthcare Stock?",
-      "url": "https://finance.yahoo.com/healthcare/articles/wall-street-analysts-hca-healthcare-113336499.html",
+      "title": "Are Wall Street Analysts Bullish on Prudential Financial Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-prudential-121315406.html",
       "summary": "",
-      "published_at": "2026-08-21T11:33:36+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "published_at": "2026-08-21T12:13:15+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -548,22 +615,22 @@
       "score": 0.64
     },
     {
-      "id": "54b4f174c049b6330105fbef271d9a97432a8ba4",
+      "id": "3d285f65f8885d391d69404a9da8d89bfbcf073c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Dividend Tourists Find Way To Triple S&P 500's Puny Yield",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/dividend-tourists-find-way-to-triple-sp-500s-puny-yield/?src=A00220&yptr=yahoo",
+      "title": "What Are Wall Street Analysts' Target Price for J. M. Smucker Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121103165.html",
       "summary": "",
-      "published_at": "2026-08-21T11:24:02+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "published_at": "2026-08-21T12:11:03+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "capital",
-      "score": 0.52
+      "category": "rating",
+      "score": 0.64
     },
     {
       "id": "e95239969cb2b147a948278b6c5e10c975c9b1e1",
@@ -574,7 +641,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
       "summary": "",
       "published_at": "2026-08-21T11:21:06+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -590,24 +657,6 @@
       "score": 0.85
     },
     {
-      "id": "aa955ab3d59325447d3ec217eaf426d5f2bb2859",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Garmin Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-111410241.html",
-      "summary": "",
-      "published_at": "2026-08-21T11:14:10+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
       "id": "0fa87316185d7b12d4ed4ea3453edcf7b737f381",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -616,7 +665,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3364835/hong-kong-stock-exchange-extends-listing-application-window-12-months?utm_source=rss_feed",
       "summary": "The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday.\nThe extension was designed to give listing candidates, their sponsors and advisers more time to complete their listings – allowing them to avoid having to repeatedly refile their applications – said the excha",
       "published_at": "2026-08-21T09:50:32+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -634,7 +683,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms?utm_source=rss_feed",
       "summary": "Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday.\nThe new entrants are Hua Hong Grace Semiconductor, one of China’s top contract chipmakers, and truck and engine maker Weichai Power. The change would take effect on Sept",
       "published_at": "2026-08-21T02:59:26+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -652,7 +701,7 @@
       "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
       "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
       "published_at": "2026-08-20T20:01:49+00:00",
-      "first_seen_at": "2026-08-22T13:30:13.068278+00:00",
+      "first_seen_at": "2026-08-22T14:19:15.710258+00:00",
       "market": "US",
       "markets": [
         "US"
