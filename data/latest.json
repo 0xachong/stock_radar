@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-22T16:49:18.790985+00:00",
+  "generated_at": "2026-08-22T17:18:40.288537+00:00",
   "window_hours": 48,
-  "total_items": 29,
+  "total_items": 19,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 25,
+    "US": 15,
     "CN": 1,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 17
+      "count": 9
     },
     {
       "key": "ipo",
@@ -24,11 +24,11 @@
     },
     {
       "key": "capital",
-      "count": 2
+      "count": 1
     },
     {
       "key": "macro",
-      "count": 2
+      "count": 1
     },
     {
       "key": "product",
@@ -39,15 +39,57 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 13
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
+    {
+      "id": "cfec9f8ad5583ca9cef7b90ce562e0143d24f75d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-stock-beating-market-170500609.html",
+      "summary": "",
+      "published_at": "2026-08-22T17:05:00+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "aeee3bf217c08e7a515a00e855e05950c1df8562",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "苹果风险偏好将随John Ternus接任而改变吗？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3531070",
+      "summary": "",
+      "published_at": "2026-08-22T17:04:56+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
     {
       "id": "19bd9078e6ec07a436a7f121a4dbfb1dddbc0cea",
       "site_id": "us_global",
@@ -57,7 +99,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-looks-cheap-reason-161040113.html",
       "summary": "",
       "published_at": "2026-08-22T16:10:40+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -73,24 +115,6 @@
       "score": 0.97
     },
     {
-      "id": "f7e78cab0469135e7a3877acb33965865082ae7d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The S&P 500 Is Near an All-Time High. Here's What History Says Investors Should Do.",
-      "url": "https://www.fool.com/investing/2026/08/22/sp-500-near-all-time-high-what-history-says-next/?source=iedfolrf0000001",
-      "summary": "A lot of investors get nervous about putting new money into stocks when the market is at an all-time high. History says there's no need to fear.",
-      "published_at": "2026-08-22T15:56:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "67a4b9ff7173b98f39b65045f0ac21f3012dc5b4",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -99,7 +123,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-hiding-3-135343885.html",
       "summary": "",
       "published_at": "2026-08-22T15:52:40+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -115,30 +139,6 @@
       "score": 0.85
     },
     {
-      "id": "ed3bb12d7ffbde33d74dac9915911e0d0275d8b1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Alphabet Could Own 7% of Marvell — But Here’s What Google Has to Do to Get It",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-could-own-7-marvell-145906141.html",
-      "summary": "",
-      "published_at": "2026-08-22T15:48:47+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
       "id": "1b9a4e19ce4220b7d108062b61a2596323bba8b1",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -147,7 +147,7 @@
       "url": "https://seekingalpha.com/news/4636007-insider-trades-amd-micron-and-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-22T15:03:40+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -171,7 +171,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531061",
       "summary": "",
       "published_at": "2026-08-22T13:47:56+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -189,31 +189,13 @@
       "url": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-22T13:35:27+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "8dc59a33e09578e00185a8dc73fb85f2f15ab150",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC",
-      "url": "https://www.fool.com/investing/2026/08/22/treasury-bond-intervention-nightmare-kevin-warsh/?source=iedfolrf0000001",
-      "summary": "Thanks to Scott Bessent, Fed Chair Warsh now finds himself stuck between a rock and a hard place.",
-      "published_at": "2026-08-22T13:06:01+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
       "score": 0.52
     },
     {
@@ -225,31 +207,13 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531056",
       "summary": "",
       "published_at": "2026-08-22T12:35:12+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
       "category": "ipo",
-      "score": 0.52
-    },
-    {
-      "id": "2cb54f354fc5fbbefef70aaf835128c795c5815e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "If a Stock Market Crash Is Coming, History Says Buying and Holding These Stocks Is a Smart Move",
-      "url": "https://www.fool.com/investing/2026/08/22/if-a-stock-market-crash-is-coming-history-says-buy/?source=iedfolrf0000001",
-      "summary": "Bear markets are a normal part of investing, so you should always own some stocks that are resilient to market downturns.",
-      "published_at": "2026-08-22T12:15:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -261,7 +225,7 @@
       "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
       "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
       "published_at": "2026-08-22T12:12:03+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -285,7 +249,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531051",
       "summary": "",
       "published_at": "2026-08-22T12:05:11+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -293,54 +257,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.52
-    },
-    {
-      "id": "e3a36f39f5ba98f60ff57225a0e75c547fbe55ca",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years",
-      "url": "https://www.fool.com/investing/2026/08/22/prediction-this-artificial-intelligence-ai-semicon/?source=iedfolrf0000001",
-      "summary": "AMD looks poised to outperform Nvidia over the next three years.",
-      "published_at": "2026-08-22T12:05:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "b2a4120cf1f386023d3afbb6373e5075e35ef868",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-      "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-22T12:00:19+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "95197d7c32df58ff4cfb3849f94e9dda00bbac21",
@@ -351,151 +267,13 @@
       "url": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
       "summary": "Several stocks remain technically overbought even as the S&amp;P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
       "published_at": "2026-08-22T12:00:01+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "f01a3625ec002eb1bccde92c324fd7ea6eb8bddf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Navitas Semiconductor Stock Sank This Week",
-      "url": "https://www.fool.com/investing/2026/08/22/why-navitas-semiconductor-stock-sank-this-week/?source=iedfolrf0000001",
-      "summary": "Navitas stock is now down 59% from the peak it hit earlier this year.",
-      "published_at": "2026-08-22T11:30:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "a548678bfcab0a511f37d17eaf3c389641791b03",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Opera Stock Sank This Week",
-      "url": "https://www.fool.com/investing/2026/08/22/why-opera-stock-sank-this-week/?source=iedfolrf0000001",
-      "summary": "Opera beat Wall Street's sales target in Q2, but that wasn't enough for investors.",
-      "published_at": "2026-08-22T11:15:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "3378fac9eca452171882c6d46fd0596944ec73c0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
-      "url": "https://www.fool.com/investing/2026/08/22/software-as-a-service-saas-stocks-big-upside-ai/?source=iedfolrf0000001",
-      "summary": "Palantir, Microsoft, and GitLab all have strong upside from AI.",
-      "published_at": "2026-08-22T11:15:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "250af8b7139c44f92638a59fbb6629ba2ea6ae18",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This Dividend ETF Won't Let a Stock In Unless It Passes 2 Strict Tests. Here's Why That Matters.",
-      "url": "https://www.fool.com/investing/2026/08/22/this-dividend-etf-wont-let-a-stock-in-unless-it-pa/?source=iedfolrf0000001",
-      "summary": "The iShares Core Dividend Growth ETF aims to hold companies that increase their dividends.",
-      "published_at": "2026-08-22T10:00:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.61
-    },
-    {
-      "id": "64d688ff0a2cf45b82199bf98de7665b73aff017",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
-      "url": "https://www.fool.com/investing/2026/08/22/prediction-this-will-be-palantirs-stock-price-by-t/?source=iedfolrf0000001",
-      "summary": "The AI superstar is growing fast, but that does not neccesarily mean a rising stock price.",
-      "published_at": "2026-08-22T09:15:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "f29582d88edc136a87735c9c544e75a08555c686",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Warren Buffett's Last Warning About the Stock Market Could Haunt Wall Street for Years. History Says This Will Happen Next.",
-      "url": "https://www.fool.com/investing/2026/08/22/warren-buffett-warning-stock-market-this-next/?source=iedfolrf0000001",
-      "summary": "Warren Buffett says many traders are treating the stock market like a casino.",
-      "published_at": "2026-08-22T08:48:00+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "d06124b054b220fed65b3b2f0dc7bd95c9150df1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple",
-      "url": "https://www.fool.com/investing/2026/08/22/every-s-and-p-500-index-fund-owner-holds-more-nvidia-than-apple/?source=iedfolrf0000001",
-      "summary": "The top spot first changed hands in 2024, and the gap now runs to hundreds of billions of dollars. A quarter of the biggest index fund sits in five stocks.",
-      "published_at": "2026-08-22T08:12:01+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -507,7 +285,7 @@
       "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
       "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
       "published_at": "2026-08-21T23:12:26+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -531,7 +309,7 @@
       "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
       "published_at": "2026-08-21T22:03:39+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -549,7 +327,7 @@
       "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
       "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
       "published_at": "2026-08-21T20:11:31+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -567,7 +345,7 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
       "summary": "",
       "published_at": "2026-08-21T11:21:06+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -591,7 +369,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3364835/hong-kong-stock-exchange-extends-listing-application-window-12-months?utm_source=rss_feed",
       "summary": "The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday.\nThe extension was designed to give listing candidates, their sponsors and advisers more time to complete their listings – allowing them to avoid having to repeatedly refile their applications – said the excha",
       "published_at": "2026-08-21T09:50:32+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -609,7 +387,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms?utm_source=rss_feed",
       "summary": "Two new companies will be soon be added to the Hang Seng Index (HSI), increasing the constituents of Hong Kong’s bellwether stock index from 93 to 95, according to a statement from the Hang Seng Indexes Company released on Friday.\nThe new entrants are Hua Hong Grace Semiconductor, one of China’s top contract chipmakers, and truck and engine maker Weichai Power. The change would take effect on Sept",
       "published_at": "2026-08-21T02:59:26+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -627,7 +405,7 @@
       "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
       "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
       "published_at": "2026-08-20T20:01:49+00:00",
-      "first_seen_at": "2026-08-22T16:49:18.790985+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -635,6 +413,24 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
+    },
+    {
+      "id": "c3c054bb7f2a368d07ae0a2963e2b4609f79ea0f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Automatically Delay Retirement if the Stock Market Crashes Right Before?",
+      "url": "https://www.fool.com/retirement/2026/08/20/should-you-automatically-delay-retirement-if-the-s/?source=iedfolrf0000001",
+      "summary": "Here's how to handle an ill-timed market downturn.",
+      "published_at": "2026-08-20T17:36:00+00:00",
+      "first_seen_at": "2026-08-22T17:18:40.288537+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     }
   ]
 }
