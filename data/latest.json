@@ -1,36 +1,40 @@
 {
-  "generated_at": "2026-08-23T11:45:08.843742+00:00",
+  "generated_at": "2026-08-23T12:36:09.630643+00:00",
   "window_hours": 48,
-  "total_items": 15,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 13,
-    "HK": 3
+    "US": 24,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 6
+      "count": 14
     },
     {
       "key": "earnings",
-      "count": 3
+      "count": 5
     },
     {
       "key": "macro",
       "count": 2
     },
     {
-      "key": "ipo",
+      "key": "rating",
       "count": 2
+    },
+    {
+      "key": "ma",
+      "count": 1
     },
     {
       "key": "capital",
       "count": 1
     },
     {
-      "key": "rating",
+      "key": "ipo",
       "count": 1
     }
   ],
@@ -38,15 +42,49 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 12
+      "count": 24
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "a38ef7b77978bc75b7b24a925c859328255c2889",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Earnings Week Ahead: NVDA, MRVL, ZM, XPEV, and more",
+      "url": "https://seekingalpha.com/news/4635856-earnings-week-ahead-nvda-mrvl-zm-xpev-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-23T12:07:29+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        },
+        {
+          "symbol": "XPEV",
+          "name": "小鹏",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
     {
       "id": "c4fc77fd692e15d61f5374f266b27c3a48a253fe",
       "site_id": "us_global",
@@ -56,7 +94,7 @@
       "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
       "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
       "published_at": "2026-08-23T11:35:52+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -66,69 +104,321 @@
       "score": 0.52
     },
     {
-      "id": "19ed7aebc8ab4a71436460e49f2988c668e4599a",
+      "id": "dca181dc7fcb6498145abc7d729a463640d6b462",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "粤桂股份(000833.SZ)发布上半年业绩，归母净利润6.63亿元，同比增长182.76%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3531203",
+      "title": "华沿机器人(01021.HK)获纳入恒生综合指数 有望成为港股通标的",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3531218",
       "summary": "",
-      "published_at": "2026-08-23T10:35:12+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "published_at": "2026-08-23T11:35:10+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "HK",
       "markets": [
         "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "5490aa3dac95d1cd39faf27fde17158d66961105",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Palantir has been on a tear this year. Two numbers signal investors should protect their gains",
+      "url": "https://www.cnbc.com/2026/08/23/palantir-has-been-on-a-tear-this-year-two-numbers-signal-investors-should-protect-their-gains.html",
+      "summary": "Two numbers suggest this is the moment for holders of the stock, and for opportunistic traders, to think seriously about downside protection, says Scott Nations.",
+      "published_at": "2026-08-23T11:33:09+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "3b8a72ebe55c06761ee381dda51e9f0bdff21c02",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Bearproof stocks: These stocks have a history of holding up when the market struggles",
+      "url": "https://www.cnbc.com/2026/08/23/bearproof-stocks-with-a-history-of-holding-up-when-the-market-struggles.html",
+      "summary": "There are some stocks that can buck a downtrend in the broader market.",
+      "published_at": "2026-08-23T11:30:59+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "0262e1f852ee06f6dca2331198201c2ca3349ede",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
+      "url": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/?source=iedfolrf0000001",
+      "summary": "The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.",
+      "published_at": "2026-08-23T11:30:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "c318059ffdcd774ac37fc0e250ee854dca34875d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+      "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+      "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
+      "published_at": "2026-08-23T11:29:05+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "3623a0cac532d7eba597726918db68fcdc53144d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of.",
+      "url": "https://www.fool.com/investing/2026/08/23/if-amazon-is-a-top-growth-stock-then-why-does-it-t/?source=iedfolrf0000001",
+      "summary": "The company is reporting some of its best performance in years.",
+      "published_at": "2026-08-23T11:15:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "1e667839ac3e842c86de5064729b0b428ebafd8a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "剂泰科技-P(07666)获纳入恒生综合指数成份股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3531211",
+      "summary": "",
+      "published_at": "2026-08-23T11:05:10+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "ea82082191048f75ec0746d85d0e241f399f2359",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "MP Materials vs. The Metals Company: Which Rare-Earth Bet Actually Pays Off First?",
+      "url": "https://www.fool.com/investing/2026/08/23/mp-materials-vs-the-metals-company-which-rare-eart/?source=iedfolrf0000001",
+      "summary": "For investors looking to capitalize on the domestic push for rare-earth mining and processing, one stock clearly stands out as a better buy right now.",
+      "published_at": "2026-08-23T10:50:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "1fe9f4faf6c94b7ac2802c608b05a897de51065c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street's Biggest Bubble May Be Popping (No, Not AI), and It Has Dire Consequences for the Stock Market",
+      "url": "https://www.fool.com/investing/2026/08/23/wall-st-biggest-bubble-popping-not-ai-dire-outcome/?source=iedfolrf0000001",
+      "summary": "Although evidence is mounting that an artificial intelligence (AI) bubble may be brewing, there’s something far more sinister lurking in the shadows.",
+      "published_at": "2026-08-23T10:36:01+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "f698e3ccbe0c1e73b9addf34259bada68fda9691",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Anthropic Could Outdo SpaceX With Its IPO. Here's How Much Investors Think It's Worth Right Now and Why.",
+      "url": "https://www.fool.com/investing/2026/08/23/anthropic-could-outdo-spacex-with-its-ipo-heres-ho/?source=iedfolrf0000001",
+      "summary": "There are still a lot of questions, but Anthropic's revenue growth is incredible.",
+      "published_at": "2026-08-23T10:05:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
       "category": "earnings",
       "score": 0.61
     },
     {
-      "id": "ca82de51488c85249ae18c5cf59ab23b30dfef6a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "阿里巴巴-W(09988)拟于香港配售新股份 配售总对价为800亿港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3531199",
-      "summary": "",
-      "published_at": "2026-08-23T10:35:10+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
-      "market": "HK",
+      "id": "11b9819bc2ae252e878cd31ed9e1c96ea568bd9a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
+      "url": "https://www.fool.com/investing/2026/08/23/forget-broadcom-nvidia-nvda-is-still-the-top-semic/?source=iedfolrf0000001",
+      "summary": "Nvidia stands out as the top semiconductor stock for the coming years because of its dominant AI ecosystem, not to mention it's the most popular AI stock in the ecosystem.",
+      "published_at": "2026-08-23T09:10:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
       "markets": [
-        "HK",
         "US"
       ],
       "tickers": [
         {
-          "symbol": "09988",
-          "name": "阿里巴巴",
-          "market": "HK"
-        },
-        {
-          "symbol": "BABA",
-          "name": "阿里巴巴",
+          "symbol": "NVDA",
+          "name": "英伟达",
           "market": "US"
         }
       ],
-      "category": "ipo",
-      "score": 1.0
+      "category": "company",
+      "score": 0.97
     },
     {
-      "id": "9e8465139fd8aff2f6547a5ebfc9c1baab475e85",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "中国石油化工股份(00386)发布中期业绩，归母净利润256.27亿元 同比增加19.3%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3531200",
-      "summary": "",
-      "published_at": "2026-08-23T10:35:10+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
-      "market": "HK",
+      "id": "c37c18f171926e65fd4cbb8a4877a2079ee09f87",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now -- It's Been My Best Stock Performer by Far",
+      "url": "https://www.fool.com/investing/2026/08/23/the-ultimate-growth-stock-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+      "summary": "It's down 34% over the past year, which makes its valuation much more attractive.",
+      "published_at": "2026-08-23T08:25:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "5af144bc0a9bb6736594c5ed3afd188c2b3999f1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The S&P 500 Just Did Something Seen Only 1 Other Time Since 1871 — and It's Not Good News for Wall Street",
+      "url": "https://www.fool.com/investing/2026/08/23/the-s-and-p-500-just-did-something-seen-only-1-other-time-since-1871-and-it-s-not-good-news-for-wall-street/?source=iedfolrf0000001",
+      "summary": "The stock market is making history, but not necessarily in a good way.",
+      "published_at": "2026-08-23T08:24:01+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "231c53cba7b48c8583393398a2e89299cf47fca7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
+      "url": "https://www.fool.com/investing/2026/08/23/tech-compounders-fit-for-warren-buffett-portfolio/?source=iedfolrf0000001",
+      "summary": "Meta, Microsoft, and TSMC are all Buffett-style compounding stocks.",
+      "published_at": "2026-08-23T08:15:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "ed02b71a45752f4b5ed4198a124f4fe6935406b8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Alphabet and Amazon Are Cheaper Than the S&P 500. What's Going On?",
+      "url": "https://www.fool.com/investing/2026/08/23/alphabet-and-amazon-are-cheaper-than-the-sp-500-wh/?source=iedfolrf0000001",
+      "summary": "The price-to-earnings metric has some oddities associated with it.",
+      "published_at": "2026-08-23T07:45:00+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
       "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "0a7fbbda95bb9f871195d5337546b834e9293b30",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Synaptics' Top Lawyer Sold Stock as a $7 Billion Merger Moves Toward Closing. Here's What to Know",
+      "url": "https://www.fool.com/coverage/filings/2026/08/23/synaptics-top-lawyer-sold-stock-as-a-usd7-billion-merger-moves-toward-closing-here-s-what-to-know/?source=iedfolrf0000001",
+      "summary": "This disposition follows the vesting of 41,734 shares and includes 14,218 shares withheld for taxes.",
+      "published_at": "2026-08-23T07:17:05+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
       "score": 0.61
     },
     {
@@ -140,7 +430,7 @@
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
       "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
       "published_at": "2026-08-22T18:57:46+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,42 +446,6 @@
       "score": 0.85
     },
     {
-      "id": "f73804b49d132ac8052be99661c56cb83ae4b86f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
-      "url": "https://www.fool.com/investing/2026/08/22/cvs-health-stock-is-beating-the-market-in-2026/?source=iedfolrf0000001",
-      "summary": "One of the pharmacy operator's segments is doing particularly well.",
-      "published_at": "2026-08-22T16:45:00+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "2cb54f354fc5fbbefef70aaf835128c795c5815e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "If a Stock Market Crash Is Coming, History Says Buying and Holding These Stocks Is a Smart Move",
-      "url": "https://www.fool.com/investing/2026/08/22/if-a-stock-market-crash-is-coming-history-says-buy/?source=iedfolrf0000001",
-      "summary": "Bear markets are a normal part of investing, so you should always own some stocks that are resilient to market downturns.",
-      "published_at": "2026-08-22T12:15:00+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "d313229119d2bac4f86db2983648c2130c431724",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -200,7 +454,7 @@
       "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
       "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
       "published_at": "2026-08-22T12:12:03+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -224,7 +478,7 @@
       "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-22T12:00:19+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -248,7 +502,7 @@
       "url": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
       "summary": "Several stocks remain technically overbought even as the S&amp;P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
       "published_at": "2026-08-22T12:00:01+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -266,7 +520,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-113500363.html",
       "summary": "",
       "published_at": "2026-08-22T11:35:00+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -284,7 +538,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-110129364.html",
       "summary": "",
       "published_at": "2026-08-22T11:01:29+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,7 +556,7 @@
       "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
       "published_at": "2026-08-21T22:03:39+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -320,7 +574,7 @@
       "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
       "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
       "published_at": "2026-08-21T20:11:31+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
+      "first_seen_at": "2026-08-23T12:36:09.630643+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -328,24 +582,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
-    },
-    {
-      "id": "f83820a818ac43ac9caab4b7e3f1d498c275e6a7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editing Stock Dead Money?",
-      "url": "https://www.fool.com/investing/2026/08/21/crispr-therapeutics-stock-is-up-only-8-this-year/?source=iedfolrf0000001",
-      "summary": "This year, the biotech stock has underperformed both the Nasdaq Biotechnology Index and the S&amp;P 500.",
-      "published_at": "2026-08-21T14:30:00+00:00",
-      "first_seen_at": "2026-08-23T11:45:08.843742+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     }
   ]
 }
