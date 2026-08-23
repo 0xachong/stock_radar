@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-08-23T18:26:25.471788+00:00",
+  "generated_at": "2026-08-23T18:57:10.605254+00:00",
   "window_hours": 48,
-  "total_stories": 9,
+  "total_stories": 10,
   "stories": [
+    {
+      "key": "US:macro",
+      "label": "美股·macro",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "importance": 2,
+      "count": 4,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-08-23T18:00:00+00:00",
+      "earliest_at": "2026-08-22T12:00:01+00:00",
+      "primary_item": {
+        "id": "f6a7ea7a8b4f289f8d3941794433d7c0072c0f02",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "Yahoo Finance",
+        "title": "Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week",
+        "url": "https://www.barrons.com/articles/nvidia-fed-confab-inflation-gdp-and-more-to-watch-this-week-15bd2070?siteid=yhoof2&yptr=yahoo",
+        "summary": "",
+        "published_at": "2026-08-23T18:00:00+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "macro",
+        "score": 0.52
+      },
+      "items": [
+        {
+          "id": "f6a7ea7a8b4f289f8d3941794433d7c0072c0f02",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Yahoo Finance",
+          "title": "Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week",
+          "url": "https://www.barrons.com/articles/nvidia-fed-confab-inflation-gdp-and-more-to-watch-this-week-15bd2070?siteid=yhoof2&yptr=yahoo",
+          "summary": "",
+          "published_at": "2026-08-23T18:00:00+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        },
+        {
+          "id": "894f9066a6e53bdd684e47a8a66563326bc9ba82",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Seeking Alpha Market News",
+          "title": "Fed's Kashkari not worried about rising US Treasury yields",
+          "url": "https://seekingalpha.com/news/4636061-feds-kashkari-not-worried-about-rising-us-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "summary": "",
+          "published_at": "2026-08-23T16:41:47+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        },
+        {
+          "id": "2ffb7c5125e304dce056037dd85e0d9a489f94c5",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
+          "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+          "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
+          "published_at": "2026-08-23T12:46:01+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        },
+        {
+          "id": "95197d7c32df58ff4cfb3849f94e9dda00bbac21",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "These stocks are most overbought even as the S&P 500 posts a losing week",
+          "url": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
+          "summary": "Several stocks remain technically overbought even as the S&amp;P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
+          "published_at": "2026-08-22T12:00:01+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        }
+      ]
+    },
     {
       "key": "US:earnings",
       "label": "美股·earnings",
@@ -13,7 +122,7 @@
       "tickers": [],
       "category": "earnings",
       "importance": 2,
-      "count": 5,
+      "count": 3,
       "sources": [
         "美股 / 全球财经"
       ],
@@ -28,7 +137,7 @@
         "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
         "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
         "published_at": "2026-08-23T16:56:02+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -47,7 +156,7 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dropbox-stock-buy-revenue-grows-181247944.html",
           "summary": "",
           "published_at": "2026-08-23T18:12:47+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -55,24 +164,6 @@
           "tickers": [],
           "category": "earnings",
           "score": 0.61
-        },
-        {
-          "id": "a7deabf1a5aa058caa0d680594f7bd47c2d33b60",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-          "summary": "",
-          "published_at": "2026-08-23T17:30:17+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "earnings",
-          "score": 0.52
         },
         {
           "id": "3f7b78e5cbf3d595b56aa86f41c6f84de6645361",
@@ -83,7 +174,7 @@
           "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
           "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
           "published_at": "2026-08-23T16:56:02+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -91,24 +182,6 @@
           "tickers": [],
           "category": "earnings",
           "score": 0.76
-        },
-        {
-          "id": "3623a0cac532d7eba597726918db68fcdc53144d",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "The Motley Fool",
-          "title": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of.",
-          "url": "https://www.fool.com/investing/2026/08/23/if-amazon-is-a-top-growth-stock-then-why-does-it-t/?source=iedfolrf0000001",
-          "summary": "The company is reporting some of its best performance in years.",
-          "published_at": "2026-08-23T11:15:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "earnings",
-          "score": 0.64
         },
         {
           "id": "e97b382ce3e02948e48abfd0978d275238df68cd",
@@ -119,7 +192,7 @@
           "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
           "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
           "published_at": "2026-08-21T20:11:31+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -127,260 +200,6 @@
           "tickers": [],
           "category": "earnings",
           "score": 0.52
-        }
-      ]
-    },
-    {
-      "key": "US:macro",
-      "label": "美股·macro",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "importance": 2,
-      "count": 4,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-08-23T16:41:47+00:00",
-      "earliest_at": "2026-08-22T12:00:01+00:00",
-      "primary_item": {
-        "id": "894f9066a6e53bdd684e47a8a66563326bc9ba82",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "Seeking Alpha Market News",
-        "title": "Fed's Kashkari not worried about rising US Treasury yields",
-        "url": "https://seekingalpha.com/news/4636061-feds-kashkari-not-worried-about-rising-us-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "summary": "",
-        "published_at": "2026-08-23T16:41:47+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "macro",
-        "score": 0.52
-      },
-      "items": [
-        {
-          "id": "894f9066a6e53bdd684e47a8a66563326bc9ba82",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Seeking Alpha Market News",
-          "title": "Fed's Kashkari not worried about rising US Treasury yields",
-          "url": "https://seekingalpha.com/news/4636061-feds-kashkari-not-worried-about-rising-us-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "summary": "",
-          "published_at": "2026-08-23T16:41:47+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.52
-        },
-        {
-          "id": "34155163b4ed4a2f5ad73b9518c7498c3e8daa59",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Yahoo Finance",
-          "title": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
-          "url": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
-          "summary": "",
-          "published_at": "2026-08-23T13:00:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.52
-        },
-        {
-          "id": "2ffb7c5125e304dce056037dd85e0d9a489f94c5",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-          "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-          "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
-          "published_at": "2026-08-23T12:46:01+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.52
-        },
-        {
-          "id": "95197d7c32df58ff4cfb3849f94e9dda00bbac21",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "These stocks are most overbought even as the S&P 500 posts a losing week",
-          "url": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
-          "summary": "Several stocks remain technically overbought even as the S&amp;P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
-          "published_at": "2026-08-22T12:00:01+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "macro",
-          "score": 0.52
-        }
-      ]
-    },
-    {
-      "key": "META",
-      "label": "Meta",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "importance": 2,
-      "count": 4,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-08-23T15:00:35+00:00",
-      "earliest_at": "2026-08-22T12:12:03+00:00",
-      "primary_item": {
-        "id": "0262e1f852ee06f6dca2331198201c2ca3349ede",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "The Motley Fool",
-        "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
-        "url": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/?source=iedfolrf0000001",
-        "summary": "The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.",
-        "published_at": "2026-08-23T11:30:00+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "META",
-            "name": "Meta",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.97
-      },
-      "items": [
-        {
-          "id": "725b71c628b71bb39d232346d95a7a58e0448649",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "Seeking Alpha Market News",
-          "title": "SA Asks: How concerned should Meta investors be about child safety lawsuits?",
-          "url": "https://seekingalpha.com/news/4636047-sa-asks-how-concerned-should-meta-investors-be-about-child-safety-lawsuits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "summary": "",
-          "published_at": "2026-08-23T15:00:35+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.85
-        },
-        {
-          "id": "0262e1f852ee06f6dca2331198201c2ca3349ede",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "The Motley Fool",
-          "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
-          "url": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/?source=iedfolrf0000001",
-          "summary": "The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.",
-          "published_at": "2026-08-23T11:30:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
-        },
-        {
-          "id": "b18d77e0644a8bcbc143792dc37879f00c01da47",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-          "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-          "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
-          "published_at": "2026-08-22T18:57:46+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.85
-        },
-        {
-          "id": "d313229119d2bac4f86db2983648c2130c431724",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-          "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-          "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-          "published_at": "2026-08-22T12:12:03+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.85
         }
       ]
     },
@@ -409,7 +228,7 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-bold-173300215.html",
         "summary": "",
         "published_at": "2026-08-23T17:33:00+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -428,7 +247,7 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-bold-173300215.html",
           "summary": "",
           "published_at": "2026-08-23T17:33:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -446,7 +265,7 @@
           "url": "https://www.fool.com/investing/2026/08/23/circle-stock-is-down-more-than-70/?source=iedfolrf0000001",
           "summary": "The stablecoin growth narrative is still going strong, making Circle a potentially undervalued crypto play.",
           "published_at": "2026-08-23T15:23:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -464,7 +283,7 @@
           "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
           "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
           "published_at": "2026-08-23T13:00:01+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -472,6 +291,233 @@
           "tickers": [],
           "category": "company",
           "score": 0.52
+        }
+      ]
+    },
+    {
+      "key": "META",
+      "label": "Meta",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "importance": 2,
+      "count": 3,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-08-23T11:30:00+00:00",
+      "earliest_at": "2026-08-22T12:12:03+00:00",
+      "primary_item": {
+        "id": "0262e1f852ee06f6dca2331198201c2ca3349ede",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
+        "url": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/?source=iedfolrf0000001",
+        "summary": "The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.",
+        "published_at": "2026-08-23T11:30:00+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "META",
+            "name": "Meta",
+            "market": "US"
+          }
+        ],
+        "category": "company",
+        "score": 0.97
+      },
+      "items": [
+        {
+          "id": "0262e1f852ee06f6dca2331198201c2ca3349ede",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
+          "url": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/?source=iedfolrf0000001",
+          "summary": "The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.",
+          "published_at": "2026-08-23T11:30:00+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.97
+        },
+        {
+          "id": "b18d77e0644a8bcbc143792dc37879f00c01da47",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+          "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+          "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+          "published_at": "2026-08-22T18:57:46+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.85
+        },
+        {
+          "id": "d313229119d2bac4f86db2983648c2130c431724",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+          "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+          "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
+          "published_at": "2026-08-22T12:12:03+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "key": "09988",
+      "label": "阿里巴巴",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "09988",
+          "name": "阿里巴巴",
+          "market": "HK"
+        },
+        {
+          "symbol": "BABA",
+          "name": "阿里巴巴",
+          "market": "US"
+        },
+        {
+          "symbol": "JD",
+          "name": "京东",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "importance": 1,
+      "count": 1,
+      "sources": [
+        "港股 / 中概"
+      ],
+      "latest_at": "2026-08-23T18:23:46+00:00",
+      "earliest_at": "2026-08-23T18:23:46+00:00",
+      "primary_item": {
+        "id": "60af5a4c7802c531470c9dc68a46ab0a1a19a592",
+        "site_id": "hk_china",
+        "site_name": "港股 / 中概",
+        "source": "Investing.com 中文",
+        "title": "巴里清仓阿里巴巴，大举建仓京东，直指估值过高",
+        "url": "https://cn.investing.com/news/stock-market-news/article-3531264",
+        "summary": "",
+        "published_at": "2026-08-23T18:23:46+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+        "market": "HK",
+        "markets": [
+          "HK",
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "09988",
+            "name": "阿里巴巴",
+            "market": "HK"
+          },
+          {
+            "symbol": "BABA",
+            "name": "阿里巴巴",
+            "market": "US"
+          },
+          {
+            "symbol": "JD",
+            "name": "京东",
+            "market": "US"
+          }
+        ],
+        "category": "company",
+        "score": 1.0
+      },
+      "items": [
+        {
+          "id": "60af5a4c7802c531470c9dc68a46ab0a1a19a592",
+          "site_id": "hk_china",
+          "site_name": "港股 / 中概",
+          "source": "Investing.com 中文",
+          "title": "巴里清仓阿里巴巴，大举建仓京东，直指估值过高",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3531264",
+          "summary": "",
+          "published_at": "2026-08-23T18:23:46+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
+          "market": "HK",
+          "markets": [
+            "HK",
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "09988",
+              "name": "阿里巴巴",
+              "market": "HK"
+            },
+            {
+              "symbol": "BABA",
+              "name": "阿里巴巴",
+              "market": "US"
+            },
+            {
+              "symbol": "JD",
+              "name": "京东",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 1.0
         }
       ]
     },
@@ -511,7 +557,7 @@
         "url": "https://seekingalpha.com/news/4636063-michael-burry-dumps-alibaba-for-jd-com-says-baba-would-need-to-fall-50-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "summary": "",
         "published_at": "2026-08-23T17:56:32+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -541,7 +587,7 @@
           "url": "https://seekingalpha.com/news/4636063-michael-burry-dumps-alibaba-for-jd-com-says-baba-would-need-to-fall-50-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
           "published_at": "2026-08-23T17:56:32+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -594,7 +640,7 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-marvell-technology-1-172600511.html",
         "summary": "",
         "published_at": "2026-08-23T17:26:00+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -619,7 +665,7 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-marvell-technology-1-172600511.html",
           "summary": "",
           "published_at": "2026-08-23T17:26:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -661,7 +707,7 @@
         "url": "https://cn.investing.com/news/stock-market-news/article-3531253",
         "summary": "",
         "published_at": "2026-08-23T16:05:10+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "HK",
         "markets": [
           "HK"
@@ -680,7 +726,7 @@
           "url": "https://cn.investing.com/news/stock-market-news/article-3531253",
           "summary": "",
           "published_at": "2026-08-23T16:05:10+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "HK",
           "markets": [
             "HK"
@@ -722,7 +768,7 @@
         "url": "https://www.fool.com/investing/2026/08/23/amd-is-investing-more-than-xx-billion-in-taiwan-to/?source=iedfolrf0000001",
         "summary": "AMD's biggest AI challenge may no longer be winning customers but making enough hardware to serve them.",
         "published_at": "2026-08-23T15:30:00+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -747,7 +793,7 @@
           "url": "https://www.fool.com/investing/2026/08/23/amd-is-investing-more-than-xx-billion-in-taiwan-to/?source=iedfolrf0000001",
           "summary": "AMD's biggest AI challenge may no longer be winning customers but making enough hardware to serve them.",
           "published_at": "2026-08-23T15:30:00+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -789,7 +835,7 @@
         "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
         "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
         "published_at": "2026-08-23T11:29:05+00:00",
-        "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+        "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -808,7 +854,7 @@
           "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
           "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
           "published_at": "2026-08-23T11:29:05+00:00",
-          "first_seen_at": "2026-08-23T18:26:25.471788+00:00",
+          "first_seen_at": "2026-08-23T18:57:10.605254+00:00",
           "market": "US",
           "markets": [
             "US"
