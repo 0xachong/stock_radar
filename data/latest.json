@@ -1,33 +1,37 @@
 {
-  "generated_at": "2026-08-23T04:34:47.101861+00:00",
+  "generated_at": "2026-08-23T05:26:59.482374+00:00",
   "window_hours": 48,
-  "total_items": 31,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 3,
-    "US": 28
+    "HK": 4,
+    "US": 19
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 17
+      "count": 10
     },
     {
       "key": "ipo",
       "count": 5
     },
     {
-      "key": "capital",
-      "count": 4
+      "key": "earnings",
+      "count": 3
     },
     {
-      "key": "earnings",
+      "key": "capital",
       "count": 2
+    },
+    {
+      "key": "rating",
+      "count": 1
     },
     {
       "key": "macro",
-      "count": 2
+      "count": 1
     },
     {
       "key": "guidance",
@@ -38,15 +42,69 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 27
+      "count": 18
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 5
     }
   ],
   "items": [
+    {
+      "id": "09002d501f6f1c7bd503d629927e6dafe02132de",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "首家且目前唯一恒科GPU成分股，天数智芯(09903)获纳入恒生科技指数",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3531133",
+      "summary": "",
+      "published_at": "2026-08-23T04:35:11+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "26e1d85bb2cbf098e992cb277991e56d0f852ac7",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "一图读懂中国宏桥(01378)2026年中期业绩：股东应占净利润暴增39.2%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3531134",
+      "summary": "",
+      "published_at": "2026-08-23T04:35:11+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "adec4e285fac468c8223266d6c5298dfdea513db",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
+      "url": "https://www.fool.com/investing/2026/08/23/micron-stock-is-up-30-from-its-recent-low-heres-ho/?source=iedfolrf0000001",
+      "summary": "Can Micron shares keep climbing higher from here?",
+      "published_at": "2026-08-23T04:30:00+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.76
+    },
     {
       "id": "cdfe51d916003ae9f849548ff91c5460c5cd0ad6",
       "site_id": "hk_china",
@@ -56,7 +114,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531132",
       "summary": "",
       "published_at": "2026-08-23T04:05:10+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -64,6 +122,30 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.52
+    },
+    {
+      "id": "713ea62e649eebc1ac02c73b8320031511204847",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
+      "url": "https://www.fool.com/investing/2026/08/23/mark-zuckerberg-published-a-6500-word-ai-manifesto/?source=iedfolrf0000001",
+      "summary": "Agentic AI is about to get a lot bigger, and Meta Platforms is leading the charge.",
+      "published_at": "2026-08-23T04:00:00+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "40444be32b002dad2fec19e1f9ed1e1900c0ccb7",
@@ -74,7 +156,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3531124",
       "summary": "",
       "published_at": "2026-08-23T02:35:15+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -92,7 +174,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/palantir-keeps-55-cents-of-every-revenue-dollar-as-profit/?source=iedfolrf0000001",
       "summary": "A 55% net margin would be extreme in any industry. What's inside the number matters more than the number itself.",
       "published_at": "2026-08-23T01:38:01+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -116,7 +198,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/ipo-fever-heats-up-for-openai-and-anthropic/?source=iedfolrf0000001",
       "summary": "Two companies –- OpenAI and Anthropic –- are driving the AI industry forward as everything from hyperscalers to neoclouds to memory stocks hangs on the demand for tokens.",
       "published_at": "2026-08-23T01:08:52+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -134,7 +216,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/cisco-cerebras-orders-up-stocks-down/?source=iedfolrf0000001",
       "summary": "Though Cisco Systems and Cerebras have bulging order books, they face some major challenges.",
       "published_at": "2026-08-23T00:13:43+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -152,7 +234,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/is-it-too-late-to-buy-sandisk-after-its-568-run/?source=iedfolrf0000001",
       "summary": "Sandisk is the top-performing stock in the Nasdaq-100 this year.",
       "published_at": "2026-08-22T23:37:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -170,7 +252,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/has-wall-street-entered-the-show-me-phase-of-ai/?source=iedfolrf0000001",
       "summary": "Expectations for AI stocks appear to be changing.",
       "published_at": "2026-08-22T23:21:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -188,7 +270,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/apple-announced-its-largest-ever-stock-buyback-und/?source=iedfolrf0000001",
       "summary": "No company has bought back more of its shares than Apple over the last decade.",
       "published_at": "2026-08-22T22:00:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -196,6 +278,30 @@
       "tickers": [],
       "category": "capital",
       "score": 0.61
+    },
+    {
+      "id": "81f0ab773b78c42836ec490605b2a9e030bdd1af",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Alpha Metallurgical Resources Director Courtis Buys $2.9 Million Shares. What Does This Mean for Investors?",
+      "url": "https://www.fool.com/coverage/filings/2026/08/22/alpha-metallurgical-resources-director-courtis-buys-usd2-9-million-shares-what-does-this-mean-for-investors/?source=iedfolrf0000001",
+      "summary": "Courtis executed the open-market purchase across multiple price tiers, bringing his direct holding to over 1 million shares amid a 39% one-year stock surge.",
+      "published_at": "2026-08-22T19:59:01+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "eda7bb67586b1004a45dd6b6c0f3f1c8fc3a7b4a",
@@ -206,7 +312,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/?source=iedfolrf0000001",
       "summary": "Apple and Meta have been laggards in the AI arms race.",
       "published_at": "2026-08-22T19:39:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -230,7 +336,7 @@
       "url": "https://www.fool.com/investing/2026/08/22/greg-abel-berkshire-ceo-macy-s-stock-dividend/?source=iedfolrf0000001",
       "summary": "Abel has been increasing Berkshire's position in a less-followed mid-cap stock.",
       "published_at": "2026-08-22T19:33:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -238,30 +344,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.64
-    },
-    {
-      "id": "5d9d99a3890c066679fde988bf7dfb6bc552dda4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
-      "url": "https://www.fool.com/investing/2026/08/22/can-this-6-3-yield-survive-if-oil-crashes-again/?source=iedfolrf0000001",
-      "summary": "Energy Transfer offers investors an attractive yield, but a 2020 distribution cut may be a worry for some.",
-      "published_at": "2026-08-22T19:15:01+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [
-        {
-          "symbol": "02020",
-          "name": "安踏体育",
-          "market": "HK"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "b18d77e0644a8bcbc143792dc37879f00c01da47",
@@ -272,7 +354,7 @@
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
       "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
       "published_at": "2026-08-22T18:57:46+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -288,144 +370,6 @@
       "score": 0.85
     },
     {
-      "id": "0e649c2c02fc563f6ca3d38e5e8dc42a6a48a42a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Here's How Many Shares of Target You'd Need for $10,000 in Yearly Dividends",
-      "url": "https://www.fool.com/investing/2026/08/22/shares-of-target-for-1000-yearly-dividends/?source=iedfolrf0000001",
-      "summary": "Target just increased its quarterly dividend again.",
-      "published_at": "2026-08-22T18:17:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.61
-    },
-    {
-      "id": "456c2d0704766c2331c4a949154e54025eb355d9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nvidia Stock Looks Like It's Slowing Down. The Market May Be Wrong.",
-      "url": "https://www.fool.com/investing/2026/08/22/nvidia-stock-looks-like-its-slowing-down-the-marke/?source=iedfolrf0000001",
-      "summary": "Nvidia's headline growth rate is falling, but the numbers beneath the surface tell a more complicated story. Here's what investors should watch when the company reports.",
-      "published_at": "2026-08-22T18:03:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "aeee3bf217c08e7a515a00e855e05950c1df8562",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "苹果风险偏好将随John Ternus接任而改变吗？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3531070",
-      "summary": "",
-      "published_at": "2026-08-22T17:04:56+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "5f5e3e97209885634a51d9082caa88c2335d4529",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Marvell Targets a Huge AI Memory Bottleneck With Powerful New Tech",
-      "url": "https://www.fool.com/investing/2026/08/22/marvell-targets-a-huge-ai-memory-bottleneck-with-p/?source=iedfolrf0000001",
-      "summary": "Marvell is expanding its AI opportunity into a critical new part of the data center, but expectations are high. See why its latest technology could reshape the growth story.",
-      "published_at": "2026-08-22T17:03:17+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "66b5b6172eab2668be8bb0d0ecc85d4043290091",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.",
-      "url": "https://www.fool.com/investing/2026/08/22/this-sp-500-stock-pays-a-267-dividend-yield-and-ha/?source=iedfolrf0000001",
-      "summary": "Given the nature of this business, investors can't really ignore macroeconomic conditions.",
-      "published_at": "2026-08-22T17:00:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.76
-    },
-    {
-      "id": "f73804b49d132ac8052be99661c56cb83ae4b86f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
-      "url": "https://www.fool.com/investing/2026/08/22/cvs-health-stock-is-beating-the-market-in-2026/?source=iedfolrf0000001",
-      "summary": "One of the pharmacy operator's segments is doing particularly well.",
-      "published_at": "2026-08-22T16:45:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "f7e78cab0469135e7a3877acb33965865082ae7d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The S&P 500 Is Near an All-Time High. Here's What History Says Investors Should Do.",
-      "url": "https://www.fool.com/investing/2026/08/22/sp-500-near-all-time-high-what-history-says-next/?source=iedfolrf0000001",
-      "summary": "A lot of investors get nervous about putting new money into stocks when the market is at an all-time high. History says there's no need to fear.",
-      "published_at": "2026-08-22T15:56:00+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "d313229119d2bac4f86db2983648c2130c431724",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -434,7 +378,7 @@
       "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
       "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
       "published_at": "2026-08-22T12:12:03+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -458,7 +402,7 @@
       "url": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
       "summary": "Several stocks remain technically overbought even as the S&amp;P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
       "published_at": "2026-08-22T12:00:01+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -476,7 +420,7 @@
       "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
       "published_at": "2026-08-21T22:03:39+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -494,7 +438,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-ceo-shift-guidance-211211480.html",
       "summary": "",
       "published_at": "2026-08-21T21:12:11+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -512,7 +456,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-just-said-sell-apple-211157587.html",
       "summary": "",
       "published_at": "2026-08-21T21:11:57+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -528,125 +472,6 @@
       "score": 0.85
     },
     {
-      "id": "4aaec5dd0cfb1def314c37e3288a27b9c0719409",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
-      "summary": "",
-      "published_at": "2026-08-21T20:58:44+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "4e24200bda287742944f50ecc3a8bd4704160962",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Alphabet (GOOGL): Google’s AI Boss Just Stepped Back. Is DeepMind Falling Apart?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-ai-boss-205228358.html",
-      "summary": "",
-      "published_at": "2026-08-21T20:52:28+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "22a314cfe3498ac5e0d28ba8dc8e37af2aec700f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Adobe Stock Has Soared 45% From Its 2026 Lows, But It May Already Be Too Late to Buy ADBE",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-soared-45-2026-205225036.html",
-      "summary": "",
-      "published_at": "2026-08-21T20:52:25+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "0d76441bffb8816d3935dcd3dd6701b819c02022",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It’s Not Worried",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
-      "summary": "",
-      "published_at": "2026-08-21T20:40:25+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "market": "US"
-        },
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.95
-    },
-    {
-      "id": "ad280af8585c4f2aedb2b55687e8e3b69c278e7a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-21T20:40:11+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "e97b382ce3e02948e48abfd0978d275238df68cd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -655,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
       "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
       "published_at": "2026-08-21T20:11:31+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -673,7 +498,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3364835/hong-kong-stock-exchange-extends-listing-application-window-12-months?utm_source=rss_feed",
       "summary": "The Hong Kong stock exchange plans to grant a three-year waiver to temporarily extend its listing application window from six months to 12 months, according to a statement released on Friday.\nThe extension was designed to give listing candidates, their sponsors and advisers more time to complete their listings – allowing them to avoid having to repeatedly refile their applications – said the excha",
       "published_at": "2026-08-21T09:50:32+00:00",
-      "first_seen_at": "2026-08-23T04:34:47.101861+00:00",
+      "first_seen_at": "2026-08-23T05:26:59.482374+00:00",
       "market": "US",
       "markets": [
         "US"
