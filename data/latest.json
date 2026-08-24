@@ -1,33 +1,37 @@
 {
-  "generated_at": "2026-08-24T11:54:32.594466+00:00",
+  "generated_at": "2026-08-24T12:45:50.846087+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17,
-    "HK": 4
+    "US": 24,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
-    },
-    {
-      "key": "ipo",
-      "count": 3
-    },
-    {
-      "key": "capital",
-      "count": 2
-    },
-    {
-      "key": "earnings",
-      "count": 2
+      "count": 13
     },
     {
       "key": "macro",
+      "count": 4
+    },
+    {
+      "key": "earnings",
+      "count": 3
+    },
+    {
+      "key": "ipo",
       "count": 2
+    },
+    {
+      "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "capital",
+      "count": 1
     },
     {
       "key": "rating",
@@ -38,15 +42,243 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 17
+      "count": 24
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 1
     }
   ],
   "items": [
+    {
+      "id": "a1bc5579c23e8fe606fc14ec2b492cc5ff610948",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Evolution Metals & Technologies announces preliminary addition to Russell 3000 and Russell 2000 indexes",
+      "url": "https://seekingalpha.com/news/4636236-evolution-metals-technologies-announces-preliminary-addition-to-russell-3000-and-russell-2000-indexes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-24T12:35:35+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "bd2bc33809dfee5a5279966ec54f14b13c739cd4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-adobe-seasonal-peaks-122001843.html",
+      "summary": "",
+      "published_at": "2026-08-24T12:20:01+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "f963a0c5a49bd05f73453059b5fce138d313deff",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-facing-growth-slowdown-121811891.html",
+      "summary": "",
+      "published_at": "2026-08-24T12:18:11+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NFLX",
+          "name": "奈飞",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "009806c204c32065a318fa4736075d2ad46be5be",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Temu owner’s shares rise as results beat estimates despite tumbling profits",
+      "url": "https://www.marketwatch.com/story/temu-owners-shares-rise-as-results-beat-estimates-despite-tumbling-profits-18cf74ea?mod=mw_rss_topstories",
+      "summary": "PDD Holdings reported a 12% decline in net profits in the three months ended June 30, surpassing Wall Street consensus.",
+      "published_at": "2026-08-24T12:18:00+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PDD",
+          "name": "拼多多",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "5fb0c52c51332302d36d427dd52d9e7833e98b68",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization",
+      "url": "https://finance.yahoo.com/media-advertising/articles/streaming-scale-global-power-netflix-120428736.html",
+      "summary": "",
+      "published_at": "2026-08-24T12:04:28+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NFLX",
+          "name": "奈飞",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "6edccd12fac347baf4d151f73659515b4f7d2f98",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls Ahead of 'Economic D-Day'; Alibaba Slides On Offering (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-24T12:02:54+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "0ff9e9c78d8db63cf3925b5e2ef1150cdc86738c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Amazon.com (AMZN) Trades at Significant Discount to Intrinsic Value",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-trades-significant-120002108.html",
+      "summary": "",
+      "published_at": "2026-08-24T12:00:02+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "7134bf11da4e1248518d9035687e784d1808dc9d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Yields are the highest they’ve been in years — but are bonds cheap enough to buy? Two strategists disagree.",
+      "url": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
+      "summary": "Bond yields are driven by the market’s estimate of the average federal funds rate over the next 10 years, plus some compensation for the risks associated with predicting that. Barclays finds bonds at fair value but not cheap yet.",
+      "published_at": "2026-08-24T11:59:00+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "a344fa6c597d5152d6d36b78290666183a143969",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Alphabet’s (GOOG) Sustainable Growth Outlook Appears Stronger Than Expectations",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-sustainable-growth-outlook-114703202.html",
+      "summary": "",
+      "published_at": "2026-08-24T11:47:03+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOG",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 0.97
+    },
+    {
+      "id": "88a7213da4afa977e78b5b47e3c361aa43862d0d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+      "url": "https://finance.yahoo.com/technology/articles/arm-holdings-arm-shifts-strategy-113825935.html",
+      "summary": "",
+      "published_at": "2026-08-24T11:38:25+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
     {
       "id": "dcde8b860d408540b11ad49022958f4e37a092b4",
       "site_id": "us_global",
@@ -56,7 +288,7 @@
       "url": "https://www.cnbc.com/2026/08/24/stocks-making-the-biggest-moves-premarket-baba-mrvl-sndk-and-more.html",
       "summary": "These are the stocks posting the largest moves premarket.",
       "published_at": "2026-08-24T11:31:23+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -85,7 +317,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/two-legendary-investors-just-bought-meta-platforms/?source=iedfolrf0000001",
       "summary": "Meta was a popular stock pick by hedge funds during Q2.",
       "published_at": "2026-08-24T11:27:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -101,24 +333,6 @@
       "score": 0.97
     },
     {
-      "id": "faf30c045d2be1458c89447ce07a6851658449df",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Have Put Wall Street on Notice With This $863 Million Warning",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-stocks-ionq-rigetti-112600574.html",
-      "summary": "",
-      "published_at": "2026-08-24T11:26:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "dbe586f1cd911cda9ee8951c9387c1e8c85b5db3",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -127,7 +341,7 @@
       "url": "https://www.cnbc.com/2026/08/24/mrvl-has-nearly-tripled-in-2026-wells-fargo-says-there-are-more-gains-ahead.html",
       "summary": "Marvell Technology should continue to gain ground due as its business shows even more signs of growth, according to Wells Fargo.",
       "published_at": "2026-08-24T11:20:20+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -143,75 +357,21 @@
       "score": 0.85
     },
     {
-      "id": "926871fdb0342754253dc49a1f7466afe58a6142",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "新股暗盘 | 君正股份(03223)暗盘收跌0.5% 每手亏50港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3532366",
-      "summary": "",
-      "published_at": "2026-08-24T11:05:25+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.64
-    },
-    {
-      "id": "64452eb84db199b9bcf613c85d49c30a1909751e",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "中石化炼化工程(02386)8月24日斥资39.77万港元回购7.7万股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3532365",
-      "summary": "",
-      "published_at": "2026-08-24T11:05:24+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "48030b3f201fd92309a5bb5f5fb33033433262c3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "佳隆股份(002495.SZ)发布半年度业绩，归母净利润710.09万元，同比减少24.61%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3532361",
-      "summary": "",
-      "published_at": "2026-08-24T11:05:23+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "62d7c4edba0c49db05f78b106816c53d74936701",
+      "id": "d552ebd7c9c7e67e346e3ac58a423e3a5f769b0e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "3 Growth Stocks to Buy Before Wall Street Catches On",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-buy-wall-110047698.html",
-      "summary": "",
-      "published_at": "2026-08-24T11:00:47+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "source": "The Motley Fool",
+      "title": "Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Have Put Wall Street on Notice With This $863 Million Warning",
+      "url": "https://www.fool.com/investing/2026/08/24/quantum-computing-stocks-ionq-863-million-warning/?source=iedfolrf0000001",
+      "summary": "Sometimes, the actions of insiders speak louder than their words.",
+      "published_at": "2026-08-24T11:06:00+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
+      "category": "capital",
       "score": 0.52
     },
     {
@@ -223,7 +383,7 @@
       "url": "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1?mod=mw_rss_topstories",
       "summary": "The fast-fashion giant is aiming to list shares in Hong Kong on Sept. 1. It’s been trying to go public for four years.",
       "published_at": "2026-08-24T10:25:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -241,7 +401,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/spacex-faces-key-price-warning-as-analyst-flags-45/?source=iedfolrf0000001",
       "summary": "Phillip Securities analyst Glenn Thum outlined numerous concerns with the tech giant.",
       "published_at": "2026-08-24T10:15:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -259,7 +419,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/beyond-nvidia-amd-and-broadcom-why-this-chip-stock/?source=iedfolrf0000001",
       "summary": "This company has the technology and scale to benefit from the continued AI build-out.",
       "published_at": "2026-08-24T09:15:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -283,7 +443,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/8-billionaire-money-managers-dump-mu-in-favor-tsm/?source=iedfolrf0000001",
       "summary": "Artificial intelligence (AI) stocks are leading to a divide among Wall Street's savviest billionaire investors.",
       "published_at": "2026-08-24T09:06:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -301,7 +461,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/one-sentence-fed-minutes-nightmare-fuel-fed-warsh/?source=iedfolrf0000001",
       "summary": "Federal Open Market Committee (FOMC) policymakers just acknowledged that Fed Chair Kevin Warsh's worst-case scenario for inflation is a genuine possibility.",
       "published_at": "2026-08-24T08:06:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -319,7 +479,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/forget-the-headlines-tesla-tsla-is-still-a-hold-ba/?source=iedfolrf0000001",
       "summary": "The latest safety data from Tesla's robotaxi rollout is hugely impressive.",
       "published_at": "2026-08-24T05:00:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -343,7 +503,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed",
       "summary": "China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market.\nCCSH Corporation, parent of China’s top NAND flash maker, planned to sell between 1.98 billion and 2.43 billion shares, equivalent to 10 to 12 per cent of its enlarged share",
       "published_at": "2026-08-24T04:34:59+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -361,7 +521,7 @@
       "url": "https://www.fool.com/coverage/filings/2026/08/23/atlassian-s-chief-accounting-officer-sells-over-1-000-shares-as-the-stock-surges-30-after-earnings/?source=iedfolrf0000001",
       "summary": "The team collaboration and project management software company reported a notable insider sale amid an upswing in share price.",
       "published_at": "2026-08-24T03:57:57+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -369,24 +529,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "258e987ace2ecb8beee80e308b50a643b49e3e53",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Here's the Smartest S&P 500 Dividend Stock to Buy With $1,000 Right Now -- and It's Sporting a 6.8% Dividend Yield",
-      "url": "https://www.fool.com/investing/2026/08/23/the-smartest-sp-500-dividend-stock-to-buy-with-100/?source=iedfolrf0000001",
-      "summary": "Not only is this company offering a fat dividend yield, but it has also been hiking that payout at a respectable clip.",
-      "published_at": "2026-08-23T23:30:00+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
     },
     {
       "id": "3aab15ff817a868ef593dfa9636d93eeb473d227",
@@ -397,7 +539,7 @@
       "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
       "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
       "published_at": "2026-08-23T13:00:01+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -415,7 +557,7 @@
       "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
       "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
       "published_at": "2026-08-23T12:46:01+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -433,31 +575,7 @@
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
       "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
       "published_at": "2026-08-22T18:57:46+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "d313229119d2bac4f86db2983648c2130c431724",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-      "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-      "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-      "published_at": "2026-08-22T12:12:03+00:00",
-      "first_seen_at": "2026-08-24T11:54:32.594466+00:00",
+      "first_seen_at": "2026-08-24T12:45:50.846087+00:00",
       "market": "US",
       "markets": [
         "US"
