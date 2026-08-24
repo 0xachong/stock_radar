@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-24T17:28:49.453752+00:00",
+  "generated_at": "2026-08-24T18:00:18.423250+00:00",
   "window_hours": 48,
   "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 23,
-    "HK": 1
+    "US": 22,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 11
     },
     {
       "key": "earnings",
-      "count": 8
+      "count": 6
     },
     {
-      "key": "capital",
+      "key": "ipo",
       "count": 2
     },
     {
-      "key": "rating",
+      "key": "capital",
       "count": 2
     },
     {
@@ -30,7 +30,7 @@
       "count": 2
     },
     {
-      "key": "ipo",
+      "key": "rating",
       "count": 1
     }
   ],
@@ -38,15 +38,141 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 21
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
+    {
+      "id": "68bc675684d87d919f8dbb530c259a4e2605d8d5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Tenon Medical regains Nasdaq bid-price compliance",
+      "url": "https://seekingalpha.com/news/4636337-tenon-medical-regains-nasdaq-bid-price-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-24T17:50:32+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "17b556b3d15bedaaf5b1899d06321ef11fe0086d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "博通公司信用风险指标上升，与AI融资交易密切相关",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3533316",
+      "summary": "",
+      "published_at": "2026-08-24T17:45:52+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "f1e7aaf09a633239c6bc8026ea8cc03b3c43f91b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Snap Rises 4%, Meta Platforms and Alphabet Tick Up, Reddit Slips as the Social Media Trade Splits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snap-rises-4-meta-platforms-173830413.html",
+      "summary": "",
+      "published_at": "2026-08-24T17:38:30+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "f118a3af38392462973c5d2db27faceb0f3664ae",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Baird upgrades Darden, lowers Chipotle, Domino's, Black Rock Coffee on industry trends, risk/reward",
+      "url": "https://seekingalpha.com/news/4636324-baird-upgrades-darden-lowers-chipotle-dominos-black-rock-coffee-on-industry-trends-riskreward?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-24T17:37:09+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "8b115279b59a4d0810fd135cb2fe36840949423a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "恩捷股份(002812.SZ)发布半年度业绩，归母净利润8.2亿元，同比扭亏为盈",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3533306",
+      "summary": "",
+      "published_at": "2026-08-24T17:35:11+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "8431b358f3b20db968abedec615b364d6c25f29e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html",
+      "summary": "",
+      "published_at": "2026-08-24T17:24:11+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "SMCI",
+          "name": "超微",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
     {
       "id": "ad03c3ce42356f1f7adc82377227694fbecc5063",
       "site_id": "us_global",
@@ -56,7 +182,7 @@
       "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
       "summary": "Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.",
       "published_at": "2026-08-24T17:19:52+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -74,7 +200,7 @@
       "url": "https://seekingalpha.com/news/4636332-sa-analyst-upgrades-downgrades-meta-acn-dell-mu?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-24T17:16:51+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -100,42 +226,6 @@
       "score": 1.0
     },
     {
-      "id": "6a076b3c586d0999ac9fe7fadbbdd22bdc789390",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Personalis falls amid a downgrade as a competitive bid appears unlikely",
-      "url": "https://seekingalpha.com/news/4636329-personalis-falls-amid-a-downgrade-as-competive-bid-appears-unlikely?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-08-24T17:14:51+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "d4ea272c2504259eefc42790d5f26078934d1815",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "The Nasdaq Slips as Micron Falls 6% to Kick Off Nvidia's Big Week",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-slips-micron-falls-6-170943624.html",
-      "summary": "",
-      "published_at": "2026-08-24T17:09:43+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "406ec314ed72f1a04a1bae3ee717fb8d626ae429",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -144,7 +234,7 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-08-24T17:05:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -162,7 +252,7 @@
       "url": "https://www.marketwatch.com/story/dells-stock-is-up-235-this-year-and-earnings-could-propel-it-even-higher-analysts-say-c1be29d7?mod=mw_rss_topstories",
       "summary": "The company faces a high bar heading into its upcoming report, but analysts think it can still exceed expectations.",
       "published_at": "2026-08-24T17:02:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -172,58 +262,22 @@
       "score": 0.61
     },
     {
-      "id": "85c683aa8eabe01598b3c1693d1eaaef8f6a87d3",
+      "id": "f6dc420075370d735437b14b0be8399144a33aa5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-lower-weakness-110900822.html",
-      "summary": "",
-      "published_at": "2026-08-24T16:49:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "source": "The Motley Fool",
+      "title": "The Nasdaq Slips as Micron Falls 6% to Kick Off Nvidia's Big Week",
+      "url": "https://www.fool.com/investing/2026/08/24/nasdaq-slips-as-micron-falls-starting-nvidia-week/?source=iedfolrf0000001",
+      "summary": "The companies that make AI hardware fell Monday while the ones that buy it rose. That split sets up a huge week for Nvidia.",
+      "published_at": "2026-08-24T16:49:43+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "ddbdf605ecfa64cc1e693d7591084915155ea53e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Analyst rethinks Nvidia stock ahead of earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-rethinks-nvidia-stock-ahead-163300755.html",
-      "summary": "",
-      "published_at": "2026-08-24T16:33:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "eebb09ca16bbed5da12784e1f64c29784cc411a1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Quantum Stocks Unwind a Revenue-Headline Rally: Rigetti Computing and Infleqtion Down 7%, IonQ Down 6%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-stocks-unwind-revenue-headline-163110702.html",
-      "summary": "",
-      "published_at": "2026-08-24T16:31:10+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
+      "score": 0.52
     },
     {
       "id": "f41ef6a902394810632bd2e2821fff087f328d7b",
@@ -234,7 +288,7 @@
       "url": "https://www.marketwatch.com/story/make-these-7-money-moves-before-taking-out-a-private-student-loan-09cf3e08?mod=mw_rss_topstories",
       "summary": "After the federal government put new limits on certain types of student-loan borrowing this summer, lending experts expect more students to turn to private loans to help cover tuition costs.",
       "published_at": "2026-08-24T16:28:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -252,7 +306,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-midday-aug-24-dow-edges-higher-as-chip-weakness-pressures-nasdaq/?source=iedfolrf0000001",
       "summary": "On Aug. 24, 2026, blue chip strength offsets a tech sell-off driven by earnings anxiety and geopolitical uncertainty.",
       "published_at": "2026-08-24T16:15:02+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,30 +314,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "0bf4d85ab9c7de7f714821d738fb7a5b04e2fe25",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Salesforce Earnings Due. Will Sales Growth Reacceleration Theme Hold Up?",
-      "url": "https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-q2-2026-preview/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-24T15:20:11+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
     },
     {
       "id": "a40eb71478456be734c3a721ac28846e7b36f5e7",
@@ -294,7 +324,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/time-sensitive-should-you-buy-marvell-technology-s/?source=iedfolrf0000001",
       "summary": "The chip designer and optical networking maker reports second quarter earnings on Thursday, and Wall Street is expecting meaningful growth.",
       "published_at": "2026-08-24T15:16:21+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -318,7 +348,7 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html",
       "summary": "",
       "published_at": "2026-08-24T13:05:38+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +366,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/chewy-is-down-80-from-its-all-time-high-is-this-a/?source=iedfolrf0000001",
       "summary": "Chewy's recent pop is undeniable, but the stock may face long-term headwinds.",
       "published_at": "2026-08-24T13:00:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +384,7 @@
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
       "summary": "",
       "published_at": "2026-08-24T12:54:06+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +408,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/08/24/first-majestic-silver-vs-mp-materials-which-metals-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "One swung to profit with record metal sales; the other burns cash scaling production. Their 2026 trajectories couldn't be more different.",
       "published_at": "2026-08-24T12:49:57+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -402,7 +432,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/forget-the-sp-500-microsoft-remains-one-of-the-bes/?source=iedfolrf0000001",
       "summary": "Although the S&amp;P 500 has outperformed Microsoft year to date, cloud computing momentum can quickly change that narrative.",
       "published_at": "2026-08-24T12:42:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -420,7 +450,7 @@
       "url": "https://www.fool.com/coverage/charts/2026/08/24/apple-vs-adobe-seasonal-peaks-vs-steady-growth-in-revenue/?source=iedfolrf0000001",
       "summary": "Apple's revenue swings wildly with holiday seasons, while Adobe's climbs steadily quarter after quarter—a tale of two growth strategies.",
       "published_at": "2026-08-24T12:00:01+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -444,7 +474,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/two-legendary-investors-just-bought-meta-platforms/?source=iedfolrf0000001",
       "summary": "Meta was a popular stock pick by hedge funds during Q2.",
       "published_at": "2026-08-24T11:27:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -468,7 +498,7 @@
       "url": "https://www.fool.com/investing/2026/08/24/quantum-computing-stocks-ionq-863-million-warning/?source=iedfolrf0000001",
       "summary": "Sometimes, the actions of insiders speak louder than their words.",
       "published_at": "2026-08-24T11:06:00+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -476,24 +506,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.52
-    },
-    {
-      "id": "e6099670b537eb99cf0dff217de2f0277b8130e8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-      "summary": "",
-      "published_at": "2026-08-24T08:03:06+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     },
     {
       "id": "84a6cf87c4a5722ab39af3eb997422b257123e2d",
@@ -504,7 +516,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed",
       "summary": "China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market.\nCCSH Corporation, parent of China’s top NAND flash maker, planned to sell between 1.98 billion and 2.43 billion shares, equivalent to 10 to 12 per cent of its enlarged share",
       "published_at": "2026-08-24T04:34:59+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -522,7 +534,7 @@
       "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
       "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
       "published_at": "2026-08-23T13:00:01+00:00",
-      "first_seen_at": "2026-08-24T17:28:49.453752+00:00",
+      "first_seen_at": "2026-08-24T18:00:18.423250+00:00",
       "market": "US",
       "markets": [
         "US"
