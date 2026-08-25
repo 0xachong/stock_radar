@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T09:07:21.797213+00:00",
+  "generated_at": "2026-08-25T09:59:48.717523+00:00",
   "sites": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "status": "error",
-      "count": 22,
+      "count": 26,
       "errors": [
         "Nasdaq Stocks: HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=20)"
       ]
@@ -13,15 +13,13 @@
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "status": "error",
-      "count": 3,
-      "errors": [
-        "Investing.com 中文: 502 Server Error: Bad Gateway for url: https://cn.investing.com/rss/news_25.rss"
-      ]
+      "status": "ok",
+      "count": 6,
+      "errors": []
     }
   ],
-  "successful_sites": 0,
-  "failed_sites": 2,
-  "fetched_raw_items": 313,
-  "items_in_window": 24
+  "successful_sites": 1,
+  "failed_sites": 1,
+  "fetched_raw_items": 327,
+  "items_in_window": 30
 }
