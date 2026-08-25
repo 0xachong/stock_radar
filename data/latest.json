@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-25T22:24:51.052821+00:00",
+  "generated_at": "2026-08-25T22:54:40.874909+00:00",
   "window_hours": 48,
-  "total_items": 43,
+  "total_items": 37,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 39,
-    "HK": 4
+    "US": 33,
+    "CN": 1,
+    "HK": 3
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 23
+      "count": 16
     },
     {
       "key": "earnings",
@@ -23,11 +24,7 @@
     },
     {
       "key": "ipo",
-      "count": 3
-    },
-    {
-      "key": "product",
-      "count": 2
+      "count": 4
     },
     {
       "key": "macro",
@@ -35,6 +32,10 @@
     },
     {
       "key": "guidance",
+      "count": 2
+    },
+    {
+      "key": "product",
       "count": 1
     }
   ],
@@ -42,7 +43,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 37
+      "count": 31
     },
     {
       "site_id": "hk_china",
@@ -59,8 +60,8 @@
       "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
       "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
       "summary": "Traders awaited inflation data along with Nvidia's latest quarterly results. Both are due Wednesday.",
-      "published_at": "2026-08-25T22:18:51+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "published_at": "2026-08-25T22:48:11+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -77,8 +78,8 @@
       "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
       "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
       "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
-      "published_at": "2026-08-25T21:54:51+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "published_at": "2026-08-25T22:43:08+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,6 +87,84 @@
       "tickers": [],
       "category": "rating",
       "score": 0.52
+    },
+    {
+      "id": "df8429d212ecf27f036ff4c7fb3e89a6118934d2",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "隔夜美股 | 传美伊就停火达成共识 三大指数收涨 英伟达(NVDA.US)涨超2%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3535647",
+      "summary": "",
+      "published_at": "2026-08-25T22:36:17+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "7fef0d47f0750769e8137ad45880846ae6caf72d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "A股申购 | 天博智能(603448.SH)开启申购 为汽车热管理系统零部件制造商",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3535639",
+      "summary": "",
+      "published_at": "2026-08-25T22:35:10+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "55efb9dc9268d999ee4abd5b40de43e6fc18a224",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 卓创资讯(301299.SZ)二次递表港交所",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3535640",
+      "summary": "",
+      "published_at": "2026-08-25T22:35:10+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "0c9f1d1f79840e86fc0d86ac0994371debc42d17",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay?",
+      "url": "https://www.fool.com/investing/2026/08/25/fed-chairman-kevin-warsh-cut-the-feds-post-meeting/?source=iedfolrf0000001",
+      "summary": "Investors like to pontificate about the future, and Warsh's goal at the Fed is to make the market pontificate even more.",
+      "published_at": "2026-08-25T22:15:00+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
     },
     {
       "id": "0527cbe4c32f919507f3c5ff3bb0a809c680c0c1",
@@ -96,7 +175,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/salesforces-ai-agent-business-is-growing-over-200/?source=iedfolrf0000001",
       "summary": "The software giant's second-quarter results may show whether AI agents are a growth engine or a pricing problem for SaaS providers.",
       "published_at": "2026-08-25T21:45:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -120,7 +199,7 @@
       "url": "https://seekingalpha.com/news/4636824-southern-cross-acquisition-ii-prices-75-million-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
       "published_at": "2026-08-25T21:43:42+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -128,24 +207,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "63f72a8fc826f68b68c3b6b1ff5189ae861e6177",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.79%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3535607",
-      "summary": "",
-      "published_at": "2026-08-25T21:30:15+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     },
     {
       "id": "4afb391231f840d89995e06e0a34d7ad62eb4995",
@@ -156,7 +217,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/if-i-could-1-thing-about-the-stock-market-crash/?source=iedfolrf0000001",
       "summary": "Stock investors simply need to expect occasional downturns, large and small.",
       "published_at": "2026-08-25T21:15:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -164,24 +225,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "bb5e6dcce996ce221883b2cb2924d9931f756b71",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "D-Wave Quantum首席财务官宣布退休，股价盘后下跌",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3535596",
-      "summary": "",
-      "published_at": "2026-08-25T21:07:31+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
     },
     {
       "id": "de79bf42056d492b92eb08bc89ee025a411d9e92",
@@ -192,7 +235,7 @@
       "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
       "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
       "published_at": "2026-08-25T21:01:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -216,7 +259,7 @@
       "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
       "summary": "The chip maker is strongly positioned to gain share in the market for data-center CPUs and to see profit from revenue, a Raymond James analyst says.",
       "published_at": "2026-08-25T20:59:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -240,7 +283,7 @@
       "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
       "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
       "published_at": "2026-08-25T20:38:59+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -248,24 +291,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "c462bc5be9d6f5ea9c644733be1e1a6e22eb8cba",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Zoom视频通讯股价今日盘后为何下跌？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3535576",
-      "summary": "",
-      "published_at": "2026-08-25T20:33:22+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
     },
     {
       "id": "f0894435c32fe8498a8093c3b2466699e5212f1d",
@@ -276,7 +301,7 @@
       "url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
       "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
       "published_at": "2026-08-25T20:27:12+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -300,7 +325,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/cathie-wood-s-biggest-buy-last-week-was-spacex-she-sold-almost-exactly-that-much-palantir-the-same-day/?source=iedfolrf0000001",
       "summary": "Two trades of nearly identical size, on the same day, in opposite directions. The pairing says a lot about how she ranks two of the market's most-owned growth names.",
       "published_at": "2026-08-25T20:27:01+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -324,7 +349,7 @@
       "url": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
       "summary": "Over the past year, Nvidia has topped estimates on all the topline metrics and has still been punished by investors the next trading day.",
       "published_at": "2026-08-25T20:21:10+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -342,7 +367,7 @@
       "url": "https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories",
       "summary": "Nvidia’s quarterly earnings announcement has been a major stock-market event ever since the AI boom began in earnest with the introduction of ChatGPT in late 2022.",
       "published_at": "2026-08-25T20:07:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -360,7 +385,7 @@
       "url": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
       "summary": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
       "published_at": "2026-08-25T19:42:17+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +403,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/nvidia-could-grow-revenue-97-and-still-disappoint/?source=iedfolrf0000001",
       "summary": "Nvidia reports Q2 earnings on Aug. 26, with Wall Street expecting $92.2 billion in revenue -- nearly double last year's $46.7 billion. But investors should look past the headline number.",
       "published_at": "2026-08-25T19:40:07+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -396,7 +421,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/palantir-lost-an-875-million-contract-is-the-stock/?source=iedfolrf0000001",
       "summary": "A major setback has put Palantir's competition, growth, and valuation under the microscope. See what the latest numbers reveal about the opportunity and the risk investors face.",
       "published_at": "2026-08-25T19:15:28+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -420,7 +445,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/the-sp-500-is-reaching-new-highs-history-says-this/?source=iedfolrf0000001",
       "summary": "Trying to time the market by rapidly moving money in and out of stocks is a loser's game.",
       "published_at": "2026-08-25T18:45:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -438,7 +463,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/cathie-wood-keeps-buying-spacex-on-the-way-down-is/?source=iedfolrf0000001",
       "summary": "Cathie Wood's Ark Invest has been buying SpaceX since its June 12 IPO. Should you follow suit?",
       "published_at": "2026-08-25T18:03:52+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -456,7 +481,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/3-top-ai-stocks-to-buy-before-2027/?source=iedfolrf0000001",
       "summary": "The AI investment trend isn't expected to slow down anytime soon.",
       "published_at": "2026-08-25T17:17:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -474,7 +499,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/the-nasdaq-floats-as-oil-sinks/?source=iedfolrf0000001",
       "summary": "Memory chips bounced back, oil sank, and hard assets kept climbing. Here's what moved the market ahead of Nvidia's big report.",
       "published_at": "2026-08-25T16:57:34+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -492,7 +517,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/if-i-could-tell-every-sp-500-investor-just-1-thing/?source=iedfolrf0000001",
       "summary": "Fortune favors the patient.",
       "published_at": "2026-08-25T16:20:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -510,7 +535,7 @@
       "url": "https://www.fool.com/investing/2026/08/25/why-marvell-technology-stock-is-rocketing-higher-t/?source=iedfolrf0000001",
       "summary": "There's growing optimism that the company will report strong Q2 2027 financial results this week.",
       "published_at": "2026-08-25T15:54:52+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -526,48 +551,6 @@
       "score": 0.97
     },
     {
-      "id": "eb5993f17b39f92140b6f2001fd3f9a284e7cef8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Palantir's Maven Is Now an Official Pentagon Program of Record. Here's What Guaranteed Budget Dollars Are Worth.",
-      "url": "https://www.fool.com/investing/2026/08/25/palantirs-maven-is-now-an-official-pentagon-progra/?source=iedfolrf0000001",
-      "summary": "The designation will lead to additional long-term contracts as Maven gets used by all branches of the military.",
-      "published_at": "2026-08-25T15:21:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "e996ce285671d863be4503b01d134a5cc0b5d8ea",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Netflix Stock Is Down Big-Time. Is This Finally a Buying Opportunity?",
-      "url": "https://www.fool.com/investing/2026/08/25/netflix-stock-is-down-big-time-is-this-finally-a/?source=iedfolrf0000001",
-      "summary": "Has the market finally become too pessimistic about Netflix, or has the sell-off created a place to jump in?",
-      "published_at": "2026-08-25T15:15:00+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "db6adfff93621aa9d6ad3124f3fc1c2f4aab3ceb",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -576,7 +559,7 @@
       "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
       "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
       "published_at": "2026-08-25T06:02:14+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -594,7 +577,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3365125/global-drug-giants-grow-cautious-can-chinese-biotech-keep-cashing-out-licensing?utm_source=rss_feed",
       "summary": "Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets.\nAnalysts said deals with global partners had overtaken initial public offerings and pre-IPO fundraising as the main funding option for cash-starved Chinese biotech firms wanting to",
       "published_at": "2026-08-25T05:00:08+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -612,7 +595,7 @@
       "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
       "summary": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.",
       "published_at": "2026-08-25T04:49:18+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -630,13 +613,91 @@
       "url": "https://www.scmp.com/business/china-business/article/3365059/us-treasury-bond-buy-back-reinforces-gold-debasement-trade-jackson-hole-meeting-looms?utm_source=rss_feed",
       "summary": "The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Reserve’s annual meeting in Jackson Hole.\nGold traded at a three-month high of US$4,698 an ounce on Tuesday, extending a 5.1 per cent gain last week after Treasury Secretary Scott Bessent unveiled the r",
       "published_at": "2026-08-25T01:00:08+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "b9ed0be96ab822b1949c4a186a61537078da91f3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-outlook-wall-street-143920869.html",
+      "summary": "",
+      "published_at": "2026-08-24T14:39:20+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "483a0be1a54bd4e3608c9304bdd6954fff01750b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html",
+      "summary": "",
+      "published_at": "2026-08-24T14:36:04+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NIO",
+          "name": "蔚来",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "9954bf9e240bdb74ae457bb7a00749f3894f990a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Are Wall Street Analysts Predicting Westinghouse Air Brake Technologies Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-westinghouse-143319962.html",
+      "summary": "",
+      "published_at": "2026-08-24T14:33:19+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "3fc3564e130891f8aae30cc6cc718c1a4e169fed",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Revvity Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/revvity-stock-wall-street-bullish-143003277.html",
+      "summary": "",
+      "published_at": "2026-08-24T14:30:03+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     },
     {
@@ -648,7 +709,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-charter-communications-142226667.html",
       "summary": "",
       "published_at": "2026-08-24T14:22:26+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -666,7 +727,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-141714731.html",
       "summary": "",
       "published_at": "2026-08-24T14:17:14+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -674,30 +735,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "baed4fa977672d4c9ed8408d20a22a745cecd0eb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Prediction: Palantir Stock Will Hit $250 on This Date",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-hit-250-140010471.html",
-      "summary": "",
-      "published_at": "2026-08-24T14:00:10+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "5a488f71682a5f928981f24b3bd412ed737b9748",
@@ -708,193 +745,13 @@
       "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
       "summary": "",
       "published_at": "2026-08-24T13:57:25+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "8706f249fe62072d1d0b0a1db729eaf5a4e9f122",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Salesforce (CRM) an Undervalued AI Opportunity Despite Slower Growth?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-undervalued-ai-opportunity-135316356.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:53:16+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "b7d94cc165e23a10762ffbc43f5514f1c8319dd0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-buying-opportunity-sharp-135013365.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:50:13+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "fc72c28143dd5162c75454c2d0342cc2b19845ea",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Could Taiwan Semiconductor Manufacturing Co. (TSM) Be the Biggest Long-Term Winner From the AI Chip Boom?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-taiwan-semiconductor-manufacturing-co-134836039.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:48:36+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "387eb9f60f4da6aa81804a096448f831afc591f8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on KLA Corporation Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-kla-134112535.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:41:12+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "4cb0f896bd0ce5b586212e52d19fc5d5e2b1b3d4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Amazon’s Drone Bet Is Getting Serious: Nearly 500 Cities Could Change the AMZN Story",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-drone-bet-getting-serious-134047806.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:40:47+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "8a1bae48adfe95da65d5edce7da93f2366f23a04",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "SGA Raised Its Bet on Alphabet (GOOG) as AI Demand Accelerates",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sga-raised-bet-alphabet-goog-133755704.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:37:55+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "GOOG",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.85
-    },
-    {
-      "id": "f195e562b719dbc4e7b8dc7385de69795d1d7162",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Arm Holdings (ARM) Delivers Strong Growth, but Has the Valuation Run Too Far?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-delivers-strong-133635561.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:36:35+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "4d5f4ccb6a76200870e281919135678a254bd943",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Bullish on Cooper Companies Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-cooper-132737636.html",
-      "summary": "",
-      "published_at": "2026-08-24T13:27:37+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
       "score": 0.64
     },
     {
@@ -906,7 +763,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed",
       "summary": "China is gearing up for what could become its next record-breaking semiconductor stock listing as the parent company of chip giant Yangtze Memory Technologies Corporation (YMTC) prepares to go public on Shanghai’s Star Market.\nCCSH Corporation, parent of China’s top NAND flash maker, planned to sell between 1.98 billion and 2.43 billion shares, equivalent to 10 to 12 per cent of its enlarged share",
       "published_at": "2026-08-24T04:34:59+00:00",
-      "first_seen_at": "2026-08-25T22:24:51.052821+00:00",
+      "first_seen_at": "2026-08-25T22:54:40.874909+00:00",
       "market": "HK",
       "markets": [
         "HK"
