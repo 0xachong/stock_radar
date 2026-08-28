@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T23:36:42.628650+00:00",
+  "generated_at": "2026-08-28T09:39:51.385492+00:00",
   "window_hours": 48,
-  "total_items": 39,
+  "total_items": 34,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 35,
-    "HK": 4
+    "US": 33,
+    "HK": 2
   },
   "category_stats": [
     {
@@ -14,12 +14,12 @@
       "count": 12
     },
     {
-      "key": "company",
-      "count": 7
+      "key": "macro",
+      "count": 8
     },
     {
-      "key": "macro",
-      "count": 6
+      "key": "company",
+      "count": 5
     },
     {
       "key": "guidance",
@@ -27,14 +27,14 @@
     },
     {
       "key": "rating",
-      "count": 5
-    },
-    {
-      "key": "ma",
-      "count": 3
+      "count": 2
     },
     {
       "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "product",
       "count": 1
     }
   ],
@@ -47,20 +47,194 @@
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 10
+      "count": 5
     }
   ],
   "items": [
     {
-      "id": "93fb6c6f9d36126d6dd0a42053f5708d384ca801",
+      "id": "eb13c0cc6205e36acd32ef4693c2ebc73b4454d8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-      "url": "https://www.cnbc.com/2026/08/27/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "summary": "A post-earnings rally in Nvidia helped lift the tech sector, the S&amp;P 500 and the Nasdaq Composite to their best sessions since Aug. 4 on Thursday.",
-      "published_at": "2026-08-27T23:25:21+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "source": "Seeking Alpha Market News",
+      "title": "Biggest stock movers Friday: PYPL, MRVL, and more",
+      "url": "https://seekingalpha.com/news/4637776-biggest-stock-movers-friday-pypl-mrvl-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-28T09:32:16+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "76553b154b95d00a4b002d941af567ba4092525e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "高盛：理想汽车(02015)指引逊市场预期 降目标价至55港元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3541719",
+      "summary": "",
+      "published_at": "2026-08-28T09:05:29+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "02015",
+          "name": "理想汽车",
+          "market": "HK"
+        },
+        {
+          "symbol": "LI",
+          "name": "理想",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 1.0
+    },
+    {
+      "id": "29c36d036fa045b0a065c889c6b2eda70d58048a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "坤泰股份(001260.SZ)发布半年度业绩，归母净利润342.13万元，同比下降84.46%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3541717",
+      "summary": "",
+      "published_at": "2026-08-28T09:05:28+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "83612e82954da574239273a9a9d24cb32ee28485",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Marvell Technology shares slump as investors question Google deal. Here’s what Wall Street is saying.",
+      "url": "https://www.marketwatch.com/story/marvell-technology-shares-slump-as-investors-question-google-deal-heres-what-wall-street-is-saying-d69d8e0c?mod=mw_rss_topstories",
+      "summary": "Strategists at a number of banks noted that investors’ eyes were firmly on news about the company’s recent partnership with Alphabet’s Google, with expectations ultimately left unmet.",
+      "published_at": "2026-08-28T09:05:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 1.0
+    },
+    {
+      "id": "4cc302c22a36d61943be277dd8629b046873a9d5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Billionaire Tech Mogul Peter Thiel Bought 8 New Stocks in Q2. They All Have a Common Theme.",
+      "url": "https://www.fool.com/investing/2026/08/28/billionaire-tech-mogul-peter-thiel-bought-8-new-st/?source=iedfolrf0000001",
+      "summary": "Thiel is one of the great tech innovators of the modern era, having co-founded companies such as PayPal and Palantir.",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "b8f54eecc6cb46584e98c3d2b9ad7f2eab8b1406",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meet the Super Semiconductor ETF Obliterating the S&P 500 and the Nasdaq-100 in 2026",
+      "url": "https://www.fool.com/investing/2026/08/28/meet-semiconductor-etf-sp-500-nasdaq-100-in-2026/?source=iedfolrf0000001",
+      "summary": "This fund has one-quarter of its assets parked in Nvidia, Micron Technology, and Advanced Micro Devices.",
+      "published_at": "2026-08-28T08:30:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "12f1494b0abe9aed68fd1aad171e6d4fedab1b5f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "2 Beaten-Down Consumer Stocks That Could Double in Five Years",
+      "url": "https://www.fool.com/investing/2026/08/28/beaten-down-consumer-stocks-double-celh-chwy/?source=iedfolrf0000001",
+      "summary": "These top consumer stocks are trading at a 50% discount, with clear growth opportunities ahead.",
+      "published_at": "2026-08-28T08:15:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "da4ae4f4834a36257d25184a6f566926423a780b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Judge says Trump administration’s blacklist of Anthropic was illegal",
+      "url": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
+      "summary": "The Trump administration violated Anthropic’s First Amendment rights when it blacklisted the AI company earlier this year, a federal judge ruled late Thursday.",
+      "published_at": "2026-08-28T03:16:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "ba48d1b6e58f66a24700e95d037b13aca0f99239",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Tesla Stock Sits Nearly 30% Below Its High and Still Trades at 330 Times Earnings",
+      "url": "https://www.fool.com/investing/2026/08/27/tesla-stock-sits-nearly-30-below-its-high-and-still-trades-at-330-times-earnings/?source=iedfolrf0000001",
+      "summary": "A drawdown this deep usually leaves a stock cheaper. This one mostly reveals how expensive the shares were at the peak.",
+      "published_at": "2026-08-28T02:51:01+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,6 +242,96 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
+    },
+    {
+      "id": "15856f95de4cf169b2d38b138002a85595563ee4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Salesforce Stock Just Soared. Thank Anthropic.",
+      "url": "https://www.fool.com/investing/2026/08/27/salesforce-stock-just-soared-but-investment-gains-delivered-usd2-53-of-its-usd5-90-in-per-share-profit/?source=iedfolrf0000001",
+      "summary": "Adjusted earnings per share doubled. And investors have less reason to believe AI will hurt Salesforce's business. Anthropic is driving both of these.",
+      "published_at": "2026-08-28T02:03:01+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "0ef9ad952bc4f5e85e40c059b1c885c2c6f8af2d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nvidia Just Guided for 70% Revenue Growth in Fiscal Year 2028. Here's What That Means for AI Stocks.",
+      "url": "https://www.fool.com/investing/2026/08/27/nvidia-just-guided-for-70-revenue-growth-in-fiscal/?source=iedfolrf0000001",
+      "summary": "The company is not slowing down when it comes to the artificial intelligence infrastructure boom.",
+      "published_at": "2026-08-28T01:00:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "b5c1a7724d8f0acfdf7daa77164459821e313174",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
+      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+      "summary": "Analysts are crunching the numbers on Marvell’s recently announced Google deal and how much fresh upside it really offers.",
+      "published_at": "2026-08-28T00:20:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 1.0
+    },
+    {
+      "id": "36c89b6c8df7b552285df24769bedbca7417919a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Alibaba (BABA) Q1 2027 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/27/alibaba-baba-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Cloud revenue surged 45% as AI infrastructure investments weighed on profitability.",
+      "published_at": "2026-08-28T00:09:34+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "BABA",
+          "name": "阿里巴巴",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
     },
     {
       "id": "d6867779bc87bdd5b0f7b984577c1b3770fbb7d8",
@@ -78,7 +342,7 @@
       "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
       "summary": "Nvidia’s stock soars higher after earnings.",
       "published_at": "2026-08-27T23:05:00+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,7 +360,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed",
       "summary": "Tiger Brokers and Futu Holdings, two of the region’s largest online brokerages, posted robust second-quarter growth as they expanded overseas to absorb Beijing’s toughest crackdown yet on illegal cross-border stock trading.\nUP Fintech Holding, parent of Tiger Brokers, reported on Wednesday that revenue rose 31.4 per cent year on year to a record US$182.3 million. Net income attributable to shareho",
       "published_at": "2026-08-27T23:00:10+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -114,7 +378,7 @@
       "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
       "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
       "published_at": "2026-08-27T22:58:01+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -122,6 +386,30 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "3b00f6d4375065807e7e32ecbe783ab01358fe80",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's Why Salesforce Stock Soared Today",
+      "url": "https://www.fool.com/investing/2026/08/27/heres-why-salesforce-stock-soared-today/?source=iedfolrf0000001",
+      "summary": "The reports of software's death are greatly exaggerated.",
+      "published_at": "2026-08-27T22:57:22+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.97
     },
     {
       "id": "93d5ee0263ba3176572fd8bad16679a9793a26f4",
@@ -132,7 +420,7 @@
       "url": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
       "summary": "A number of Wall Street banks, including Jefferies, raised their price targets for the cybersecurity’s stock following its record-breaking results.",
       "published_at": "2026-08-27T22:53:00+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -150,7 +438,7 @@
       "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
       "summary": "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors.",
       "published_at": "2026-08-27T22:51:00+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -164,198 +452,6 @@
       ],
       "category": "earnings",
       "score": 1.0
-    },
-    {
-      "id": "a125c78a697789ce5fddbdead050ac113fdff4b0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
-      "url": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
-      "summary": "CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.",
-      "published_at": "2026-08-27T22:20:14+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "b5c1a7724d8f0acfdf7daa77164459821e313174",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
-      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
-      "summary": "Analysts are crunching the numbers on Marvell’s recently announced Google deal and how much fresh upside it really offers.",
-      "published_at": "2026-08-27T22:13:00+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 1.0
-    },
-    {
-      "id": "b124dd197ced4ef83e529eb142d08c6aac64532d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
-      "summary": "Options bets and volatility are sending buy signals, which sets up the stock market for a potential upside breakout.",
-      "published_at": "2026-08-27T22:12:00+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "4b27ea15637aa2365b05b5915f753584d08d9bd6",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Solstice Advanced Materials股价盘后飙升13.2%，终止并购协议并宣布股份回购计划",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3540896",
-      "summary": "",
-      "published_at": "2026-08-27T22:00:40+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.65
-    },
-    {
-      "id": "58be929309417dc6896821cda18ea6ebffd8c5e5",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Element Solutions股价盘后上涨，并购协议终止成催化剂",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3540895",
-      "summary": "",
-      "published_at": "2026-08-27T22:00:34+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.65
-    },
-    {
-      "id": "e104b7cd380919decdb381ac98a8f9c4ac25ee21",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Solstice股价盘后飙升14%，与Element Solutions终止合并协议并宣布股份回购计划",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3540891",
-      "summary": "",
-      "published_at": "2026-08-27T21:50:22+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.61
-    },
-    {
-      "id": "46ef18f8877bc1973f21360c38e98b1c264747c4",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Rivian Automotive Inc CFO Claire McDonough宣布离职，股价盘后下跌2.1%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3540889",
-      "summary": "",
-      "published_at": "2026-08-27T21:45:02+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
-    },
-    {
-      "id": "6b195bfcd451ba323e75aa76b086a5946b5617ad",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.55%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3540884",
-      "summary": "",
-      "published_at": "2026-08-27T21:35:13+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "4c9d5a39ba40101521242a72e5193f82ab03d4dd",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "标普上调ICU Medical信用评级，看好其信贷指标改善",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3540883",
-      "summary": "",
-      "published_at": "2026-08-27T21:34:15+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "802fb0eb95f0ffdf9517746049f7d0dbff17d88d",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "标普将Concentra评级上调至BB，因杠杆率下降",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3540882",
-      "summary": "",
-      "published_at": "2026-08-27T21:33:54+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
     },
     {
       "id": "53c09c81bcff8b9ca7b56651988b172adda212cb",
@@ -366,7 +462,7 @@
       "url": "https://www.cnbc.com/2026/08/27/uae-spy-sheikh-trump-family-crypto-bank.html",
       "summary": "World Liberty’s proposed trust bank has preliminary federal approval as the Trump-backed crypto venture deepens its ties to a senior UAE official.",
       "published_at": "2026-08-27T21:22:08+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -374,24 +470,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.52
-    },
-    {
-      "id": "6a30d91b7c4af101f44f2600166e4457dad7d2ab",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "What Warsh will say and how the market will react, according to prediction markets",
-      "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
-      "summary": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
-      "published_at": "2026-08-27T21:17:34+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "af0b38974bead73da09355ad4607220fb3f4271d",
@@ -402,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
       "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.",
       "published_at": "2026-08-27T20:47:36+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -412,46 +490,22 @@
       "score": 0.65
     },
     {
-      "id": "25e13f55ad50434b7283fda6577b23bdd7656ac8",
+      "id": "5b446b02530c4494b19d985f7eef13c9e97f1933",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "S&P 500, Nasdaq Composite close higher Thursday as Nvidia rallies on revenue guidance: Live updates",
-      "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-      "summary": "Global investors are reacting to the earnings report from Nvidia, which surpassed analyst forecasts.",
-      "published_at": "2026-08-27T20:39:52+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "title": "Americans are carrying more credit card debt than banks report. Here are 3 things you can do today",
+      "url": "https://www.cnbc.com/select/tips-for-americans-facing-credit-card-delinquencies/",
+      "summary": "According to the Federal Reserve, over a tenth of credit card balances are 90+ days past due. These three tips might help those struggling with their finances.",
+      "published_at": "2026-08-27T18:47:22+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.8
-    },
-    {
-      "id": "30dc5effc2099e8921b8b4fca7757d376b74642c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
-      "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
-      "summary": "Salesforce reported a strong beat on second-quarter earnings and announced an expanded AI partnership with Anthropic.",
-      "published_at": "2026-08-27T20:04:01+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
+      "category": "macro",
+      "score": 0.52
     },
     {
       "id": "b40ef6c95af021fefb14b560c266ac2277b75225",
@@ -462,7 +516,7 @@
       "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
       "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
       "published_at": "2026-08-27T17:31:09+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -480,7 +534,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
       "summary": "",
       "published_at": "2026-08-27T15:30:54+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -498,7 +552,7 @@
       "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
       "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
       "published_at": "2026-08-27T13:53:26+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -522,7 +576,7 @@
       "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
       "summary": "Best Buy raised its full fiscal-year outlook on Thursday after reporting a stronger-than-expected first-half performance.",
       "published_at": "2026-08-27T13:48:45+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -540,7 +594,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3365441/dovish-or-hawkish-markets-await-warshs-jackson-hole-debut-rate-policy-clues?utm_source=rss_feed",
       "summary": "Investors are gearing up for Kevin Warsh’s first speech as chair of the US Federal Reserve at the central bank’s annual economic policy meeting, looking for any clues on monetary policies that will affect assets.\nWarsh is due to address the three-day Jackson Hole symposium on Friday, and indications from him on the US interest-rate outlook would be significant for stocks and bonds, which experienc",
       "published_at": "2026-08-27T08:00:11+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -558,7 +612,7 @@
       "url": "https://www.cnbc.com/2026/08/26/were-raising-our-price-target-on-salesforce-after-results-defy-saaspocalypse.html",
       "summary": "Salesforce's numbers and guidance were strong. Plus, a new partnership with Anthropic offers another reason for optimism.",
       "published_at": "2026-08-27T00:39:19+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -574,111 +628,33 @@
       "score": 0.97
     },
     {
-      "id": "17c3708d24956fa3dee85159d1bbb68a5e7f75b0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
-      "summary": "Salesforce CEO Marc Benioff pushed back against “SaaSpocalypse” fears.",
-      "published_at": "2026-08-26T22:47:37+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "033bf4e08ddd0105d2e451fdc4bd58ef20169352",
+      "id": "91b2d45776b814f71bca3db66161fbca15abdb5d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "A. O. Smith Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/o-smith-stock-wall-street-161317017.html",
+      "title": "Nvidia Posts Record $96.2B Revenue, Shares Jump on $108B Outlook",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-posts-record-96-2b-234000383.html",
       "summary": "",
-      "published_at": "2026-08-26T16:13:17+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "published_at": "2026-08-26T23:40:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.52
+      "category": "earnings",
+      "score": 0.61
     },
     {
-      "id": "f7ddb1bc4776b21f75b799b0a143196e24574d7c",
+      "id": "04eaee12f416994c415de9ee8c57f8d54d1c9321",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Keysight Technologies Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-keysight-technologies-161102316.html",
+      "title": "Marvell Reports Thursday. Here's Where the Google Contract Would Actually Show Up in the Numbers.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-reports-thursday-heres-where-213901030.html",
       "summary": "",
-      "published_at": "2026-08-26T16:11:02+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "7bf74a76de8ff1ce87cf0bd586042ee9eb8565b2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "EMCOR Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-stock-outlook-wall-street-160746836.html",
-      "summary": "",
-      "published_at": "2026-08-26T16:07:46+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.64
-    },
-    {
-      "id": "ebc288beb036eddeb45e449b19b6e413d32c6a5e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Domino's Pizza Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-dominos-160426290.html",
-      "summary": "",
-      "published_at": "2026-08-26T16:04:26+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "b8c3fa4a921f7e36e87bbce00aa1714629fdce99",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Ahead of Marvell Technology Earnings, Here's What Barchart Data Says Comes Next for MRVL Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-marvell-technology-earnings-heres-160256623.html",
-      "summary": "",
-      "published_at": "2026-08-26T16:02:56+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "published_at": "2026-08-26T21:39:01+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -690,45 +666,27 @@
           "market": "US"
         }
       ],
-      "category": "earnings",
-      "score": 1.0
+      "category": "product",
+      "score": 0.85
     },
     {
-      "id": "84786f66d543aa195f76ee4cbef41f35d959dd8e",
+      "id": "4a695292efbc85ab526d3f615593b2b847ce1dc7",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Inflation holds steady, giving Fed room to leave main rate unchanged",
-      "url": "https://finance.yahoo.com/economy/policy/articles/inflation-holds-steady-giving-fed-155806327.html",
+      "title": "Stock Market Today, Aug. 26: Meta Gains on $18 Billion Child-Safety Settlement",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-26-213833795.html",
       "summary": "",
-      "published_at": "2026-08-26T15:58:06+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "7d922b8c5a826914add2b8cdb7edc5858d884d26",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-next-100-billion-ai-151558258.html",
-      "summary": "",
-      "published_at": "2026-08-26T15:15:58+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "published_at": "2026-08-26T21:38:33+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "AVGO",
-          "name": "博通",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
@@ -736,22 +694,28 @@
       "score": 0.97
     },
     {
-      "id": "1ec41455b5f062e6035ecd1eac422032d39c59ac",
+      "id": "eb56f0e654033b8f8111fbc42c0c6459bd978db8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for M&T Bank Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-151354127.html",
+      "title": "Top analyst resets AMD stock price target for rest of 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
       "summary": "",
-      "published_at": "2026-08-26T15:13:54+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "published_at": "2026-08-26T21:33:00+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
       "category": "rating",
-      "score": 0.64
+      "score": 1.0
     },
     {
       "id": "570ee9c24edf933649a81f5aea7c1e4016ab1849",
@@ -762,7 +726,7 @@
       "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
       "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
       "published_at": "2026-08-26T13:35:50+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -780,7 +744,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3365346/landslide-china-nepal-border-engulfs-checkpoint-causing-major-casualties?utm_source=rss_feed",
       "summary": "Dozens of people were dead and hundreds of others – many of them foreign tourists – were missing on Wednesday night, hours after massive flash floods and landslides engulfed a border area between China and Nepal.\nChinese state media reported that the disaster struck Nepal at around 9am, spilling over into Gyirong county in the Tibet autonomous region, causing “major casualties and missing persons”",
       "published_at": "2026-08-26T11:30:19+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
+      "first_seen_at": "2026-08-28T09:39:51.385492+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -788,24 +752,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "82c2f4c87656731d5206a09fa02b241ce1df5d8c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
-      "url": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
-      "summary": "Haidilao shares rose after results showed strong growth in delivery and newer restaurant formats, even as revenue from its core hotpot restaurants declined.",
-      "published_at": "2026-08-26T09:35:08+00:00",
-      "first_seen_at": "2026-08-27T23:36:42.628650+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     }
   ]
 }
