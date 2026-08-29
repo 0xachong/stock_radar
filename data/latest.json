@@ -1,54 +1,230 @@
 {
-  "generated_at": "2026-08-29T03:14:12.178101+00:00",
+  "generated_at": "2026-08-29T10:18:32.298630+00:00",
   "window_hours": 48,
-  "total_items": 24,
+  "total_items": 46,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
-    "HK": 1
+    "HK": 8,
+    "US": 39
   },
   "category_stats": [
     {
+      "key": "company",
+      "count": 17
+    },
+    {
       "key": "earnings",
-      "count": 9
+      "count": 11
     },
     {
       "key": "macro",
-      "count": 8
+      "count": 9
     },
     {
-      "key": "company",
-      "count": 5
+      "key": "ipo",
+      "count": 6
+    },
+    {
+      "key": "capital",
+      "count": 2
     },
     {
       "key": "guidance",
-      "count": 2
+      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 22
+      "count": 39
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 2
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "32ddce5e2dc240de4f18ac7b7923805bfb87b257",
+      "id": "2ee37da93b3eee82432c31e6a841d364798ff162",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 诺令生物再度递表港交所 公司产品已覆盖全国31个省份",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543315",
+      "summary": "",
+      "published_at": "2026-08-29T09:35:11+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "d4bf804b52eade052478c7ce132a327485626d45",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: Tesla Stock Will Plummet Below $100 if the S&P 500 Enters a Bear Market",
+      "url": "https://www.fool.com/investing/2026/08/29/predict-tesla-stock-plummet-sp-500-bear-market/?source=iedfolrf0000001",
+      "summary": "Tesla stock is vulnerable to a significant correction due to its lofty valuation.",
+      "published_at": "2026-08-29T09:31:00+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "9866d19977375f2adbf9414d845b5507c44a045e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 正泰电器(601877.SH)递表港交所 连续三年保持中国低压电器产品品牌出口首位",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543308",
+      "summary": "",
+      "published_at": "2026-08-29T09:05:11+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "269ab3efc1bb27ffeb4b65f54d2313d6172a7d35",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Stock Is Down 30% From Its Post-IPO High. History Says This Will Happen Next.",
+      "url": "https://www.fool.com/investing/2026/08/29/spacex-stock-down-30-post-ipo-this-happen-next/?source=iedfolrf0000001",
+      "summary": "History says SpaceX shareholders will lose money in the coming months.",
+      "published_at": "2026-08-29T08:54:00+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.76
+    },
+    {
+      "id": "ac8a4eab641ebdba1ce108334585d9518a667213",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?",
+      "url": "https://www.fool.com/investing/2026/08/29/mark-zuckerbergs-meta-just-open-sourced-its-most-p/?source=iedfolrf0000001",
+      "summary": "Meta Platforms' open model strategy may not limit its ability to monetize AI.",
+      "published_at": "2026-08-29T08:45:00+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "b312f3b4d02ea96f27df871610ecc4542c011273",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "78家创新药企年中考：出海与政策驱动业绩兑现，43家净利增长，2家大涨超11倍",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543298",
+      "summary": "",
+      "published_at": "2026-08-29T08:06:36+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "7cfc140291a372f91d8add28ce76233b614cc511",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 诺令生物再度递表港交所",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543293",
+      "summary": "",
+      "published_at": "2026-08-29T08:05:16+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "fce403d5f21d8ab5985ee5aec832a2e6a2037f30",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 贝达药业(300558.SZ)再度递表港交所",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543291",
+      "summary": "",
+      "published_at": "2026-08-29T08:05:15+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "45194c762c3989ad72fe1a08d694fc004f3e32c6",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 糖吉医疗再度递表港交所",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543292",
+      "summary": "",
+      "published_at": "2026-08-29T08:05:15+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "612f344890208cd64f7549da390db681cdef6a0e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-      "summary": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
-      "published_at": "2026-08-29T02:11:38+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+      "url": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+      "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
+      "published_at": "2026-08-29T05:00:01+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -64,6 +240,192 @@
       "score": 0.85
     },
     {
+      "id": "d699a176bee2fd6f527edb570292430a658720ad",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Opinion: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
+      "url": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
+      "summary": "In a candid 2015 interview, Dolly Parton told CNBC's Tania Bryer about depression, ambition and the business decisions that defined her career.",
+      "published_at": "2026-08-29T05:00:01+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02015",
+          "name": "理想汽车",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "163c9da19d01b2514ec6cf516073c5463cf21882",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Marvell's AI Bookings Are Stellar. But Its Gross Margin Guide Is What Moved the Stock.",
+      "url": "https://www.fool.com/investing/2026/08/28/marvell-s-ai-bookings-are-stellar-but-its-gross-margin-guide-is-what-moved-the-stock/?source=iedfolrf0000001",
+      "summary": "The chipmaker raised nearly all the figures it gave to investors on Thursday. The one number it guided lower sent the stock down.",
+      "published_at": "2026-08-29T01:31:01+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "5f3d8d65c1621f18f2726d9ac4b347c48d3e64a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Bill Ackman Just Bought Visa, Mastercard, and S&P Global Stock. Each One Collects a Toll on Somebody Else's Sale.",
+      "url": "https://www.fool.com/investing/2026/08/28/bill-ackman-just-bought-visa-mastercard-and-s-and-p-global-stock-each-one-collects-a-toll-on-somebody-else-s-sale/?source=iedfolrf0000001",
+      "summary": "Pershing Square's three biggest new stakes are in companies that get paid when somebody else's customer transacts. Together, they were bigger than any single bet in the filing.",
+      "published_at": "2026-08-29T00:34:01+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "c194f7a3a87f7861936ae3aa9f6469ba02b58162",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Coinbase Stock: Buy or Sell?",
+      "url": "https://www.fool.com/investing/2026/08/28/coinbase-stock-buy-or-sell/?source=iedfolrf0000001",
+      "summary": "Cryptocurrency prices are rising again, and that's usually good news for Coinbase.",
+      "published_at": "2026-08-29T00:08:04+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "0739bd9ccda751546e8d956b1d3c66c29cdc99a1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Down 30% in 2026, Is Upstart an AI Stock to Buy Right Now?",
+      "url": "https://www.fool.com/investing/2026/08/28/down-30-in-2026-is-upstart-an-ai-stock-to-buy-righ/?source=iedfolrf0000001",
+      "summary": "Lender are increasingly utilizing AI in their business, but Upstart has a head start.",
+      "published_at": "2026-08-29T00:06:41+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "889bbcd0882d14c3bf6c88101057ade1d50d7fbd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Massive News for Meta Stock Investors",
+      "url": "https://www.fool.com/investing/2026/08/28/massive-news-for-meta-stock-investors/?source=iedfolrf0000001",
+      "summary": "The company will have to pay a large sum and change a few policies.",
+      "published_at": "2026-08-29T00:04:39+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "40d6bbaccd3e461ee0fedf1ce5cc885a07aeeb4f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "FedEx: A Strong Contender in the Logistics Sector?",
+      "url": "https://www.fool.com/investing/2026/08/28/fedex-a-strong-contender-in-the-logistics-sector/?source=iedfolrf0000001",
+      "summary": "Could FedEx be the stock that outperforms the market? Join us as we analyze its strengths, weaknesses, and future potential in this insightful episode of Scoreboard.",
+      "published_at": "2026-08-28T23:00:00+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "b2933af92f3bdab11a7d2cdae311ae92349bb6ba",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "CrowdStrike Just Had Its Best Quarter Ever, and I'm Not Buying the Stock at 43 Times Revenue",
+      "url": "https://www.fool.com/investing/2026/08/28/crowdstrike-just-had-its-best-quarter-ever-and-i-m-not-buying-the-stock-at-43-times-revenue/?source=iedfolrf0000001",
+      "summary": "Record new business, record second-quarter cash flow, raised guidance -- and a price that already assumes years more of all three.",
+      "published_at": "2026-08-28T22:41:02+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "08cf5d9b3bbd0edf60cb047c22d60e0ab38e5691",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Ulta Beauty Stock Is Down Today. Now Could Be a Good Time to Buy.",
+      "url": "https://www.fool.com/investing/2026/08/28/ulta-beauty-stock-is-down-today-now-good-buy/?source=iedfolrf0000001",
+      "summary": "This might be the profit opportunity you've been waiting for.",
+      "published_at": "2026-08-28T22:22:30+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
       "id": "e37804208c1d8cc77860350e8244b0db2bed396e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -72,7 +434,7 @@
       "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
       "summary": "SpaceX plans to spend tons of money on chips and recently announced it will only buy Nvidia’s. But other high-profile companies need more processing power as well.",
       "published_at": "2026-08-28T20:58:00+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -90,7 +452,7 @@
       "url": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
       "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
       "published_at": "2026-08-28T20:56:24+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -108,7 +470,7 @@
       "url": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
       "summary": "Kevin Warsh passed another big test as a new Federal Reserve chairman on Friday: He said the central bank still has work to do on inflation, and the bond market took him at his word.",
       "published_at": "2026-08-28T20:10:00+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -126,7 +488,7 @@
       "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
       "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
       "published_at": "2026-08-28T20:08:18+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -144,7 +506,7 @@
       "url": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-midday-amzn-mrvl-pypl-crm.html",
       "summary": "Here are some of the companies making headlines in midday trading.",
       "published_at": "2026-08-28T18:19:14+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -173,7 +535,7 @@
       "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
       "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
       "published_at": "2026-08-28T17:44:02+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -191,7 +553,7 @@
       "url": "https://www.cnbc.com/2026/08/28/walmart-settles-us-governments-opioid-lawsuit.html",
       "summary": "In a 2020 complaint, the Justice Department accused Arkansas-based Walmart of repeatedly violating the federal Controlled Substances Act since 2013.",
       "published_at": "2026-08-28T16:54:50+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -216,7 +578,7 @@
       "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
       "summary": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
       "published_at": "2026-08-28T16:11:51+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -234,7 +596,7 @@
       "url": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
       "summary": "Salesforce's stock had its second-best day on record following earnings, as Wall Street shows renewed confidence in CEO Marc Benioff's AI story.",
       "published_at": "2026-08-28T13:44:25+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -258,7 +620,7 @@
       "url": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html",
       "summary": "Marvell Technology shares fell Friday despite a second-quarter revenue beat, as its fiscal 2028 outlook failed to meet investors' expectations.",
       "published_at": "2026-08-28T13:42:43+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -274,93 +636,105 @@
       "score": 1.0
     },
     {
-      "id": "2b3527b17c302db43f970deec16260c1a7f52116",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Tiger, Futu post strong overseas gains after Beijing clampdown stalls mainland growth",
-      "url": "https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed",
-      "summary": "Tiger Brokers and Futu Holdings, two of the region’s largest online brokerages, posted robust second-quarter growth as they expanded overseas to absorb Beijing’s toughest crackdown yet on illegal cross-border stock trading.\nUP Fintech Holding, parent of Tiger Brokers, reported on Wednesday that revenue rose 31.4 per cent year on year to a record US$182.3 million. Net income attributable to shareho",
-      "published_at": "2026-08-27T23:00:10+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "915d327a4dd1fe3618b4c93a2338c1cbba30a481",
+      "id": "7cd74595e277026d37807dae716508c8bc6ca224",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Rubrik Earnings, Revenue Handily Beat Wall Street Targets",
-      "url": "https://www.investors.com/news/technology/rubrik-stock-rbrk-rubrik-earnings-news-q22026/?src=A00220&yptr=yahoo",
+      "title": "Jim Cramer Said Micron Technology, Inc. (NASDAQ:MU) Fell Because Of Samsung’s Share Buybacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-micron-technology-091630456.html",
       "summary": "",
-      "published_at": "2026-08-27T21:47:08+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "87e0fc7df373f7e2e602e551d09d506efcb1db4a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock indexes gain as Nvidia boost offsets caution on Fed event",
-      "url": "https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html",
-      "summary": "",
-      "published_at": "2026-08-27T21:27:31+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "519b729cbf8de61916924a471714defc8a02431c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Marvell Shares Slide After Hours",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/marvell-shares-slide-after-hours-gyGfOqd1Jfw7lRQ2vDiP?siteid=yhoof2&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-27T21:19:25+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "published_at": "2026-08-28T09:16:30+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "MRVL",
-          "name": "Marvell",
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 1.0
+    },
+    {
+      "id": "6517adb315d051d8cc314aa648384a146851d2be",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Explained Adobe Inc. (NASDAQ:ADBE)’s Share Price Movement",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explained-adobe-inc-091600295.html",
+      "summary": "",
+      "published_at": "2026-08-28T09:16:00+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.97
+      "score": 1.0
     },
     {
-      "id": "ab0c9ee60d96258f2e3f86889e3926d8e1c65fa0",
+      "id": "fb465d7070e7c2d7e0f43d7df49a11c804986ccd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo",
+      "title": "Jim Cramer Revealed What Made NVIDIA Corporation (NASDAQ:NVDA)’s Shares Move Post-Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-made-nvidia-091509280.html",
       "summary": "",
-      "published_at": "2026-08-27T20:51:20+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "published_at": "2026-08-28T09:15:09+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "7168b552175c01747b28a514e0904cfb11b39d01",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said He Thinks Jersey Mike’s Subs Inc. (NASDAQ:JMKE)’s Shares Will Go Up “Substantially”",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-thinks-jersey-091439424.html",
+      "summary": "",
+      "published_at": "2026-08-28T09:14:39+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "c1237d2eb9e0079f28e91c347eca373c4e4f510e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Explained Why Salesforce Inc. (NYSE:CRM)’s Shares Rose Ahead Of Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explained-why-salesforce-091412869.html",
+      "summary": "",
+      "published_at": "2026-08-28T09:14:12+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -372,26 +746,170 @@
           "market": "US"
         }
       ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "02a35535afae8e42e7ffe4cd155ed08f589a5403",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Shared What Apple Inc. (NASDAQ:AAPL) CEO Tim Cook Told Him About Shortages & iPhone Price",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shared-apple-inc-091148298.html",
+      "summary": "",
+      "published_at": "2026-08-28T09:11:48+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
       "category": "company",
       "score": 1.0
     },
     {
-      "id": "f68e2ad90b63ff3953f4c63304edc9a6e4d3fa30",
+      "id": "4b15dce91626765319154c67dcc14ad8d795d7be",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "SentinelOne Stock Falls As Revenue Beat, Guidance Underwhelm",
-      "url": "https://www.investors.com/news/technology/sentinelone-stock-sentinelone-earnings-news-q22026/?src=A00220&yptr=yahoo",
+      "title": "Jim Cramer Was Left Surprised By Movement In Meta Platforms, Inc. (NASDAQ:META)’s Shares",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-left-surprised-movement-091119174.html",
       "summary": "",
-      "published_at": "2026-08-27T20:51:15+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "published_at": "2026-08-28T09:11:19+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "9731a7a2679ebcb9ec7ba22f09ceeff915c3aa61",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "2 Beaten-Down Consumer Stocks That Could Double in Five Years",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-beaten-down-consumer-stocks-083500233.html",
+      "summary": "",
+      "published_at": "2026-08-28T08:35:00+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "39c4172b56db2776a65ad480bb7e006c2de8f410",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Alphabet Stock: Is GOOGL Underperforming the Technology Sector?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-googl-underperforming-technology-070308550.html",
+      "summary": "",
+      "published_at": "2026-08-28T07:03:08+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "21285a052893fe49d10b065a8943837dd9c08b24",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Wall Street Bullish or Bearish on Waters Corporation Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-waters-070254342.html",
+      "summary": "",
+      "published_at": "2026-08-28T07:02:54+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "11c20a100f96284e44508cc316716783abce3c06",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is NVIDIA Stock Outperforming the Nasdaq?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-outperforming-nasdaq-064734937.html",
+      "summary": "",
+      "published_at": "2026-08-28T06:47:34+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "0d1b6180eb0b6bd6d371d269c2eff57d9a14d334",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Apple Stock Outperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-outperforming-p-500-063132268.html",
+      "summary": "",
+      "published_at": "2026-08-28T06:31:32+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "2b3527b17c302db43f970deec16260c1a7f52116",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Tiger, Futu post strong overseas gains after Beijing clampdown stalls mainland growth",
+      "url": "https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed",
+      "summary": "Tiger Brokers and Futu Holdings, two of the region’s largest online brokerages, posted robust second-quarter growth as they expanded overseas to absorb Beijing’s toughest crackdown yet on illegal cross-border stock trading.\nUP Fintech Holding, parent of Tiger Brokers, reported on Wednesday that revenue rose 31.4 per cent year on year to a record US$182.3 million. Net income attributable to shareho",
+      "published_at": "2026-08-27T23:00:10+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.61
+      "score": 0.64
     },
     {
       "id": "af0b38974bead73da09355ad4607220fb3f4271d",
@@ -402,7 +920,7 @@
       "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
       "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.",
       "published_at": "2026-08-27T20:47:36+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -410,24 +928,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
-    },
-    {
-      "id": "77c8df99388743e2f7dc6a03729d47204836f93b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Workday Stock Falls As Earnings Beat, Guidance Underwhelms",
-      "url": "https://www.investors.com/news/technology/workday-stock-workday-earnings-news-q22026/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-27T20:43:33+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "b40ef6c95af021fefb14b560c266ac2277b75225",
@@ -438,31 +938,13 @@
       "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
       "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
       "published_at": "2026-08-27T17:31:09+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "5a1b9ebb8481a69f72ba395a698be69762516bcb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Bank of America doubles down on Nvidia stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
-      "summary": "",
-      "published_at": "2026-08-27T15:30:54+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -474,7 +956,7 @@
       "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
       "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
       "published_at": "2026-08-27T13:53:26+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -498,7 +980,7 @@
       "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
       "summary": "Best Buy raised its full fiscal-year outlook on Thursday after reporting a stronger-than-expected first-half performance.",
       "published_at": "2026-08-27T13:48:45+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "first_seen_at": "2026-08-29T10:18:32.298630+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -506,24 +988,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.61
-    },
-    {
-      "id": "f61294a6819380eed3f12b0514678eace51e906a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Dovish or Hawkish? Markets await Warsh’s Jackson Hole debut for rate, policy clues",
-      "url": "https://www.scmp.com/business/china-business/article/3365441/dovish-or-hawkish-markets-await-warshs-jackson-hole-debut-rate-policy-clues?utm_source=rss_feed",
-      "summary": "Investors are gearing up for Kevin Warsh’s first speech as chair of the US Federal Reserve at the central bank’s annual economic policy meeting, looking for any clues on monetary policies that will affect assets.\nWarsh is due to address the three-day Jackson Hole symposium on Friday, and indications from him on the US interest-rate outlook would be significant for stocks and bonds, which experienc",
-      "published_at": "2026-08-27T08:00:11+00:00",
-      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
     }
   ]
 }
