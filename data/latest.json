@@ -1,57 +1,68 @@
 {
-  "generated_at": "2026-08-28T21:05:42.790641+00:00",
+  "generated_at": "2026-08-29T03:14:12.178101+00:00",
   "window_hours": 48,
-  "total_items": 31,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 29,
-    "CN": 1,
-    "HK": 2
+    "US": 24,
+    "HK": 1
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 12
+      "key": "earnings",
+      "count": 9
     },
     {
       "key": "macro",
-      "count": 7
+      "count": 8
     },
     {
-      "key": "earnings",
-      "count": 6
+      "key": "company",
+      "count": 5
     },
     {
       "key": "guidance",
-      "count": 3
-    },
-    {
-      "key": "capital",
-      "count": 1
-    },
-    {
-      "key": "product",
-      "count": 1
-    },
-    {
-      "key": "rating",
-      "count": 1
+      "count": 2
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 25
+      "count": 22
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "32ddce5e2dc240de4f18ac7b7923805bfb87b257",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
+      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
+      "summary": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
+      "published_at": "2026-08-29T02:11:38+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
     {
       "id": "e37804208c1d8cc77860350e8244b0db2bed396e",
       "site_id": "us_global",
@@ -61,7 +72,7 @@
       "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
       "summary": "SpaceX plans to spend tons of money on chips and recently announced it will only buy Nvidia’s. But other high-profile companies need more processing power as well.",
       "published_at": "2026-08-28T20:58:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -79,7 +90,7 @@
       "url": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
       "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
       "published_at": "2026-08-28T20:56:24+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -87,114 +98,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "f1f0af0fe222d60f715a3160a741bf64b47f4c71",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "S&P 500 falls Friday after Fed’s Warsh highlights inflation worries, but index posts positive week",
-      "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
-      "summary": "The three major indexes posted winning weeks.",
-      "published_at": "2026-08-28T20:50:39+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "eb72421abace4775882c7acd86ab0148b1aacb31",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Gulf Resources receives Nasdaq notice over late quarterly filings",
-      "url": "https://seekingalpha.com/news/4638019-gulf-resources-receives-nasdaq-notice-over-late-quarterly-filings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-08-28T20:35:41+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "9dacc87c41a4bff29b62e605e933b381e0a71001",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美国股市收低；截至收盘道琼斯工业平均指数下跌0.02%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3543097",
-      "summary": "",
-      "published_at": "2026-08-28T20:31:19+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "d3b63d433d5eddeecfb9d0f7c59a92851cc135b0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌0.76%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3543096",
-      "summary": "",
-      "published_at": "2026-08-28T20:30:41+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "fc7980e36b796975aef2b36de70e4844f18f3f95",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "巴西股市上涨；截至收盘巴西IBOVESPA股指上涨0.30%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3543095",
-      "summary": "",
-      "published_at": "2026-08-28T20:30:14+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "eff1643fc9b03224257966a2abd5fb5a4f9c9896",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Pinterest首席财务官Julia Donnelly辞职，股价盘后跌近4%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3543093",
-      "summary": "",
-      "published_at": "2026-08-28T20:26:13+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
     },
     {
       "id": "cb5784ad03e62096f270cbf7ffed35605039265f",
@@ -205,7 +108,7 @@
       "url": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
       "summary": "Kevin Warsh passed another big test as a new Federal Reserve chairman on Friday: He said the central bank still has work to do on inflation, and the bond market took him at his word.",
       "published_at": "2026-08-28T20:10:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -223,7 +126,7 @@
       "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
       "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
       "published_at": "2026-08-28T20:08:18+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,30 +134,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "32ddce5e2dc240de4f18ac7b7923805bfb87b257",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-      "summary": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
-      "published_at": "2026-08-28T19:07:05+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "df62f3834a766e227295e979b13e9458bfcc3e4c",
@@ -265,7 +144,7 @@
       "url": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-midday-amzn-mrvl-pypl-crm.html",
       "summary": "Here are some of the companies making headlines in midday trading.",
       "published_at": "2026-08-28T18:19:14+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -286,39 +165,21 @@
       "score": 1.0
     },
     {
-      "id": "fd644cdbcfcffa7b0bcac87ffd25d4a4d6a28046",
+      "id": "2fdda156cf065dcbabe0ee32ca367417584a5d11",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Consumer Staples Sector Is Lagging the S&P 500 in 2026. 1 Value Stock to Buy in August.",
-      "url": "https://www.fool.com/investing/2026/08/28/the-consumer-staples-sector-is-lagging-the-sp-500/?source=iedfolrf0000001",
-      "summary": "PepsiCo is heading in the right direction.",
-      "published_at": "2026-08-28T17:28:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "source": "CNBC Top News",
+      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+      "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
+      "published_at": "2026-08-28T17:44:02+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "e28b076c556753b22deeb7c943aed6416bc1821b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Down 15% in One Year, Is Kimberly Clark an Undervalued Dividend Stock to Buy Right Now?",
-      "url": "https://www.fool.com/investing/2026/08/28/down-15-in-one-year-is-kimberly-clark-an-undervalu/?source=iedfolrf0000001",
-      "summary": "Investing in dividend stocks is an excellent way to generate passive income.",
-      "published_at": "2026-08-28T17:09:45+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
+      "category": "macro",
       "score": 0.64
     },
     {
@@ -330,7 +191,7 @@
       "url": "https://www.cnbc.com/2026/08/28/walmart-settles-us-governments-opioid-lawsuit.html",
       "summary": "In a 2020 complaint, the Justice Department accused Arkansas-based Walmart of repeatedly violating the federal Controlled Substances Act since 2013.",
       "published_at": "2026-08-28T16:54:50+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -355,31 +216,13 @@
       "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
       "summary": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
       "published_at": "2026-08-28T16:11:51+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "f0acccb6fa92e633a4eecd5916072b5564a03c67",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Stocks Down 26% and 68% to Buy Now and Hold for the Next Decade",
-      "url": "https://www.fool.com/investing/2026/08/28/2-stocks-down-26-and-68-to-buy-now-and-hold-for-th/?source=iedfolrf0000001",
-      "summary": "These dominant e-commerce businesses are still built for long-term compounding growth.",
-      "published_at": "2026-08-28T14:21:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -391,7 +234,7 @@
       "url": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
       "summary": "Salesforce's stock had its second-best day on record following earnings, as Wall Street shows renewed confidence in CEO Marc Benioff's AI story.",
       "published_at": "2026-08-28T13:44:25+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -415,7 +258,7 @@
       "url": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html",
       "summary": "Marvell Technology shares fell Friday despite a second-quarter revenue beat, as its fiscal 2028 outlook failed to meet investors' expectations.",
       "published_at": "2026-08-28T13:42:43+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -431,24 +274,6 @@
       "score": 1.0
     },
     {
-      "id": "12f1494b0abe9aed68fd1aad171e6d4fedab1b5f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Beaten-Down Consumer Stocks That Could Double in Five Years",
-      "url": "https://www.fool.com/investing/2026/08/28/beaten-down-consumer-stocks-double-celh-chwy/?source=iedfolrf0000001",
-      "summary": "These top consumer stocks are trading at a 50% discount, with clear growth opportunities ahead.",
-      "published_at": "2026-08-28T08:15:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "2b3527b17c302db43f970deec16260c1a7f52116",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -457,7 +282,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed",
       "summary": "Tiger Brokers and Futu Holdings, two of the region’s largest online brokerages, posted robust second-quarter growth as they expanded overseas to absorb Beijing’s toughest crackdown yet on illegal cross-border stock trading.\nUP Fintech Holding, parent of Tiger Brokers, reported on Wednesday that revenue rose 31.4 per cent year on year to a record US$182.3 million. Net income attributable to shareho",
       "published_at": "2026-08-27T23:00:10+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -465,6 +290,108 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
+    },
+    {
+      "id": "915d327a4dd1fe3618b4c93a2338c1cbba30a481",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Rubrik Earnings, Revenue Handily Beat Wall Street Targets",
+      "url": "https://www.investors.com/news/technology/rubrik-stock-rbrk-rubrik-earnings-news-q22026/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-27T21:47:08+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "87e0fc7df373f7e2e602e551d09d506efcb1db4a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock indexes gain as Nvidia boost offsets caution on Fed event",
+      "url": "https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html",
+      "summary": "",
+      "published_at": "2026-08-27T21:27:31+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "519b729cbf8de61916924a471714defc8a02431c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Marvell Shares Slide After Hours",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/marvell-shares-slide-after-hours-gyGfOqd1Jfw7lRQ2vDiP?siteid=yhoof2&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-27T21:19:25+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "ab0c9ee60d96258f2e3f86889e3926d8e1c65fa0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-27T20:51:20+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "f68e2ad90b63ff3953f4c63304edc9a6e4d3fa30",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SentinelOne Stock Falls As Revenue Beat, Guidance Underwhelm",
+      "url": "https://www.investors.com/news/technology/sentinelone-stock-sentinelone-earnings-news-q22026/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-27T20:51:15+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "af0b38974bead73da09355ad4607220fb3f4271d",
@@ -475,7 +402,7 @@
       "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
       "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.",
       "published_at": "2026-08-27T20:47:36+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -483,6 +410,24 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
+    },
+    {
+      "id": "77c8df99388743e2f7dc6a03729d47204836f93b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Workday Stock Falls As Earnings Beat, Guidance Underwhelms",
+      "url": "https://www.investors.com/news/technology/workday-stock-workday-earnings-news-q22026/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-08-27T20:43:33+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "b40ef6c95af021fefb14b560c266ac2277b75225",
@@ -493,7 +438,7 @@
       "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
       "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
       "published_at": "2026-08-27T17:31:09+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -511,7 +456,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
       "summary": "",
       "published_at": "2026-08-27T15:30:54+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -529,7 +474,7 @@
       "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
       "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
       "published_at": "2026-08-27T13:53:26+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -553,7 +498,7 @@
       "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
       "summary": "Best Buy raised its full fiscal-year outlook on Thursday after reporting a stronger-than-expected first-half performance.",
       "published_at": "2026-08-27T13:48:45+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -561,66 +506,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.61
-    },
-    {
-      "id": "8a3dd602722e53c7f5db2e5755b48bcf1d93bb14",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Nutanix Surges as Cloud and Agentic AI Partnerships With AMD Pay Off",
-      "url": "https://www.barrons.com/articles/nutanix-stock-cloud-agentic-ai-partnerships-amd-nvidia-5699c763?siteid=yhoof2&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-08-27T13:41:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "1a670a65d18496e08f7b0d320ec3164a36114e5a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Jack Henry & Associates Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-131928496.html",
-      "summary": "",
-      "published_at": "2026-08-27T13:19:28+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "c3ced268bdefe26d5f495ca8471386936966ec0f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Uber Stock Is 20% Off Its All-Time High, While the S&P 500 Index Is Up 14% Since Then: Here's Why the Market's Bearish View Is Wrong.",
-      "url": "https://www.fool.com/investing/2026/08/27/uber-stock-all-time-high-sp500-history-says-market/?source=iedfolrf0000001",
-      "summary": "Investors will come to appreciate the competitive position this company has established.",
-      "published_at": "2026-08-27T10:14:00+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "f61294a6819380eed3f12b0514678eace51e906a",
@@ -631,7 +516,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3365441/dovish-or-hawkish-markets-await-warshs-jackson-hole-debut-rate-policy-clues?utm_source=rss_feed",
       "summary": "Investors are gearing up for Kevin Warsh’s first speech as chair of the US Federal Reserve at the central bank’s annual economic policy meeting, looking for any clues on monetary policies that will affect assets.\nWarsh is due to address the three-day Jackson Hole symposium on Friday, and indications from him on the US interest-rate outlook would be significant for stocks and bonds, which experienc",
       "published_at": "2026-08-27T08:00:11+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
+      "first_seen_at": "2026-08-29T03:14:12.178101+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -639,30 +524,6 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.76
-    },
-    {
-      "id": "12bc07a689a5c64bcf0d669395f283b16001a102",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "We're raising our price target on Salesforce after results defy 'SaaSpocalypse'",
-      "url": "https://www.cnbc.com/2026/08/26/were-raising-our-price-target-on-salesforce-after-results-defy-saaspocalypse.html",
-      "summary": "Salesforce's numbers and guidance were strong. Plus, a new partnership with Anthropic offers another reason for optimism.",
-      "published_at": "2026-08-27T00:39:19+00:00",
-      "first_seen_at": "2026-08-28T21:05:42.790641+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 0.97
     }
   ]
 }
