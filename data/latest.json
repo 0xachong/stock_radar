@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-08-31T22:29:02.391606+00:00",
+  "generated_at": "2026-09-01T01:22:06.157983+00:00",
   "window_hours": 48,
-  "total_items": 25,
+  "total_items": 19,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 25
+    "US": 18,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 12
+      "count": 8
     },
     {
       "key": "macro",
       "count": 5
     },
     {
+      "key": "capital",
+      "count": 2
+    },
+    {
       "key": "rating",
-      "count": 3
+      "count": 2
     },
     {
       "key": "guidance",
-      "count": 2
-    },
-    {
-      "key": "earnings",
-      "count": 2
+      "count": 1
     },
     {
       "key": "product",
@@ -37,7 +38,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 20
+      "count": 14
     },
     {
       "site_id": "hk_china",
@@ -47,6 +48,77 @@
   ],
   "items": [
     {
+      "id": "045633350e38cacd6a1c2f4ce03465bc921e3ea7",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "效仿 Strategy (MSTR.US) 翻车：Metaplanet 浮亏 10 亿美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3545774",
+      "summary": "",
+      "published_at": "2026-09-01T01:05:23+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.95
+    },
+    {
+      "id": "65e60396697e43def8efd85a376469852a4cc913",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "丰城控股(02295)存仓市值总计2.04亿港元 股东向力高证券存入3398.00万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3545772",
+      "summary": "",
+      "published_at": "2026-09-01T01:05:22+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "957751608c035a397ddd9314403131fbc2f13317",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "微策略 (MSTR.US) 斥 3.7 亿增持 4603 枚 BTC，资产重回正值",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3545773",
+      "summary": "",
+      "published_at": "2026-09-01T01:05:22+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSTR",
+          "name": "MicroStrategy",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 0.97
+    },
+    {
       "id": "4919012fee85ba27be51099c135dc76962077f2a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -54,8 +126,8 @@
       "title": "Stock futures are little changed after Wall Street closes out winning August: Live updates",
       "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
       "summary": "The major averages fell Monday, but notched gains for the month.",
-      "published_at": "2026-08-31T22:03:56+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "published_at": "2026-09-01T00:16:59+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -65,70 +137,46 @@
       "score": 0.52
     },
     {
-      "id": "01e1c53396537431af0749f0898159d926dde84f",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Metallus股价盘后下滑，CEO退休公告引发抛售",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3545611",
-      "summary": "",
-      "published_at": "2026-08-31T21:54:06+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "0e718b150a16a39809a6c6f4f58e150aeddcc899",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Metallus股价因CEO宣布退休计划下跌3%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3545610",
-      "summary": "",
-      "published_at": "2026-08-31T21:52:33+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "219b98cecf2e59faee98ea0fedcc8420f475f67b",
+      "id": "ed96e01f695039778f7fd7a70aa2cadc694d5183",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Gold slides to two-week low as higher oil prices, hawkish Fed outlook keep yields high",
-      "url": "https://seekingalpha.com/news/4638502-gold-slides-to-two-week-low-as-higher-oil-prices-hawkish-fed-outlook-keep-yields-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-08-31T21:40:28+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "source": "CNBC Top News",
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "url": "https://www.cnbc.com/2026/08/31/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "summary": "The Dow Industrials dropped more than 370 points on Monday, but the three major averages posted monthly gains.",
+      "published_at": "2026-08-31T23:41:02+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "guidance",
-      "score": 0.64
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "819313ac4848efde4054dcb27b245b25538db1bd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "U.S. Army Secretary Driscoll resigns after Pentagon leadership rift",
+      "url": "https://seekingalpha.com/news/4638522-u-s-army-secretary-driscoll-resigns-after-pentagon-leadership-rift?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-08-31T22:30:38+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "7ea8272082390989fa1c7b4304a53ef4b6f10dfd",
@@ -139,7 +187,7 @@
       "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
       "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
       "published_at": "2026-08-31T21:36:32+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -157,7 +205,7 @@
       "url": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
       "summary": "As U.S. stocks head into September, a key trading level suggests the S&amp;P 500 could dodge a big loss in what is historically a turbulent month.",
       "published_at": "2026-08-31T21:36:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -165,24 +213,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "576ad7c80999e9b8696bd77b1bae10ad873e5c64",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.08%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3545606",
-      "summary": "",
-      "published_at": "2026-08-31T21:30:13+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
     },
     {
       "id": "2a29414218b1d4642d2a617609e92ad41d4e93b0",
@@ -193,31 +223,13 @@
       "url": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
       "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals.",
       "published_at": "2026-08-31T21:01:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "product",
-      "score": 0.52
-    },
-    {
-      "id": "528fb3cb0c89fb3620d9e55befc2f12f0226eb14",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month",
-      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-      "summary": "Stocks fell on Monday after the U.S. and Iran traded fire for the first time in a month, though the major averages still closed out August with gains.",
-      "published_at": "2026-08-31T21:00:40+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -229,7 +241,7 @@
       "url": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
       "summary": "The usually drama-free investment vehicle, U.S. government debt, is now causing some concern.",
       "published_at": "2026-08-31T20:55:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -247,7 +259,7 @@
       "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
       "summary": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
       "published_at": "2026-08-31T20:50:01+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -255,72 +267,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "70c857f7b2367a73e1b834e3ccb02585e7b9cb21",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Cathie Wood of ARK Invest Continues to Scoop up Bargain-Priced Crypto Stocks. Here Are 2 Stocks You Should Be Buying Now.",
-      "url": "https://www.fool.com/investing/2026/08/31/cathie-wood-of-ark-invest-continues-to-scoop-up-ba/?source=iedfolrf0000001",
-      "summary": "The growth-driven investor is bullish on Coinbase and Circle.",
-      "published_at": "2026-08-31T19:55:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "4782f9a0e686392d7ceade16b31ee0ae9d7d7b01",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser.",
-      "url": "https://www.fool.com/investing/2026/08/31/not-nvidia-not-amd-micron-could-be-septembers-bigg/?source=iedfolrf0000001",
-      "summary": "Micron Technology will report its quarterly results in September, and recent results from AI chipmakers suggest it could easily exceed expectations.",
-      "published_at": "2026-08-31T19:23:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "813664d4b3445bfad898431ded2cf5cf2a303bc5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Reddit Has Been One of the Worst Stocks in the S&P 500. Here's Why It's a Buy.",
-      "url": "https://www.fool.com/investing/2026/08/31/reddit-one-of-the-worst-sp500-stocks/?source=iedfolrf0000001",
-      "summary": "It's shocking that Reddit has underperformed this badly despite formidable fundamentals.",
-      "published_at": "2026-08-31T18:33:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "ea49918f347e64c573a4eb8817b94b7799dd0133",
@@ -331,7 +277,7 @@
       "url": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
       "summary": "To help fund Trump Accounts, American Airlines said it will match the federal $1,000 contribution for employees' children.",
       "published_at": "2026-08-31T17:19:46+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -339,78 +285,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "5ef58e2a07008d382df7bfb3cc180d5f0c9bb1bb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-      "url": "https://www.fool.com/investing/2026/08/31/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?source=iedfolrf0000001",
-      "summary": "Ark Invest was a buyer of tech stocks down as much as 53% from their recent all-time highs.",
-      "published_at": "2026-08-31T15:22:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "e85810e2bf21150a47f2479de631244e6d43edb1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why SAIC Stock Is Rising Today",
-      "url": "https://www.fool.com/investing/2026/08/31/why-saic-stock-is-rising-today/?source=iedfolrf0000001",
-      "summary": "It's not only strong quarterly earnings results that are driving investors to pick up shares.",
-      "published_at": "2026-08-31T15:13:19+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
-    },
-    {
-      "id": "1b57b418315386d182e697175a744faebe5838f9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Green Thumb Industries Stock Looks Stuck. Here's Why Wall Street Loves the Cannabis Stock Anyway.",
-      "url": "https://www.fool.com/investing/2026/08/31/green-thumb-industries-stock-looks-stuck-heres-why/?source=iedfolrf0000001",
-      "summary": "Green Thumb's shares are down more than 5% this year, yet analysts have a price target more than double the stock's current price.",
-      "published_at": "2026-08-31T14:15:00+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.76
-    },
-    {
-      "id": "1d0afc9720662cf608af6ce1055f132705a1cadb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Fed Chair Warsh's Jackson Hole Debut: What He Said, and Didn't Say, About Rate Hikes",
-      "url": "https://www.fool.com/investing/2026/08/31/fed-chair-warshs-jackson-hole-debut-what-he-said-a/?source=iedfolrf0000001",
-      "summary": "Fed Chair Kevin Warsh is keeping investors guessing about the next interest rate decision.",
-      "published_at": "2026-08-31T13:37:08+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "512a524df7893113d42b30962596cc29ab943261",
@@ -421,7 +295,7 @@
       "url": "https://www.cnbc.com/2026/08/31/when-someone-talks-down-use-dolly-partons-simple-trick-maintain-dignity-disarm-communication-expert.html",
       "summary": "Communication expert Dorie Clark calls it the \"label upgrade\" strategy. \"It's a powerful move,\" she says. \"Own the truth,\" then redefine their label. Here's how.",
       "published_at": "2026-08-31T13:34:01+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -439,13 +313,31 @@
       "url": "https://www.scmp.com/business/china-business/article/3365689/china-bond-market-diverges-us-warsh-strikes-hawkish-tone-jackson-hole?utm_source=rss_feed",
       "summary": "The divergence of the bond markets in China and the US risks widening further, as economic data releases from the world’s second-largest economy remained underwhelming and Federal Reserve chairman Kevin Warsh’s hawkish tone and concerns about fiscal sustainability add to the headwinds for Treasuries.\nThe yield on China’s 10-year government bond traded at 1.692 per cent on Monday, approaching its l",
       "published_at": "2026-08-31T03:00:07+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "c596ec9dbaa22059f6940dd095d20cb98108f1f8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Netflix Stock Underperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-underperforming-p-500-180731110.html",
+      "summary": "",
+      "published_at": "2026-08-30T18:07:31+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     },
     {
@@ -457,7 +349,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html",
       "summary": "",
       "published_at": "2026-08-30T14:45:02+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -473,6 +365,24 @@
       "score": 1.0
     },
     {
+      "id": "1276fab075f9af829309e8783a74adcbbbc08156",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Amazon Has Badly Underperformed the S&P 500 and Nasdaq-100 Since Jeff Bezos Stepped Down as CEO. Could Apple Do the Same Starting Sept. 1 When Tim Cook Steps Down?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-badly-underperformed-p-500-143500321.html",
+      "summary": "",
+      "published_at": "2026-08-30T14:35:00+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
       "id": "713d1a0684e6491f1842ee0f8e4783750ae4278f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -481,7 +391,7 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-agrees-coinbase-ceo-140111611.html",
       "summary": "",
       "published_at": "2026-08-30T14:01:11+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -502,24 +412,6 @@
       "score": 0.95
     },
     {
-      "id": "d6cb374466b0f9b7f60db770f444eb439f28aaaa",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Advanced Micro Devices Stock Outperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-outperforming-122944212.html",
-      "summary": "",
-      "published_at": "2026-08-30T12:29:44+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "b8370f7392225493a0e1f4bb7db85863a4e9e29b",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -528,7 +420,7 @@
       "url": "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed",
       "summary": "JD.com’s rapid expansion in Hong Kong could challenge the property model that has long made the city’s busiest streets and shopping centres its most valuable, analysts say.\nThe Chinese e-commerce giant has invested more than HK$10 billion (US$1.3 billion) in Hong Kong property over the past two years, building a network of stores, warehouses and other assets that analysts said could reduce the imp",
       "published_at": "2026-08-30T02:00:16+00:00",
-      "first_seen_at": "2026-08-31T22:29:02.391606+00:00",
+      "first_seen_at": "2026-09-01T01:22:06.157983+00:00",
       "market": "US",
       "markets": [
         "US"
