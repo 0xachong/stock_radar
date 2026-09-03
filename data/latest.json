@@ -1,24 +1,20 @@
 {
-  "generated_at": "2026-09-03T15:48:59.920449+00:00",
+  "generated_at": "2026-09-03T19:06:01.669782+00:00",
   "window_hours": 48,
-  "total_items": 28,
+  "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 27,
+    "US": 19,
     "HK": 1
   },
   "category_stats": [
     {
-      "key": "macro",
-      "count": 8
-    },
-    {
       "key": "company",
-      "count": 8
+      "count": 4
     },
     {
-      "key": "rating",
+      "key": "macro",
       "count": 4
     },
     {
@@ -26,11 +22,15 @@
       "count": 4
     },
     {
-      "key": "guidance",
-      "count": 2
+      "key": "capital",
+      "count": 3
     },
     {
-      "key": "capital",
+      "key": "rating",
+      "count": 3
+    },
+    {
+      "key": "guidance",
       "count": 1
     },
     {
@@ -42,103 +42,49 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 24
+      "count": 17
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "61f49c7fe4d5c3c79474a54557c946e97101db0c",
+      "id": "a430b8f20f1b0f309903ef0a5c741446dee00e44",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates",
-      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
-      "summary": "Investors grew hopeful that the Federal Reserve may leave interest rates unchanged this month.",
-      "published_at": "2026-09-03T15:48:02+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "c82594b66e1999e6dccf7a21f9d37227cf30ab4c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Fed rate-hike bets ebb after Waller's inflation comments",
-      "url": "https://seekingalpha.com/news/4640045-fed-rate-hike-bets-ebb-after-wallers-inflation-comments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-09-03T15:32:16+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "0794ad03448c288dc7a80c34a78f16c43d365d81",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Ultragenyx slides amid multiple downgrades on trial setback for Angelman syndrome drug",
-      "url": "https://seekingalpha.com/news/4640047-ultragenyx-stock-downgraded-trial-setback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-09-03T15:31:33+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "0f1f8bd4a7e37a75a201077948dfc0d3d8e6feb9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Circle Internet Surges 14% Despite Wall Street Building Rival Stablecoin; Coinbase Spikes 10%",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-surges-14-despite-153012814.html",
-      "summary": "",
-      "published_at": "2026-09-03T15:30:12+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "source": "The Motley Fool",
+      "title": "Could a $10,000 Investment in AMD Double by the End of 2028?",
+      "url": "https://www.fool.com/investing/2026/09/03/could-a-10000-investment-in-amd-double-by-the-end/?source=iedfolrf0000001",
+      "summary": "The chipmaker just posted a great quarter, but a lot of its expected success is already priced into the stock.",
+      "published_at": "2026-09-03T18:33:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "COIN",
-          "name": "Coinbase",
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 1.0
+      "score": 0.97
     },
     {
-      "id": "1c2967d2fc83a5f52cc5c038faca2778a9aade7b",
+      "id": "b42ef11d3f4d2578cd1e6aebb9321935618978ea",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "The Fed’s Waller Says He’d Hold Rates Steady — But His “If” Is Doing a Lot of Heavy Lifting",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-waller-says-d-hold-151812767.html",
-      "summary": "",
-      "published_at": "2026-09-03T15:18:12+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "New doubts emerge about whether Fed will raise interest rates this month",
+      "url": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
+      "summary": "Fed governor Christopher Waller made a strong case for the Fed to hold rates steady.",
+      "published_at": "2026-09-03T18:24:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -146,6 +92,156 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "a2f1287b4ad1f4afc1742bfab60903e31c56cce2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Overlooked Pipeline Stock Quietly Raised Its Dividend Again. Almost Nobody Covered It. (It's Now Yielding Nearly 8%!)",
+      "url": "https://www.fool.com/investing/2026/09/03/this-overlooked-pipeline-stock-dividend-hesm/?source=iedfolrf0000001",
+      "summary": "This nearly 8% dividend has been increased quarterly for years.",
+      "published_at": "2026-09-03T17:30:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.61
+    },
+    {
+      "id": "424ca02aab10083441c1a77687f44763f9dad081",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "I'm Calling It: Bloom Energy's Revenue Guidance Will Keep Surprising Wall Street Through Year-End",
+      "url": "https://www.fool.com/investing/2026/09/03/im-calling-it-bloom-energys-revenue-guidance-keeps/?source=iedfolrf0000001",
+      "summary": "Demand for everything else may be slowing down, but AI data center owners are still clamoring for power any way they can get it fast. Bloom is more ready than most to deliver.",
+      "published_at": "2026-09-03T17:14:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "43107066881c14b1bd528cca1d445d9612788fed",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why The Metals Company Stock Soared in August",
+      "url": "https://www.fool.com/investing/2026/09/03/why-the-metals-company-stock-soared-in-august/?source=iedfolrf0000001",
+      "summary": "Management's commentary is putting the wind in investors' sails.",
+      "published_at": "2026-09-03T16:48:31+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "edc856bd663d10c63a396870ba17f4b52a3f6a7a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Economist Paul Krugman Says Kevin Warsh \"Sounded Utterly Conventional\" at Jackson Hole, Despite Promising a Break From Fed Tradition. Does That Continuity Mean Rate Policy Won't Change Much Under Him?",
+      "url": "https://www.fool.com/investing/2026/09/03/economist-paul-krugman-says-kevin-warsh-sounded/?source=iedfolrf0000001",
+      "summary": "Warsh wants change, but inflation still dictates Fed policy.",
+      "published_at": "2026-09-03T16:45:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "04e6e25975f09fc3b439a001be7af976071ece31",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Fed Governor Chris Waller Just Significantly Upped the Stakes for the Sept. 11 Inflation Report. It Could Decide Whether There is a Rate Hike at the Fed's Upcoming Meeting",
+      "url": "https://www.fool.com/investing/2026/09/03/fed-governor-chris-waller-just-significantly-upped-the-stakes-for-the-sept-11-inflation-report-it-could-decide-whether-there-is-a-rate-hike-at-the-fed-s-upcoming-meeting/?source=iedfolrf0000001",
+      "summary": "Waller said he would consider leaving interest rates unchanged at the Fed's September meeting if the next inflation report shows progress toward the Fed's 2% target.",
+      "published_at": "2026-09-03T16:41:01+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "77e58bf8e29ecac805bdd216727866d853a5b221",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "加息预期骤降引爆加密市场！比特币突破8万美元关口 概念股集体爆发",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3551475",
+      "summary": "",
+      "published_at": "2026-09-03T16:35:09+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.61
+    },
+    {
+      "id": "65a9a48720d50a48a05768f425364e4769f77ddd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Midday, Sept. 3: Stocks Rally as Treasury Yields Fall, Broadcom Falls Despite Earnings Beat",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/?source=iedfolrf0000001",
+      "summary": "Markets push upwards as the likelihood of a September rate hike slips slightly, today, Sept. 3, 2026.",
+      "published_at": "2026-09-03T16:34:03+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "a6264e135177b6e1b0a63a11e7b686991b96a60b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends",
+      "url": "https://www.fool.com/investing/2026/09/03/heres-how-many-shares-booking-holdings-bkng-stock/?source=iedfolrf0000001",
+      "summary": "Booking Holdings' total yield, incorporating share buybacks, tops 7% -- and the stock is worth a closer look now.",
+      "published_at": "2026-09-03T15:54:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.65
     },
     {
       "id": "38611ca96eb379af97a4fabe4673a169929a65f1",
@@ -156,7 +252,7 @@
       "url": "https://www.fool.com/investing/2026/09/03/the-feds-september-decision-could-hit-micron-harde/?source=iedfolrf0000001",
       "summary": "Micron's financial numbers look powerful, but the Federal Reserve may decide how much investors are willing to pay for them.",
       "published_at": "2026-09-03T15:15:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -164,132 +260,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "b12468e430cfd67f20a4552b87c610cdf76a28da",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美股异动 | 加密货币概念股普涨 Strategy(MSTR.US)涨超10%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3551396",
-      "summary": "",
-      "published_at": "2026-09-03T15:06:27+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSTR",
-          "name": "MicroStrategy",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 1.0
-    },
-    {
-      "id": "0a9f14fcd8553dfbf77cc4c5db1708aa0702d8ec",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "药明生物(02269)根据首次公开发售前购股权计划合共发行242.39万股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3551392",
-      "summary": "",
-      "published_at": "2026-09-03T15:05:16+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [
-        {
-          "symbol": "02269",
-          "name": "药明生物",
-          "market": "HK"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "1d4b3354ea364ff863ac6d47232e9584f8a1aea8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Leads Charge As Fed's Waller Signals This; Ciena Drops (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-09-03T15:03:51+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "2c863d79242a4e0ad31408e258df2f7d04adad27",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
-      "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-      "summary": "Poland’s reclassification as a developed economy from an emerging market opens it up for investment by many more investors.",
-      "published_at": "2026-09-03T14:57:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "814e8fdc1d0c0369d90c5cd278a0a15336bee802",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Victoria’s Secret sees strong ‘bras and Pink’ sales, but not enough to satisfy investors",
-      "url": "https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
-      "summary": "The company delivered sales near the high end of its forecasted range, but Wall Street was expecting more, and the stock is headed for its worst day in more than a year.",
-      "published_at": "2026-09-03T14:32:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.52
-    },
-    {
-      "id": "f7adf497993f7ace2748b26524797438f2770c6e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Amazon.com (AMZN): AI Exposure Adds, But Other Businesses Drive Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-ai-exposure-143009087.html",
-      "summary": "",
-      "published_at": "2026-09-03T14:30:09+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "cb368634f992326d92a73d05aa1b330714e16d4e",
@@ -300,7 +270,7 @@
       "url": "https://www.fool.com/investing/2026/09/03/wall-street-loves-nuscale-power-heres-the-risk/?source=iedfolrf0000001",
       "summary": "NuScale Power investors may face ongoing share dilution.",
       "published_at": "2026-09-03T14:30:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -318,7 +288,7 @@
       "url": "https://www.fool.com/investing/2026/09/03/why-palantir-stock-bounced-back-today/?source=iedfolrf0000001",
       "summary": "Palantir stock looks expensive, yes, but given its growth rate, is it really overpriced?",
       "published_at": "2026-09-03T14:27:31+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -334,147 +304,21 @@
       "score": 0.97
     },
     {
-      "id": "f3b6a3300aced9e73377fbf9fab1f80bf5785626",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Microsoft Corporation (MSFT) Generates Revenues and Profits Beyond AI Theme",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-generates-revenues-141420996.html",
-      "summary": "",
-      "published_at": "2026-09-03T14:14:20+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
       "id": "5512965b68f60eb8449b68210e49d2deef37b1be",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Markets",
       "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
       "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
       "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
       "published_at": "2026-09-03T14:06:52+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "7003b22f5b47add9ffa461777a5fe3feb4d6099e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nu Holdings Cleared $1 Billion in Quarterly Net Income With 139 Million Customers",
-      "url": "https://www.fool.com/investing/2026/09/03/nu-holdings-cleared-1-billion-quarterly-net-income/?source=iedfolrf0000001",
-      "summary": "Nubank had record earnings in Q2, and the stock has moved higher.",
-      "published_at": "2026-09-03T14:00:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "3922ce32f96d90c6dcc6cd65f2ca673bee0aed87",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "As Broadcom’s stock falls, Wall Street focuses on the company’s forecast",
-      "url": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
-      "summary": "Broadcom perhaps came up short of true “market expectations” with its latest outlook, though one analyst said management may be taking a conservative stance on its potential.",
-      "published_at": "2026-09-03T13:46:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "d5727d8755fcbfd9536689febb678934524631a5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Hyperscalers Are the Backbone of AI. Here's Why I Own Amazon, Alphabet, and Meta Platforms.",
-      "url": "https://www.fool.com/investing/2026/09/03/hyperscalers-are-the-backbone-of-ai-heres-why-i-ow/?source=iedfolrf0000001",
-      "summary": "Amazon, Alphabet, and Meta Platforms are three top AI stocks to own for the long term.",
-      "published_at": "2026-09-03T13:22:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "8a8dbbfe2b797fb540082b160359806cbd5e9a7f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Better AI Infrastructure Stock: Nvidia vs. AMD",
-      "url": "https://www.fool.com/investing/2026/09/03/better-ai-infrastructure-stock-nvidia-vs-amd/?source=iedfolrf0000001",
-      "summary": "Semiconductor stocks have soared as the AI build-out marches on.",
-      "published_at": "2026-09-03T12:46:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "45ae272beca64667e5bb37a729679cbef9e3146f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Beaten-Down AI Stocks I Can’t Stop Buying",
-      "url": "https://www.fool.com/investing/2026/09/03/2-beaten-down-ai-stocks-i-can-t-stop-buying/?source=iedfolrf0000001",
-      "summary": "The market has given up on these two tech companies. I’m buying both.",
-      "published_at": "2026-09-03T12:12:01+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -486,49 +330,7 @@
       "url": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
       "summary": "Meta settled its child safety case. Now comes the hard part of actually implementing changes to its social media platforms. Here's what to expect.",
       "published_at": "2026-09-03T12:00:01+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "8dd4ec8529bcbad44d855cd1806d8bad7b5fa0e9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet the Dividend King Stock That Yields Quadruple the S&P 500. Here's Why It's a Buy Now.",
-      "url": "https://www.fool.com/investing/2026/09/03/meet-the-dividend-king-stock-that-yields-more-than/?source=iedfolrf0000001",
-      "summary": "For investors seeking stability and portfolio income, this venerable REIT is in a class of its own.",
-      "published_at": "2026-09-03T11:15:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "2b4c32d2188a7c195547c08250bad6e3388c74d3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "I Wouldn't Touch The Metals Company Yet -- Here's the One Number I'm Waiting On",
-      "url": "https://www.fool.com/investing/2026/09/03/i-wouldnt-touch-the-metals-company-yet-heres-the-o/?source=iedfolrf0000001",
-      "summary": "The Metals Company has vast upside from its deep-sea mining business.",
-      "published_at": "2026-09-03T10:26:00+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -552,7 +354,7 @@
       "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
       "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
       "published_at": "2026-09-03T02:39:48+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -570,7 +372,7 @@
       "url": "https://www.scmp.com/business/article/3366121/chinas-new-home-finance-rules-reduce-buyer-risks-may-not-revive-market-analysts?utm_source=rss_feed",
       "summary": "China’s new housing finance rules reduce the risk of buying a new home but analysts are not convinced they will be enough to tempt hesitant buyers still weighed down by falling prices and weak confidence.\nThe changes are designed to reduce the risk in buying pre-sold homes. Mortgage funds for pre-sold homes will be released only after submission of the project completion filing, when the homes are",
       "published_at": "2026-09-02T23:00:13+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -588,7 +390,7 @@
       "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
       "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
       "published_at": "2026-09-02T16:41:48+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -606,13 +408,31 @@
       "url": "https://www.scmp.com/business/china-business/article/3366048/byd-leapmotor-buck-ev-market-slowdown-pressure-piles-small-rivals?utm_source=rss_feed",
       "summary": "Top performers BYD and Leapmotor clawed their way up higher in terms of sales last month, even as China’s electric vehicle (EV) market was shrinking amid weaker consumer demand.\nHowever, smaller players were expected to face falling sales and mounting losses for the rest of the year as competition got fiercer, according to analysts.\nBYD, the world’s largest EV builder, saw its sales in August surg",
       "published_at": "2026-09-02T09:16:29+00:00",
-      "first_seen_at": "2026-09-03T15:48:59.920449+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "5da401747735049e59e4ee852656efd49e2480f8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Wall Street's Scariest Seasonal Pattern Returns in September. Should AI Stock Investors Be Worried?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-scariest-seasonal-pattern-090500750.html",
+      "summary": "",
+      "published_at": "2026-09-02T09:05:00+00:00",
+      "first_seen_at": "2026-09-03T19:06:01.669782+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     }
   ]
