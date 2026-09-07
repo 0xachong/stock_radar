@@ -1,36 +1,40 @@
 {
-  "generated_at": "2026-09-07T18:07:03.716932+00:00",
+  "generated_at": "2026-09-07T21:41:52.056157+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 16,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 19,
-    "HK": 2
+    "US": 15,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
-    },
-    {
-      "key": "macro",
-      "count": 5
-    },
-    {
-      "key": "rating",
-      "count": 2
+      "count": 7
     },
     {
       "key": "earnings",
       "count": 2
     },
     {
-      "key": "policy",
+      "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "macro",
+      "count": 2
+    },
+    {
+      "key": "ipo",
       "count": 1
     },
     {
       "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "product",
       "count": 1
     }
   ],
@@ -38,7 +42,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 17
+      "count": 12
     },
     {
       "site_id": "hk_china",
@@ -48,70 +52,82 @@
   ],
   "items": [
     {
-      "id": "b0834f37fc7fef8c386771dff2f487b4dec31208",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Explains Why “Buyers Flocked in” for Dell (DELL)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-buyers-174139489.html",
+      "id": "8e17b979a03c16d395890b1e123ba1aa788992a2",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.21%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3554919",
       "summary": "",
-      "published_at": "2026-09-07T17:41:39+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "DELL",
-          "name": "戴尔",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "a29be41c52672f72689f4bad337a20ef727366d6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-worried-amd-why-173018835.html",
-      "summary": "",
-      "published_at": "2026-09-07T17:30:18+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "9b470f770e5eb196954b3e8e9f87a8b82271c8a6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Fed rate-hike threat heats up this week as August inflation data looms",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-threat-heats-171100344.html",
-      "summary": "",
-      "published_at": "2026-09-07T17:11:00+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "published_at": "2026-09-07T21:30:13+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
-      "score": 0.52
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "8aaa770ffbe9cae9a30953bde9ab759a20f0c108",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Nvidia Stock: Is It Still a Good Buy at $230?",
+      "url": "https://www.fool.com/investing/2026/09/07/nvidia-stock-is-it-still-a-good-buy-at-230/?source=iedfolrf0000001",
+      "summary": "The company is coming off yet another terrific quarterly earnings report.",
+      "published_at": "2026-09-07T19:00:01+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "33976efd47a743809a2006c4584d23c290a8feb5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
+      "url": "https://www.fool.com/investing/2026/09/07/anthropic-seeking-usd15-billion-in-debt-before-its-ipo-is-that-a-warning-sign-or-a-bullish-signal-for-ai-infrastructure-stocks/?source=iedfolrf0000001",
+      "summary": "AI companies continue to raise new capital to fund growth.",
+      "published_at": "2026-09-07T18:57:20+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "1d4d7fe61ec0612fb38d75cebee0009f12e93a9e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
+      "url": "https://www.fool.com/investing/2026/09/07/should-you-buy-marvell-technology-stock-before-oct-6/?source=iedfolrf0000001",
+      "summary": "The company's Investor Day event is coming up next month, which may feature some big announcements.",
+      "published_at": "2026-09-07T17:54:21+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "b742bcc921738a1f97985ea68ead887d056d9ec7",
@@ -122,7 +138,7 @@
       "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
       "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
       "published_at": "2026-09-07T17:04:21+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -140,7 +156,7 @@
       "url": "https://www.fool.com/investing/2026/09/07/is-netflix-stock-more-likely-to-hit-100-or-60-by-the-end-of-2026/?source=iedfolrf0000001",
       "summary": "The streaming stock is down 38% in the past 12 months, and its valuation may look enticing to many investors.",
       "published_at": "2026-09-07T16:32:31+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -148,24 +164,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "c19b4b1c8d4dc7df9c6112ecda188ce1d1c60ddc",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "德国股市涨跌不一；截至收盘DAX 30下跌0.25%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3554903",
-      "summary": "",
-      "published_at": "2026-09-07T16:06:36+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
     },
     {
       "id": "ecab6b251df0abb21e685009833f118197c1cfb8",
@@ -176,7 +174,7 @@
       "url": "https://www.fool.com/investing/2026/09/07/is-adobe-s-stock-heading-for-300/?source=iedfolrf0000001",
       "summary": "The tech stock has been quietly rallying for the past few months.",
       "published_at": "2026-09-07T16:02:29+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -200,7 +198,7 @@
       "url": "https://www.fool.com/investing/2026/09/07/wall-street-is-underestimating-this-stock-heres-my/?source=iedfolrf0000001",
       "summary": "On's recent sell-off has raised an important question about what its slower growth really signals.",
       "published_at": "2026-09-07T15:43:00+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -208,156 +206,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "820cfbe0476e8746495c7f6167724e6cdc819908",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Federal investigators probe Amazon cargo jet's fiery runway crash that killed 5 in Miami",
-      "url": "https://www.cnbc.com/2026/09/07/federal-investigators-probe-amazon-cargo-jets-fiery-runway-crash-that-killed-5-in-miami.html",
-      "summary": "Investigators examining why an Amazon jet barreled off a runway at Miami International Airport are likely to focus on a crucial moment in the landing.",
-      "published_at": "2026-09-07T15:11:44+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "policy",
-      "score": 0.52
-    },
-    {
-      "id": "90b72064cb6908f7217d0effb8861bce551c1d18",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html",
-      "summary": "",
-      "published_at": "2026-09-07T15:01:20+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "543570cf1bca67148beb0327cc9782620f5bbf5f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Alibaba (BABA) Shares Decline Amid Macro and Competitive Headwinds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-shares-decline-amid-143524908.html",
-      "summary": "",
-      "published_at": "2026-09-07T14:35:24+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "BABA",
-          "name": "阿里巴巴",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.97
-    },
-    {
-      "id": "6fde2df9366789d1b8997373fa6d157e895488f3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy Now.",
-      "url": "https://www.fool.com/investing/2026/09/07/there-are-only-a-handful-of-nasdaq-100-stocks-that/?source=iedfolrf0000001",
-      "summary": "For my money, Mondelez is the best bet of the Nasdaq-100's high-yield names.",
-      "published_at": "2026-09-07T13:45:00+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "36413470d1c397d7e0ced0b3491d5ed648eb9138",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Salesforce's Massive AI Agent Labor Market Could Drive New Upside",
-      "url": "https://www.fool.com/investing/2026/09/07/salesforces-massive-ai-agent-labor-market-could-dr/?source=iedfolrf0000001",
-      "summary": "Salesforce is trying to turn AI from a software feature into billable digital labor. Here's the growth opportunity, the seat-model risk, and the economics that could decide what comes next.",
-      "published_at": "2026-09-07T13:37:17+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "f113d8ddb5dd2a241de75f3140333acf812292b2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Palantir Stock Could Make a Dramatic Move Over the Next Year (Hint: It Implies a Big Move)",
-      "url": "https://www.fool.com/investing/2026/09/07/palantir-stock-could-make-a-dramatic-move-over-the/?source=iedfolrf0000001",
-      "summary": "Palantir has seen a parabolic jump in its stock price following its earnings report, and it can sustain its impressive momentum in the coming year.",
-      "published_at": "2026-09-07T13:23:00+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "4fa2d211c5635392b2b194b23bf0c4bdd1aaeb1c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Not Nvidia, Not Micron. This Magnificent Warren Buffett Stock Could Be the Quiet Winner of the AI Arms Race -- Here's the Case.",
-      "url": "https://www.fool.com/investing/2026/09/07/not-nvidia-not-micron-this-magnificent-warren-buff/?source=iedfolrf0000001",
-      "summary": "Nvidia and Micron have become two darlings of the artificial intelligence revolution, but there are more attractive opportunities beyond semiconductors.",
-      "published_at": "2026-09-07T12:33:00+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "3c1f2c2337ac6fc749e560737e69eac898d9c676",
@@ -368,7 +216,7 @@
       "url": "https://www.cnbc.com/2026/09/07/ubs-federal-reserve-interest-rate-hike-investing.html",
       "summary": "A strong August jobs report boosted Fed rate-hike odds, bringing a range of trading opportunities across assets, says UBS.",
       "published_at": "2026-09-07T12:00:08+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -386,7 +234,7 @@
       "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
       "summary": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
       "published_at": "2026-09-07T10:37:16+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -404,7 +252,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3366611/chinas-brokers-expected-continue-robust-performance-blockbuster-ipo-offerings?utm_source=rss_feed",
       "summary": "Chinese brokers delivered strong profits in the first half of the year, driven by active trading in the A-share market that boosted brokerage revenues by over 50 per cent, while the blockbuster initial public offerings (IPOs) are expected to make underwriting and sponsorship business a key growth engine in the second half.\nThe industry also recorded a robust first-half performance, with 150 broker",
       "published_at": "2026-09-07T08:00:11+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -422,7 +270,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3366597/can-gold-hit-us5000-wall-street-turns-bullish-despite-us-job-growth-fuelling-rate-fears?utm_source=rss_feed",
       "summary": "Gold will probably test US$5,000 an ounce by the end of 2026, as demand from central banks diversifying their foreign reserves remains strong, countering fears of US monetary tightening after strong labour data and a hawkish tone from the Federal Reserve, according to investment banks.\nRBC Capital Markets is the latest to join the bullish camp, forecasting US$4,929 by year-end and US$5,296 in 2027",
       "published_at": "2026-09-07T06:00:29+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -430,6 +278,78 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.52
+    },
+    {
+      "id": "8b29a0a1f71a3ab007467a7f16ff9ee0a3f743de",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-unveils-gemini-3-8-140002406.html",
+      "summary": "",
+      "published_at": "2026-09-06T14:00:02+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "3998c09c79cab3f9b5fc88dad027ce1d1604d2fb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dear Adobe Stock Fans, Mark Your Calendars for September 10",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dear-adobe-stock-fans-mark-130002907.html",
+      "summary": "",
+      "published_at": "2026-09-06T13:00:02+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "02e15e5f750822ed61d9bc1b3dbfa737b3cc1070",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "SMCI Stock Is at a Crossroads. The Next Move Could Be Huge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-stock-crossroads-next-move-123012927.html",
+      "summary": "",
+      "published_at": "2026-09-06T12:30:12+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "SMCI",
+          "name": "超微",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "420d756601845dfcaeea3c7d4d49d9698434a759",
@@ -440,7 +360,7 @@
       "url": "https://www.scmp.com/business/article/3366386/which-overseas-property-markets-will-be-winners-and-losers-if-fed-raises-us-rates?utm_source=rss_feed",
       "summary": "Comments by US Federal Reserve chairman Kevin Warsh at its annual economic policy symposium in Jackson Hole last month have reinforced expectations of an impending interest rate rise in the world’s largest economy, which would have significant impacts on assets and investors around the world.\nWhile the Fed kept its target rate in the range of 3.5 to 3.75 per cent at its meeting in July, Warsh’s co",
       "published_at": "2026-09-06T08:00:08+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
+      "first_seen_at": "2026-09-07T21:41:52.056157+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -448,24 +368,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "6ddcd53527c478031b27f2b817bec746802e59db",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Markets",
-      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-      "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
-      "published_at": "2026-09-05T19:12:53+00:00",
-      "first_seen_at": "2026-09-07T18:07:03.716932+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     }
   ]
 }
