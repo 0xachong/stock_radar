@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T18:34:51.827504+00:00",
+  "generated_at": "2026-09-12T21:13:31.840648+00:00",
   "window_hours": 48,
-  "total_items": 28,
+  "total_items": 29,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 26,
+    "US": 27,
     "HK": 2
   },
   "category_stats": [
@@ -18,15 +18,15 @@
       "count": 4
     },
     {
-      "key": "guidance",
-      "count": 4
+      "key": "ma",
+      "count": 3
     },
     {
       "key": "capital",
       "count": 3
     },
     {
-      "key": "rating",
+      "key": "guidance",
       "count": 3
     },
     {
@@ -34,15 +34,23 @@
       "count": 3
     },
     {
-      "key": "ma",
+      "key": "rating",
       "count": 2
+    },
+    {
+      "key": "product",
+      "count": 1
+    },
+    {
+      "key": "ipo",
+      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 24
     },
     {
       "site_id": "hk_china",
@@ -52,15 +60,33 @@
   ],
   "items": [
     {
-      "id": "405c1f7ef9da6c70fe5f393de07b8048f1e72b11",
+      "id": "ba7264c7a79de000c265a672f20f675284337bcf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
+      "url": "https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/?source=iedfolrf0000001",
+      "summary": "SoundHound AI's stock has collapsed, but its expanding business and latest acquisition make the sell-off worth a closer look.",
+      "published_at": "2026-09-12T20:00:00+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.64
+    },
+    {
+      "id": "cb99f363eede6a0b239e806755e849049513169a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html",
+      "title": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-growth-stock-down-193500413.html",
       "summary": "",
-      "published_at": "2026-09-12T17:56:53+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "published_at": "2026-09-12T19:35:00+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,6 +94,53 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "d967aa5e61c3bd39b7749a5667b1132d5162a470",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Key deals this week: META, ADI, BSP, AAPL, and more",
+      "url": "https://seekingalpha.com/news/4642267-key-deals-this-week-meta-adi-bsp-aapl-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-09-12T19:15:50+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.95
+    },
+    {
+      "id": "41e9506f00c4da2cd372ff9da7540ee2d9969f0d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
+      "url": "https://www.fool.com/investing/2026/09/12/googles-historic-396-mw-clean-energy-deal-just-cha/?source=iedfolrf0000001",
+      "summary": "Recent IPO stock Fervo Energy is building on its partnership with Google with a massive power purchase agreement.",
+      "published_at": "2026-09-12T18:45:00+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
     },
     {
       "id": "09ba3c5308fa60e38e2e22a434e4590b0a20aab2",
@@ -78,7 +151,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/dividend-king-altria-raise-dividend-stock-buy/?source=iedfolrf0000001",
       "summary": "Altria has consistently paid and raised its annual dividend for decades.",
       "published_at": "2026-09-12T17:06:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,7 +169,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/this-5-8-yielding-dividend-stock-has-made-3-deals-including-nearly-usd3-2-billion-in-acquisitions-in-the-last-2-weeks-should-income-investors-be-worried-or-excited/?source=iedfolrf0000001",
       "summary": "Enbridge has been really busy lately.",
       "published_at": "2026-09-12T16:30:01+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -114,7 +187,7 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-09-12T16:24:45+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -132,7 +205,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-brand-problems-force-161627412.html",
       "summary": "",
       "published_at": "2026-09-12T16:16:27+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -150,7 +223,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/palantirs-growth-has-kept-accelerating-but-can-the/?source=iedfolrf0000001",
       "summary": "The AI data analytics giant could run up against a wall in the near future.",
       "published_at": "2026-09-12T15:35:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -174,7 +247,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/should-you-buy-archer-aviation-stock-while-its-bel/?source=iedfolrf0000001",
       "summary": "Down more than 60% from its 52-week high, is the eVOTL stock a buy now?",
       "published_at": "2026-09-12T15:25:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -192,7 +265,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/prediction-this-high-yield-dow-dividend-stock-will/?source=iedfolrf0000001",
       "summary": "McDonald's has increased its dividend for 49 consecutive years, and I believe it will raise it again in the fourth quarter, reaching 50 years.",
       "published_at": "2026-09-12T15:15:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -210,7 +283,7 @@
       "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
       "summary": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move.",
       "published_at": "2026-09-12T14:37:07+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -228,7 +301,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/greg-abel-is-betting-on-homebuilders-even-as-the-p/?source=iedfolrf0000001",
       "summary": "Greg Abel's acquisition of Taylor Morrison Home wasn't about market timing; it was about building a better business.",
       "published_at": "2026-09-12T14:15:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -236,30 +309,6 @@
       "tickers": [],
       "category": "ma",
       "score": 0.52
-    },
-    {
-      "id": "19500c5df984355564efe3242737667ed4753867",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Notable analyst calls this week: Lockheed Martin, Meta and Intel among top picks",
-      "url": "https://seekingalpha.com/news/4642209-notable-analyst-calls-this-week-lockheed-martin-meta-and-intel-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-09-12T14:05:21+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.97
     },
     {
       "id": "6a893cae807e0e071ba2103eede93b0fdf633011",
@@ -270,7 +319,7 @@
       "url": "https://www.fool.com/investing/2026/09/12/agentic-ai-stocks-own-before-ai-changes-world/?source=iedfolrf0000001",
       "summary": "Palantir, Salesforce, and Meta are three agentic AI stocks to own today.",
       "published_at": "2026-09-12T12:30:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -296,30 +345,6 @@
       "score": 1.0
     },
     {
-      "id": "2c02d933ba79c60cba08bdf4c0279adb26a21722",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
-      "url": "https://www.fool.com/investing/2026/09/12/amd-just-raised-the-top-of-the-company-s-2030-market-to-usd3-trillion/?source=iedfolrf0000001",
-      "summary": "The top of the chip designer's 2030 market forecast grew by as much as a trillion dollars in one conference appearance. How much of it was already in the stock price?",
-      "published_at": "2026-09-12T12:19:01+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 0.97
-    },
-    {
       "id": "dd0cd61fc979bcd737fc44aea9fbe9d8a1b608f6",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -328,7 +353,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367218/taobaos-ugly-goods-find-growing-market-among-chinas-young-consumers?utm_source=rss_feed",
       "summary": "Products widely considered “ugly” or “bizarre” have gone viral online in China as millions of young consumers embrace the items’ quirky humour and distinctive character.\nCumulative sales of such products on Taobao – an e-commerce platform of Alibaba Group Holding – have surpassed 230 million yuan (US$34.3 million) since 2020, when Taobao launched its so-called Uglies Award to celebrate creatively ",
       "published_at": "2026-09-12T01:00:09+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -352,7 +377,7 @@
       "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
       "published_at": "2026-09-11T23:54:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -370,7 +395,7 @@
       "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
       "summary": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks.",
       "published_at": "2026-09-11T22:35:09+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -388,7 +413,7 @@
       "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
       "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
       "published_at": "2026-09-11T21:16:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -412,7 +437,7 @@
       "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
       "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
       "published_at": "2026-09-11T20:45:00+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -430,7 +455,7 @@
       "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
       "summary": "Stocks rose Friday, with investors looking to recover from four straight days of declines, as oil prices retreated.",
       "published_at": "2026-09-11T20:35:11+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -448,7 +473,7 @@
       "url": "https://www.cnbc.com/2026/09/11/stock-market-next-week-outlook-for-sept-14-18-2026.html",
       "summary": "The latest inflation data failed to soothe fears that pricing pressures will be coming down anytime soon.",
       "published_at": "2026-09-11T20:09:05+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -466,7 +491,7 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
       "summary": "",
       "published_at": "2026-09-11T17:33:49+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -484,7 +509,7 @@
       "url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
       "summary": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
       "published_at": "2026-09-11T16:53:23+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -502,7 +527,7 @@
       "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
       "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
       "published_at": "2026-09-11T13:46:36+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -520,7 +545,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367220/chinas-young-investors-embrace-risk-so-why-are-their-portfolios-so-safe?utm_source=rss_feed",
       "summary": "Young Chinese investors may be just as willing to take risks as their global peers, but their portfolios remain more conservative against a backdrop of years of relative underperformance in China’s stock market, a prolonged property downturn and deflation, according to a senior researcher at the CFA Institute Research and Policy Centre.\nThe disconnect between their willingness to take risks and th",
       "published_at": "2026-09-11T10:05:57+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -538,7 +563,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367158/us-treasury-yield-hits-19-year-high-japanese-yen-strengthens-numbers-moving-markets?utm_source=rss_feed",
       "summary": "China’s buoyant stock market lifted brokers’ earnings in the first half, while Hong Kong saw continued growth in retirement assets. Beyond China, a strengthening yen and Washington’s Treasury buy-back programme highlighted shifting dynamics in global currency and bond markets.\nHere are some of the figures that have drawn the most market attention this week.\nChinese brokerage revenue jumps more tha",
       "published_at": "2026-09-11T07:00:05+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -556,7 +581,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367159/haidilaos-stock-rout-exposes-risk-beijings-taxation-crackdown-payment-day-looms?utm_source=rss_feed",
       "summary": "The turmoil surrounding Chinese hotpot chain restaurant operator Haidilao International Holding could serve as a warning to investors of the funding risks stemming from Beijing’s new taxation regime on overseas assets held by wealthy individuals.\nA plan by Shu Ping, the co-founder and wife of Haidilao chairman Zhang Yong, to sell 259 million shares – a 4.65 per cent stake – sent the stock plunging",
       "published_at": "2026-09-11T06:00:13+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -574,7 +599,7 @@
       "url": "https://www.scmp.com/business/article/3367086/hong-kong-home-prices-headed-15-gain-year-midland-forecast-says?utm_source=rss_feed",
       "summary": "Hong Kong’s home prices will end the year 15 per cent higher than a year earlier, but still 16 per cent below their high-water mark in 2021, according to local property agency Midland Realty.\nUnderpinning the positive forecast, the city’s banks were not likely to follow an increase in US interest rates by the Federal Reserve if one occurred this year, executives from the agency said at a press con",
       "published_at": "2026-09-10T23:00:09+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -592,7 +617,7 @@
       "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
       "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
       "published_at": "2026-09-10T21:42:47+00:00",
-      "first_seen_at": "2026-09-12T18:34:51.827504+00:00",
+      "first_seen_at": "2026-09-12T21:13:31.840648+00:00",
       "market": "US",
       "markets": [
         "US"
