@@ -1,40 +1,44 @@
 {
-  "generated_at": "2026-09-13T19:11:43.271579+00:00",
+  "generated_at": "2026-09-13T21:33:45.858204+00:00",
   "window_hours": 48,
-  "total_items": 32,
+  "total_items": 26,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 29,
+    "US": 23,
     "HK": 3
   },
   "category_stats": [
     {
       "key": "macro",
-      "count": 11
+      "count": 10
     },
     {
       "key": "company",
-      "count": 6
-    },
-    {
-      "key": "earnings",
-      "count": 5
-    },
-    {
-      "key": "rating",
-      "count": 4
-    },
-    {
-      "key": "capital",
-      "count": 3
-    },
-    {
-      "key": "ma",
-      "count": 2
+      "count": 7
     },
     {
       "key": "guidance",
+      "count": 2
+    },
+    {
+      "key": "earnings",
+      "count": 2
+    },
+    {
+      "key": "capital",
+      "count": 2
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "rating",
+      "count": 1
+    },
+    {
+      "key": "ma",
       "count": 1
     }
   ],
@@ -42,7 +46,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 27
+      "count": 21
     },
     {
       "site_id": "hk_china",
@@ -52,6 +56,150 @@
   ],
   "items": [
     {
+      "id": "8c642d1ef203a3349c7360a445c30712fa29115f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-09-13T20:44:54+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "7a42293c0cf14ba700c885060e60f3309085f3f4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
+      "summary": "",
+      "published_at": "2026-09-13T19:46:22+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.52
+    },
+    {
+      "id": "6781593db0b45bd4b8f06c027206b78b8916b40f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Trump presses Fed for lower rates ahead of policy meeting",
+      "url": "https://seekingalpha.com/news/4642308-trump-presses-fed-for-lower-rates-ahead-of-policy-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-09-13T19:45:42+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "77e6a1e7a52bfb0c1212e0d30d64bcd454b1023f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Fund manager's Fed interest rate outlook will frustrate consumers",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fund-managers-fed-interest-rate-193300301.html",
+      "summary": "",
+      "published_at": "2026-09-13T19:33:00+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "780838e7bc9918a115be95420e7eb9cac5262f7c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+      "summary": "",
+      "published_at": "2026-09-13T19:13:28+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "2df294f336c2dc9f29149bb7ebb266d66c80083d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "JPMorgan lowers Adobe stock price target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-adobe-stock-price-191300014.html",
+      "summary": "",
+      "published_at": "2026-09-13T19:13:00+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
+    },
+    {
+      "id": "81f5e2ff3592965613a24d200068bf347d7968fa",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
+      "summary": "",
+      "published_at": "2026-09-13T19:10:52+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
       "id": "546cc18a78ffc07f1326d3cf278ecde7129faff2",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -60,7 +208,7 @@
       "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
       "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
       "published_at": "2026-09-13T19:00:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -70,15 +218,15 @@
       "score": 0.76
     },
     {
-      "id": "ea599a722119eb7da1defdf81abb7c0b6c6877bf",
+      "id": "91bbc4637e1e28f95b9a4598b4201402a7ba1a30",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
       "title": "Most Investors Think Netflix (NFLX) Is Too Expensive. I Think They're Wrong.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/most-investors-think-netflix-nflx-183500889.html",
-      "summary": "",
-      "published_at": "2026-09-13T18:35:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "url": "https://www.fool.com/investing/2026/09/13/most-investors-think-netflix-nflx-is-too-expensive/?source=iedfolrf0000001",
+      "summary": "Past reputations can cloud investor judgments when analyzing a stock.",
+      "published_at": "2026-09-13T18:15:00+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -91,36 +239,18 @@
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
     },
     {
-      "id": "d84b0ff8dd6ef29a40fae7b25b4b53135c81abbd",
+      "id": "897fd951e998f3ecf3149fad81341bb854357834",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-09-13T18:05:37+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "1e64bf8d0ffabc80c2d7b93b95d9c97d71760d74",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
+      "source": "The Motley Fool",
       "title": "McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-yields-3-highest-over-180300081.html",
-      "summary": "",
-      "published_at": "2026-09-13T18:03:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "url": "https://www.fool.com/investing/2026/09/13/mcdonalds-yields-29-the-highest-in-over-6-years-is/?source=iedfolrf0000001",
+      "summary": "It's not hard to see why the rug got pulled out from underneath this dividend stock. Investors are just struggling to determine if it's a mistake that needs correcting.",
+      "published_at": "2026-09-13T17:43:00+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -128,24 +258,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.64
-    },
-    {
-      "id": "471bf4d94fd889dfa37ff54cf6c06a0e4b738627",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
-      "summary": "",
-      "published_at": "2026-09-13T18:00:24+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
     },
     {
       "id": "34c500e78c7bc8a782917b71a640bb9645e0fa76",
@@ -156,7 +268,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
       "summary": "",
       "published_at": "2026-09-13T16:59:17+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -180,7 +292,7 @@
       "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
       "summary": "We're looking forward to what promises to be a consequential Federal Reserve meeting and a slew of conferences.",
       "published_at": "2026-09-13T16:57:43+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -198,7 +310,7 @@
       "url": "https://www.fool.com/investing/2026/09/13/ackman-trimmed-this-big-tech-position-to/?source=iedfolrf0000001",
       "summary": "The famed fund manager lowered his position in Amazon and was buying shares of Microsoft and Meta Platforms.",
       "published_at": "2026-09-13T16:30:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -222,7 +334,7 @@
       "url": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
       "summary": "",
       "published_at": "2026-09-13T16:11:39+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -240,7 +352,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3563906",
       "summary": "",
       "published_at": "2026-09-13T16:05:11+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -258,7 +370,7 @@
       "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
       "published_at": "2026-09-13T15:00:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -276,7 +388,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3563894",
       "summary": "",
       "published_at": "2026-09-13T14:35:12+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -284,6 +396,24 @@
       "tickers": [],
       "category": "guidance",
       "score": 0.64
+    },
+    {
+      "id": "ffc2b2375d730d6d776bab79ebf97d44094bf6a6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "History Says September Is a Terrible Month for the S&P 500 Index and for Other Stocks. Here's Why I'm Still Investing Anyway.",
+      "url": "https://www.fool.com/investing/2026/09/13/history-says-september-is-a-terrible-month-for/?source=iedfolrf0000001",
+      "summary": "Septembers, on average, don't feature great stock market gains. But not every September is a dud.",
+      "published_at": "2026-09-13T13:35:00+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "3a8de105b402779cca25ca50a61f769a80903dfe",
@@ -294,7 +424,7 @@
       "url": "https://www.fool.com/investing/2026/09/13/google-bought-youtube-for-165-billion-in-2006-the/?source=iedfolrf0000001",
       "summary": "YouTube will likely go down as one of the greatest acquisitions of all time.",
       "published_at": "2026-09-13T13:20:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,24 +432,6 @@
       "tickers": [],
       "category": "ma",
       "score": 0.52
-    },
-    {
-      "id": "ea7a0c358188242fcae2a3190e0ada742df31ae5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is It Too Late to Buy Nvidia Stock?",
-      "url": "https://www.fool.com/investing/2026/09/13/is-it-too-late-to-buy-nvidia-stock/?source=iedfolrf0000001",
-      "summary": "Revenue doubled in the latest quarter, and shares sit about 5% from their high. But today's price asks surprisingly little of the next three years.",
-      "published_at": "2026-09-13T12:41:01+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "1cafabda031c3165059de93cdaffff6fa5aecb21",
@@ -330,7 +442,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3563879",
       "summary": "",
       "published_at": "2026-09-13T12:37:03+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -348,7 +460,7 @@
       "url": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
       "summary": "Chinese stocks' earnings tracked by Goldman Sachs grew at their highest quarterly pace in five years.",
       "published_at": "2026-09-13T11:54:40+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -366,7 +478,7 @@
       "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
       "summary": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
       "published_at": "2026-09-13T11:53:35+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -384,7 +496,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3563869",
       "summary": "",
       "published_at": "2026-09-13T11:35:13+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -392,208 +504,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "aecddc7393ff681b155f54ba8ce6d627383a4e5a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Salesforce Spent a Record $27.1 Billion on Buybacks in One Quarter. Here Is Why That Signal Matters.",
-      "url": "https://www.fool.com/investing/2026/09/13/salesforce-spent-a-record-271-billion-on-buybacks/?source=iedfolrf0000001",
-      "summary": "Salesforce's aggressive buyback strategy has been vindicated.",
-      "published_at": "2026-09-13T11:15:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "capital",
-      "score": 0.97
-    },
-    {
-      "id": "aa3f4bbeea357839ffb8fa96f690372e02020cd4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Got $1,000? An Investment in SpaceX Could Be Worth This Much by the End of 2027.",
-      "url": "https://www.fool.com/investing/2026/09/13/got-1000-an-investment-in-spacex-could-be-worth-th/?source=iedfolrf0000001",
-      "summary": "SpaceX has a wide range of price targets from Wall Street analysts.",
-      "published_at": "2026-09-13T11:05:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "cfcb1fd56dd786b876f04782a9af37079486fbfa",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
-      "url": "https://www.fool.com/investing/2026/09/13/wall-street-analyst-upside-ai-chip-stocks/?source=iedfolrf0000001",
-      "summary": "Piper Sandler initiated coverage of Nvidia, Broadcom, AMD, Arm, and Marvell, all with \"overweight\" ratings.",
-      "published_at": "2026-09-13T09:45:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        },
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        },
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "f09436873dd651d5b771ca5412ccc0ef10972824",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn’t Paying Attention",
-      "url": "https://www.fool.com/investing/2026/09/12/the-ai-infrastructure-stock-that-could-make-investors-millionaires-is-hiding-in-plain-sight-and-wall-street-isn-t-paying-attention/?source=iedfolrf0000001",
-      "summary": "Incredible demand for AI chips is accelerating Broadcom's growth, making the stock a no-brainer buy.",
-      "published_at": "2026-09-12T21:30:01+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "6b8ebae8f1f13254eec241fb8a0d7f1f7ee5bc22",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Adobe: After Lifting Guidance, Is the Beaten-Down Stock Ready to Break Out?",
-      "url": "https://www.fool.com/investing/2026/09/12/adobe-after-lifting-guidance-is-the-beaten-down-st/?source=iedfolrf0000001",
-      "summary": "Adobe continues to deliver consistent revenue growth.",
-      "published_at": "2026-09-12T21:15:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "9d74856da02760f657b4f1c3ef12c689bd837f26",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-      "url": "https://www.fool.com/investing/2026/09/12/nvidia-vs-amd-elon-musk-picked-a-side-on-the-space/?source=iedfolrf0000001",
-      "summary": "Elon Musk recently praised a specific GPU stock during SpaceX's earnings call.",
-      "published_at": "2026-09-12T21:00:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "ba7264c7a79de000c265a672f20f675284337bcf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
-      "url": "https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/?source=iedfolrf0000001",
-      "summary": "SoundHound AI's stock has collapsed, but its expanding business and latest acquisition make the sell-off worth a closer look.",
-      "published_at": "2026-09-12T20:00:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.64
-    },
-    {
-      "id": "32ec489ab020177c421e97de5ff50f28e5d5fb21",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
-      "url": "https://www.fool.com/investing/2026/09/12/1-growth-stock-down-55-buy-right-now-wall-street/?source=iedfolrf0000001",
-      "summary": "Artificial intelligence is making cybersecurity more important than it has ever been.",
-      "published_at": "2026-09-12T19:15:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "1a9d144b30c11e7338ec990ceab12467eb1b9bf3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Palantir's Growth Has Kept Accelerating, but Can the Rally Continue?",
-      "url": "https://www.fool.com/investing/2026/09/12/palantirs-growth-has-kept-accelerating-but-can-the/?source=iedfolrf0000001",
-      "summary": "The AI data analytics giant could run up against a wall in the near future.",
-      "published_at": "2026-09-12T15:35:00+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 0.85
     },
     {
       "id": "ad7ffd505eed22bc40f94e8e1a6fc9ca4ae17d30",
@@ -604,7 +514,7 @@
       "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
       "summary": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move.",
       "published_at": "2026-09-12T14:37:07+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -622,7 +532,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367218/taobaos-ugly-goods-find-growing-market-among-chinas-young-consumers?utm_source=rss_feed",
       "summary": "Products widely considered “ugly” or “bizarre” have gone viral online in China as millions of young consumers embrace the items’ quirky humour and distinctive character.\nCumulative sales of such products on Taobao – an e-commerce platform of Alibaba Group Holding – have surpassed 230 million yuan (US$34.3 million) since 2020, when Taobao launched its so-called Uglies Award to celebrate creatively ",
       "published_at": "2026-09-12T01:00:09+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -646,7 +556,7 @@
       "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
       "summary": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks.",
       "published_at": "2026-09-11T22:35:09+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
+      "first_seen_at": "2026-09-13T21:33:45.858204+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -654,42 +564,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "ba9c69bc1674e3ec435850e17465cf1717af7bda",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates",
-      "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
-      "summary": "Stocks rose Friday, with investors looking to recover from four straight days of declines, as oil prices retreated.",
-      "published_at": "2026-09-11T20:35:11+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "b89545ec47242bd8fe0f36506e6f8740d77cc788",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "A Fed hike next week seems certain after the latest inflation data. Here's what's ahead",
-      "url": "https://www.cnbc.com/2026/09/11/stock-market-next-week-outlook-for-sept-14-18-2026.html",
-      "summary": "The latest inflation data failed to soothe fears that pricing pressures will be coming down anytime soon.",
-      "published_at": "2026-09-11T20:09:05+00:00",
-      "first_seen_at": "2026-09-13T19:11:43.271579+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
