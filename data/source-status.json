@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T17:28:37.121087+00:00",
+  "generated_at": "2026-09-15T20:24:05.757214+00:00",
   "sites": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "status": "error",
-      "count": 31,
+      "count": 24,
       "errors": [
         "Nasdaq Stocks: HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=20)"
       ]
@@ -13,15 +13,13 @@
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "status": "error",
-      "count": 5,
-      "errors": [
-        "SCMP Companies: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-      ]
+      "status": "ok",
+      "count": 6,
+      "errors": []
     }
   ],
-  "successful_sites": 0,
-  "failed_sites": 2,
-  "fetched_raw_items": 277,
-  "items_in_window": 35
+  "successful_sites": 1,
+  "failed_sites": 1,
+  "fetched_raw_items": 327,
+  "items_in_window": 30
 }
