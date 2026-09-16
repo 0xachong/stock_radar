@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-16T01:31:28.131213+00:00",
+  "generated_at": "2026-09-16T07:15:33.474430+00:00",
   "window_hours": 48,
-  "total_items": 27,
+  "total_items": 30,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20,
-    "HK": 7
+    "HK": 6,
+    "US": 25
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 16
     },
     {
       "key": "macro",
-      "count": 7
+      "count": 5
+    },
+    {
+      "key": "earnings",
+      "count": 2
     },
     {
       "key": "capital",
-      "count": 4
-    },
-    {
-      "key": "ipo",
-      "count": 3
+      "count": 2
     },
     {
       "key": "rating",
       "count": 2
     },
     {
-      "key": "earnings",
-      "count": 1
+      "key": "ipo",
+      "count": 2
     },
     {
       "key": "guidance",
@@ -42,122 +42,290 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 24
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "e162ae12d650e76b434fe01aac43bc7388f8ef57",
+      "id": "9ef030e7af79d57aea25ee6e1980b986d828e07d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 大唐黄金(08299)涨近6% 美联储加息或被视为短期利空落地 公司AI探矿技术进入实用验证阶段",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3568855",
+      "summary": "",
+      "published_at": "2026-09-16T07:05:14+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.8
+    },
+    {
+      "id": "60cb7fcd2c262f41eb8c5cc4ed5d6d8ab9539164",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 中广核矿业(01164)午后涨超6% 挪威计划重启核电建设 公司有望受益天然铀价格上行",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3568853",
+      "summary": "",
+      "published_at": "2026-09-16T07:05:13+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "f6a80716621fc34096b72d396af152dee5145f75",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 稀美资源(09936)午后涨超10% 刚果钽供给冲击仍在影响产业链 公司中期业绩创上市新高",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3568852",
+      "summary": "",
+      "published_at": "2026-09-16T07:05:12+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.8
+    },
+    {
+      "id": "2abe834f30cbede98c63775e01ae1d336a5797af",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stock futures are little changed ahead of pivotal Fed rate decision: Live updates",
-      "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
-      "summary": "Traders brace for the possibility of a new rate hiking cycle from the Federal Reserve.",
-      "published_at": "2026-09-16T01:26:19+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "source": "The Motley Fool",
+      "title": "Elon Musk Promised \"Over a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
+      "url": "https://www.fool.com/investing/2026/09/16/elon-musk-promised-over-a-million-robotaxis-by-202/?source=iedfolrf0000001",
+      "summary": "Tesla investors are putting a lot of stake in Musk's bold predictions.",
+      "published_at": "2026-09-16T06:37:00+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "capital",
+      "score": 0.85
+    },
+    {
+      "id": "7336bc98f7a60f1dab9909103ea5e352e750bbab",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Michael Burry Just Said 7 Words Dismissing AI After Slowdown Fears: \"There Is Nothing AI to Slow Down.\" Should Investors Trust His Nvidia and Palantir Shorts?",
+      "url": "https://www.fool.com/investing/2026/09/16/michael-burry-just-said-7-words-dismissing-ai-afte/?source=iedfolrf0000001",
+      "summary": "Burry made a fortune by shorting the mortgage bond market ahead of the financial crisis.",
+      "published_at": "2026-09-16T05:35:00+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "11187d119a76cce256f2390cf41139b723cd23da",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Investors prepare for ‘super-central-bank week’ as US rate increase appears done deal",
+      "url": "https://www.scmp.com/business/china-business/article/3367670/investors-prepare-super-central-bank-week-us-rate-increase-appears-done-deal?utm_source=rss_feed",
+      "summary": "With a US interest rate increase almost a done deal, investors are now trying to figure out whether it would be a one-off move or the start of a fresh tightening cycle, while also bracing for a borrowing-cost increase in Japan, which is highly likely and may jolt capital flows.\nAs the odds of a 25 basis-point rate increase at the US Federal Reserve’s policy meeting on Thursday have risen to 92 per",
+      "published_at": "2026-09-16T04:48:21+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.64
+      "score": 0.52
     },
     {
-      "id": "f9e873ec3c48af74785e2091cd0db8e012ad574f",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "国际商业结算(00147)存仓市值总计2.76亿港元 股东将10.03亿股股票存入黄河证券",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3568441",
-      "summary": "",
-      "published_at": "2026-09-16T01:05:15+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "HK",
+      "id": "db9d7474e98c8719f7f3ee7223f7abe4b8ef7b83",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "3 High-Yield Financial Stocks to Buy for Income That Doesn't Depend on Rate Cuts",
+      "url": "https://www.fool.com/investing/2026/09/15/3-high-yield-financial-stocks-to-buy-for-income-th/?source=iedfolrf0000001",
+      "summary": "Inflation is running hot, and rates look more likely to rise than fall, but these high-yielders shouldn't skip a beat on the dividend front.",
+      "published_at": "2026-09-16T03:15:00+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "capital",
-      "score": 0.64
+      "score": 0.61
     },
     {
-      "id": "cebf8e97f7f8285f25fc58692502a7bcb56cbcb7",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "金斯瑞生物科技(01548)存仓市值总计26.24亿港元 股东将3931.24万股股票存入花旗银行",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3568442",
-      "summary": "",
-      "published_at": "2026-09-16T01:05:15+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "HK",
+      "id": "6629aaaa4ed10bf8f4aa974c64ac92ac382b7f19",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Should You Buy Bloom Energy Stock Before It Joins the S&P 500 on Sept. 21?",
+      "url": "https://www.fool.com/investing/2026/09/15/should-you-buy-bloom-energy-stock-before-it-joins-the-s-and-p-500-on-sept-21/?source=iedfolrf0000001",
+      "summary": "Index funds are about to become buyers, whether they like the price or not. Should you get there first?",
+      "published_at": "2026-09-16T02:26:01+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
       "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "439d47c1502cb2fefcb72928eb7db81d6d031de8",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "智通港股通占比异动统计|9月16日",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3568439",
-      "summary": "",
-      "published_at": "2026-09-16T01:05:14+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "company",
       "score": 0.52
     },
     {
-      "id": "11926dada367a6599bfcd384c843fa0daefa559c",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "南方锰业(01091)存仓市值总计3.75亿港元 股东将9.87亿股股票存入信诚证券",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3568440",
-      "summary": "",
-      "published_at": "2026-09-16T01:05:14+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "HK",
+      "id": "15330dd1539aa31e5905e52dab17b76de55607e4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Down 40%, Is Grab Stock a Buy in September?",
+      "url": "https://www.fool.com/investing/2026/09/15/down-40-is-grab-stock-a-buy-in-september/?source=iedfolrf0000001",
+      "summary": "Higher oil prices are hurting Grab's business.",
+      "published_at": "2026-09-16T02:09:08+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
       "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "4295c700ce9d15a362b730311bdce2875ac6aba1",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "满地科技股份(01400)转仓市值总计435.91万港元 占比5.21% 从英皇证券香港转出1.00亿股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3568437",
-      "summary": "",
-      "published_at": "2026-09-16T01:05:13+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.64
+      "score": 0.52
+    },
+    {
+      "id": "0413ee9cb159295420cef0ba48bcc504084dfac5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Better Buy: Palantir Stock vs. Microsoft Stock",
+      "url": "https://www.fool.com/investing/2026/09/15/better-buy-palantir-stock-vs-microsoft-stock/?source=iedfolrf0000001",
+      "summary": "The rising effectiveness of artificial intelligence is creating an increasing demand for enterprise implementation.",
+      "published_at": "2026-09-16T02:04:54+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "567c789233e3df091cefdf70d3b4e005c7d6d8cb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+      "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+      "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+      "published_at": "2026-09-16T01:56:47+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "bf508a6932ebcf7a17afb67a5ee1c4674b7663aa",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+      "summary": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
+      "published_at": "2026-09-16T01:53:52+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02015",
+          "name": "理想汽车",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "e0ddfdf3bb01b0d0d93874f3a3df32dc31b59655",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "September Effect: 3 AI Stocks to Buy on a Potential Market Pullback",
+      "url": "https://www.fool.com/investing/2026/09/15/september-effect-3-ai-stocks-to-buy/?source=iedfolrf0000001",
+      "summary": "Palantir, Marvell, and Snowflake could be good buys on a pullback.",
+      "published_at": "2026-09-16T01:17:00+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "ead4b8ca4168f5a23db550b689f4bcf6cc66ffd4",
@@ -168,7 +336,7 @@
       "url": "https://www.fool.com/coverage/moneyball/2026/09/15/nordsons-2026-outlook-recurring-revenue-base-drives-sustained-long-term-profitability/?source=iedfolrf0000001",
       "summary": "This under-the-radar industrial technology stock boasts a Superscore of 76 from our Hidden Gems Primary database, part of The Motley Fool's Moneyball Database system. Here's why.",
       "published_at": "2026-09-15T23:35:01+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -186,7 +354,7 @@
       "url": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
       "summary": "A BofA analyst expects the semiconductor market to reach $3.2 trillion by the end of the decade, shrugging off fears of an AI slowdown.",
       "published_at": "2026-09-15T21:40:00+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -204,7 +372,7 @@
       "url": "https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html",
       "summary": "The data comes as the Federal Reserve is considering interest-rate increases that could slow economic growth.",
       "published_at": "2026-09-15T21:31:56+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -222,7 +390,7 @@
       "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "summary": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
       "published_at": "2026-09-15T21:15:00+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -240,85 +408,7 @@
       "url": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
       "summary": "There may be better savings yields, but beware rising credit-card rates",
       "published_at": "2026-09-15T20:47:00+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "bc8749bd1fa42d8433bd0d75db4a5254f4671b8e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Price of Bitcoin May Be Soaring, But a New Risk Has Emerged for Strategy. Here's What MSTR Investors Need to Know.",
-      "url": "https://www.fool.com/investing/2026/09/15/the-price-of-bitcoin-may-be-soaring-but-a-new-risk/?source=iedfolrf0000001",
-      "summary": "Strategy's preferred shares make it a messy investment.",
-      "published_at": "2026-09-15T20:30:00+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MSTR",
-          "name": "MicroStrategy",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.97
-    },
-    {
-      "id": "696b7f2031075563d83aab983e7230a8b4f19001",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Microsoft Pays Out More in Dividends Than It Spends Buying Back Stock. Here's What That Does for Investors.",
-      "url": "https://www.fool.com/investing/2026/09/15/microsoft-pays-out-more-in-dividends-than-it-spends-buying-back-stock-here-s-what-that-has-done-to-the-share-count/?source=iedfolrf0000001",
-      "summary": "The buyback is now the smaller half of the capital return -- and all that buying moved the share count just 0.1% last fiscal year.",
-      "published_at": "2026-09-15T20:23:01+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.61
-    },
-    {
-      "id": "fa2404d29710d679599c8c4bf811832faf9504b8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Resilient Artificial Intelligence (AI) Stocks That Did Well the Last Time the Fed Raised Interest Rates",
-      "url": "https://www.fool.com/investing/2026/09/15/3-resilient-artificial-intelligence-ai-stocks-that-did-well-the-last-time-the-fed-raised-interest-rates/?source=iedfolrf0000001",
-      "summary": "When the Fed last raised interest rates in July 2023, these stocks all soared more than 65% in the following 12 months.",
-      "published_at": "2026-09-15T19:51:37+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "ab0e80343fce9f32aca3183e5bbf8c4148af1c93",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Fed Chair Kevin Warsh Just Said the Quiet Part Out Loud About Inflation -- and History Says Investors Should Listen",
-      "url": "https://www.fool.com/investing/2026/09/15/fed-chair-kevin-warsh-just-said-the-quiet-part-out/?source=iedfolrf0000001",
-      "summary": "The Federal Reserve is probably on the verge of a new rate hike campaign.",
-      "published_at": "2026-09-15T18:47:00+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +426,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3367616/tighter-scrutiny-hong-kong-ipos-could-slow-deal-flow-analysts-say?utm_source=rss_feed",
       "summary": "Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts.\nIn an unusual move, the China Securities Regulatory Commission recently asked nine mainland companies, which had already been pre-approved for li",
       "published_at": "2026-09-15T13:00:06+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +444,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367545/unitrees-us30-billion-stock-wipe-spurs-regulatory-caution-humanoid-robot-ipos?utm_source=rss_feed",
       "summary": "A more than 40 per cent slump in Chinese humanoid robot maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirling that Beijing may tighten approval of the peer listings.\nThe regulators would heighten scrutiny over humanoid makers seeking initial public offerings (IPOs) on the mainland’s exchanges, according to media reports. The sustainability ",
       "published_at": "2026-09-15T06:02:12+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -362,6 +452,132 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "09ce3a08e8570f780d42b3139ec38a3f83c1a555",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-billion-users-wall-205947269.html",
+      "summary": "",
+      "published_at": "2026-09-14T20:59:47+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "1e17a21b583a7d101bcaea112820810ca772ac1b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-oracle-backlog-wall-203907436.html",
+      "summary": "",
+      "published_at": "2026-09-14T20:39:07+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ORCL",
+          "name": "甲骨文",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "23d8d6b9545c872f3eca33b95005f76142936226",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; Bessent Makes This Move On Iran (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-09-14T20:36:26+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "64f502d4281f8ded4b9285ac848a556b0fbc3345",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html",
+      "summary": "",
+      "published_at": "2026-09-14T20:35:05+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "aef427a58478826053f3c1d743f340841651c3de",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Bank of America leads financial services stocks lower on weak Wall Street fee forecast",
+      "url": "https://finance.yahoo.com/markets/article/bank-of-america-leads-financial-services-stocks-lower-on-weak-wall-street-fee-forecast-202601947.html",
+      "summary": "",
+      "published_at": "2026-09-14T20:26:01+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.52
+    },
+    {
+      "id": "cdb18c9fce38fd4165bce222ac480e709fcf2572",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "AMD Stock Leads Semiconductor Stocks Lower Amid AI Slowdown Debate",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-leads-semiconductor-stocks-195546281.html",
+      "summary": "",
+      "published_at": "2026-09-14T19:55:46+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
     },
     {
       "id": "7b9a1e3a97cbcb650324c96dd08a3d666e53adb9",
@@ -372,7 +588,7 @@
       "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
       "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
       "published_at": "2026-09-14T19:47:42+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -382,15 +598,39 @@
       "score": 0.64
     },
     {
-      "id": "ffc1489f0d4ead73c0901141339fc0b6ad5313bd",
+      "id": "80fcecf9f75fbacb3155545423c794a2a2ed61c1",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is Devon Energy Stock Outperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-stock-outperforming-p-142950910.html",
+      "title": "CIBC (CM) Sees Expansion of Actively Managed ETF Lineup Through Asset Management Arm",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cibc-cm-sees-expansion-actively-192751604.html",
       "summary": "",
-      "published_at": "2026-09-14T14:29:50+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "published_at": "2026-09-14T19:27:51+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "c49b2d0e27b8bb1df84da0110673e4033950f4c1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "CRWV Stock Alert: Why CoreWeave May Have the Most to Lose From an AI Slowdown",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crwv-stock-alert-why-coreweave-190814171.html",
+      "summary": "",
+      "published_at": "2026-09-14T19:08:14+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -400,69 +640,15 @@
       "score": 0.52
     },
     {
-      "id": "27d71f0b048d420780ea85e374454b045210d3a4",
+      "id": "d2d22ad654d51290f54e245fb1f970f7832e736c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall on AI warning",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
       "summary": "",
-      "published_at": "2026-09-14T14:26:43+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.52
-    },
-    {
-      "id": "82ef335b29c9efc86415f535208d0c5dcc131ef7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley Doubles Down on Apple Stock as New Offerings Become ‘More Exciting’",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-apple-142423562.html",
-      "summary": "",
-      "published_at": "2026-09-14T14:24:23+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "b47a838dfdf2ce84be01ced207220ba49c9ba90c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-ai-slowdown-fears-141007739.html",
-      "summary": "",
-      "published_at": "2026-09-14T14:10:07+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "160b6bb7336b377370004b1bc03870f2be7145e5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Mettler-Toledo Stock Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mettler-toledo-stock-underperforming-nasdaq-140221943.html",
-      "summary": "",
-      "published_at": "2026-09-14T14:02:21+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
+      "published_at": "2026-09-14T08:05:59+00:00",
+      "first_seen_at": "2026-09-16T07:15:33.474430+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -470,78 +656,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "c9fd218c006eaf5f0414bdafb67b3071fa22cdfc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is CDW Corporation Stock Underperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-underperforming-p-134157757.html",
-      "summary": "",
-      "published_at": "2026-09-14T13:41:57+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "affd0a8e07547d6ac8be14ad34acb3a893391a76",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls as 10Y Treasury yield hits highest since 2023ising oil, AI tensions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
-      "summary": "",
-      "published_at": "2026-09-14T13:38:32+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "91ce73cc8f84595c767b31edc66789518eabaee8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Nasdaq Tumbles Following Calls for AI Development Slowdown",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/nasdaq-tumbles-following-calls-for-ai-development-slowdown-d2hkhRBurMJaL3JSqQbq?siteid=yhoof2&yptr=yahoo",
-      "summary": "",
-      "published_at": "2026-09-14T13:31:29+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "8b38153ba1540e7d0b55f7e04bcc69c34b01d7eb",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Cosco Shipping arm readies China IPO to capitalise on global shipbuilding wave",
-      "url": "https://www.scmp.com/economy/article/3367409/cosco-shipping-arm-readies-china-ipo-capitalise-global-shipbuilding-wave?utm_source=rss_feed",
-      "summary": "The shipbuilding and maintenance arm of state-owned marine transport giant China Cosco Shipping has completed initial public offering (IPO) guidance registration, paving the way for a domestic listing to capitalise on a global shipbuilding boom.\nCosco Shipping Heavy Industry finished its pre-IPO registration and preparations, according to information released on the China Securities Regulatory Com",
-      "published_at": "2026-09-14T07:00:08+00:00",
-      "first_seen_at": "2026-09-16T01:31:28.131213+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.61
     }
   ]
 }
