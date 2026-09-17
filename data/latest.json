@@ -1,28 +1,24 @@
 {
-  "generated_at": "2026-09-17T01:35:44.555142+00:00",
+  "generated_at": "2026-09-17T07:10:56.534485+00:00",
   "window_hours": 48,
-  "total_items": 48,
+  "total_items": 39,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 43,
-    "HK": 5
+    "US": 36,
+    "HK": 3
   },
   "category_stats": [
     {
       "key": "macro",
-      "count": 25
+      "count": 21
     },
     {
       "key": "company",
-      "count": 9
+      "count": 7
     },
     {
-      "key": "earnings",
-      "count": 4
-    },
-    {
-      "key": "capital",
+      "key": "guidance",
       "count": 3
     },
     {
@@ -30,19 +26,23 @@
       "count": 3
     },
     {
-      "key": "guidance",
+      "key": "earnings",
       "count": 2
     },
     {
       "key": "ipo",
       "count": 2
+    },
+    {
+      "key": "capital",
+      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 37
+      "count": 28
     },
     {
       "site_id": "hk_china",
@@ -52,33 +52,15 @@
   ],
   "items": [
     {
-      "id": "e955d3d828639cf125d5af092157ddba3a7dd728",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Gold rebounds after Fed rate rise as banks back long-term demand outlook",
-      "url": "https://www.scmp.com/business/commodities/article/3367788/gold-rebounds-after-fed-rate-rise-banks-back-long-term-demand-outlook?utm_source=rss_feed",
-      "summary": "Gold prices bounced back after the US Federal Reserve’s interest rate increase, as analysts and investment banks maintained a positive long-term outlook for the metal, citing structural challenges facing the world’s largest economy.\nSpot gold traded at US$4,288 an ounce on Thursday morning in Asia, after diving as much as 2.7 per cent to US$4,234 at 3am in Hong Kong on Thursday.\nThe US central ban",
-      "published_at": "2026-09-17T01:08:08+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "766e3902df381c4e982b8473fe5034a65a6a69c2",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "500亿目标惨淡落空，赛富时(CRM.US)再画630亿美元“大饼”，能否让华尔街相信“AI 取代论”被夸大",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3570645",
+      "id": "ba09b8092de5069443e5350f90d3c6975ab74bff",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Salesforce expects $63B in revenue by 2030 as AI drives growth",
+      "url": "https://seekingalpha.com/news/4643639-salesforce-expects-63b-in-revenue-by-2030-as-ai-drives-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
-      "published_at": "2026-09-17T01:06:07+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-17T07:06:00+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -90,79 +72,169 @@
           "market": "US"
         }
       ],
-      "category": "company",
-      "score": 1.0
+      "category": "earnings",
+      "score": 0.97
     },
     {
-      "id": "93666a6b7188ccb7d98d338a303f324140e482c5",
+      "id": "32f5b6e466ddd1f34c1fd22a04f2f4c18c9c7894",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "中加国信(00899)存仓市值总计563.87万港元 股东将2967.73万股股票存入元库证券",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3570644",
+      "title": "美联储“鹰派加息”冲击波：强美元、高油价、高利率“三重绞杀”，亚洲汇市再临资本外流风暴",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3570825",
       "summary": "",
-      "published_at": "2026-09-17T01:05:16+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "f173bda182b5a74700a89d91fe694769eaf83edb",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "珩湾科技(01523)存仓市值总计7.15亿港元 股东将9900万股股票存入星展银行香港",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3570642",
-      "summary": "",
-      "published_at": "2026-09-17T01:05:15+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "634d1a86fccad4a428e72fd1af874781d47ccf82",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "华商能源(00206)转仓市值总计3886.79万港元 占比5.76% 从摩根士丹利香港证券转出1.86亿股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3570643",
-      "summary": "",
-      "published_at": "2026-09-17T01:05:15+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "8b837b3a406aa9573b9976c8b36174dece257a83",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
-      "summary": "In a widely anticipated move, the Fed raised the overnight funds rate by a quarter percentage point and signaled another hike could come this year.",
-      "published_at": "2026-09-17T00:12:57+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-17T06:52:53+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "97f1a3b7bbbfa7daff2f20d87819319551944396",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美联储再度加息，AI精选保险股逆势飘红",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3570746",
+      "summary": "",
+      "published_at": "2026-09-17T06:48:21+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.76
+    },
+    {
+      "id": "82745d0bab7ac848c7ceabddcb0d2dca0d67efbe",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 海光芯正(01191)涨超10% 近期在光博会展出全栈自研硅光1.6T光模块和6.4T NPO",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3570991",
+      "summary": "",
+      "published_at": "2026-09-17T06:35:15+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "f644e9aa29444f2d6d88e104dbb9738165fd1a9e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
+      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "summary": "The Bank of England is expected to keep rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs keep pressure on prices.",
+      "published_at": "2026-09-17T05:20:23+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "58f8822bca3bfdf05db4a0a805782bf028f9cc98",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
+      "url": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+      "summary": "Higher U.S. rates could also keep global bond yields elevated and weigh on equity valuations and economic growth.",
+      "published_at": "2026-09-17T05:03:07+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "0111981e43d0e3e5bbf38efd09a4fb7f8cc66c1d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off",
+      "url": "https://www.scmp.com/business/banking-finance/article/3367810/hong-kong-support-rocket-satellite-ipos-spacex-led-sector-takes?utm_source=rss_feed",
+      "summary": "Hong Kong aims to adjust listing rules to grab a share of initial public offerings (IPOs) by mainland China’s space companies as activity in the sector increases in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX.\nThat could lead to more head-to-head competition between the Hong Kong stock exchange and the Shanghai S",
+      "published_at": "2026-09-17T05:00:07+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "29972a0829c8c3239eac1595af28d7aa3c3ba2a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
+      "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+      "summary": "Two of Walter's insurance companies faces federal criminal and civil investigations into the accounting of roughly $21 billion in financial transactions.",
+      "published_at": "2026-09-17T03:35:26+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
+    },
+    {
+      "id": "3ee7c89eaa2fcb3f7eacf8a80102c4e64d78eed0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Hong Kong stocks decline after Fed raises interest rates and signals more to come",
+      "url": "https://www.scmp.com/business/china-business/article/3367790/hong-kong-stocks-decline-after-fed-raises-interest-rates-and-signals-more-come?utm_source=rss_feed",
+      "summary": "Stocks in Hong Kong and mainland China fell on Thursday, after the US Federal Reserve raised interest rates for the first time in three years and signalled that further tightening remained on the table.\nThe benchmark Hang Seng Index fell 1 per cent to 24,470.74 as of 10.37am local time. The Hang Seng Tech Index lost 1.3 per cent. Rate-sensitive stocks such as property developers and gold producers",
+      "published_at": "2026-09-17T01:47:08+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "e955d3d828639cf125d5af092157ddba3a7dd728",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Gold rebounds after Fed rate rise as banks back long-term demand outlook",
+      "url": "https://www.scmp.com/business/commodities/article/3367788/gold-rebounds-after-fed-rate-rise-banks-back-long-term-demand-outlook?utm_source=rss_feed",
+      "summary": "Gold prices bounced back after the US Federal Reserve’s interest rate increase, as analysts and investment banks maintained a positive long-term outlook for the metal, citing structural challenges facing the world’s largest economy.\nSpot gold traded at US$4,288 an ounce on Thursday morning in Asia, after diving as much as 2.7 per cent to US$4,234 at 3am in Hong Kong on Thursday.\nThe US central ban",
+      "published_at": "2026-09-17T01:08:08+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
       "score": 0.76
     },
     {
@@ -174,25 +246,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367781/us-rate-increase-should-only-have-short-term-impact-hong-kong-stocks-cicc?utm_source=rss_feed",
       "summary": "Hong Kong stocks could face greater volatility from renewed US monetary tightening, but the impact should be short-lived unless the Federal Reserve embarks on a sustained rate-increase cycle, according to China International Capital Corporation (CICC).\nThe Fed rate increase would not necessarily spell losses for Hong Kong stocks, as monetary conditions were only one of several factors driving the ",
       "published_at": "2026-09-17T00:00:20+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "76cff2f124bc719d475adae9e5e0f030ed4a3d74",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "These 2 Words From Fed Chair Kevin Warsh Sunk the Dow, S&P 500, and Nasdaq, and Put Wall Street on Notice",
-      "url": "https://www.fool.com/investing/2026/09/16/these-2-words-from-fed-chair-kevin-warsh-sunk-dow-sp500-nasdaq-put-wall-street-on-notice/?source=iedfolrf0000001",
-      "summary": "The battle against persistently elevated inflation is just getting started.",
-      "published_at": "2026-09-16T23:51:01+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -210,7 +264,7 @@
       "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
       "summary": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
       "published_at": "2026-09-16T23:45:02+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -220,15 +274,15 @@
       "score": 0.52
     },
     {
-      "id": "569401181346fa131ff8ebb72b10d5f31ba055c9",
+      "id": "f699c2cfe31443499fd831d1c692127e95c13574",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "SCMP Business",
-      "title": "HKMA raises base rate by a quarter point to 4.25%, the first increase since 2023",
+      "title": "Hong Kong dollar may weaken after rate rise, but bad-debt risks remain low: HKMA",
       "url": "https://www.scmp.com/business/banking-finance/article/3367783/hkma-raises-base-rate-quarter-point-425-first-increase-2023?utm_source=rss_feed",
-      "summary": "Hong Kong’s de facto central bank increased its base rate by a quarter of a percentage point on Thursday after the US Federal Reserve raised its target range for the federal funds rate to tackle inflation amid conflict in the Middle East.\nThe Hong Kong Monetary Authority (HKMA) raised the city’s base rate to 4.25 per cent, hours after the Fed lifted the target range to between 3.75 per cent and 4 ",
+      "summary": "The Hong Kong dollar may come under pressure against the US dollar after the first interest rate rise in three years, but the city does not face a heightened bad-debt risk despite higher borrowing costs, according to the head of the de facto central bank.\nHong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man said the US Federal Reserve’s rate rise on Thursday would widen the gap be",
       "published_at": "2026-09-16T23:03:43+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -246,7 +300,7 @@
       "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
       "summary": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
       "published_at": "2026-09-16T22:25:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -264,61 +318,7 @@
       "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
       "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
       "published_at": "2026-09-16T22:16:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "859baffc1466541bba5b149246c78c778c20d6cf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why J.B. Hunt Stock Dropped Today",
-      "url": "https://www.fool.com/investing/2026/09/16/why-jb-hunt-stock-dropped-today/?source=iedfolrf0000001",
-      "summary": "J.B. Hunt shares dropped more than 13% after CFO Brad Delco told a Morgan Stanley investor conference that Q3 earnings would fall 5% to 10% from Q2.",
-      "published_at": "2026-09-16T22:13:44+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "d9ed287345f4e7e50d9fddde4391aa423240f7e0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Agilysys's 2026 Outlook: Subscription Revenue Expansion Drives High-Margin Software Growth",
-      "url": "https://www.fool.com/coverage/moneyball/2026/09/16/agilysyss-2026-outlook-subscription-revenue-expansion-drives-high-margin-software-growth/?source=iedfolrf0000001",
-      "summary": "This under-the-radar hospitality software stock boasts a Superscore of 84 from our Hidden Gems Primary database, part of The Motley Fool's Moneyball Database system. Here's why.",
-      "published_at": "2026-09-16T21:54:35+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "4717a32565729ef3060b013c0d6a864f7c40aec3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
-      "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
-      "summary": "The Federal Reserve unanimously raised interest rates by a quarter point despite repeated calls from President Donald Trump for lower rates.",
-      "published_at": "2026-09-16T21:50:48+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +336,7 @@
       "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
       "summary": "Fed Chair Kevin Warsh has sent investors a message: When it comes to tamping down inflation, he means business.",
       "published_at": "2026-09-16T21:40:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -346,75 +346,21 @@
       "score": 0.76
     },
     {
-      "id": "422cf2a4959f9a0c1561c114be27dce174a57062",
+      "id": "45fcdd2061bacd334c12873df7feb326ff103182",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Fed Voted 12-0 to Raise Interest Rates for the First Time in 3 Years. Here’s How a 3.75%-4% Fed Funds Rate Impacts Housing Stocks.",
-      "url": "https://www.fool.com/investing/2026/09/16/the-fed-voted-12-0-to-raise-interest-rates-for-the-first-time-in-3-years-heres-how-a-375-4-fed-funds-rate-impacts-housing-stocks/?source=iedfolrf0000001",
-      "summary": "Not only did the Federal Open Market Committee raise interest rates, but most committee members expect another hike this year.",
-      "published_at": "2026-09-16T21:25:01+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "source": "CNBC Top News",
+      "title": "Investors react to Fed hike and market sell-off: Brace for 'higher for longer' rates",
+      "url": "https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html",
+      "summary": "The 12-0 decision to raise rates Wednesday signaled to investors that the Fed is now in complete alignment in tackling inflation.",
+      "published_at": "2026-09-16T21:22:49+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "a0fe0188cb05ffd365645f8a2bd17a066381b9d3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Fed Hiked Interest Rates for the First Time in 3 Years. Are AI Stocks in Trouble?",
-      "url": "https://www.fool.com/investing/2026/09/16/the-fed-hiked-interest-rates-for-the-first-time-in-3-years-are-ai-stocks-in-trouble/?source=iedfolrf0000001",
-      "summary": "Capital costs could rise alongside rising interest rates.",
-      "published_at": "2026-09-16T21:24:42+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "4bd7327e218e350a51e6fe2ea899f3874bfaa652",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, Sept. 16: Stocks Slip as Fed Raises Rates",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/16/stock-market-today-sept-16-stocks-slip-as-fed-raises-rates/?source=iedfolrf0000001",
-      "summary": "Not only did the central bank increase interest rates, but there's also now a higher probability of another hike in October, today, Sept. 16, 2026.",
-      "published_at": "2026-09-16T21:15:59+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "1816e8ce5676fea49fc8c3ab76a96203a69b2393",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Beaten-Down Stocks With Massive Upside Potential",
-      "url": "https://www.fool.com/investing/2026/09/16/2-beaten-down-stocks-with-massive-upside-potential/?source=iedfolrf0000001",
-      "summary": "These companies have a healthy amount of risk, but the potential long-term gains might be worth it.",
-      "published_at": "2026-09-16T21:00:01+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
       "score": 0.52
     },
     {
@@ -426,7 +372,7 @@
       "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
       "summary": "Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.",
       "published_at": "2026-09-16T20:52:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -444,25 +390,7 @@
       "url": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
       "summary": "But watch out for the pitfalls.",
       "published_at": "2026-09-16T20:38:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "d11c4f2adcc312ba441f8d04d9a623226c5bb03c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Federal Reserve Raises Interest Rates for the First Time in 3 Years. Here's What Investors Need to Know.",
-      "url": "https://www.fool.com/investing/2026/09/16/the-federal-reserve-raises-interest-rates-for-the-first-time-in-3-years-heres-what-investors-need-to-know/?source=iedfolrf0000001",
-      "summary": "This could be just the tip of the iceberg.",
-      "published_at": "2026-09-16T20:20:01+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -480,7 +408,7 @@
       "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
       "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
       "published_at": "2026-09-16T20:10:01+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -498,7 +426,7 @@
       "url": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
       "summary": "The Federal Reserve raised its benchmark interest rate by a quarter percentage point.",
       "published_at": "2026-09-16T20:07:18+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -516,7 +444,7 @@
       "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
       "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
       "published_at": "2026-09-16T20:00:36+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -534,7 +462,7 @@
       "url": "https://www.cnbc.com/2026/09/16/now-that-the-fed-raised-rates-where-to-score-the-best-yields-on-your-cash.html",
       "summary": "From money market funds to Treasury bills, where experts are stashing their cash — and some of the yields they're finding.",
       "published_at": "2026-09-16T19:39:33+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -552,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
       "summary": "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
       "published_at": "2026-09-16T19:38:41+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -560,48 +488,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "521e5eea72005ab5dcfee91e8b5689a6ce659e11",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Salesforce vs. Figma: Evaluating the Better High-Growth Software Stock to Buy in 2026",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/16/salesforce-vs-figma-evaluating-the-better-high-growth-software-stock-to-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Salesforce boasts an 18% net margin and $14.4 billion in free cash flow, while Figma races towards profitability at 41% revenue growth, a classic clash of proven cash generation versus explosive expansion.",
-      "published_at": "2026-09-16T19:36:17+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "0c74e27d1b7141fa5508a04373951e9ca7609be5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Fed raises rates: What it means for your credit cards, mortgages, savings accounts and auto loans",
-      "url": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
-      "summary": "The Fed's quarter-point rate hike will impact a range of consumer borrowing and savings costs, including mortgages, credit cards, car loans and deposit rates.",
-      "published_at": "2026-09-16T19:17:38+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
     },
     {
       "id": "9ff56c9e0bb1b5cd4f37df9904eb218364781be8",
@@ -612,31 +498,13 @@
       "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "published_at": "2026-09-16T19:00:14+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "ded70780cacd345a82b7e890cabe0b2838fcbb16",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
-      "url": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
-      "summary": "Investors have been fixated on the relative performance of Alphabet’s AI models when they should instead be cheering the company’s cloud potential, an analyst says.",
-      "published_at": "2026-09-16T18:57:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
       "score": 0.52
     },
     {
@@ -648,7 +516,7 @@
       "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
       "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
       "published_at": "2026-09-16T18:18:54+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -656,24 +524,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "51dc63bad14df5aced38e0a8f6401e7000f53f59",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Worried About a Market Crash? This Dividend Stock Outperformed as the S&P 500 Sank in Both 2008 and 2022",
-      "url": "https://www.fool.com/investing/2026/09/16/worried-about-a-market-crash-this-dividend-stock-s/?source=iedfolrf0000001",
-      "summary": "The pharmaceutical giant's track record in past bear markets is fairly impressive.",
-      "published_at": "2026-09-16T18:00:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
     },
     {
       "id": "3d0ba955857b1175737934339d4ba44de09f6f7b",
@@ -684,7 +534,7 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
       "summary": "",
       "published_at": "2026-09-16T16:47:40+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -702,7 +552,7 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
       "summary": "China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in MetaX Integrated Circuits is set to expire.\nAnalysts expect MetaX to face “significant selling pressure” when the restricted shares are released for trading, after the expiry of a similar lock-up period for shares in fellow AI chip",
       "published_at": "2026-09-16T12:25:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -726,7 +576,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367670/investors-prepare-super-central-bank-week-us-rate-increase-appears-done-deal?utm_source=rss_feed",
       "summary": "With a US interest rate increase almost a done deal, investors are now trying to figure out whether it would be a one-off move or the start of a fresh tightening cycle, while also bracing for a borrowing-cost increase in Japan, which is highly likely and may jolt capital flows.\nAs the odds of a 25 basis-point rate increase at the US Federal Reserve’s policy meeting on Thursday have risen to 92 per",
       "published_at": "2026-09-16T04:48:21+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -744,7 +594,7 @@
       "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
       "summary": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
       "published_at": "2026-09-16T01:53:52+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -760,135 +610,117 @@
       "score": 0.85
     },
     {
-      "id": "d7f712e20e123e372fb490164b1fe1069c91e9e4",
+      "id": "a46c80bab21f5486a387bfed230b368d8f96a8aa",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Make This 1 Trade Now as the 10-Year Yield Surges and a Fed Rate Hike Looms",
-      "url": "https://finance.yahoo.com/markets/options/articles/1-trade-now-10-yield-141440168.html",
+      "title": "Jim Cramer on Salesforce (CRM): “It’s Been Very Strong of Late”",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-salesforce-crm-very-202539714.html",
       "summary": "",
-      "published_at": "2026-09-15T14:14:40+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "1cd8263611a2ef2a8938faeb2d4304365fed04f5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is eBay Stock Outperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ebay-stock-outperforming-dow-141132319.html",
-      "summary": "",
-      "published_at": "2026-09-15T14:11:32+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "3701e862c859ca08b6658f5c6bdf917b16cfa137",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-just-got-foothold-ai-141110931.html",
-      "summary": "",
-      "published_at": "2026-09-15T14:11:10+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-15T20:25:39+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "QCOM",
-          "name": "高通",
+          "symbol": "CRM",
+          "name": "Salesforce",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.97
+      "score": 0.85
     },
     {
-      "id": "8b25c0278aa70af316ff64458919277544d13fc4",
+      "id": "8977bc0d22c4db0a19aa239151b69b1f1569755f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Why Wall Street Could Be Pricing This GE Stock Option Spread Incorrectly",
-      "url": "https://finance.yahoo.com/markets/options/articles/why-wall-street-could-pricing-140322126.html",
+      "title": "This Analyst Just Upgraded Etsy Stock. Here's Why.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-etsy-stock-202534078.html",
       "summary": "",
-      "published_at": "2026-09-15T14:03:22+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-15T20:25:34+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "f8f4b822acfb47ef7ea092454cd6a01f6a751660",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Why 1 Analyst Is Betting That DELL Stock Can Gain At Least Another 20% From Here",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-betting-dell-140003788.html",
-      "summary": "",
-      "published_at": "2026-09-15T14:00:03+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "DELL",
-          "name": "戴尔",
-          "market": "US"
-        }
-      ],
       "category": "rating",
-      "score": 1.0
+      "score": 0.61
     },
     {
-      "id": "7df201a31c118b6b6cb78426da52070c901d0ac6",
+      "id": "29d3b9905e40e992ff99a8b0252865a00d461cf9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Wall Street Panic: 10-Year Treasury Hits 5.04% and Threatens to Crush Stocks, Mortgages, and the Fed’s Credibility",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-panic-10-treasury-135644770.html",
+      "title": "Jim Cramer Turns “More Bullish” on Oracle (ORCL)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-turns-more-bullish-202241135.html",
       "summary": "",
-      "published_at": "2026-09-15T13:56:44+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-15T20:22:41+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ORCL",
+          "name": "甲骨文",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "5fa9b89e2cfe4da78661366af38866ad75317046",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "This Analyst Just Upgraded ResMed Stock. Here's Why.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-resmed-stock-195751730.html",
+      "summary": "",
+      "published_at": "2026-09-15T19:57:51+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
-      "score": 0.64
+      "category": "rating",
+      "score": 0.61
     },
     {
-      "id": "2c8f1c33c43bd277063affb085610b41b146de67",
+      "id": "5bb77abf2c373a9c0507c3711c25d224a95be0f5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "SpaceX Defies Gravity With a Nasdaq-100 Double-Weighting Boost",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-defies-gravity-nasdaq-100-135500318.html",
+      "title": "Dollar Outlook Hinges on Fed Communication",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-higher-u-s-treasury-yields-6c31ec0f?siteid=yhoof2&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-09-15T13:55:00+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-15T19:39:00+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "6c2b2ef423ad160bab05ccf0b8362e2690826a76",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "A $1 Billion Reason Why AXON Stock Is Down Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-why-axon-193446212.html",
+      "summary": "",
+      "published_at": "2026-09-15T19:34:46+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -898,21 +730,21 @@
       "score": 0.52
     },
     {
-      "id": "db5e3496db7c8a44093e49b8fb3d32a7c03d8492",
+      "id": "19bf660bbdb7646ae0adc3963a801a6aee497641",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Nvidia Rises To Key Level As Fed Rate-Decision Looms; Is Nvidia A Buy Now?",
-      "url": "https://www.investors.com/research/nvidia-nvda-stock-ai-chips-tech-september-2026-buy-now-markets/?src=A00220&yptr=yahoo",
+      "title": "Klarna Is Down 51% This Year. Is KLAR Stock Dead Money or Due for a Bounce?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/klarna-down-51-klar-stock-190355659.html",
       "summary": "",
-      "published_at": "2026-09-15T13:50:19+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "published_at": "2026-09-15T19:03:55+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "score": 0.52
     },
     {
@@ -924,7 +756,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3367616/tighter-scrutiny-hong-kong-ipos-could-slow-deal-flow-analysts-say?utm_source=rss_feed",
       "summary": "Securities regulators in Hong Kong and mainland China are doubling down on efforts to raise the quality of Hong Kong initial public offerings (IPOs), which could slow the flow of new listings but would not reduce underlying demand, according to analysts.\nIn an unusual move, the China Securities Regulatory Commission recently asked nine mainland companies, which had already been pre-approved for li",
       "published_at": "2026-09-15T13:00:06+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -934,22 +766,22 @@
       "score": 0.76
     },
     {
-      "id": "e14ad3bfcec06c8191a2c10389605fb043ee8831",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Unitree’s US$30 billion stock wipe-off spurs regulatory caution on humanoid robot IPOs",
-      "url": "https://www.scmp.com/business/china-business/article/3367545/unitrees-us30-billion-stock-wipe-spurs-regulatory-caution-humanoid-robot-ipos?utm_source=rss_feed",
-      "summary": "A more than 40 per cent slump in Chinese humanoid robot maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirling that Beijing may tighten approval of the peer listings.\nThe regulators would heighten scrutiny over humanoid makers seeking initial public offerings (IPOs) on the mainland’s exchanges, according to media reports. The sustainability ",
-      "published_at": "2026-09-15T06:02:12+00:00",
-      "first_seen_at": "2026-09-17T01:35:44.555142+00:00",
-      "market": "HK",
+      "id": "2e45b3655ef22ffc2adf1256ab6ab293a118aeab",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year Treasury yield touches 2007 high ahead of Fed decision day",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "summary": "",
+      "published_at": "2026-09-15T08:13:07+00:00",
+      "first_seen_at": "2026-09-17T07:10:56.534485+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.61
+      "category": "macro",
+      "score": 0.76
     }
   ]
 }
