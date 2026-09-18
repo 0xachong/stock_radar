@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-09-18T18:52:30.318247+00:00",
+  "generated_at": "2026-09-18T21:25:15.912705+00:00",
   "window_hours": 48,
-  "total_items": 43,
+  "total_items": 39,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 39,
-    "HK": 4
+    "US": 36,
+    "CN": 1,
+    "HK": 2
   },
   "category_stats": [
     {
@@ -15,42 +16,268 @@
     },
     {
       "key": "company",
-      "count": 11
-    },
-    {
-      "key": "earnings",
-      "count": 6
+      "count": 9
     },
     {
       "key": "rating",
-      "count": 4
+      "count": 5
     },
     {
-      "key": "ipo",
-      "count": 3
-    },
-    {
-      "key": "capital",
-      "count": 2
+      "key": "earnings",
+      "count": 5
     },
     {
       "key": "guidance",
       "count": 2
+    },
+    {
+      "key": "product",
+      "count": 1
+    },
+    {
+      "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "ipo",
+      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 32
+      "count": 27
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 11
+      "count": 12
     }
   ],
   "items": [
+    {
+      "id": "e30d196e2fd37a82df824b680da75172b5393729",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "published_at": "2026-09-18T21:14:00+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "61d0e7451b5dab04e35aae521f2c9610d71cea3d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Sept. 18: Netflix Falls on Analyst Downgrade and Slashed Price Target",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/18/stock-market-today-sept-18-netflix-falls-on-analyst-downgrade-and-slashed-price-target/?source=iedfolrf0000001",
+      "summary": "Today, Sept. 18, 2026, Wells Fargo cut its rating and price target, citing weaker engagement and content concerns, prompting investors to watch margin trends.",
+      "published_at": "2026-09-18T20:54:58+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.76
+    },
+    {
+      "id": "a881bc222359b931e6ee261e76136f052931ce0b",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美国股市涨跌不一；截至收盘道琼斯工业平均指数下跌0.19%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3574232",
+      "summary": "",
+      "published_at": "2026-09-18T20:31:19+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.76
+    },
+    {
+      "id": "34ca1fd9b47dceb439fc3231ce5e17d7c22d87cf",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌0.19%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3574231",
+      "summary": "",
+      "published_at": "2026-09-18T20:30:41+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "5d7e628844ffba3be13a425ea0b88b7971b1f9bb",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "巴西股市收低；截至收盘巴西IBOVESPA股指下跌0.41%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3574230",
+      "summary": "",
+      "published_at": "2026-09-18T20:30:14+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "656674a4ed2e6b2a55d72c237ec0633c32bf5cf2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta's Muse Just Had a Breakout Launch. Is It a Game Changer for the Stock?",
+      "url": "https://www.fool.com/investing/2026/09/18/meta-s-muse-just-had-a-breakout-launch-here-s-what-it-means-for-the-stock/?source=iedfolrf0000001",
+      "summary": "Meta's New AI App Grew Almost as Fast as ChatGPT in Its First 5 Days. Is Meta Stock a Buy?",
+      "published_at": "2026-09-18T20:15:02+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "4691dad6e8226792ff1e638e6b2d33cf4b0cf741",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "published_at": "2026-09-18T20:01:00+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "c0a3f4ef857bc662507ca345c4d19dba870f3cbb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: This Much Nvidia (NVDA) Stock Bought Today Could Be Worth $28,560 by 2030",
+      "url": "https://www.fool.com/investing/2026/09/18/prediction-this-much-nvidia-nvda-stock-bought-toda/?source=iedfolrf0000001",
+      "summary": "A projection for annualized gains of 30% is likely to prove conservative.",
+      "published_at": "2026-09-18T19:53:00+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "fa8ef5df79c5a39275d0a46732a5f1cbfa5a0256",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
+      "url": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-midday-nflx-xene-coin-sndk-spcx.html",
+      "summary": "Here are some of the companies making headlines in midday trading.",
+      "published_at": "2026-09-18T19:38:02+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "a35427c65e45ae8e7d5cbdf590b22c4a5ca53920",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Stock Is Down 33% From Its High. Here's Why Morgan Stanley Thinks There's 106% Upside From Here.",
+      "url": "https://www.fool.com/investing/2026/09/18/spacex-stock-is-down-33-from-its-high-heres-why-mo/?source=iedfolrf0000001",
+      "summary": "SpaceX's valuation now hovers just below $2 trillion.",
+      "published_at": "2026-09-18T19:30:00+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "85ee9414210d99f6a6639963ca6226f568607d87",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "AutoNation股价跌至52周新低，管理层言论引发盈利前景担忧",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3574197",
+      "summary": "",
+      "published_at": "2026-09-18T19:26:49+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
     {
       "id": "d22ddd88d8c666f2ee573514bcaf6614dff3177e",
       "site_id": "us_global",
@@ -60,7 +287,7 @@
       "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
       "summary": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure.",
       "published_at": "2026-09-18T18:30:23+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -78,7 +305,7 @@
       "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
       "published_at": "2026-09-18T18:28:31+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,24 +313,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "4629e8d7b8b9cc33256824835f61190e603d9607",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Advent, FedEx-led consortium clears threshold for InPost deal",
-      "url": "https://seekingalpha.com/news/4644493-advent-fedex-led-consortium-clears-threshold-for-inpost-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-09-18T18:23:21+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "f9ca9c9d56f5985618ab22a29ad9e57cad091772",
@@ -114,7 +323,7 @@
       "url": "https://www.cnbc.com/2026/09/18/the-fed-rate-hike-opens-up-an-opportunity-for-muni-bond-investors.html",
       "summary": "Here's where the experts now see opportunities in the municipal market.",
       "published_at": "2026-09-18T18:21:51+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -132,7 +341,7 @@
       "url": "https://www.fool.com/investing/2026/09/18/spacex-stock-is-down-28-from-its-all-high-heres/?source=iedfolrf0000001",
       "summary": "After a blockbuster 2026 debut, where will SpaceX be in 2031?",
       "published_at": "2026-09-18T18:05:00+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -140,48 +349,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "fa8ef5df79c5a39275d0a46732a5f1cbfa5a0256",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
-      "url": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-midday-nflx-xene-coin-sndk-spcx.html",
-      "summary": "Here are some of the companies making headlines in midday trading.",
-      "published_at": "2026-09-18T17:58:56+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "a337229f9dccfb57c0d2420a69054c82280d8639",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "西屋电气计划IPO，目标估值超500亿美元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3574169",
-      "summary": "",
-      "published_at": "2026-09-18T17:51:32+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
     },
     {
       "id": "f5bd85141e14696e083d923e15b9c8898a33957b",
@@ -192,7 +359,7 @@
       "url": "https://www.fool.com/coverage/moneyball/2026/09/18/check-points-2026-outlook-infinity-platform-strategy-drives-subscription-revenue-growth/?source=iedfolrf0000001",
       "summary": "This under-the-radar cybersecurity stock boasts a Superscore of 78 from our Hidden Gems Primary database, part of The Motley Fool's Moneyball Database system. Here's why.",
       "published_at": "2026-09-18T17:36:01+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -210,7 +377,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/09/18/astera-labs-vs-arm-which-ai-driven-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "Astera Labs is riding explosive demand for AI connectivity chips with gross margins above 70%. Arm is compounding royalty revenue across billions of devices while its data center business accelerates.",
       "published_at": "2026-09-18T17:12:02+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -234,7 +401,7 @@
       "url": "https://www.fool.com/investing/2026/09/18/the-dow-is-down-for-a-third-straight-week/?source=iedfolrf0000001",
       "summary": "The Dow is down 2% this week. The Nasdaq is up. One of the indexes is reading the Fed policy wrong.",
       "published_at": "2026-09-18T17:05:17+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -252,7 +419,7 @@
       "url": "https://www.fool.com/investing/2026/09/18/the-fed-just-raised-rates-for-the-first-time-in-three-years-history-says-this-is-what-comes-next/?source=iedfolrf0000001",
       "summary": "How does the market typically perform after a new rate hike cycle begins?",
       "published_at": "2026-09-18T16:52:02+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -270,7 +437,7 @@
       "url": "https://www.fool.com/investing/2026/09/18/1-of-billionaire-investor-bill-ackman-s-newest-positions-is-down-roughly-21-this-year-a-wall-street-analyst-thinks-another-21-decline-is-coming-should-investors-sell-the-stock/?source=iedfolrf0000001",
       "summary": "After raising more capital earlier this year, Ackman and his team purchased several new stocks in the second quarter of the year.",
       "published_at": "2026-09-18T16:41:01+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -278,42 +445,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.64
-    },
-    {
-      "id": "0994dcb8f38793d61ad1c2dce80f8ea1201bbfb1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-      "url": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
-      "summary": "Even when rates are higher, stocks should still beat bonds",
-      "published_at": "2026-09-18T16:39:00+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.76
-    },
-    {
-      "id": "ebcf494a7c3ee35799b967eeb0c7e8c2110861dd",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "比特币和以太坊大幅上涨，加密货币概念股集体飙升",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3574143",
-      "summary": "",
-      "published_at": "2026-09-18T16:37:26+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.61
     },
     {
       "id": "5528b905e5cc12774d96ce9c68b92b2811eea4c4",
@@ -324,7 +455,7 @@
       "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
       "summary": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
       "published_at": "2026-09-18T16:31:03+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -348,7 +479,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/09/18/stock-market-midday-sept-18-stocks-slip-crypto-gains/?source=iedfolrf0000001",
       "summary": "On Sept. 18, 2026, Netflix fell on a downgrade, and broader markets digested the possibility of further rate hikes.",
       "published_at": "2026-09-18T16:31:01+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -356,84 +487,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.76
-    },
-    {
-      "id": "4fd8fed205ef665e88f04ccbd83e075d4e536e2c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-      "url": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-      "summary": "“We see breakout hits as a must for the stock to work again,” Wells Fargo analysts said as they cut their rating on shares of the streaming platform.",
-      "published_at": "2026-09-18T16:23:00+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.61
-    },
-    {
-      "id": "610ba29ff8abec878797b6ad7f4a5e1a01466799",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Orion180 Insurance上市首日开盘价报$11.50，低于$12.00 IPO发行价",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3574131",
-      "summary": "",
-      "published_at": "2026-09-18T16:22:06+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "4625da27c02c1bb13cc57cc9a5be750b3315f3cf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Tesla Stock Fell After Its Last 4 Delivery Reports, Even a Big Beat. Here's What History Says to Expect in October.",
-      "url": "https://www.fool.com/investing/2026/09/18/tesla-stock-fell-after-its-last-4-delivery-reports-even-a-big-beat-here-s-what-history-says-to-expect-in-october/?source=iedfolrf0000001",
-      "summary": "Four straight delivery updates, four down days for the stock -- and the next report may face the electric-car maker's toughest bar yet.",
-      "published_at": "2026-09-18T15:38:02+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "de0d484f27ecbb62bb05795b03f9bfbdefd27692",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 AI Stocks Stuck in Neutral to Buy Before Their Next Catalysts Hit",
-      "url": "https://www.fool.com/investing/2026/09/18/3-ai-stocks-stuck-in-neutral-to-buy-before-the-nex/?source=iedfolrf0000001",
-      "summary": "Broadcom, Meta Platforms, and Microsoft are all trading close to flat for the year.",
-      "published_at": "2026-09-18T15:15:00+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "5889b2f12a2c88668942c1f003cabc4ef0854c9f",
@@ -444,7 +497,7 @@
       "url": "https://www.cnbc.com/2026/09/18/stubhub-shares-tick-higher-for-third-day-in-a-row-after-citi-upgrade.html",
       "summary": "Analyst Jason Bazinet raised his rating to buy from neutral.",
       "published_at": "2026-09-18T15:09:10+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -454,15 +507,123 @@
       "score": 0.61
     },
     {
-      "id": "65c9004dfe5e25e4ff0cddff102a712d0b7fcfbb",
+      "id": "6ccc904fafc2f3f44209da4e27a07bde69c625b6",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "From US Fed rates to China’s global export share: 4 figures shaping markets",
+      "url": "https://www.scmp.com/business/banking-finance/article/3367978/us-fed-rates-chinas-global-export-share-4-figures-shaping-markets?utm_source=rss_feed",
+      "summary": "The US Federal Reserve raised its benchmark interest rate by a quarter of a percentage point this week, followed by the Hong Kong Monetary Authority and the Bank of Japan, while the 10-year US Treasury yield fell back below 5 per cent.\nHere are some of the figures that have drawn the most market attention this week.\nFed raises interest rates for first time since 2023\nThe US Federal Open Market Com",
+      "published_at": "2026-09-18T07:00:23+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "201283c75d82aba0dd9393d9f8e4c7cf54860d3f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Arm vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/18/arm-vs-intel-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Arm's licensing model generates 18.4% net margins with minimal debt, while Intel battles a net loss and negative free cash flow amid its foundry pivot.",
-      "published_at": "2026-09-18T14:55:43+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "source": "Yahoo Finance",
+      "title": "Ciena Stock Climbs On Three-Year, 30% Revenue Growth Outlook",
+      "url": "https://www.investors.com/news/technology/ciena-stock-investor-day-financial-targets-supply-constraints/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-09-17T14:06:51+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "d73b84e0915c93d6a0b5d29aefb7734f0cde1475",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nasdaq, Dow and S&P 500 Forecast: Buyers Return After Fed",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-forecast-140116492.html",
+      "summary": "",
+      "published_at": "2026-09-17T14:01:16+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "7797f6d31ef7eb10f6a239b4464dc06b8a847e43",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Markets face a hawkish Fed as rate-cut hopes recede",
+      "url": "https://finance.yahoo.com/economy/policy/articles/markets-face-hawkish-fed-rate-135900074.html",
+      "summary": "",
+      "published_at": "2026-09-17T13:59:00+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "b71bfcbdc212bc2962cdfe82d21205db631d9bfb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow gains 250 points as oil prices and yields fall after Fed hike",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-gains-250-points-oil-135732567.html",
+      "summary": "",
+      "published_at": "2026-09-17T13:57:32+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "0daf2c71a28613e50c92e66f4f4d98aee98ce7d1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nvidia, OpenAI, and Oracle's $745B Financing Circle Just Hit Its First Stress Test: A Fed Rate Hike",
+      "url": "https://finance.yahoo.com/economy/policy/articles/nvidia-openai-oracles-745b-financing-135702453.html",
+      "summary": "",
+      "published_at": "2026-09-17T13:57:02+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "65eaad3dd98b56fba9079badf8a087f26413540b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The Strange Reason for Arm’s Stock Drop: The Market May Be Punishing It Unfairly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strange-reason-arm-stock-drop-133002338.html",
+      "summary": "",
+      "published_at": "2026-09-17T13:30:02+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -474,44 +635,8 @@
           "market": "US"
         }
       ],
-      "category": "macro",
+      "category": "company",
       "score": 0.97
-    },
-    {
-      "id": "59ca8c8eb60dc24313e0192206df20589b11be60",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Insider Buy: Co-CFO Doubles Down, Purchases 15,000 Shares of Shipping Stock for $424,050",
-      "url": "https://www.fool.com/coverage/filings/2026/09/18/insider-buy-co-cfo-doubles-down-purchases-15-000-shares-of-shipping-stock-for-usd424-050/?source=iedfolrf0000001",
-      "summary": "Symeon Spyrou's open-market buy at $28.27 per share boosts his direct holdings to 241,200 shares, valued at $7.53 million following a 61% stock price surge over the past year.",
-      "published_at": "2026-09-18T14:15:01+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "6ccc904fafc2f3f44209da4e27a07bde69c625b6",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "From US Fed rates to China’s global export share: 4 figures shaping markets",
-      "url": "https://www.scmp.com/business/banking-finance/article/3367978/us-fed-rates-chinas-global-export-share-4-figures-shaping-markets?utm_source=rss_feed",
-      "summary": "The US Federal Reserve raised its benchmark interest rate by a quarter of a percentage point this week, followed by the Hong Kong Monetary Authority and the Bank of Japan, while the 10-year US Treasury yield fell back below 5 per cent.\nHere are some of the figures that have drawn the most market attention this week.\nFed raises interest rates for first time since 2023\nThe US Federal Open Market Com",
-      "published_at": "2026-09-18T07:00:23+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "eeec79412ae4c37966708861e476ba1191931e8f",
@@ -522,7 +647,7 @@
       "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
       "summary": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
       "published_at": "2026-09-17T12:27:10+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -540,7 +665,7 @@
       "url": "https://www.scmp.com/business/article/3367855/hong-kong-property-market-gets-reprieve-rates-position-remains-precarious?utm_source=rss_feed",
       "summary": "Hong Kong’s property market dodged an immediate hit from the Federal Reserve’s rate hike on Thursday as major local banks kept their prime rates unchanged, but another increase could puncture the market’s relatively fragile recovery, according to industry insiders.\nThe Fed raised its benchmark rate by a quarter point at its latest meeting on Wednesday in the US, but HSBC and other major Hong Kong ",
       "published_at": "2026-09-17T10:00:11+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -548,96 +673,6 @@
       "tickers": [],
       "category": "capital",
       "score": 0.64
-    },
-    {
-      "id": "ce8cbb193723479b6b663eb625675e6278448cdc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Why your cell phone bill is getting so expensive — and how that helped convince the Fed to raise rates",
-      "url": "https://finance.yahoo.com/economy/policy/article/why-your-cell-phone-bill-is-getting-so-expensive--and-how-that-helped-convince-the-fed-to-raise-rates-100000440.html",
-      "summary": "",
-      "published_at": "2026-09-17T10:00:00+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "65cac715ede0bb213fbd916e70a898f09ef08a09",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Bank of New York Mellon Stock Outperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-york-mellon-stock-outperforming-094830405.html",
-      "summary": "",
-      "published_at": "2026-09-17T09:48:30+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "eb1382be28373ca8524928cfcb9c7a23da1882f6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Genuine Parts Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-underperforming-nasdaq-094824193.html",
-      "summary": "",
-      "published_at": "2026-09-17T09:48:24+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "99e0e12f85bf27ca8ec278efb80bf5037aa5713d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Leidos Stock Underperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/leidos-stock-underperforming-dow-094411865.html",
-      "summary": "",
-      "published_at": "2026-09-17T09:44:11+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "71cad671eeeeaa753671ed5621fb5e1211cb2a6f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Invitation Homes Stock Underperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-stock-underperforming-p-092714807.html",
-      "summary": "",
-      "published_at": "2026-09-17T09:27:14+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "fe8fb406b117ed841d59b087a055f7d7c2038608",
@@ -648,7 +683,7 @@
       "url": "https://www.scmp.com/plus/economy/policy/article/3367858/fed-rate-hike-risks-worsening-chinas-economic-divide?utm_source=rss_feed",
       "summary": "The US Federal Reserve raised interest rates for the first time in three years in an effort to quell inflation partly caused by the war on Iran helping to drive up fuel prices.\nPolicymakers voted unanimously on Wednesday to lift rates by 25 basis points to between 3.75 and 4.00 per cent. Sixteen of 18 committee members also said that they anticipate another rate hike this year.\nThe increase will h",
       "published_at": "2026-09-17T09:00:41+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -656,84 +691,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "81679c2bdb98a3f929309edf453ca8e51f38c532",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Axon Stock Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/axon-stock-underperforming-nasdaq-085804557.html",
-      "summary": "",
-      "published_at": "2026-09-17T08:58:04+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "c8fd38d20886025fbcf156e7c9e36edfe2849bf9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Arm CEO Expresses Confidence in Data Center CPU Revenue Demand",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-expresses-confidence-data-085120355.html",
-      "summary": "",
-      "published_at": "2026-09-17T08:51:20+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "62ed874eba49f3a6cb6544944f9fd5ec4406492f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "US Dollar Price Forecast: Dollar Strengthens as Fed-BoE Policy Divergence Widens; Key Levels for EUR/USD and GBP/USD",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dollar-081747889.html",
-      "summary": "",
-      "published_at": "2026-09-17T08:17:47+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.52
-    },
-    {
-      "id": "c98f10eea3ce07d5505c3f2265edef5107a3f6b6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Central Bancompany’s (CBC) Profits Climb As It Doubles Down On Buybacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/central-bancompany-cbc-profits-climb-080416994.html",
-      "summary": "",
-      "published_at": "2026-09-17T08:04:16+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
     },
     {
       "id": "0111981e43d0e3e5bbf38efd09a4fb7f8cc66c1d",
@@ -744,7 +701,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3367810/hong-kong-support-rocket-satellite-ipos-spacex-led-sector-takes?utm_source=rss_feed",
       "summary": "Hong Kong aims to adjust listing rules to grab a share of initial public offerings by mainland China’s space companies, in line with Beijing’s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk’s SpaceX.\nThat could lead to more head-to-head competition between the Hong Kong stock exchange and the Shanghai Stock Exchange, which is now drawing a majo",
       "published_at": "2026-09-17T05:00:07+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -762,7 +719,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367790/hong-kong-stocks-decline-after-fed-raises-interest-rates-and-signals-more-come?utm_source=rss_feed",
       "summary": "Stocks in Hong Kong and mainland China fell on Thursday, after the US Federal Reserve raised interest rates for the first time in three years and signalled that further tightening remained on the table.\nThe benchmark Hang Seng Index dropped 0.4 per cent to 24,604.29 at the close. The Hang Seng Tech Index lost 0.3 per cent. Rate-sensitive stocks such as property developers and gold producers led th",
       "published_at": "2026-09-17T01:47:08+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -780,7 +737,7 @@
       "url": "https://www.scmp.com/business/commodities/article/3367788/gold-rebounds-after-fed-rate-rise-banks-back-long-term-demand-outlook?utm_source=rss_feed",
       "summary": "Gold prices bounced back after the US Federal Reserve’s interest rate increase, as analysts and investment banks maintained a positive long-term outlook for the metal, citing structural challenges facing the world’s largest economy.\nSpot gold traded at US$4,326 an ounce at 4pm on Thursday in Hong Kong, up 1.52 per cent since the market opened at noon. The bullion once dived as much as 2.7 per cent",
       "published_at": "2026-09-17T01:08:08+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -798,7 +755,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3367781/us-rate-increase-should-only-have-short-term-impact-hong-kong-stocks-cicc?utm_source=rss_feed",
       "summary": "Hong Kong stocks could face greater volatility from renewed US monetary tightening, but the impact should be short-lived unless the Federal Reserve embarks on a sustained rate-increase cycle, according to China International Capital Corporation (CICC).\nThe Fed rate increase would not necessarily spell losses for Hong Kong stocks, as monetary conditions were only one of several factors driving the ",
       "published_at": "2026-09-17T00:00:20+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -816,7 +773,7 @@
       "url": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
       "summary": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
       "published_at": "2026-09-16T23:13:45+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -840,7 +797,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3367783/hkma-raises-base-rate-quarter-point-425-first-increase-2023?utm_source=rss_feed",
       "summary": "The Hong Kong dollar may come under pressure against the US dollar after the first interest rate rise in three years, but the city does not face a heightened bad-debt risk despite higher borrowing costs, according to the head of the city’s de facto central bank.\nHong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man said the US Federal Reserve’s rate rise on Thursday would widen the",
       "published_at": "2026-09-16T23:03:43+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
+      "first_seen_at": "2026-09-18T21:25:15.912705+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -848,24 +805,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "42a90635a7b1b30b62331c222a5e4a027f74972a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-      "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-      "published_at": "2026-09-16T20:00:36+00:00",
-      "first_seen_at": "2026-09-18T18:52:30.318247+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     }
   ]
 }
