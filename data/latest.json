@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-09-19T14:38:24.984148+00:00",
+  "generated_at": "2026-09-19T17:46:59.970599+00:00",
   "window_hours": 48,
-  "total_items": 17,
+  "total_items": 22,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 14,
+    "US": 19,
     "HK": 3
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 6
+      "key": "macro",
+      "count": 8
     },
     {
-      "key": "macro",
-      "count": 5
+      "key": "company",
+      "count": 4
+    },
+    {
+      "key": "guidance",
+      "count": 2
+    },
+    {
+      "key": "product",
+      "count": 2
+    },
+    {
+      "key": "capital",
+      "count": 2
     },
     {
       "key": "ipo",
-      "count": 3
+      "count": 2
     },
     {
       "key": "earnings",
-      "count": 1
-    },
-    {
-      "key": "rating",
       "count": 1
     },
     {
@@ -38,7 +46,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 12
+      "count": 17
     },
     {
       "site_id": "hk_china",
@@ -48,57 +56,99 @@
   ],
   "items": [
     {
-      "id": "fd840aba7e369c221d74231bef226400ef5110dc",
+      "id": "ad6b885ce9ae87f23923f81d961eb4c36736cf67",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
-      "url": "https://www.fool.com/investing/2026/09/19/anthropic-ipo-coming-what-means-sp-500/?source=iedfolrf0000001",
-      "summary": "The market will be highly affected by this IPO, even if the stock isn't included in the index right away.",
-      "published_at": "2026-09-19T13:45:00+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "source": "Yahoo Finance",
+      "title": "BofA drops stunning warning about Fed rate hikes",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-stunning-warning-fed-171700996.html",
+      "summary": "",
+      "published_at": "2026-09-19T17:17:00+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.76
+      "category": "macro",
+      "score": 0.64
     },
     {
-      "id": "56056a82bb7237b85556666a6c4e3e9ea8d5785b",
+      "id": "96ff2e187309d9569052e8d46f58ee986c1202d8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "url": "https://www.fool.com/investing/2026/09/19/is-arm-holdings-still-a-hidden-winner-ai-chip-race/?source=iedfolrf0000001",
-      "summary": "Is Arm still an under-the-radar AI winner? Wall Street is catching on fast.",
-      "published_at": "2026-09-19T13:17:00+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "source": "Yahoo Finance",
+      "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+      "summary": "",
+      "published_at": "2026-09-19T17:14:43+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "ARM",
-          "name": "Arm",
+          "symbol": "TSLA",
+          "name": "特斯拉",
           "market": "US"
         }
       ],
-      "category": "company",
-      "score": 1.0
+      "category": "guidance",
+      "score": 0.97
     },
     {
-      "id": "fc7f73ad69d05489942a3eca78b9c586c898cefd",
+      "id": "e5024c6b019f2149db06c511462e69f1acd8a2ab",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "url": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
+      "summary": "",
+      "published_at": "2026-09-19T17:11:52+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "2de873f4dca55d24feb18e6b4ddc2819e368204b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "The Fed Raised Interest Rates -- What That Means For Your Holiday Shopping",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-raised-interest-rates-means-170026142.html",
+      "summary": "",
+      "published_at": "2026-09-19T17:00:26+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "ffcf58f2d12345c3bc9ec6c2ef6e6d3e0e942f11",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
       "summary": "",
-      "published_at": "2026-09-19T13:16:31+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "published_at": "2026-09-19T16:34:51+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -114,15 +164,15 @@
       "score": 1.0
     },
     {
-      "id": "fae073c3fbe35e5ff739d03dd15a308af10c9133",
+      "id": "513b814f3f2a83b8f9b90956dcb2b678b2a35471",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks",
-      "url": "https://www.fool.com/investing/2026/09/19/fed-chair-kevin-warsh-fomc-hiked-interest-rates-36-years-history-make-clear-what-next-for-stocks/?source=iedfolrf0000001",
-      "summary": "The Federal Reserve has undertaken six previous rate-hiking cycles since 1990, with each yielding highly predictable results for the stock market.",
-      "published_at": "2026-09-19T13:06:01+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "source": "Seeking Alpha Market News",
+      "title": "Real estate stocks slip as Fed hikes, mortgage rates continue to climb",
+      "url": "https://seekingalpha.com/news/4644559-real-estate-stocks-slip-as-fed-hikes-mortgage-rates-continue-to-climb?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-09-19T16:30:30+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -130,6 +180,108 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
+    },
+    {
+      "id": "43e05139781e615ede2c6480434c32f3331b2fee",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
+      "url": "https://www.fool.com/investing/2026/09/19/there-are-only-a-handful-of-nasdaq-100-stocks-that/?source=iedfolrf0000001",
+      "summary": "The Nasdaq-100 is tech-heavy, but I think this high-yield consumer staples Dividend King is the best income pick.",
+      "published_at": "2026-09-19T16:15:00+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.76
+    },
+    {
+      "id": "bf21dbb7d401f99f30a91d8e87afdd4b6a0a4674",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "summary": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI.",
+      "published_at": "2026-09-19T16:03:09+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "9aa9975db8dfac9b7573916eead7f924d62dfc27",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "SpaceX confirmed to get a weighting boost after Nasdaq 100 rebalancing: Bloomberg",
+      "url": "https://seekingalpha.com/news/4644564-spacex-weighting-boost-post-nasdaq-100-rebalancing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-09-19T16:02:06+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "cc6c59adfadf9aa1f7cec8268dbdba0db2faee1e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
+      "url": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
+      "summary": "",
+      "published_at": "2026-09-19T15:57:24+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "14db51b4286ef9dae83454adc8eaf686db784cb4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
+      "summary": "",
+      "published_at": "2026-09-19T15:52:52+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NFLX",
+          "name": "奈飞",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 0.97
     },
     {
       "id": "69fc28f2654e756c88c5c22ec8ea3bc79cc5a799",
@@ -140,31 +292,13 @@
       "url": "https://www.cnbc.com/2026/09/19/the-sp-500-just-logged-another-losing-week-these-stocks-could-be-due-for-a-bounce.html",
       "summary": "Another losing week has dragged certain individual stocks to levels where they might find some support.",
       "published_at": "2026-09-19T13:02:42+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "4159df792a26290074f5570548c380821c7e7c8f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
-      "url": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
-      "summary": "After more than five years of failing to do so, Federal Reserve leaders think they can shrink the rate of inflation to 2% by 2029 with just slightly higher U.S. interest rates. Are they serious?",
-      "published_at": "2026-09-19T13:00:00+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
       "score": 0.52
     },
     {
@@ -176,7 +310,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3574501",
       "summary": "",
       "published_at": "2026-09-19T12:05:54+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -184,30 +318,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.65
-    },
-    {
-      "id": "ef1538b8474784fa310d5636d80c9e82054958f4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "History Says You Should Know These 3 Things Before Buying Apple Stock (AAPL)",
-      "url": "https://www.fool.com/investing/2026/09/19/history-says-3-things-before-buy-apple-stock-aapl/?source=iedfolrf0000001",
-      "summary": "The pride of Cupertino continues its winning ways, and investors are eager to jump on the bandwagon.",
-      "published_at": "2026-09-19T11:02:00+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "8109169fd7556417418d1ad18f654cd37b473163",
@@ -218,7 +328,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3574489",
       "summary": "",
       "published_at": "2026-09-19T10:35:09+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -226,24 +336,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.52
-    },
-    {
-      "id": "7e204919b44e163908234dd403cbde4f3b7c7b58",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "26 Analysts Covering SpaceX Stock Rate It a Buy. Here's Why 8 Analysts Disagree",
-      "url": "https://www.fool.com/investing/2026/09/19/26-analysts-covering-spacex-rate-it-a-buy/?source=iedfolrf0000001",
-      "summary": "Wall Street remains very bullish on SpaceX stock.",
-      "published_at": "2026-09-19T09:44:00+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
     },
     {
       "id": "19ccacba2f989decd83ee3dc0631c385af1d2066",
@@ -254,7 +346,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3574481",
       "summary": "",
       "published_at": "2026-09-19T09:35:12+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -272,7 +364,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3368008/perfect-diary-owner-yatsen-doubles-down-skincare-rd-after-business-overhaul?utm_source=rss_feed",
       "summary": "Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands.\nThe Guangzhou-based company will slow its acquisition spree for now and instead focus on expanding its existing portfolio of skincare of",
       "published_at": "2026-09-19T01:00:10+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -290,7 +382,7 @@
       "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
       "published_at": "2026-09-18T18:28:31+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -308,7 +400,7 @@
       "url": "https://www.cnbc.com/2026/09/18/the-fed-rate-hike-opens-up-an-opportunity-for-muni-bond-investors.html",
       "summary": "Here's where the experts now see opportunities in the municipal market.",
       "published_at": "2026-09-18T18:21:51+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -326,7 +418,7 @@
       "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
       "summary": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
       "published_at": "2026-09-18T16:31:03+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -342,6 +434,24 @@
       "score": 0.85
     },
     {
+      "id": "336448e34ccfa86fd46184491ef3aea0f64337a4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Dividend King Yielding 4X the S&P 500 Looks Like a Buy Right Now",
+      "url": "https://www.fool.com/investing/2026/09/18/dividend-king-yield-4x-sp-500-looks-buy-pep-stock/?source=iedfolrf0000001",
+      "summary": "PepsiCo stock has frustrated investors for at least five years, but it's starting to look worthy of buying.",
+      "published_at": "2026-09-18T10:30:00+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
       "id": "6ccc904fafc2f3f44209da4e27a07bde69c625b6",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -350,7 +460,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3367978/us-fed-rates-chinas-global-export-share-4-figures-shaping-markets?utm_source=rss_feed",
       "summary": "The US Federal Reserve raised its benchmark interest rate by a quarter of a percentage point this week, followed by the Hong Kong Monetary Authority and the Bank of Japan, while the 10-year US Treasury yield fell back below 5 per cent.\nHere are some of the figures that have drawn the most market attention this week.\nFed raises interest rates for first time since 2023\nThe US Federal Open Market Com",
       "published_at": "2026-09-18T07:00:23+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -360,33 +470,22 @@
       "score": 0.52
     },
     {
-      "id": "5017a45beef85e5a7bafb7a0a556a54fcd153c22",
+      "id": "907691d5dd9fa8d77e6020ca14262186afcde285",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Coinbase CEO Brian Armstrong is moving past the Clarity Act's failure: 'There's another path'",
-      "url": "https://finance.yahoo.com/markets/crypto/article/coinbase-ceo-brian-armstrong-is-moving-past-the-clarity-acts-failure-theres-another-path-201948024.html",
-      "summary": "",
-      "published_at": "2026-09-17T20:19:48+00:00",
-      "first_seen_at": "2026-09-19T14:38:24.984148+00:00",
+      "source": "The Motley Fool",
+      "title": "The Fed Hiked Interest Rates for the First Time in 3 Years to Slow Down Inflation and Deliver Price Stability. Here’s What That Means for Restaurant Stocks.",
+      "url": "https://www.fool.com/investing/2026/09/17/the-fed-hiked-interest-rates-for-the-first-time-in-3-years-to-slow-down-inflation-and-deliver-price-stability-heres-what-that-means-for-restaurant-stocks/?source=iedfolrf0000001",
+      "summary": "In an industry that's already under pressure, there will be winners. But what criteria separate the winners from the rest?",
+      "published_at": "2026-09-17T18:21:05+00:00",
+      "first_seen_at": "2026-09-19T17:46:59.970599+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        },
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.95
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
     }
   ]
 }
