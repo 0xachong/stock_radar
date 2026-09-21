@@ -1,48 +1,32 @@
 {
-  "generated_at": "2026-09-21T00:50:37.465913+00:00",
+  "generated_at": "2026-09-21T05:54:34.440785+00:00",
   "window_hours": 48,
-  "total_items": 26,
+  "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
-    "HK": 2
+    "US": 19,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 10
-    },
-    {
-      "key": "macro",
-      "count": 4
-    },
-    {
-      "key": "earnings",
-      "count": 3
+      "count": 11
     },
     {
       "key": "ipo",
       "count": 3
     },
     {
-      "key": "capital",
+      "key": "earnings",
+      "count": 3
+    },
+    {
+      "key": "macro",
       "count": 2
     },
     {
       "key": "rating",
-      "count": 1
-    },
-    {
-      "key": "product",
-      "count": 1
-    },
-    {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "ma",
       "count": 1
     }
   ],
@@ -50,68 +34,38 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 22
+      "count": 17
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "037a89c5a12f8020b54eca056a4d7de27c81a82a",
+      "id": "a1e5c497eb7f9626170e439ab0d73ca63e14c0d0",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "美股本周看点：美联储官员密集发声，中东局势与中美峰会牵动市场",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3574897",
+      "title": "摩根大通：苹果iPhone 18预计交货时间在第二周延长",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3575135",
       "summary": "",
-      "published_at": "2026-09-21T00:35:23+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "published_at": "2026-09-21T05:23:32+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "098162f6939916c55cd6736acf555319b7fffc22",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "国泰海通持续追踪滴普科技(01384)：维持“增持”评级 坚定保留61.10港元目标价！",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3574894",
-      "summary": "",
-      "published_at": "2026-09-21T00:35:22+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
       ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.76
-    },
-    {
-      "id": "156b7193e1e16cb13e4f2e09c7e308c5e2704a7c",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "健康160(02656)存仓市值总计2.01亿港元 股东将1304.89万股股票存入中国国际金融香港证券",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3574889",
-      "summary": "",
-      "published_at": "2026-09-21T00:35:20+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "9f6f3196ad6a484e3aec33cd12e760124d2f458c",
@@ -121,8 +75,8 @@
       "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates",
       "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
       "summary": "Wall Street is coming off a mixed week for the major averages.",
-      "published_at": "2026-09-21T00:23:16+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "published_at": "2026-09-21T04:58:44+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -130,6 +84,48 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "a9acba1a6ebf419dffe9aea7a9edff7cbbc69761",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "要做“机器人中的苹果”？启元19999元起开卖人形机器人，上纬新材CEO田华：从“有趣”起步，让机器人逐步走向“有用”",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3575104",
+      "summary": "",
+      "published_at": "2026-09-21T04:05:53+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "0d16d11902ffc98b339521eab2587c0e7d28b87e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Mainland China’s stock exchanges mount charm offensive amid Hong Kong IPO boom",
+      "url": "https://www.scmp.com/business/article/3368149/mainland-chinas-stock-exchanges-mount-charm-offensive-amid-hong-kong-ipo-boom?utm_source=rss_feed",
+      "summary": "Mainland China’s stock exchanges have stepped up lobbying of companies and regulators to prioritise their boards for listings after Hong Kong stole their thunder in fundraising activities in recent years, according to two sources familiar with the matter.\nFigures from the exchanges recently met representatives of some mainland companies planning Hong Kong listings, especially first-time issuers an",
+      "published_at": "2026-09-21T01:00:10+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
     },
     {
       "id": "8e0591c734bc20ea38bc919a45778b27df1d4de8",
@@ -140,7 +136,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/prediction-nvidias-70-revenue-forecast-will-drive/?source=iedfolrf0000001",
       "summary": "Nvidia is guiding for 70% top-line growth in its next fiscal year, but the chipmaker has regularly proven too conservative with its guidance in the past.",
       "published_at": "2026-09-20T23:13:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -158,7 +154,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/palantir-nearly-doubled-its-revenue-its-stock-stood-still-is-it-time-to-buy-the-stock/?source=iedfolrf0000001",
       "summary": "The software maker is growing faster than ever, yet its shares sit about where they were a year ago. So is the stock finally reasonably priced?",
       "published_at": "2026-09-20T22:52:01+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -182,7 +178,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/vanguard-communication-services-etf-buy-spacex/?source=iedfolrf0000001",
       "summary": "The unlocking of SpaceX shares is reshaping the communications sector.",
       "published_at": "2026-09-20T22:45:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -200,7 +196,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/the-stock-market-s-best-quarter-of-the-year-is-about-to-start-the-s-and-p-500-has-risen-in-34-of-the-last-41/?source=iedfolrf0000001",
       "summary": "The index has climbed in 34 of the last 41 fourth quarters. The seven misses are the part worth studying.",
       "published_at": "2026-09-20T21:24:01+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -218,7 +214,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/meta-has-its-muse/?source=iedfolrf0000001",
       "summary": "Meta has fallen behind the other frontier labs recently, but that may have changed with the introduction of the Muse app.",
       "published_at": "2026-09-20T20:51:18+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -234,48 +230,6 @@
       "score": 0.85
     },
     {
-      "id": "9a8aad45f0c7907b1d09555e0aa97f58db61838a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Global markets weekly: Fed, inflation and rate decisions drive market moves",
-      "url": "https://seekingalpha.com/news/4644593-global-markets-weekly-fed-inflation-and-rate-decisions-drive-market-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-09-20T20:18:06+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "fb9eb7682676f5f7c41a6281910981ddac41516e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/20/better-artificial-intelligence-stock-advanced-micro-devices-vs-sk-hynix/?source=iedfolrf0000001",
-      "summary": "SK Hynix boasts a 44% net margin and trades at 5.8x forward P/E, while AMD commands a 63x multiple despite stronger growth.",
-      "published_at": "2026-09-20T19:08:28+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
       "id": "73ac4ba1f364e90d9c73154e056252838b20c6ea",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -284,7 +238,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/main-street-capital-went-public-at-15-a-share-1000/?source=iedfolrf0000001",
       "summary": "Main Street Capital has generated significant income for investors since its IPO.",
       "published_at": "2026-09-20T19:00:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,7 +256,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/billionaire-bill-ackman-dumps-alphabet-loads-meta/?source=iedfolrf0000001",
       "summary": "Bill Ackman sold Alphabet and bought Meta Platforms during Q2.",
       "published_at": "2026-09-20T17:03:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -326,7 +280,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/buying-this-hidden-software-stock-might-just-give/?source=iedfolrf0000001",
       "summary": "Investors can add the fast-growing AI lab to their portfolios indirectly by picking up shares of Zoom Communications.",
       "published_at": "2026-09-20T15:41:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -344,7 +298,7 @@
       "url": "https://www.fool.com/investing/2026/09/20/joby-aviation-stock-is-down-54-this-year-heres-why/?source=iedfolrf0000001",
       "summary": "After this year's brutal sell-off, Joby looks poised for a rebound.",
       "published_at": "2026-09-20T15:15:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -362,7 +316,7 @@
       "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
       "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
       "published_at": "2026-09-20T15:00:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -380,7 +334,7 @@
       "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
       "summary": "Look beyond short-term noise and focus on stocks with strong growth potential in future years.",
       "published_at": "2026-09-20T12:01:35+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -398,7 +352,7 @@
       "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
       "summary": "Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.",
       "published_at": "2026-09-20T12:00:01+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -406,6 +360,48 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
+    },
+    {
+      "id": "6a171b44c630b9d013274fb1d7414fc7c71dce98",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+      "summary": "",
+      "published_at": "2026-09-19T18:51:16+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "90e1a1b0493fba760056b6f8f179d6365ba1da4d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
+      "summary": "",
+      "published_at": "2026-09-19T18:30:02+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "bf21dbb7d401f99f30a91d8e87afdd4b6a0a4674",
@@ -416,7 +412,7 @@
       "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
       "summary": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI.",
       "published_at": "2026-09-19T16:03:09+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -424,114 +420,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "cc6c59adfadf9aa1f7cec8268dbdba0db2faee1e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
-      "url": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
-      "summary": "",
-      "published_at": "2026-09-19T15:57:24+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "14db51b4286ef9dae83454adc8eaf686db784cb4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
-      "summary": "",
-      "published_at": "2026-09-19T15:52:52+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 0.97
-    },
-    {
-      "id": "10f54fbf3c36e509cf4dedfef6abd8ae956933c4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropics-ipo-coming-heres-means-140500319.html",
-      "summary": "",
-      "published_at": "2026-09-19T14:05:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.64
-    },
-    {
-      "id": "a0c35bdbef4a1282006814f853bf734e07a59ded",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-still-hidden-winner-133700100.html",
-      "summary": "",
-      "published_at": "2026-09-19T13:37:00+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "17274bd544281de5b57ae913279eaf9a3c5df475",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Best Buy Stock Outperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-outperforming-dow-132723594.html",
-      "summary": "",
-      "published_at": "2026-09-19T13:27:23+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "69fc28f2654e756c88c5c22ec8ea3bc79cc5a799",
@@ -542,31 +430,13 @@
       "url": "https://www.cnbc.com/2026/09/19/the-sp-500-just-logged-another-losing-week-these-stocks-could-be-due-for-a-bounce.html",
       "summary": "Another losing week has dragged certain individual stocks to levels where they might find some support.",
       "published_at": "2026-09-19T13:02:42+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
+      "first_seen_at": "2026-09-21T05:54:34.440785+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "dc41e72a627f808c1d3d0a4ac0a91d8f7348abfd",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul",
-      "url": "https://www.scmp.com/business/china-business/article/3368008/perfect-diary-owner-yatsen-doubles-down-skincare-rd-after-business-overhaul?utm_source=rss_feed",
-      "summary": "Yatsen Group, the Chinese beauty company behind Perfect Diary cosmetics, plans to deepen its push into skincare and new product research to sustain its growth, after a years-long overhaul of its business that has seen the firm acquire a string of overseas brands.\nThe Guangzhou-based company will slow its acquisition spree for now and instead focus on expanding its existing portfolio of skincare of",
-      "published_at": "2026-09-19T01:00:10+00:00",
-      "first_seen_at": "2026-09-21T00:50:37.465913+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ma",
       "score": 0.52
     }
   ]
