@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-09-22T20:21:25.174092+00:00",
+  "generated_at": "2026-09-22T23:08:20.600453+00:00",
   "window_hours": 48,
-  "total_items": 16,
+  "total_items": 33,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 15,
-    "HK": 2
+    "US": 30,
+    "HK": 4
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 19
     },
     {
       "key": "macro",
-      "count": 2
-    },
-    {
-      "key": "rating",
-      "count": 1
-    },
-    {
-      "key": "earnings",
-      "count": 1
+      "count": 4
     },
     {
       "key": "ipo",
+      "count": 3
+    },
+    {
+      "key": "capital",
+      "count": 2
+    },
+    {
+      "key": "earnings",
+      "count": 2
+    },
+    {
+      "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "rating",
       "count": 1
     }
   ],
@@ -34,25 +46,103 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 11
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 5
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "e0eb0a0198c5e15a5a34ecf6036410c1a3cbd236",
+      "id": "a91e41750e664634d5dbfaeb8436d2d140a6836c",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Meta(META.US)Muse掀起“AI颠覆交易” 金融、保险、旅游股集体下挫",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3578586",
+      "summary": "",
+      "published_at": "2026-09-22T22:36:05+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "ebe5b288847d66a6c31556cd879a85b09841e069",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "隔夜美股 | 纳指四连涨 闪迪(SNDK.US)涨6.8% 美、布两油走低",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3578584",
+      "summary": "",
+      "published_at": "2026-09-22T22:36:04+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "06186bf83851709c8c2211ee7f815d66bb478802",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 广晟大宝山铜业递表港交所",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3578577",
+      "summary": "",
+      "published_at": "2026-09-22T22:35:08+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "72cb7a7a0cc7f70d53a91f63760b57544c290fc6",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "锦欣生殖(01951)9月22日斥资299.79万港元回购140.5万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3578578",
+      "summary": "",
+      "published_at": "2026-09-22T22:35:08+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "ed4c4b19d7917d92eff657142ea58df09b13c9ea",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Nasdaq rises to new record; S&P 500 closes flat as oil slides for a fifth day",
-      "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
-      "summary": "Traders continued to keep an eye on developments between the U.S. and Iran.",
-      "published_at": "2026-09-22T20:19:11+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "source": "The Motley Fool",
+      "title": "2 Beaten-Down Stocks to Buy Before They Bounce Back",
+      "url": "https://www.fool.com/investing/2026/09/22/2-beaten-down-stocks-to-buy-before-they-bounce-back/?source=iedfolrf0000001",
+      "summary": "The market may be underestimating these companies.",
+      "published_at": "2026-09-22T22:33:01+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -62,39 +152,33 @@
       "score": 0.52
     },
     {
-      "id": "09e430ed8fb4c12b605c0d9344348e560d540fc7",
+      "id": "fcf08d86595b2016dc78b70bc99df0fe04e55f74",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
-      "url": "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
-      "summary": "Todd Gordon breaks down what's going with Meta Platforms.",
-      "published_at": "2026-09-22T19:46:16+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "summary": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+      "published_at": "2026-09-22T21:44:00+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.76
     },
     {
-      "id": "ccbb37fa711af2806fc38d21b6578cf9efd32f09",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Meta CEO扎克伯格将出席特朗普为中国最高领导人举办的国宴",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3578455",
-      "summary": "",
-      "published_at": "2026-09-22T19:27:11+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "id": "45826a9a34f8f33a8bb360271bb24241eb997bd3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "summary": "Meta’s new assistant is topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy",
+      "published_at": "2026-09-22T21:26:00+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -106,8 +190,8 @@
           "market": "US"
         }
       ],
-      "category": "company",
-      "score": 0.85
+      "category": "macro",
+      "score": 1.0
     },
     {
       "id": "a85b34292810021a5921c97cbea5674ed9cc6fcf",
@@ -117,8 +201,8 @@
       "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
       "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
       "summary": "Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.",
-      "published_at": "2026-09-22T19:17:22+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "published_at": "2026-09-22T21:07:21+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -134,6 +218,282 @@
       "score": 0.85
     },
     {
+      "id": "915bd6a6ced5f17a9260ebd1b155aeaffd0e51a6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+      "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
+      "summary": "State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.",
+      "published_at": "2026-09-22T20:46:52+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.52
+    },
+    {
+      "id": "20900114c39973720dc0df30128420d518c04d03",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
+      "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
+      "summary": "The bullish sentiment comes despite calls to slow down AI model development and rekindled investor enthusiasm for a competing part of the AI chip ecosystem.",
+      "published_at": "2026-09-22T20:43:48+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "3785e7ad0f310b7ba7fbec7c6c3402c4da3bcbfb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
+      "url": "https://www.fool.com/investing/2026/09/22/got-5000-2-growth-stocks-building-the-software-bac/?source=iedfolrf0000001",
+      "summary": "Amazon and Palantir will both profit from the AI market's breakneck expansion.",
+      "published_at": "2026-09-22T20:30:00+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "e0eb0a0198c5e15a5a34ecf6036410c1a3cbd236",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Nasdaq rises to new record; S&P 500 closes flat as oil slides for a fifth day",
+      "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+      "summary": "Traders continued to keep an eye on developments between the U.S. and Iran.",
+      "published_at": "2026-09-22T20:21:40+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "5ab7617cc169c75ff8d38bc2d9778eaa9c148e37",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
+      "url": "https://www.fool.com/investing/2026/09/22/amd-stock-has-blown-past-nvidia-this-year-is-it-still-the-better-buy/?source=iedfolrf0000001",
+      "summary": "Chip stocks have been doing well in recent years due to artificial intelligence (AI), and while Nvidia has typically outperformed AMD, the tide has turned over the past year.",
+      "published_at": "2026-09-22T20:00:01+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "09e430ed8fb4c12b605c0d9344348e560d540fc7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
+      "url": "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
+      "summary": "Todd Gordon breaks down what's going with Meta Platforms.",
+      "published_at": "2026-09-22T19:46:16+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "b5e87f2b520042705159d8fc0fd8eb8c75c356a8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: 3 Stocks That Will Be Worth More Than Palantir 5 Years From Now",
+      "url": "https://www.fool.com/investing/2026/09/22/prediction-3-stocks-that-will-be-worth-more-than-p/?source=iedfolrf0000001",
+      "summary": "These tech stocks are growing at an impressive pace, and they are significantly cheaper than Palantir.",
+      "published_at": "2026-09-22T18:23:00+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "513c791a39e781ff5be20050ce9b384e791f00c9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's How AMD Joined the Rule Breakers $1 Trillion Club",
+      "url": "https://www.fool.com/investing/2026/09/22/here-s-how-amd-joined-the-rule-breakers-usd1t-club/?source=iedfolrf0000001",
+      "summary": "Of the 14 U.S.-listed companies now worth $1 trillion or more, 11 have been recommended by Team Rule Breakers or David Gardner.",
+      "published_at": "2026-09-22T18:16:01+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "910cb6d48c0e88664ae6c6d28ed6a06db9b7430b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Vanguard S&P 500 Growth ETF (VOOG) vs. iShares Russell 2000 Growth ETF (IWO): Which ETF Is the Better Buy for Investors?",
+      "url": "https://www.fool.com/coverage/etfs/2026/09/22/vanguard-s-and-p-500-growth-etf-voog-vs-ishares-russell-2000-growth-etf-iwo-which-etf-is-the-better-buy-for-investors/?source=iedfolrf0000001",
+      "summary": "VOOG targets large-cap tech giants, while IWO offers broader exposure to over 1,000 small-cap stocks. Here's how the two stack up.",
+      "published_at": "2026-09-22T17:54:41+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "63b12b3ee975231cc607c26e08bacf401628410c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/09/22/salesforce-vs-servicenow-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "Salesforce offers a more attractive valuation and proven cash generation. ServiceNow offers faster growth and a more defensible market position.",
+      "published_at": "2026-09-22T17:53:34+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "492321c9b41be61208132ed31dd8a6db624e4d31",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
+      "url": "https://www.fool.com/investing/2026/09/22/nasdaq-set-a-record-and-dow-lost-270-points/?source=iedfolrf0000001",
+      "summary": "The Nasdaq set a record on Tuesday morning while the Dow dropped 270 points. Neither move had much news behind it.",
+      "published_at": "2026-09-22T17:06:37+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "466d01cc2cbe6c19eb272412fa55929fbee8a9f0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is Palantir a Millionaire-Maker Stock?",
+      "url": "https://www.fool.com/investing/2026/09/22/is-palantir-a-millionaire-maker-stock/?source=iedfolrf0000001",
+      "summary": "The AI-driven data aggregation company still has a bright future.",
+      "published_at": "2026-09-22T17:05:00+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "9dd00d9b6d3b7dad0f8fbd6ca69bd098d0ea8bd3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever.",
+      "url": "https://www.fool.com/investing/2026/09/22/realty-income-has-outperformed-the-s-and-p-500-in-11-of-13-stock-market-corrections-since-1994-here-s-why-i-d-hold-it-forever/?source=iedfolrf0000001",
+      "summary": "Realty Income is a very resilient dividend stock.",
+      "published_at": "2026-09-22T17:00:01+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
       "id": "118a55326209fb2bcaa56a32f19cbd30ceb4ae79",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -142,7 +502,7 @@
       "url": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
       "summary": "JPMorgan’s commodity team admitted what many are thinking on the Iran situation and oil: We just don't know.",
       "published_at": "2026-09-22T16:05:57+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +520,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3368363/who-chinas-side-will-be-room-weeks-xi-trump-summit?utm_source=rss_feed",
       "summary": "When Xi Jinping sits down with US President Donald Trump in Washington on Thursday, the Chinese leader’s side of the table will be filled with senior aides bringing extensive policy expertise.\nChina’s Ministry of Foreign Affairs confirmed on Monday that Xi would pay a state visit to the United States from Wednesday to Friday.\nThe trip – Xi’s first state visit to Washington since 2015 – will also m",
       "published_at": "2026-09-22T11:00:12+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "HK",
       "markets": [
         "HK",
@@ -177,15 +537,15 @@
       "score": 1.0
     },
     {
-      "id": "0ae45403703a5d8bd2289d3a438290004122364e",
+      "id": "b294e001376580247f27bb36f030a474277a8992",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is J.B. Hunt Transport Services Stock Outperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-transport-services-114815246.html",
+      "title": "Is VeriSign Stock Underperforming the Dow?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verisign-stock-underperforming-dow-145907668.html",
       "summary": "",
-      "published_at": "2026-09-21T11:48:15+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "published_at": "2026-09-21T14:59:07+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -195,15 +555,33 @@
       "score": 0.52
     },
     {
-      "id": "b3b32fa9f0bc2261398280fb991a759c5808c13d",
+      "id": "8736ec5a9b12338e71ffd149ce77aea257ecbce5",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Is Packaging Corporation Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/packaging-corporation-underperforming-nasdaq-114239106.html",
+      "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
       "summary": "",
-      "published_at": "2026-09-21T11:42:39+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "published_at": "2026-09-21T14:49:18+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "e4a1ce8c9b0e0b5488ff3b40d6fd3e5b110c9a7f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Tech Stocks Push S&P Back to Positive Territory for September",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/tech-stocks-push-s-p-back-to-positive-territory-for-september-tVbFucRJIto5MWy0sbwX?siteid=yhoof2&yptr=yahoo",
+      "summary": "",
+      "published_at": "2026-09-21T14:47:49+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -213,93 +591,75 @@
       "score": 0.52
     },
     {
-      "id": "84eb6ae4446ebcb298a553e13259ee8b45261c35",
+      "id": "f5052ee9dd29f39fa07c7a6dbbe63c0e3a34f8fc",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Yahoo Finance",
-      "title": "Netflix Stock Declines After Wells Fargo Downgrades Streamer Over Engagement Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-declines-wells-fargo-113815580.html",
+      "title": "The Fed Just Raised Rates for the First Time Since 2023. CoreWeave’s CEO Sees an ‘Inflection Point,’ But Its $51 Billion Debt Problem Just Got Worse.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html",
       "summary": "",
-      "published_at": "2026-09-21T11:38:15+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "bdeef4825bf9f362eaa478d55de989924329be28",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Regions Financial Stock Underperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-stock-underperforming-p-113729907.html",
-      "summary": "",
-      "published_at": "2026-09-21T11:37:29+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "5e98e64e6f9e5c37da3f5f0ecb86e6599a9d8a67",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Atmos Energy Stock Underperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atmos-energy-stock-underperforming-dow-113138150.html",
-      "summary": "",
-      "published_at": "2026-09-21T11:31:38+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "de1e11ac3d2e535d3f75c2b6204cdfae2466171c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Is Synchrony Financial Stock Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-stock-underperforming-nasdaq-112721927.html",
-      "summary": "",
-      "published_at": "2026-09-21T11:27:21+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "7e8f0c3f1d3573274d891e0054969ee889fa8b01",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Yahoo Finance",
-      "title": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
-      "url": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html",
-      "summary": "",
-      "published_at": "2026-09-21T11:00:00+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "published_at": "2026-09-21T14:36:38+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "d08f8f4f822f9a4f46c777ed24bba026a9ea3edd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Dollar Gains and Gold Falls on Hawkish Fed Comments",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-gains-gold-falls-hawkish-143351060.html",
+      "summary": "",
+      "published_at": "2026-09-21T14:33:51+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "2bef4f3d1f49070626d86f06b1130a3ebf459966",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Baxter Stock Underperforming the Nasdaq?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/baxter-stock-underperforming-nasdaq-143204719.html",
+      "summary": "",
+      "published_at": "2026-09-21T14:32:04+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "4e2f9a4b95745762c6894da4a72b4f194cb7a04e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Yahoo Finance",
+      "title": "Is Expeditors Stock Outperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expeditors-stock-outperforming-p-500-143033324.html",
+      "summary": "",
+      "published_at": "2026-09-21T14:30:33+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
       "score": 0.52
     },
     {
@@ -311,7 +671,7 @@
       "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3368199/why-hawkish-us-fed-wont-derail-hong-kongs-property-recovery?utm_source=rss_feed",
       "summary": "The Hong Kong Monetary Authority, the city’s de facto central bank, probably anticipated the rise in US interest rates last week. However, it is unlikely it foresaw the extent to which the Federal Reserve shifted in a hawkish direction.\nEven Fed watchers were surprised by the unanimous vote to increase borrowing costs and the unambiguous signal that the central bank plans to raise interest rates f",
       "published_at": "2026-09-21T08:30:10+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -329,7 +689,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3368231/despite-stock-stress-catl-likely-retain-ev-battery-dominance-china-analysts-say?utm_source=rss_feed",
       "summary": "Contemporary Amperex Technology Limited’s (CATL) dominance in the Chinese electric vehicle (EV) market is unlikely to slump over the coming year given its brand recognition and edge in technology, analysts said, though its shares have already tumbled amid the battle with profit-squeezed EV makers.\nChinese carmakers have been doubling down on efforts in recent weeks to reduce their reliance on CATL",
       "published_at": "2026-09-21T08:04:55+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -347,7 +707,7 @@
       "url": "https://www.scmp.com/business/article/3368149/mainland-chinas-stock-exchanges-mount-charm-offensive-amid-hong-kong-ipo-boom?utm_source=rss_feed",
       "summary": "Mainland China’s stock exchanges have stepped up lobbying of companies and regulators to prioritise their boards for listings after Hong Kong stole their thunder in fundraising activities in recent years, according to two sources familiar with the matter.\nFigures from the exchanges recently met representatives of some mainland companies planning Hong Kong listings, especially first-time issuers an",
       "published_at": "2026-09-21T01:00:10+00:00",
-      "first_seen_at": "2026-09-22T20:21:25.174092+00:00",
+      "first_seen_at": "2026-09-22T23:08:20.600453+00:00",
       "market": "HK",
       "markets": [
         "HK"
