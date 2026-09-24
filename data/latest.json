@@ -1,49 +1,48 @@
 {
-  "generated_at": "2026-09-24T18:32:32.987451+00:00",
+  "generated_at": "2026-09-24T21:58:10.825159+00:00",
   "window_hours": 48,
-  "total_items": 40,
+  "total_items": 31,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 38,
-    "CN": 1,
-    "HK": 1
+    "US": 29,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 16
+      "count": 12
     },
     {
       "key": "macro",
-      "count": 8
-    },
-    {
-      "key": "capital",
-      "count": 5
-    },
-    {
-      "key": "product",
-      "count": 3
-    },
-    {
-      "key": "earnings",
-      "count": 3
+      "count": 9
     },
     {
       "key": "rating",
       "count": 2
     },
     {
-      "key": "policy",
-      "count": 1
+      "key": "earnings",
+      "count": 2
     },
     {
       "key": "ipo",
+      "count": 2
+    },
+    {
+      "key": "ma",
+      "count": 1
+    },
+    {
+      "key": "capital",
       "count": 1
     },
     {
       "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "product",
       "count": 1
     }
   ],
@@ -51,25 +50,43 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 34
+      "count": 24
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "0061c59b1ba267381bfc86664bcab06e6eaccc70",
+      "id": "78e90f389aae80c16f146578998283c8608192b1",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "标普全球将AZZ评级上调至\"BB\"，因债务快速削减且杠杆率持续改善",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3582889",
+      "summary": "",
+      "published_at": "2026-09-24T21:41:48+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "10bc4c03e58831f7e226b82e400d49d3b2101a12",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Surging Treasury yields are posing a brand new problem for Kevin Warsh and the Fed",
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
       "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
       "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-      "published_at": "2026-09-24T18:30:35+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "published_at": "2026-09-24T21:40:19+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -79,93 +96,201 @@
       "score": 0.52
     },
     {
-      "id": "f7e8cbc54f2302c82fd1f5e81a9d6ba864720756",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "S&P 500 is little changed as traders weigh rising yields against optimism over Strait of Hormuz reopening: Live updates",
-      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
-      "summary": "Stocks fell on Thursday as Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
-      "published_at": "2026-09-24T18:28:34+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.76
-    },
-    {
-      "id": "d9ce0fd5feac94cf9ec363c96ac7d1e13459e3ab",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "FAFSA opens early: Why families should apply for college aid now",
-      "url": "https://www.cnbc.com/2026/09/24/fafsa-opens-early-college-aid.html",
-      "summary": "College-bound students and their families can now complete the 2027-28 Free Application for Federal Student Aid, or FAFSA.",
-      "published_at": "2026-09-24T18:19:40+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "b9fbb59c918e1474d43f9fe09f5ed03960645a39",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "First Trust NASDAQ-100 Ex-Technology Sector Idx Fd ETF declares $0.1919 dividend",
-      "url": "https://seekingalpha.com/news/4646847-first-trust-nasdaqminus-100-ex-technology-sector-idx-fd-etf-declares-0_1919-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "id": "1bb3f44944f5e1d1faac479893faf9c7952a472f",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.02%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3582883",
       "summary": "",
-      "published_at": "2026-09-24T18:17:09+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "1848fc75da79f46aef171e8d8eec320062960894",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "First Trust NASDAQ ABA Community Bank Index Fund ETF declares $0.3585 dividend",
-      "url": "https://seekingalpha.com/news/4646846-first-trust-nasdaq-aba-community-bank-index-fund-etf-declares-0_3585-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-09-24T18:16:48+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "f517fbdefd3c5c46ba34f8180c3dddc2be783081",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
-      "url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
-      "summary": "U.S. stocks have kept chugging higher this year, but bonds haven’t been able to shake off a five-year slump. That has sent some investors interested in a diversified portfolio searching for alternatives.",
-      "published_at": "2026-09-24T18:07:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "published_at": "2026-09-24T21:30:14+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "2654a01e50c58028e054027b108a9e01c8741e6a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
+      "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+      "summary": "Meta CEO Mark Zuckerberg's new Muse Charm device is intended to put his company ahead of rivals like OpenAI and Google in AI agents and consumer hardware.",
+      "published_at": "2026-09-24T21:17:08+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "macro",
+      "score": 0.85
+    },
+    {
+      "id": "7bc874e76a92ec805a305e2d07329d1ca983cbbf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Sept. 24: BlackBerry Lifts Fiscal 2027 Guidance on Record QNX Revenue",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-blackberry-lifts-fiscal-2027-guidance-on-record-qnx-revenue/?source=iedfolrf0000001",
+      "summary": "On Sept. 24, 2026, the security software maker beat Q2 estimates and raised its full-year outlook, citing automotive design wins and 26% revenue growth.",
+      "published_at": "2026-09-24T21:07:12+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "6c7e6c7e68fa5103b0dfd1a91c0d3be0d3b29fb3",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Select Water Solutions股价盘后飙升14.4%，收购Pilot Water Solutions引爆市场热情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3582867",
+      "summary": "",
+      "published_at": "2026-09-24T21:00:29+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.61
+    },
+    {
+      "id": "2def1bf09894afc325142f5cc0243bcdb28e65d1",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "STAAR Surgical股价盘后上涨，董事会宣布5,000万美元股份回购计划",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3582861",
+      "summary": "",
+      "published_at": "2026-09-24T20:47:03+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.65
+    },
+    {
+      "id": "e6fceb760b175cf948fbd934a1416f47ff443eb8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Dow falls for a third day as bond yields hit fresh highs: Live updates",
+      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+      "summary": "Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
+      "published_at": "2026-09-24T20:35:38+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "f8066d18bd6bbd17c23464ba535ba582e28d2c46",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Cerebras vs. SoundHound: Which AI Tech Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/09/24/cerebras-vs-soundhound-which-ai-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "One company just swung to profitability on 76% revenue growth; the other is narrowing losses while integrating major acquisitions.",
+      "published_at": "2026-09-24T20:30:01+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "60b4b82975169102ee65a33861328e4677004bea",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+      "url": "https://www.fool.com/investing/2026/09/24/amazon-blocks-meta-s-muse-it-could-be-a-gift-for-walmart-and-shopify/?source=iedfolrf0000001",
+      "summary": "Who will win in the latest AI power struggle?",
+      "published_at": "2026-09-24T19:45:01+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "f350b1ebc1424d3736b64c1cb2157cbeb5d51fde",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "AMD Investors Must Pay Attention to This Huge Warning Sign",
+      "url": "https://www.fool.com/investing/2026/09/24/amd-investors-must-pay-attention-to-this-warning/?source=iedfolrf0000001",
+      "summary": "AMD's stock has gotten very expensive.",
+      "published_at": "2026-09-24T19:43:00+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "e79af040c16ac94a2509faa471daea81242736fd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+      "url": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
+      "summary": "Inflation pressures have been so persistent this year in part because businesses have been able to pass along higher prices to consumers.",
+      "published_at": "2026-09-24T19:42:00+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
       "score": 0.52
     },
     {
@@ -176,8 +301,68 @@
       "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
       "url": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
       "summary": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
-      "published_at": "2026-09-24T17:56:42+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "published_at": "2026-09-24T18:38:44+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "9b1eb454c8920e653bd0773cbd4d76f49c545868",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Most Investors Are Chasing Flashy IPOs. CoreWeave Is the One I Predict Will Outperform by 2028.",
+      "url": "https://www.fool.com/investing/2026/09/24/most-investors-are-chasing-flashy-ipos-coreweave-i/?source=iedfolrf0000001",
+      "summary": "CoreWeave's AI platform, giant backlog, and gigawatt-scale build-out make a compelling case for long-term stock gains.",
+      "published_at": "2026-09-24T18:34:00+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "67ef47ed8c09c3ad8c1b0a8d440e1fb0e514bff8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: NIO Is a Better Buy Than Lucid for the Next Decade",
+      "url": "https://www.fool.com/investing/2026/09/24/prediction-writer-pick-is-a-better-buy-than-hot-st/?source=iedfolrf0000001",
+      "summary": "The Chinese EV maker has a better shot at a comeback.",
+      "published_at": "2026-09-24T18:30:00+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NIO",
+          "name": "蔚来",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "d9ce0fd5feac94cf9ec363c96ac7d1e13459e3ab",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "FAFSA opens early: Why families should apply for college aid now",
+      "url": "https://www.cnbc.com/2026/09/24/fafsa-opens-early-college-aid.html",
+      "summary": "College-bound students and their families can now complete the 2027-28 Free Application for Federal Student Aid, or FAFSA.",
+      "published_at": "2026-09-24T18:19:40+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -195,7 +380,7 @@
       "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html",
       "summary": "Bond yields have spiked due to expectations of persistent inflation and further interest rate hikes from the Federal Reserve, which may impact auto loan rates.",
       "published_at": "2026-09-24T17:45:53+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -203,60 +388,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "0ad60156a9bd6fb92b2a9b460e0a7c423c3e5200",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Smartest S&P 500 Dividend Stock to Buy With $1,000 Right Now",
-      "url": "https://www.fool.com/investing/2026/09/24/the-smartest-sp-500-dividend-stock-to-buy-with-100/?source=iedfolrf0000001",
-      "summary": "Realty Income is still an attractive dividend play in this messy market.",
-      "published_at": "2026-09-24T17:35:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "482ff1539e2c2368d1581a0a8bcdaff02666ca51",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "标普因杠杆率上升下调Paramount Skydance信用评级",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3582735",
-      "summary": "",
-      "published_at": "2026-09-24T17:34:24+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "8655709f2c112af40149cdc4538f85cda8d90138",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "An S&P 500 Index Fund Already Owns These Financial Stocks. Here's Whether to Own More.",
-      "url": "https://www.fool.com/investing/2026/09/24/an-sp-500-index-fund-already-owns-these-financial/?source=iedfolrf0000001",
-      "summary": "Do you really need more financial stocks?",
-      "published_at": "2026-09-24T17:30:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "e09cb529ec7a8e97c429a0db6b1f1913a8c1f2cc",
@@ -267,7 +398,7 @@
       "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
       "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
       "published_at": "2026-09-24T17:12:04+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -275,198 +406,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "9ff991ba9d6c63541b59fdb64dc1d07c584d896d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta nears first new high in a year as Muse success showcases winning AI strategy",
-      "url": "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html",
-      "summary": "Meta is transforming into more than a social-media juggernaut in the AI era. Muse is the centerpiece of its strategy.",
-      "published_at": "2026-09-24T17:07:45+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.85
-    },
-    {
-      "id": "0bed07a5aec526c8ec59384e28a8049727d8f6f6",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Storage Vault Canada股价今日为何下跌？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3582712",
-      "summary": "",
-      "published_at": "2026-09-24T16:59:22+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "CN",
-      "markets": [
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "4409ba56922fd9360514d9e5c60442bb6e858845",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Inside the $600 Billion Sovereign AI Gold Rush -- and Why Palantir Is Positioned to Win",
-      "url": "https://www.fool.com/investing/2026/09/24/inside-the-600-billion-sovereign-ai-gold-rush-and/?source=iedfolrf0000001",
-      "summary": "McKinsey anticipates that sovereign AI could capture up to 40% of future artificial intelligence spending through 2030.",
-      "published_at": "2026-09-24T16:48:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "d84d6d0602bc9e4d6cc89e15edbd55e2aa3b0360",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Billionaire Bill Ackman’s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
-      "url": "https://www.fool.com/investing/2026/09/24/billionaire-bill-ackman-s-pershing-square-capital-management-has-12-7-of-its-portfolio-invested-in-this-beaten-down-stock/?source=iedfolrf0000001",
-      "summary": "Is it a great long-term pick?",
-      "published_at": "2026-09-24T16:41:01+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "5a30636d97672b773feb0a0b2c6585198163bbb0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "EquipmentShare股价周四下跌6%，此前做空机构发布报告",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3582702",
-      "summary": "",
-      "published_at": "2026-09-24T16:39:56+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "product",
-      "score": 0.61
-    },
-    {
-      "id": "cd9ec291d6b22368e492e85bf4454ee95e939193",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "News About Muse Drove a 1-Day 11% Jump in Meta Stock. But the AI Agent Could Be Even More Valuable Than the Market Is Giving It Credit For.",
-      "url": "https://www.fool.com/investing/2026/09/24/news-about-muse-drove-1-day-11-jump-in-meta-stock/?source=iedfolrf0000001",
-      "summary": "The value of Meta's new AI agent goes beyond the subscription revenue it could generate.",
-      "published_at": "2026-09-24T16:32:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "50e4a45cad98a74d1d1ebc7a8fcafb135d83800e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-midday-sept-24-stocks-slide-as-treasury-yields-climb-oracle-declares-force-majeure/?source=iedfolrf0000001",
-      "summary": "Bond sell-off pressures equities across all three major indices, while Meta gets a boost from its product launch, today, Sept. 24, 2026.",
-      "published_at": "2026-09-24T16:24:23+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.97
-    },
-    {
-      "id": "bd296d7c305596a5d2b3caedb5c014b3fcc007fd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Micron Stock Gets a Big Wall Street Boost Ahead of Earnings",
-      "url": "https://www.fool.com/investing/2026/09/24/micron-stock-gets-a-big-wall-street-boost-ahead-of-earnings/?source=iedfolrf0000001",
-      "summary": "Higher prices and strong demand are setting Micron up for a massive quarter.",
-      "published_at": "2026-09-24T16:15:41+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "0c994cd1a8a01f5d6cdd405aafac0af11d83c951",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Meta Platforms Stock Keeps Going Up",
-      "url": "https://www.fool.com/investing/2026/09/24/why-meta-platforms-stock-keeps-going-up/?source=iedfolrf0000001",
-      "summary": "Muse AI agents could be a $50 billion business for Meta, says Raymond James.",
-      "published_at": "2026-09-24T15:57:24+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "dea0e62ed21e8eeefe632ec3d4605e87684b606c",
@@ -477,7 +416,7 @@
       "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
       "summary": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
       "published_at": "2026-09-24T15:56:24+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -491,102 +430,6 @@
       ],
       "category": "company",
       "score": 0.85
-    },
-    {
-      "id": "6ad41f2acb65be05ffaab217bdfc6fe49be282b3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Dividend Stocks to Buy and Hold Even if the Fed Keeps Raising Interest Rates.",
-      "url": "https://www.fool.com/investing/2026/09/24/3-dividend-stocks-to-buy-and-hold-even-if-the-fed/?source=iedfolrf0000001",
-      "summary": "The Federal Reserve may keep rates higher for longer, but these three dividend stocks are built around the everyday purchases consumers are unlikely to stop making.",
-      "published_at": "2026-09-24T15:45:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.76
-    },
-    {
-      "id": "096639ec1b91ade2965485b26612685483be6d03",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "2 Stocks Down 17% and 34% to Buy Now and Hold for the Next Decade",
-      "url": "https://www.fool.com/investing/2026/09/24/2-stocks-down-buy-now-hold-decade/?source=iedfolrf0000001",
-      "summary": "These growing businesses are still benefiting from major tailwinds.",
-      "published_at": "2026-09-24T15:15:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "562e364643d811a715332d861783086aa61a4d35",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet the Market's Newest $1 Trillion Stock: 3 Things to Know Before Buying AMD",
-      "url": "https://www.fool.com/investing/2026/09/24/meet-the-markets-newest-1-trillion-stock-3-things/?source=iedfolrf0000001",
-      "summary": "AMD shares have been on fire this year.",
-      "published_at": "2026-09-24T15:00:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "6f5c4fb9a39554c68537a93bc702b3d6b0bc0821",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds",
-      "url": "https://www.cnbc.com/2026/09/24/citi-family-offices-inflation-investing.html",
-      "summary": "Inflation displaced tariffs as family offices' top investment concern in 2026, per a new Citi Wealth survey.",
-      "published_at": "2026-09-24T14:36:13+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "policy",
-      "score": 0.52
-    },
-    {
-      "id": "d60733dc71b7c27d090a03b596025780382a7521",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Better Passive Income Opportunity: 10-Year Treasury Notes Yielding 5% or These 3 S&P 500 Dividend Stocks? History Offers a Clear Answer.",
-      "url": "https://www.fool.com/investing/2026/09/24/better-passive-income-opportunity-10-year-treasury/?source=iedfolrf0000001",
-      "summary": "If you're looking for an income investment to plug into for more than a few years, take a step back and look at the longer-term math.",
-      "published_at": "2026-09-24T13:51:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
     },
     {
       "id": "1f014de857704f286336a062626372ad5a9ae86c",
@@ -597,7 +440,7 @@
       "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
       "summary": "Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site.",
       "published_at": "2026-09-24T13:49:39+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -613,24 +456,6 @@
       "score": 0.85
     },
     {
-      "id": "8cf6bb858edf07f4d34035b4389755fa233dc78c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stitch Fix (SFIX) Q4 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/09/24/stitch-fix-sfix-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Revenue growth returned amid higher acquisition costs and consumer headwinds.",
-      "published_at": "2026-09-24T13:38:30+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "3f0abbaf2bdf96e8c2a3248817ac402747b185ef",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -639,7 +464,7 @@
       "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte?utm_source=rss_feed",
       "summary": "Beijing’s recent tightening of approvals for humanoid robot makers seeking initial public offerings (IPOs) poses no threat to companies with clear commercialisation strategies, as funding channels remain wide open for qualified players, according to Deloitte China.\n“Market funds are shifting from the ‘blind rush’ of the past to ‘fine screening’,” said Dick Kay, Deloitte China’s capital market serv",
       "published_at": "2026-09-24T09:08:50+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -657,7 +482,7 @@
       "url": "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
       "summary": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies.\nMicrosoft topped the list of sales transactions, with six trades totalling up to US$31 million, according to filings disclosed by the ",
       "published_at": "2026-09-23T12:30:07+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -681,7 +506,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/palantir-reveals-ai-sovereignty-strategy-054053859.html",
       "summary": "",
       "published_at": "2026-09-23T05:40:53+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -705,7 +530,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3368470/ai-trade-outlook-brightens-falling-oil-and-metas-muse-agent-ahead-xi-trump-meeting?utm_source=rss_feed",
       "summary": "The global artificial intelligence trade is staging a comeback, as a confluence of falling oil prices, Meta Platforms’ launch of a new agentic tool and anticipation surrounding the China-US leadership summit reignite investor interest in technology stocks.\nThe Nasdaq-100 Index – where tech firms make up nearly 70 per cent of the 100 companies featured – hit an all-time high on Tuesday, surpassing ",
       "published_at": "2026-09-23T05:02:40+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -729,7 +554,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
       "summary": "",
       "published_at": "2026-09-23T04:46:53+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -753,7 +578,7 @@
       "url": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
       "summary": "",
       "published_at": "2026-09-23T04:33:16+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -782,7 +607,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
       "summary": "",
       "published_at": "2026-09-23T04:24:33+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -806,7 +631,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
       "summary": "",
       "published_at": "2026-09-23T04:17:10+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -835,7 +660,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html",
       "summary": "",
       "published_at": "2026-09-23T04:13:16+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -853,7 +678,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-backs-meta-stock-020300157.html",
       "summary": "",
       "published_at": "2026-09-23T02:03:00+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -877,7 +702,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/retired-couple-1-4-million-013607065.html",
       "summary": "",
       "published_at": "2026-09-23T01:36:07+00:00",
-      "first_seen_at": "2026-09-24T18:32:32.987451+00:00",
+      "first_seen_at": "2026-09-24T21:58:10.825159+00:00",
       "market": "US",
       "markets": [
         "US"
