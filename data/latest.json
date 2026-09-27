@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-27T00:45:48.863299+00:00",
+  "generated_at": "2026-09-27T06:14:32.750907+00:00",
   "window_hours": 48,
-  "total_items": 12,
+  "total_items": 14,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 12
+    "US": 14
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 5
+      "count": 6
+    },
+    {
+      "key": "rating",
+      "count": 3
     },
     {
       "key": "macro",
@@ -21,15 +25,7 @@
       "count": 1
     },
     {
-      "key": "rating",
-      "count": 1
-    },
-    {
       "key": "earnings",
-      "count": 1
-    },
-    {
-      "key": "ipo",
       "count": 1
     }
   ],
@@ -38,9 +34,109 @@
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "count": 12
+    },
+    {
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "fe1cf36e7082a3aece57989f7af99582ff9dd53c",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "五大分析师AI动态：Muse AI被视为Meta重要催化剂；微软获上调评级",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3584533",
+      "summary": "",
+      "published_at": "2026-09-27T05:16:56+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "market": "US"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "9b5f533fa25f199588451bf431f4f2254998ba9b",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "How Asia-Pacific property markets are drawing fresh capital despite US rate uncertainty",
+      "url": "https://www.scmp.com/business/article/3368796/how-asia-pacific-property-markets-are-drawing-fresh-capital-despite-us-rate-uncertainty?utm_source=rss_feed",
+      "summary": "Property markets in the Asia-Pacific region are likely to remain attractive despite heightened uncertainty over monetary policy after the US Federal Reserve delivered its first interest rate increase in more than three years this month, analysts say, with several asset classes and sectors expected to draw investor interest.\n“We’ve seen volumes, specifically cross-border volumes in the region, incr",
+      "published_at": "2026-09-27T03:00:16+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "011454999a0df0730e83edc42225620a7c9a31e7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta Stock Is Having Its Best Month Since 2013. History Says Every 20% Month Has Led to Gains a Year Later.",
+      "url": "https://www.fool.com/investing/2026/09/26/meta-stock-is-having-its-best-month-since-2013-history-says-every-20-month-has-led-to-gains-a-year-later/?source=iedfolrf0000001",
+      "summary": "Most of the social media giant's earlier 20% months came with hard numbers behind them. Does this one?",
+      "published_at": "2026-09-27T02:52:01+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "3f3d9f4087fdaec8d2540bed22c01e7255fc13e8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: Here's What a $5,000 Investment in AMD Could Be Worth by 2030",
+      "url": "https://www.fool.com/investing/2026/09/26/prediction-heres-what-a-5000-investment-in-amd-cou/?source=iedfolrf0000001",
+      "summary": "Could the stock jump by at least 50% by then, or is it already peaking?",
+      "published_at": "2026-09-27T01:38:00+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
     {
       "id": "fcc269200080c1f5dea899748782ed6a43d0bec8",
       "site_id": "us_global",
@@ -50,7 +146,7 @@
       "url": "https://www.fool.com/investing/2026/09/26/fintech-stock-lends-money-it-doesnt-hold-what-does/?source=iedfolrf0000001",
       "summary": "The supply chain of loans could be in a crunch during an economic calamity.",
       "published_at": "2026-09-26T19:05:00+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,7 +164,7 @@
       "url": "https://www.fool.com/investing/2026/09/26/here-s-how-many-shares-of-this-15-yielding-monthly-dividend-stock-you-d-need-to-cover-your-mortgage-payment/?source=iedfolrf0000001",
       "summary": "AGNC Investment invests in residential mortgages.",
       "published_at": "2026-09-26T18:30:02+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,7 +182,7 @@
       "url": "https://www.fool.com/investing/2026/09/26/why-is-pepsicos-stock-down-10-while-the-sp-500-is/?source=iedfolrf0000001",
       "summary": "PepsiCo is muddling through a rough patch, but it is severely lagging this key competitor.",
       "published_at": "2026-09-26T18:15:00+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -104,7 +200,7 @@
       "url": "https://www.fool.com/investing/2026/09/26/1-agentic-ai-chip-stock-to-buy-and-1-to-sell/?source=iedfolrf0000001",
       "summary": "AMD looks like a great buy, while ARM Holdings' stock has gotten ahead of itself.",
       "published_at": "2026-09-26T17:16:00+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -133,7 +229,7 @@
       "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
       "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
       "published_at": "2026-09-26T16:57:57+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -151,7 +247,7 @@
       "url": "https://www.fool.com/investing/2026/09/26/wall-street-analysts-eli-lilly-share-price/?source=iedfolrf0000001",
       "summary": "Eli Lilly's share price climb has decelerated in 2026.",
       "published_at": "2026-09-26T16:32:00+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -169,7 +265,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/09/26/figma-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "Palantir's hypergrowth and profitability are rare at this scale, but the valuation leaves little room for error. Figma's growth reacceleration is encouraging, but the path to consistent profitability is still being established.",
       "published_at": "2026-09-26T15:33:02+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -193,7 +289,7 @@
       "url": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
       "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
       "published_at": "2026-09-26T15:30:00+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -201,30 +297,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "95f42003a6e53bdd597bdf1d377cd2a4f5861547",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Can AMD Stock Reach $600?",
-      "url": "https://www.fool.com/investing/2026/09/26/can-amd-stock-reach-600/?source=iedfolrf0000001",
-      "summary": "AMD's AI opportunity is getting larger, but so are the expectations built into the stock. Here are the numbers, competitive advantages, and risks investors should be watching now.",
-      "published_at": "2026-09-26T14:30:00+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "e656fb8aeb4acc43a513644a38b7658f5ff1f9ab",
@@ -235,31 +307,13 @@
       "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
       "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
       "published_at": "2026-09-25T22:41:12+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "b38f72fec63abb2994a3cdef997c319a7497174c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
-      "published_at": "2026-09-25T17:19:19+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
       "score": 0.52
     },
     {
@@ -271,7 +325,7 @@
       "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
       "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
       "published_at": "2026-09-25T11:08:05+00:00",
-      "first_seen_at": "2026-09-27T00:45:48.863299+00:00",
+      "first_seen_at": "2026-09-27T06:14:32.750907+00:00",
       "market": "US",
       "markets": [
         "US"
