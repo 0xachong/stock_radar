@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-09-29T15:22:02.229221+00:00",
+  "generated_at": "2026-09-29T20:06:56.232653+00:00",
   "window_hours": 48,
-  "total_items": 32,
+  "total_items": 22,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 26,
-    "HK": 6
+    "US": 20,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 8
-    },
-    {
-      "key": "company",
-      "count": 7
-    },
-    {
-      "key": "rating",
       "count": 5
     },
     {
-      "key": "ipo",
+      "key": "company",
       "count": 4
+    },
+    {
+      "key": "ma",
+      "count": 3
     },
     {
       "key": "macro",
       "count": 3
     },
     {
-      "key": "policy",
+      "key": "rating",
       "count": 2
     },
     {
       "key": "capital",
-      "count": 1
+      "count": 2
     },
     {
       "key": "product",
       "count": 1
     },
     {
-      "key": "ma",
+      "key": "ipo",
+      "count": 1
+    },
+    {
+      "key": "policy",
       "count": 1
     }
   ],
@@ -50,157 +50,25 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 21
+      "count": 14
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 11
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "d39070064ad4de837463b208b462b7f3ddd5ea91",
+      "id": "4001f671ba6e966c96aac9f83fd8e80ddd222448",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "OpenAI DevDay live updates: Altman faces safety questions, Meta AI chief pokes fun at rival",
-      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-      "summary": "Follow CNBC’s live coverage of OpenAI DevDay 2026, including Sam Altman’s 12 p.m. ET interview, keynote and developer announcements.",
-      "published_at": "2026-09-29T14:54:51+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "a033ae3903a92db8c608f4b636f4955fd22f6af3",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "富国银行下调科技板块评级，指估值过高且债务负担加重",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3588390",
-      "summary": "",
-      "published_at": "2026-09-29T14:52:25+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.61
-    },
-    {
-      "id": "6b0cd7821a736050513391320d4b49badb0a1118",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "OpenAI年化营收接近700亿美元，AI IPO竞赛持续升温",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3588383",
-      "summary": "",
-      "published_at": "2026-09-29T14:48:23+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "34cb9279f81e2827070f31b9d3502b581e899f3b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Monster Beverage Is Lagging the S&P 500 in 2026. Here's Where the Stock Could Trade by September 2027.",
-      "url": "https://www.fool.com/investing/2026/09/29/monster-beverage-is-lagging-the-sp-500-in-2026/?source=iedfolrf0000001",
-      "summary": "Even if it's lagging the S&amp;P 500 now, Monster still has plenty of potential to outperform the broader markets moving forward.",
-      "published_at": "2026-09-29T14:45:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "7bc35d01a6d9fd24231490dc8e22ebfe048ba678",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-      "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-      "published_at": "2026-09-29T14:37:07+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "823d224af440bc6cbe619326ed25ac86321cea7a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "专利侵权索赔一审遭驳回！“3D视觉第一股”奥比中光冲刺港股，实控人及高管套现近8亿",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3588360",
-      "summary": "",
-      "published_at": "2026-09-29T14:36:06+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "a617707b9f9db6f37ade2cbc16ebce0666df3840",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "极兔速递-W(01519)9月29日斥资2746.2万港元回购319.1万股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3588356",
-      "summary": "",
-      "published_at": "2026-09-29T14:35:14+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "64f5a3bdfd14a0fb9d3d7c735a7bd248328bd42b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nvidia vs. AMD: Which AI Chip Stock Has More Room to Run After AMD's Surge Past $1 Trillion?",
-      "url": "https://www.fool.com/investing/2026/09/29/nvidia-vs-amd-which-ai-chip-stock-has-more-room-to/?source=iedfolrf0000001",
-      "summary": "AMD stock has nearly tripled this year, propelling the company into the $1 trillion club.",
-      "published_at": "2026-09-29T14:15:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+      "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
+      "published_at": "2026-09-29T19:34:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -212,175 +80,127 @@
           "market": "US"
         }
       ],
+      "category": "ma",
+      "score": 0.97
+    },
+    {
+      "id": "51f6902954693b551d35f9df39befda0cefedcf0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued.",
+      "url": "https://www.fool.com/investing/2026/09/29/ive-covered-palantir-for-5-years-heres-how-to-know/?source=iedfolrf0000001",
+      "summary": "After covering Palantir for several years, arguments over the company's valuation always seem to rise to the surface.",
+      "published_at": "2026-09-29T19:27:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
       "category": "company",
       "score": 0.97
     },
     {
-      "id": "62e6c0aba2959a9935378c71ea1c58e00b2e6d9d",
+      "id": "ac5706857fc7d0ee6ec547b583171b4e995b6d98",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Apple (AAPL): 1 Number That Proves Its AI Strategy Is Different From the Hyperscalers'",
-      "url": "https://www.fool.com/investing/2026/09/29/apple-aapl-1-number-ai-strategy-hyperscalers/?source=iedfolrf0000001",
-      "summary": "The company is standing on the sidelines and watching its peers spend aggressively on the latest technological craze.",
-      "published_at": "2026-09-29T14:00:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "Seeking Alpha Market News",
+      "title": "Salesforce in focus as Oppenheimer reiterates Outperform rating after customer survey",
+      "url": "https://seekingalpha.com/news/4648183-salesforce-in-focus-as-oppenheimer-reiterates-outperform-rating-after-customer-survey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-09-29T19:13:34+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "AAPL",
-          "name": "苹果",
+          "symbol": "CRM",
+          "name": "Salesforce",
           "market": "US"
         }
       ],
-      "category": "macro",
+      "category": "rating",
       "score": 0.85
     },
     {
-      "id": "e1108f077d32db23146684ee97078a8ed19d3c27",
+      "id": "55cb6614b739b68cac71bb44423a287936c6a2ab",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Robinhood Markets vs. Morningstar: Which Financial Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/29/robinhood-markets-vs-morningstar-which-financial-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Robinhood's 51% revenue surge and 42% net margins clash with Morningstar's steady 7.5% growth and lower valuation multiples, a classic growth-versus-value showdown.",
-      "published_at": "2026-09-29T13:50:01+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "CNBC Top News",
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+      "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+      "published_at": "2026-09-29T19:07:29+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "3c8ab77fa30bdc7dbc97a0e5af10effa8af8ed4e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Before you invest in the Oura IPO, understand what you’re buying",
-      "url": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
-      "summary": "The health-data company could see a pop in its stock price, but there are plenty of warning signs.",
-      "published_at": "2026-09-29T13:45:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "5bd1b0562d0f44b023b788e38d585546b47b9171",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nike Is Down Nearly 50%, and Wall Street Analysts Keep Downgrading It. Here's Why History Says They're Missing the Bigger Picture.",
-      "url": "https://www.fool.com/investing/2026/09/29/nike-is-down-and-wall-street-analysts-keep-down/?source=iedfolrf0000001",
-      "summary": "Nike has taken a beating, but its latest slump could look very different.",
-      "published_at": "2026-09-29T13:13:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
+      "category": "macro",
       "score": 0.52
     },
     {
-      "id": "0425e55956dd9dd987011af0c3c184fbb383b276",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Arista Networks vs. International Business Machines: Which Tech Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/29/arista-networks-vs-international-business-machines-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "One just posted revenue growth of 38%; the other generates robust free cash flow and pays a dividend.",
-      "published_at": "2026-09-29T13:10:01+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "1db09cb6dd455367e2ad4298b09f427dbe3ceacc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
-      "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
-      "summary": "Nvidia is looking to spend hundreds of billions of dollars buying its stock at a time when it's historically cheap based on earnings expectations.",
-      "published_at": "2026-09-29T13:09:30+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "9a6b2430be73647feacf2750d488e36338d85d60",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Coinbase Ventures and CMCC Global close strategic funding round with trading firm Raven",
-      "url": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
-      "summary": "Raven is an institutional market-maker for prediction markets, generating constant buy and sell orders on contracts.",
-      "published_at": "2026-09-29T13:05:06+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "id": "ce5af8a4939c3f06b6a306777fa850e33cbcba94",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "台积电ADR逼近前高461美元关键阻力：实时更新",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3586253",
+      "summary": "",
+      "published_at": "2026-09-29T19:05:48+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "COIN",
-          "name": "Coinbase",
+          "symbol": "TSM",
+          "name": "台积电",
           "market": "US"
         }
       ],
-      "category": "rating",
+      "category": "company",
       "score": 0.85
     },
     {
-      "id": "ed329c483db82ddaa4054661327c7413a8e29ba9",
+      "id": "186d9d9f62cabfda090a1e739a017c81b671f93c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "url": "https://www.cnbc.com/2026/09/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-.html",
-      "summary": "Reuters got a look at Anthropic's IPO filing, and OpenAI scrapped a model release over safety concerns.",
-      "published_at": "2026-09-29T13:02:41+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "The Motley Fool",
+      "title": "Here's Why AAR Corp Stock Slumped Today Despite Excellent Earnings",
+      "url": "https://www.fool.com/investing/2026/09/29/heres-why-aar-corp-slumped-today-despite-excellent/?source=iedfolrf0000001",
+      "summary": "The company's excellent earnings report was overshadowed by news of its acquisition of a controlling interest in another company.",
+      "published_at": "2026-09-29T18:40:58+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.61
+      "category": "earnings",
+      "score": 0.76
     },
     {
-      "id": "c78cd5161a2680d35efcd0457acb6549ffe12a51",
+      "id": "9454c6844561899b8eee406e38123f5236c2f321",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market",
-      "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
-      "summary": "Following the success of its Muse personal AI agent, Meta is introducing a specialized version for small businesses.",
-      "published_at": "2026-09-29T12:43:08+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
+      "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+      "summary": "Personal AI assistants are shaping up to be the new frontier for tech companies.",
+      "published_at": "2026-09-29T18:34:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -396,57 +216,15 @@
       "score": 0.85
     },
     {
-      "id": "608644028630f2d93f53b2dadd9e030137011cbc",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The SEC Has Given the Green Light to Tokenized Stock Trading. These 2 Crypto Stocks Will Be the Big Winners.",
-      "url": "https://www.fool.com/investing/2026/09/29/the-sec-has-given-the-green-light-to-tokenized-sto/?source=iedfolrf0000001",
-      "summary": "The SEC's asset tokenization push will be beneficial for Robinhood and Coinbase, among others.",
-      "published_at": "2026-09-29T12:39:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        }
-      ],
-      "category": "policy",
-      "score": 0.97
-    },
-    {
-      "id": "c4dec3a9a532765e6e21cec39f476f26136c9584",
+      "id": "4afe0b9d407f10830b93f6a21787584ed50bb5a7",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, SpaceX, Apple, Netflix, Kroger, AutoZone & more",
-      "url": "https://www.cnbc.com/2026/09/29/biggest-stocks-by-analyst-calls-tuesday.html",
-      "summary": "Here are Tuesday's biggest calls on Wall Street.",
-      "published_at": "2026-09-29T12:16:35+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.52
-    },
-    {
-      "id": "865e3f90bb7bbf58e9a04fad74dd0795e88f7de8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "IRS sends notices on Saver's Match to taxpayers who might qualify for new benefit, worth up to $2,000",
-      "url": "https://www.cnbc.com/2026/09/29/savers-match-irs-retirement-benefit.html",
-      "summary": "The new program, which will give eligible savers a federal match for contributions to their retirement accounts, starts in 2027 and replaces the saver's credit.",
-      "published_at": "2026-09-29T12:15:01+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "title": "Education Department extends deadline for student loan interest rate discount",
+      "url": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+      "summary": "The Trump administration announced it will extend the deadline for federal student loan borrowers to sign up for autopay and get a reduced interest rate.",
+      "published_at": "2026-09-29T18:28:03+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -456,75 +234,51 @@
       "score": 0.52
     },
     {
-      "id": "45bde5a6083aa655397c13bfe6a3a9cb474cc21f",
+      "id": "47b2219d5e7ca69ab3a69517c31e613cc85e1e9f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Invesco QQQ Trust Recently Hit a New All-Time High. Is It Still a Good ETF to Buy Right Now?",
-      "url": "https://www.fool.com/investing/2026/09/29/the-invesco-qqq-trust-recently-hit-a-new-all-time-high-is-it-still-a-good-etf-to-buy-right-now/?source=iedfolrf0000001",
-      "summary": "The Nasdaq-100 index is full of high-priced tech stocks, which could make it a bit riskier to track these days.",
-      "published_at": "2026-09-29T12:00:02+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
+      "url": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+      "summary": "Wall Street is cheering AI stocks as OpenAI gets closer to a revenue milestone.",
+      "published_at": "2026-09-29T18:28:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
+      "category": "earnings",
       "score": 0.64
     },
     {
-      "id": "7e5f75e230e0ea78d2f8b0cf7929835c5a70fb06",
+      "id": "bb7dfe14a8221139df5576d84b37713d8fa07a38",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Dutch Bros Stock Is Down 49% From Its High Despite Revenue Rising 32%. Should You Buy Now or Stay Away?",
-      "url": "https://www.fool.com/investing/2026/09/29/dutch-bros-stock-down-revenue-up-buy-now/?source=iedfolrf0000001",
-      "summary": "Customers are still flocking to its drive-thrus, but the coffee chain's sales multiple slid after Wall Street flinched at management's growth guidance.",
-      "published_at": "2026-09-29T11:10:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "title": "Jack Dorsey's Block Is Looking to Create a National Trust Bank. Here's Why That Could Help to Send Bitcoin Higher.",
+      "url": "https://www.fool.com/investing/2026/09/29/jack-dorseys-block-is-looking-to-create-a-national/?source=iedfolrf0000001",
+      "summary": "The company has filed its application to the federal government's OCC.",
+      "published_at": "2026-09-29T17:45:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.76
+      "category": "macro",
+      "score": 0.52
     },
     {
-      "id": "a5bd5c0424f05fa773c7de4d1124c79eed98b4ee",
+      "id": "2a1cbcaa903b7ef72dbdf3d2e1665d8f93c5f7b6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Advanced Micro Devices vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/29/advanced-micro-devices-vs-sk-hynix-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "AMD's 34% revenue surge and $6.7B free cash flow contrast sharply with SK Hynix's $31.4B net income, but their vastly different valuations tell competing stories about AI infrastructure's future.",
-      "published_at": "2026-09-29T11:00:02+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "8cb82c0af52e33b9358fb4020f2fa9b5db0baa7f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Should You Buy Meta Platforms Stock Now or Wait for a Dip?",
-      "url": "https://www.fool.com/investing/2026/09/29/should-you-buy-meta-platforms-stock-now-or-wait-for-a-dip/?source=iedfolrf0000001",
-      "summary": "The tech stock has been rallying after announcing the release of its personal AI agent, Muse.",
-      "published_at": "2026-09-29T11:00:01+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "title": "These 2 Numbers Explain Why Warren Buffett and Bill Ackman Love Alphabet, Amazon, Microsoft, and Meta",
+      "url": "https://www.fool.com/investing/2026/09/29/these-2-numbers-explain-why-warren-buffett-and-bil/?source=iedfolrf0000001",
+      "summary": "Will hyperscalers' massive AI spending pay off for them?",
+      "published_at": "2026-09-29T17:32:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -537,25 +291,79 @@
         }
       ],
       "category": "company",
-      "score": 0.97
+      "score": 0.85
     },
     {
-      "id": "6d2bfebaded1481d0c1dfd0cbea7a350d926ac28",
+      "id": "d92b007a3158fb170436dc5951dbf24c90711e71",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "If You'd Invested $10,000 in Fastenal at Its IPO, Here's What You'd Have Today",
-      "url": "https://www.fool.com/investing/2026/09/29/if-invest-10k-fastenal-at-ipo-how-much-today/?source=iedfolrf0000001",
-      "summary": "This \"boring\" industrial stock turned $10,000 into $21.5 million.",
-      "published_at": "2026-09-29T10:30:00+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "source": "CNBC Top News",
+      "title": "I sold UnitedHealth shares when the business stumbled. Here's why I'm buying again",
+      "url": "https://www.cnbc.com/2026/09/29/i-sold-unitedhealth-shares-when-the-business-stumbled-heres-why-im-buying-again.html",
+      "summary": "UnitedHealth is showing signs of improvement after higher medical costs pressured earnings and margins, and Kevin Simpson is starting to buy the stock again.",
+      "published_at": "2026-09-29T16:46:53+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
+      "category": "earnings",
       "score": 0.61
+    },
+    {
+      "id": "b02340ee62074ad6a43005f415e8000d09c05df5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Dividend Stock Yielding More Than 4x the Nasdaq-100 Looks Like a Buy Right Now",
+      "url": "https://www.fool.com/investing/2026/09/29/dividend-stock-yield-4x-nasdaq-100-buy/?source=iedfolrf0000001",
+      "summary": "One of the \"other\" Coke stocks, Coca-Cola Europacific Partners, may be an underappreciated dividend name.",
+      "published_at": "2026-09-29T16:45:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.76
+    },
+    {
+      "id": "16619ef0b8c7c603ff0de1a5546c2fcf9a162869",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "TransMedics Director David Weill Purchases $109,000 of Stock -- Should Investors Buy Too?",
+      "url": "https://www.fool.com/coverage/filings/2026/09/29/transmedics-director-david-weill-purchases-usd109-000-of-stock-should-investors-buy-too/?source=iedfolrf0000001",
+      "summary": "Weill's acquisition increased his direct holdings to 16,392 shares, valued at $1.4 million at recent market prices, amid a 30% decline in the stock over the past year.",
+      "published_at": "2026-09-29T16:17:34+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.61
+    },
+    {
+      "id": "ad81dd99e0bd431a2f37e9b3807720d958f31149",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street Has Written Off AMC Stock. Here's Why That's a Mistake.",
+      "url": "https://www.fool.com/investing/2026/09/29/wall-street-has-written-off-amc-stock-heres-why-th/?source=iedfolrf0000001",
+      "summary": "AMC Entertainment stock is now up 111% in 2026. That is not a typo.",
+      "published_at": "2026-09-29T15:22:00+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.52
     },
     {
       "id": "da78c662662542d9f43e7c897ca2ac84eed5f80f",
@@ -566,7 +374,7 @@
       "url": "https://www.scmp.com/business/article/3369169/eunis-chan-angela-leong-sell-luxury-hong-kong-properties-rate-increases-loom?utm_source=rss_feed",
       "summary": "As the shadow of possible interest rate increases darkens Hong Kong’s property market outlook, well-known people including model-actress Eunis Chan Ka-yung and billionaire Angela Leong On-kei have recently decided the time was right to sell luxury properties, according to market sources.\nChan sold a two-bedroom Mid-Levels flat for HK$32.25 million (US$4.1 million), making a profit of about 130 per",
       "published_at": "2026-09-29T10:00:13+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -584,7 +392,7 @@
       "url": "https://www.scmp.com/business/markets/article/3369198/why-citi-betting-chinas-30-year-bonds-us-treasury-yields-climb?utm_source=rss_feed",
       "summary": "Citi Research has turned bullish on China’s 30-year government bonds, projecting that yields will fall further even as US Treasury yields climb.\nIn a Monday research note, analysts at the Wall Street bank recommended that investors go long on China’s 30-year sovereign debt, saying they expected the yield to fall towards 1.8 per cent while the 10-year yield could edge towards 1.6 per cent.\nThe anal",
       "published_at": "2026-09-29T09:22:43+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -602,7 +410,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3369156/hong-kongs-ipo-revival-faces-test-three-new-stocks-stumble-debut?utm_source=rss_feed",
       "summary": "Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) – but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs).\nAutomated equipment manufacturer RoboTechnik Intelligent Technology was the largest company to make its debut, having raised HK$5.18 billion, but it",
       "published_at": "2026-09-29T07:00:10+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -620,7 +428,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3369152/chinese-brokerages-get-line-beijings-crackdown-overseas-stock-trading?utm_source=rss_feed",
       "summary": "Some securities companies have begun to clean up non-compliant overseas stock trading by mainland Chinese investors following a regulatory crackdown that started months ago with fines on Tiger Brokers and Futu Securities International.\nOrient Securities’ mainland-based clients that have trading accounts in its Hong Kong unit will be banned from buying stocks and transferring in funds starting on W",
       "published_at": "2026-09-29T05:25:03+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -638,7 +446,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
       "summary": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia.\nThe acquisition, expected to close by the end of this year, would integrate World Labs’ research team and spatial-intelligence m",
       "published_at": "2026-09-29T04:30:18+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -662,7 +470,7 @@
       "url": "https://www.scmp.com/tech/article/3369136/shein-drops-14-record-low-after-profit-misses-first-results-hong-kong-ipo?utm_source=rss_feed",
       "summary": "Shares of Shein Global Holdings fell as much as 14 per cent to a record low in Hong Kong on Tuesday after the online fashion retailer posted a 67 per cent drop in second-quarter profit in its first earnings report since listing, warning that tariff headwinds and logistics cost volatility would persist for the rest of the year.\nThe stock sank to as low as HK$30.24 during the day and closed 10.7 per",
       "published_at": "2026-09-29T03:53:21+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -680,7 +488,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3369079/hong-kong-finds-gold-trading-leader-former-exchange-executive-bryan-chan?utm_source=rss_feed",
       "summary": "The Hong Kong government has appointed Bryan Chan Ping-keung, a former executive at bourse operator Hong Kong Exchanges and Clearing (HKEX), as CEO to lead the development and operation of the city’s new central clearing and settlement system for gold.\nChan will head Hong Kong Precious Metals Central Clearing (HKPMCC), a wholly government-owned entity established in January to run the clearing sys",
       "published_at": "2026-09-28T10:40:33+00:00",
-      "first_seen_at": "2026-09-29T15:22:02.229221+00:00",
+      "first_seen_at": "2026-09-29T20:06:56.232653+00:00",
       "market": "US",
       "markets": [
         "US"
