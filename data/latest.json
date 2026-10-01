@@ -1,23 +1,28 @@
 {
-  "generated_at": "2026-10-01T19:40:47.928011+00:00",
+  "generated_at": "2026-10-01T23:41:00.628330+00:00",
   "window_hours": 48,
-  "total_items": 13,
+  "total_items": 22,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 13
+    "US": 20,
+    "HK": 2
   },
   "category_stats": [
+    {
+      "key": "company",
+      "count": 10
+    },
     {
       "key": "macro",
       "count": 4
     },
     {
-      "key": "company",
-      "count": 4
+      "key": "earnings",
+      "count": 3
     },
     {
-      "key": "earnings",
+      "key": "ma",
       "count": 2
     },
     {
@@ -37,25 +42,43 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 10
+      "count": 15
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "573eabf8e05efe334c3e01d0b6d6494c8dbef708",
+      "id": "21e0973bf9ded96b0a46651e71461c9948e217f8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "Seeking Alpha Market News",
-      "title": "Fed's Bowman is seeing improved market liquidity from eSLR recalibration for the biggest banks",
-      "url": "https://seekingalpha.com/news/4649459-feds-bowman-is-seeing-improved-market-liquidity-from-eslr-recalibrations-for-the-biggest-banks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Dallas Fed's Logan estimates at least two more 25-bp rate hikes are needed",
+      "url": "https://seekingalpha.com/news/4649588-dallas-feds-logan-estimates-at-least-two-more-25-bp-rate-hikes-are-needed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
-      "published_at": "2026-10-01T19:30:05+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "published_at": "2026-10-01T23:28:32+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "5f9d43b529afe315a168f01d217fdc3b4d0031ef",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "S&P 500 futures are little changed as September jobs report looms: Live updates",
+      "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
+      "summary": "The major averages are heading for a losing week as the latest leg higher in yields keeps stocks under pressure.",
+      "published_at": "2026-10-01T23:13:55+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -65,47 +88,185 @@
       "score": 0.52
     },
     {
-      "id": "856f5412e127b3657067eb99d3962f8bfc528c0c",
+      "id": "29412ba55db3b4966afb5d020aa55893f1084336",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "SA Asks: Does AMD still have upside after its latest rally?",
-      "url": "https://seekingalpha.com/news/4649462-sa-asks-does-amd-still-have-upside-after-its-latest-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-01T19:06:33+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+      "published_at": "2026-10-01T23:11:00+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
+      "tickers": [],
+      "category": "ma",
+      "score": 0.52
     },
     {
-      "id": "735b78fee749c1a9f7aa3641dc9ee19e14f487ec",
+      "id": "068794f1ffcbbc2a49f27c6f9da9f7c45b17d78f",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "台积电ADR双顶阻力$461.84，短线回调风险：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3586253",
+      "title": "新华联合投资(08159)拟溢价约2.14%发行本金额为228.8万港元的可换股债券",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3592356",
       "summary": "",
-      "published_at": "2026-10-01T19:05:45+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "published_at": "2026-10-01T23:05:11+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "3841e410006e7fae2a65fd33a866113bf8a2a738",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Kevin Warsh's Inflation Stance Makes These Cheap Dividend Stocks Look a Lot More Attractive",
+      "url": "https://www.fool.com/investing/2026/10/01/kevin-warshs-inflation-stance-makes-these-cheap-di/?source=iedfolrf0000001",
+      "summary": "Inflation is running hot, and the Fed is raising interest rates, but consumers aren't likely to pull back on the products these companies sell.",
+      "published_at": "2026-10-01T22:15:00+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.76
+    },
+    {
+      "id": "d5773dfb06b704cd60aca9ab7a0968fe5cafb36a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Twilio将加入标普500，S&P道琼斯指数宣布调整成分股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3592319",
+      "summary": "",
+      "published_at": "2026-10-01T21:59:51+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "9c6868249054ee2dc27c8ae55f349adbf37e6bba",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "ChronoScale股价盘后上涨3%，AI协议推动年化营收目标达10亿美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3592310",
+      "summary": "",
+      "published_at": "2026-10-01T21:52:33+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "50c18b57acd970196474e24a03d30db6780905ca",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Sagimet closes down after acne drug denifanstat data, closing of stock offering",
+      "url": "https://seekingalpha.com/news/4649587-sagimet-closes-down-after-acne-drug-denifanstat-data-closing-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-01T21:41:57+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "9f983e55931b7d93a0b406f59d28bd0a631b6ad6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Accenture stock rallies after earnings beat expectations",
+      "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
+      "summary": "Shares of Accenture surged Thursday after the company's fiscal fourth-quarter results beat estimates.",
+      "published_at": "2026-10-01T21:40:30+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "963ebce9cff764686a1cc532f23c0d79a2ffd17f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
+      "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
+      "summary": "Shares of toymaker Mattel rose Thursday after the Wall Street Journal reported that Authentic Brands Group had expressed interest in buying the toymaker.",
+      "published_at": "2026-10-01T21:32:19+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.52
+    },
+    {
+      "id": "44bf29f329590885bcc263d386c65e4a20c4fcb5",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.60%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3592297",
+      "summary": "",
+      "published_at": "2026-10-01T21:30:14+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "2179ee622278445329d2bb67f59d745d70fa86d1",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "报告：中国国家基金为购买受限英伟达AI芯片提供资金支持",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3592298",
+      "summary": "",
+      "published_at": "2026-10-01T21:29:42+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "TSM",
-          "name": "台积电",
+          "symbol": "NVDA",
+          "name": "英伟达",
           "market": "US"
         }
       ],
@@ -120,8 +281,8 @@
       "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
       "url": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
       "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
-      "published_at": "2026-10-01T19:03:35+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "published_at": "2026-10-01T21:14:49+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -129,24 +290,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "cef7a505b6a01f783c122d7ce5df964963042c47",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stocks rise in choppy first October session as Treasury yields ease from multidecade highs: Live updates",
-      "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
-      "summary": "Stocks seesawed Thursday, with traders closely watching neck-breaking moves in Treasury yields, while a blockbuster earnings report failed to boost Micron shares.",
-      "published_at": "2026-10-01T18:25:27+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "8e14c12168401d0002bea74f7ca4b511d2fa792f",
@@ -156,8 +299,8 @@
       "title": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
       "url": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
       "summary": "The Big Apple joins a growing number of jurisdictions adopting 'click to cancel' rules as the future of a federal standard remains unsettled.",
-      "published_at": "2026-10-01T17:26:33+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "published_at": "2026-10-01T20:15:30+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -167,28 +310,118 @@
       "score": 0.52
     },
     {
-      "id": "28b22e64a6f8d0d1de3a0b3c51373631005a9e02",
+      "id": "00b693340a75088affd800d3a6d6958f6bb07e74",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Mark Zuckerberg is coming for Apple’s empire",
-      "url": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-      "summary": "Apple has a grip on consumer technology through its iPhone business, but Meta is betting that the AI era warrants different types of hardware.",
-      "published_at": "2026-10-01T16:47:00+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "source": "The Motley Fool",
+      "title": "Why Ormat Technologies Stock Is Powering Down Today",
+      "url": "https://www.fool.com/investing/2026/10/01/why-ormat-technologies-stock-is-powering-down-today/?source=iedfolrf0000001",
+      "summary": "One firm has a more tempered view of how much room this geothermal stock can run.",
+      "published_at": "2026-10-01T20:06:08+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "2aec1a39ea54700812e102f428d9f408cf51b468",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Applied Materials vs. AMD: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/01/applied-materials-vs-advanced-micro-devices-ai-semiconductor-stock-better-buy-2026/?source=iedfolrf0000001",
+      "summary": "AMD grew far faster than Applied Materials in 2025, but its stock carries a richer valuation and potential dilution from warrants issued to two large AI customers.",
+      "published_at": "2026-10-01T19:08:01+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "META",
-          "name": "Meta",
+          "symbol": "AMD",
+          "name": "AMD",
           "market": "US"
         }
       ],
       "category": "company",
-      "score": 0.85
+      "score": 0.97
+    },
+    {
+      "id": "8fc9b77798ae61695f386221eea8c4b05a2c7b25",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Arm vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/01/arm-vs-asml-which-semiconductor-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "One designs the chips, while the other manufactures the machines that build them. But their valuations tell a starkly different story.",
+      "published_at": "2026-10-01T18:37:35+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "99713ce10db2a054a9ff0782ae5423ef83a71518",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Where Will Palantir Stock Be in 5 Years?",
+      "url": "https://www.fool.com/investing/2026/10/01/where-will-palantir-stock-be-in-5-years/?source=iedfolrf0000001",
+      "summary": "Palantir stock has made a parabolic move, and it could surge higher amid growing demand for AI software.",
+      "published_at": "2026-10-01T18:31:00+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "14019562202baa85be3dcb95991a96eef30614cc",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Arm vs. Credo Technology Group: Which Tech Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/01/arm-vs-credo-technology-group-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "Arm compounds reliably across billions of devices. Credo is posting near-triple-digit growth in AI data center connectivity. The growth gap is significant, and so is the valuation gap.",
+      "published_at": "2026-10-01T18:21:44+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
     },
     {
       "id": "235dd9d677e30419a70f44fdd90ac6f5b9c22b2c",
@@ -199,7 +432,7 @@
       "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
       "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
       "published_at": "2026-10-01T13:59:54+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -207,66 +440,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "f5cf432c7ee5b3d7f2ad9201cabcd54a636f018e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
-      "published_at": "2026-09-30T23:44:28+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "a2cd4173acf77e986dacfe564dbb2c2aa5acde8a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why The Metals Company Stock Is Soaring Today",
-      "url": "https://www.fool.com/investing/2026/09/30/why-the-metals-company-stock-is-soaring-today/?source=iedfolrf0000001",
-      "summary": "There's a new face in the boardroom, and investors are taking note.",
-      "published_at": "2026-09-30T16:10:46+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "e1515e30342dc397a7dbb5ba9cbe52ff05e5c2b9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meet Wall Street's Greatest Dividend Stock: A Company Paying Dividends for Over 200 Years That 99% of Investors Have No Clue Exists",
-      "url": "https://www.fool.com/investing/2026/09/30/meet-wall-street-greatest-dividend-stock-paying-dividends-for-over-200-years/?source=iedfolrf0000001",
-      "summary": "What this little-known company lacks in size and daily trading volume, it more than makes up for with dividend consistency.",
-      "published_at": "2026-09-30T11:06:01+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
     },
     {
       "id": "b07b76bf54846d819a13602c8663e978d1fa490d",
@@ -277,7 +450,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
       "summary": "Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980.\nA total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data released by LSEG Data & Analytics on Wednesday. A further two companies listed on the city’s Growth En",
       "published_at": "2026-09-30T08:00:27+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -295,7 +468,7 @@
       "url": "https://www.scmp.com/business/markets/article/3369265/looming-interest-rate-rises-will-not-hit-hong-kong-hard-2022-analysts?utm_source=rss_feed",
       "summary": "Hong Kong looks set to be hit by a wave of interest rate rises in the coming months, but the city’s property market is unlikely to suffer the same level of damage seen during the last rate cycle in 2022 and 2023, according to analysts.\nThough major Hong Kong banks have so far held rates steady despite the US Federal Reserve raising its benchmark rate earlier this month, they are widely expected to",
       "published_at": "2026-09-30T02:02:57+00:00",
-      "first_seen_at": "2026-10-01T19:40:47.928011+00:00",
+      "first_seen_at": "2026-10-01T23:41:00.628330+00:00",
       "market": "US",
       "markets": [
         "US"
