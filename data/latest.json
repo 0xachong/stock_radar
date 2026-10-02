@@ -1,40 +1,41 @@
 {
-  "generated_at": "2026-10-02T16:29:10.081426+00:00",
+  "generated_at": "2026-10-02T20:54:23.674389+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 25,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20,
+    "US": 22,
+    "CN": 2,
     "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 7
+      "count": 11
     },
     {
       "key": "earnings",
-      "count": 5
+      "count": 6
     },
     {
       "key": "macro",
-      "count": 4
-    },
-    {
-      "key": "rating",
-      "count": 2
-    },
-    {
-      "key": "guidance",
-      "count": 1
-    },
-    {
-      "key": "product",
-      "count": 1
+      "count": 3
     },
     {
       "key": "ipo",
+      "count": 2
+    },
+    {
+      "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "rating",
       "count": 1
     }
   ],
@@ -42,61 +43,139 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 20
+      "count": 19
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 1
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "87527e5a5d77d023091340a0c8a0c35110351d0b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Alerus, Horizon Bancorp, IBCP upgraded at Piper, two stocks downgraded",
-      "url": "https://seekingalpha.com/news/4649921-alerus-horizon-bancorp-ibcp-upgraded-at-piper-two-stocks-downgraded?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-02T16:22:06+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.76
-    },
-    {
-      "id": "27fc3e7d9e15caf13220289a391674d7b80aebd7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Northrop Grumman downgraded at RBC on lower growth outlook; Arxis upgraded",
-      "url": "https://seekingalpha.com/news/4649916-northrop-grumman-downgraded-at-rbc-on-lower-growth-outlook-arxis-upgraded?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-02T16:02:36+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "7386c65ed618a269aaa8c359949b475535dcb1d6",
+      "id": "a595f1f8614b16db27ae969fef1177fa8cce1de7",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates",
+      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+      "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+      "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
+      "published_at": "2026-10-02T20:32:54+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "policy",
+      "score": 0.52
+    },
+    {
+      "id": "c6e4c68b50f72a7b5ea2a766de55141a2e756982",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "SA Asks: Does AMD still have upside after its latest rally? (Update)",
+      "url": "https://seekingalpha.com/news/4649462-sa-asks-does-amd-still-have-upside-after-its-latest-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-02T20:32:37+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "e317878b255a72e3bafce1e78aba66cdc4cec5c0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美国股市上涨；截至收盘道琼斯工业平均指数上涨0.49%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593615",
+      "summary": "",
+      "published_at": "2026-10-02T20:31:25+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "c1bd520f251d700aa7debcf824ba7c25d18cb8f4",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "加拿大股市上涨；截至收盘加拿大多伦多S&P/TSX 综合指数上涨0.99%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593614",
+      "summary": "",
+      "published_at": "2026-10-02T20:30:43+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "16bc9ac5a22508d35995c2cf7a7bc571ad8c3d17",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "巴西股市上涨；截至收盘巴西IBOVESPA股指上涨2.63%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593613",
+      "summary": "",
+      "published_at": "2026-10-02T20:30:15+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "c86af836bfc7f46d41881867aaee44c4376d6814",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
+      "published_at": "2026-10-02T20:26:00+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "250de2ffad5bd357f865b39802d7f71d6fbffcd1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record",
       "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
-      "summary": "The Dow was headed for a losing week.",
-      "published_at": "2026-10-02T15:52:21+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "summary": "The Nasdaq Composite was higher for a third day Friday.",
+      "published_at": "2026-10-02T20:20:25+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -106,15 +185,15 @@
       "score": 0.64
     },
     {
-      "id": "5e36ec35d1652176d5d50b2f4fc1a0f8e2e5af6f",
+      "id": "b1760430704ef39ee324e1e6428d7cc276f2512a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
-      "published_at": "2026-10-02T15:42:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "source": "CNBC Top News",
+      "title": "Stocks remain under the thrall of higher yields and higher oil. Here's what's ahead",
+      "url": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html",
+      "summary": "Wall Street got a taste this week of what a reprieve on both fronts could mean for the stock market.",
+      "published_at": "2026-10-02T20:09:52+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -122,6 +201,185 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "7ef739c5fd992d6eaae308b08cdb268687826a78",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Nscale任命Meta老将Justin Osofsky为首席运营官，筹备IPO上市",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593602",
+      "summary": "",
+      "published_at": "2026-10-02T19:43:26+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "ipo",
+      "score": 1.0
+    },
+    {
+      "id": "232ea6e24be78bd3a6c557060c07275cd25673ee",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Vistra股价从低点反弹，特朗普政府拟提供约40亿美元核能贷款",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593597",
+      "summary": "",
+      "published_at": "2026-10-02T19:26:31+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "79d77414dcc6fa50ce8b9b5d0f5d9ca10ce6b837",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron)",
+      "url": "https://www.fool.com/investing/2026/10/02/prediction-this-artificial-intelligence-ai-chip-stock-will-make-a-big-move-in-october-hint-it-s-not-micron/?source=iedfolrf0000001",
+      "summary": "Marvell Technology stock could make a big move after Oct. 6.",
+      "published_at": "2026-10-02T18:58:01+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "dac291dd0251687e5f46fcc7b68272ae7155b8ec",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Cooper Companies Director Kurzius Buys $549,300 in Shares. Is the Eye Care Stock About to Rally?",
+      "url": "https://www.fool.com/coverage/filings/2026/10/02/cooper-companies-director-kurzius-buys-usd549-300-in-shares-is-the-eye-care-stock-about-to-rally/?source=iedfolrf0000001",
+      "summary": "Insider doubled down after stock fell 16% over the past year, signaling confidence in the contact lens and surgical care provider's recovery prospects.",
+      "published_at": "2026-10-02T17:11:01+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "0f09e30ffb39956965e3f635fb87ff657c0e99c9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Better AI Stock: SpaceX or Palantir?",
+      "url": "https://www.fool.com/investing/2026/10/02/better-ai-stock-spacex-or-palantir/?source=iedfolrf0000001",
+      "summary": "SpaceX and Palantir are two rapidly growing AI stocks.",
+      "published_at": "2026-10-02T17:00:00+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "8cc1694d168e7a4986397edb717bf21c0a514359",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Got $1,000? 2 Growth Stocks Building the Data Centers of the AI Infrastructure Supercycle.",
+      "url": "https://www.fool.com/investing/2026/10/02/got-1000-2-growth-stocks-building-the-data-centers/?source=iedfolrf0000001",
+      "summary": "AMD and Broadcom looked poised to lead during the next wave of the AI infrastructure build-out.",
+      "published_at": "2026-10-02T16:43:00+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "1a086512023897d9664e3a30f42668b4fa8a9866",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Midday, Oct. 2: Stocks Rally as Weak Jobs Data Cools Fed Rate Hike Bets",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/02/stock-market-midday-oct-2-stocks-rally-as-weak-jobs-data-cools-fed-rate-hike-bets/?source=iedfolrf0000001",
+      "summary": "Today, Oct. 2, 2026, September employment came in cooler than expected, spurring a broad market advance and renewed optimism among growth investors.",
+      "published_at": "2026-10-02T16:20:23+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.76
+    },
+    {
+      "id": "2a4117ace53e0a84ac9c9eb84a73b247953774dd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Salesforce vs. Palantir: Which AI Software Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/02/salesforce-vs-palantir-which-ai-software-stock-better-buy-2026/?source=iedfolrf0000001",
+      "summary": "Salesforce's low earnings multiple and heavy cash generation stand against Palantir's far faster growth and much higher valuation.",
+      "published_at": "2026-10-02T15:25:01+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        },
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
     },
     {
       "id": "09318d69b1a6b608984378584de938e6325cff3a",
@@ -132,7 +390,7 @@
       "url": "https://www.fool.com/investing/2026/10/02/heres-how-fast-spacex-must-grow-to-be-a-5-trillion/?source=iedfolrf0000001",
       "summary": "Wall Street analysts are bullish on Space Exploration Technologies.",
       "published_at": "2026-10-02T15:24:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -150,7 +408,7 @@
       "url": "https://www.fool.com/investing/2026/10/02/alphabet-stock-is-down-15-from-its-all-time-high/?source=iedfolrf0000001",
       "summary": "Alphabet stock looks primed to be a huge winner in the AI boom.",
       "published_at": "2026-10-02T15:00:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -168,7 +426,7 @@
       "url": "https://www.fool.com/investing/2026/10/02/why-nike-stock-just-crashed/?source=iedfolrf0000001",
       "summary": "Nike's earnings weren't bad -- but Nike's guidance was awful.",
       "published_at": "2026-10-02T14:41:12+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -178,40 +436,28 @@
       "score": 0.61
     },
     {
-      "id": "05419e396aa21ca0d5c1fb5c81f7149d8fdc3fb8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-      "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-      "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
-      "published_at": "2026-10-02T14:30:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "7592f05e071c24920c6020231e74c53a5ae70fdc",
+      "id": "8943dc419adba393626266ad65d648bc349f7e76",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "2 Millionaire-Maker Quantum Computing Stocks That Wall Street Loves",
-      "url": "https://www.fool.com/investing/2026/10/02/2-millionaire-maker-quantum-computing-stocks-wall/?source=iedfolrf0000001",
-      "summary": "IonQ and Infleqtion are making quantum computing breakthroughs.",
-      "published_at": "2026-10-02T14:07:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "title": "Salesforce vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/02/salesforce-vs-crowdstrike-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "Salesforce commands profitability and a fortress balance sheet, while CrowdStrike trades at a steep valuation despite lingering trust issues from its 2024 outage.",
+      "published_at": "2026-10-02T14:29:02+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
     },
     {
       "id": "7c09ffda1bf84cade79ad452622b4babace05e37",
@@ -222,7 +468,7 @@
       "url": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
       "summary": "Nike's shares dropped for a second straight day of declines after it reported falling revenue and plans to lay off staff.",
       "published_at": "2026-10-02T13:43:56+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -230,24 +476,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "af83aff23f220d6ab59a6c4191b51e8d296acb72",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
-      "summary": "September provided a stock-market reset, pointing to a good end to the year, says Scott Rubner of Citadel Securities.",
-      "published_at": "2026-10-02T13:30:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "63b1edc83ce57e745fe23f70a9f82b14a9dcf614",
@@ -258,7 +486,7 @@
       "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
       "published_at": "2026-10-02T13:29:27+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -266,66 +494,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "407327c740c7c1b7f0232e4f8c81fb3ac0872484",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "If the Stock Market Crashes, Young Investors in Their 20s Might Want to Buy This Nasdaq ETF and Hold It Until Retirement",
-      "url": "https://www.fool.com/investing/2026/10/02/stock-market-crashes-20s-buy-nasdaq-etf-retirement/?source=iedfolrf0000001",
-      "summary": "Stock market downturns often present investors with incredible buying opportunities.",
-      "published_at": "2026-10-02T12:49:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "c5ca973c757549d32e7320af0071b1e022d88e1f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Marvell's Custom AI Silicon Deals With Hyperscalers Could Redefine Its Growth Story",
-      "url": "https://www.fool.com/investing/2026/10/02/marvell-custom-ai-silicon-deal-hyperscalers-growth/?source=iedfolrf0000001",
-      "summary": "A recent deal with Google could significantly boost Marvell's custom chip business.",
-      "published_at": "2026-10-02T11:15:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.85
-    },
-    {
-      "id": "7b261a26124677be246486cf027a85056fd535d4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "I Correctly Predicted Nvidia Would Overtake Apple in Stock Buybacks and Dividends. Here's the Better Buy Now.",
-      "url": "https://www.fool.com/investing/2026/10/02/i-correctly-predicted-nvidia-would-overtake-apple/?source=iedfolrf0000001",
-      "summary": "Buybacks offer an avenue for Nvidia and Apple to directly pass along profits to shareholders.",
-      "published_at": "2026-10-02T11:00:00+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "9f983e55931b7d93a0b406f59d28bd0a631b6ad6",
@@ -336,7 +504,7 @@
       "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
       "summary": "Shares of Accenture surged Thursday after the company's fiscal fourth-quarter results beat estimates.",
       "published_at": "2026-10-02T09:10:39+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -344,30 +512,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "1042894945bb8893f7c4cd758a9f4f7ba952340e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Projected Cash Flow",
-      "url": "https://www.fool.com/investing/2026/10/02/ranking-magnificent-seven-most-to-least-attractive-based-on-projected-cash-flow/?source=iedfolrf0000001",
-      "summary": "Among Nvidia, Apple, Alphabet, Microsoft, Amazon, Meta, and Tesla, there are two phenomenal bargains amid a historically pricey stock market.",
-      "published_at": "2026-10-02T09:06:02+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "6d6aeb00a9bdddb01887c06b4bc0ff38fe011e01",
@@ -378,7 +522,7 @@
       "url": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
       "summary": "Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite.\nSeven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines among 77 debuts in the first half of the year.\nMedcaptain Medical Technology led September’s first-",
       "published_at": "2026-10-02T09:05:40+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -386,42 +530,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "769cae3c3a1f6e04673449205a00b9eb898e1e9f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
-      "url": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
-      "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
-      "published_at": "2026-10-01T21:14:49+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "8e14c12168401d0002bea74f7ca4b511d2fa792f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
-      "url": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
-      "summary": "The Big Apple joins a growing number of jurisdictions adopting 'click to cancel' rules as the future of a federal standard remains unsettled.",
-      "published_at": "2026-10-01T20:15:30+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "235dd9d677e30419a70f44fdd90ac6f5b9c22b2c",
@@ -432,7 +540,7 @@
       "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
       "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
       "published_at": "2026-10-01T13:59:54+00:00",
-      "first_seen_at": "2026-10-02T16:29:10.081426+00:00",
+      "first_seen_at": "2026-10-02T20:54:23.674389+00:00",
       "market": "US",
       "markets": [
         "US"
