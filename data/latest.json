@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-03T05:34:18.626433+00:00",
+  "generated_at": "2026-10-03T11:08:22.775029+00:00",
   "window_hours": 48,
-  "total_items": 25,
+  "total_items": 16,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
+    "CN": 1,
+    "US": 14,
     "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 11
+      "count": 7
     },
     {
       "key": "earnings",
-      "count": 8
+      "count": 4
     },
     {
       "key": "ipo",
@@ -28,25 +29,39 @@
     {
       "key": "policy",
       "count": 1
-    },
-    {
-      "key": "capital",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 13
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 2
+      "count": 3
     }
   ],
   "items": [
+    {
+      "id": "3a0443f029f88ac435ec5efac2b74045679f60c9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "A股节后上涨胜率超60%，机构：持股过节或更合算！外围股市上涨，股民盼着开门红",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593758",
+      "summary": "",
+      "published_at": "2026-10-03T07:05:55+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
+      "market": "CN",
+      "markets": [
+        "CN"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
     {
       "id": "6b4a181592206033ca33198ab355d9fa26763cf6",
       "site_id": "hk_china",
@@ -56,7 +71,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3593740",
       "summary": "",
       "published_at": "2026-10-03T04:35:09+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -64,95 +79,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "15882951e9eb91a9a24e130663b3def61b0205bf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Salesforce vs. CrowdStrike: What Revenue Growth Trends for These Software Giants Tell Investors",
-      "url": "https://www.fool.com/coverage/charts/2026/10/02/salesforce-vs-crowdstrike-what-revenue-growth-trends-for-these-software-giants-tell-investors/?source=iedfolrf0000001",
-      "summary": "Salesforce commands a 7-to-1 revenue advantage, yet CrowdStrike has posted uninterrupted quarter-over-quarter growth while Salesforce stumbled occasionally.",
-      "published_at": "2026-10-03T03:25:48+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "ab77edd2e639c361a00c0902c19f4d192ce0d2ea",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "4 Stocks Delivered About Half of the S&P 500's Gain This Year",
-      "url": "https://www.fool.com/investing/2026/10/02/4-stocks-delivered-about-half-of-the-s-and-p-500-s-gain-this-year/?source=iedfolrf0000001",
-      "summary": "If the typical stock trailed, which stocks carried the index?",
-      "published_at": "2026-10-03T02:43:01+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "5ef31ce3425d79b2ec1658e476fbc4783f6cd45f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why AMD Stock Jumped 30% in September",
-      "url": "https://www.fool.com/investing/2026/10/02/why-amd-stock-jumped-30-in-september/?source=iedfolrf0000001",
-      "summary": "Meta's new Muse agent helped lift CPU stocks, including AMD.",
-      "published_at": "2026-10-03T00:30:02+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "3ee25e814a7421b902b9d81362ee0b9ec54602b8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why IDT Stock Was a Massive Winner This Week",
-      "url": "https://www.fool.com/investing/2026/10/02/why-idt-stock-was-a-massive-winner-this-week/?source=iedfolrf0000001",
-      "summary": "Investors were wowed by the company's latest quarterly earnings report.",
-      "published_at": "2026-10-02T23:25:14+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "47c8611dcd0ffb4eb58e44b1669f88c1ab852eaf",
@@ -163,7 +89,7 @@
       "url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
       "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
       "published_at": "2026-10-02T22:38:49+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -171,30 +97,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.65
-    },
-    {
-      "id": "5eacbefb59aea3e0ede5c6900a6dd4d1ed6888f8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Should You Buy Amazon Stock (AMZN) in October?",
-      "url": "https://www.fool.com/investing/2026/10/02/should-you-buy-amazon-stock-amzn-in-october/?source=iedfolrf0000001",
-      "summary": "The Magnificent Seven stock is trading 12% below its all-time record.",
-      "published_at": "2026-10-02T22:30:00+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "05419e396aa21ca0d5c1fb5c81f7149d8fdc3fb8",
@@ -205,7 +107,7 @@
       "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
       "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
       "published_at": "2026-10-02T22:29:00+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -223,7 +125,7 @@
       "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
       "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
       "published_at": "2026-10-02T22:01:17+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,24 +133,6 @@
       "tickers": [],
       "category": "policy",
       "score": 0.52
-    },
-    {
-      "id": "3a690922730314429555ab237a26a802463c08c8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Nvidia Stock Is Back at Its May Record. Its Quarterly Revenue Is 41% Higher.",
-      "url": "https://www.fool.com/investing/2026/10/02/nvidia-stock-is-back-at-its-may-record-its-quarterly-revenue-is-41-higher/?source=iedfolrf0000001",
-      "summary": "The share price is right where it was in May. Is the stock cheaper today?",
-      "published_at": "2026-10-02T21:47:02+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "ef3c872596afd44d5a93752af9ee9076b3cb9b2a",
@@ -259,7 +143,7 @@
       "url": "https://www.fool.com/investing/2026/10/02/copper-shortage-is-real-and-it-is-the-metal-ai-can/?source=iedfolrf0000001",
       "summary": "Experts predict a \"transformative trajectory\" for copper demand.",
       "published_at": "2026-10-02T21:30:00+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -275,42 +159,6 @@
       "score": 0.85
     },
     {
-      "id": "47b0f48f017cf9a2b44f9b14effa8051039e02b6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Micron's Last 5 Post-Earnings Dips Turned Into Gains. This Time, the Stock Rose Instead.",
-      "url": "https://www.fool.com/investing/2026/10/02/micron-s-last-5-post-earnings-dips-turned-into-gains-this-time-the-stock-rose-instead/?source=iedfolrf0000001",
-      "summary": "The memory maker's shares gained after a record quarter and a bigger spending plan. What does its post-report record say now?",
-      "published_at": "2026-10-02T21:17:01+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "a273d377419338b314661055afa16b8b8d77cff9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Tilray Is Down 57% in 2026. Here's What History Says About Buying Pot Stocks at the Bottom",
-      "url": "https://www.fool.com/investing/2026/10/02/tilray-is-down-57-in-2026-heres-what-history-says/?source=iedfolrf0000001",
-      "summary": "Is Tilray's situation hopeless?",
-      "published_at": "2026-10-02T21:00:00+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
       "id": "c99b194fb2051c42cd21786c5435399743688f9d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -319,7 +167,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/10/02/stock-market-today-oct-2-rivian-beats-q3-delivery-estimates-on-record-production-pace/?source=iedfolrf0000001",
       "summary": "Rivian's record Q3 delivery beat lifted shares early before investors refocused on unchanged guidance and the Oct. 29 earnings call, today, Oct. 2, 2026.",
       "published_at": "2026-10-02T20:47:46+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -337,7 +185,7 @@
       "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
       "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
       "published_at": "2026-10-02T20:26:00+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -355,7 +203,7 @@
       "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
       "summary": "The Nasdaq Composite was higher for a third day Friday.",
       "published_at": "2026-10-02T20:20:25+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -373,7 +221,7 @@
       "url": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html",
       "summary": "Wall Street got a taste this week of what a reprieve on both fronts could mean for the stock market.",
       "published_at": "2026-10-02T20:09:52+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -381,72 +229,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "79d77414dcc6fa50ce8b9b5d0f5d9ca10ce6b837",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron)",
-      "url": "https://www.fool.com/investing/2026/10/02/prediction-this-artificial-intelligence-ai-chip-stock-will-make-a-big-move-in-october-hint-it-s-not-micron/?source=iedfolrf0000001",
-      "summary": "Marvell Technology stock could make a big move after Oct. 6.",
-      "published_at": "2026-10-02T18:58:01+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "dac291dd0251687e5f46fcc7b68272ae7155b8ec",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Cooper Companies Director Kurzius Buys $549,300 in Shares. Is the Eye Care Stock About to Rally?",
-      "url": "https://www.fool.com/coverage/filings/2026/10/02/cooper-companies-director-kurzius-buys-usd549-300-in-shares-is-the-eye-care-stock-about-to-rally/?source=iedfolrf0000001",
-      "summary": "Insider doubled down after stock fell 16% over the past year, signaling confidence in the contact lens and surgical care provider's recovery prospects.",
-      "published_at": "2026-10-02T17:11:01+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "0f09e30ffb39956965e3f635fb87ff657c0e99c9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Better AI Stock: SpaceX or Palantir?",
-      "url": "https://www.fool.com/investing/2026/10/02/better-ai-stock-spacex-or-palantir/?source=iedfolrf0000001",
-      "summary": "SpaceX and Palantir are two rapidly growing AI stocks.",
-      "published_at": "2026-10-02T17:00:00+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "7c09ffda1bf84cade79ad452622b4babace05e37",
@@ -457,7 +239,7 @@
       "url": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
       "summary": "Nike's shares dropped for a second straight day of declines after it reported falling revenue and plans to lay off staff.",
       "published_at": "2026-10-02T13:43:56+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -475,7 +257,7 @@
       "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
       "published_at": "2026-10-02T13:29:27+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -493,7 +275,7 @@
       "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
       "summary": "Shares of Accenture surged Thursday after the company's fiscal fourth-quarter results beat estimates.",
       "published_at": "2026-10-02T09:10:39+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -511,7 +293,7 @@
       "url": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
       "summary": "Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite.\nSeven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines among 77 debuts in the first half of the year.\nMedcaptain Medical Technology led September’s first-",
       "published_at": "2026-10-02T09:05:40+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -519,6 +301,24 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
+    },
+    {
+      "id": "1cf96aee05c0f6effa51a0ce9ed59d62586b3dee",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: 2 Space Stocks That Could Join SpaceX and Rocket Lab in the Nasdaq-100 by 2030",
+      "url": "https://www.fool.com/investing/2026/10/02/prediction-2-space-stocks-that-could-join-spacex-i/?source=iedfolrf0000001",
+      "summary": "Space stocks could be the next frontier in hypergrowth technology investments.",
+      "published_at": "2026-10-02T06:05:00+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
     },
     {
       "id": "235dd9d677e30419a70f44fdd90ac6f5b9c22b2c",
@@ -529,7 +329,7 @@
       "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
       "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
       "published_at": "2026-10-01T13:59:54+00:00",
-      "first_seen_at": "2026-10-03T05:34:18.626433+00:00",
+      "first_seen_at": "2026-10-03T11:08:22.775029+00:00",
       "market": "US",
       "markets": [
         "US"
