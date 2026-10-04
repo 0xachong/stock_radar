@@ -1,38 +1,33 @@
 {
-  "generated_at": "2026-10-04T06:14:10.247081+00:00",
+  "generated_at": "2026-10-04T12:44:00.267219+00:00",
   "window_hours": 48,
-  "total_items": 21,
+  "total_items": 16,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20,
-    "HK": 2,
-    "CN": 1
+    "US": 13,
+    "HK": 3
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 7
-    },
-    {
-      "key": "earnings",
-      "count": 4
-    },
-    {
       "key": "macro",
-      "count": 3
-    },
-    {
-      "key": "policy",
-      "count": 2
+      "count": 5
     },
     {
       "key": "capital",
+      "count": 4
+    },
+    {
+      "key": "company",
+      "count": 3
+    },
+    {
+      "key": "earnings",
       "count": 2
     },
     {
       "key": "ipo",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rating",
@@ -43,15 +38,261 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 18
+      "count": 12
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
+    {
+      "id": "d6349ee3e70eac3a8c5d14e0c72869299a9662de",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+      "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+      "published_at": "2026-10-04T12:00:01+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "ipo",
+      "score": 1.0
+    },
+    {
+      "id": "8b36e52f026d55af03b5142a92541c5ff7eddcd0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+      "published_at": "2026-10-04T12:00:00+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "fa67294fb78cc1068fd4bf2569bff4638068bc61",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Isn't Rocket Lab's Biggest Threat Now -- Blue Origin Is",
+      "url": "https://www.fool.com/investing/2026/10/04/spacex-isnt-rocket-labs-big-threat-its-blue-origin/?source=iedfolrf0000001",
+      "summary": "Rocket Lab may need to sue NASA in federal court if it wants to win a $700 million Mars contract.",
+      "published_at": "2026-10-04T11:07:00+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "54811fdc71437a73d943971f921e34a723201e09",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "金茂源环保(06805)10月2日斥资142.58万港元回购49万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593964",
+      "summary": "",
+      "published_at": "2026-10-04T11:05:17+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "43358fe6d1dd2131daa8bb6ee06628e0ea54bab1",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "天星医疗(01609)10月2日斥资20.33万港元回购2550股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593963",
+      "summary": "",
+      "published_at": "2026-10-04T11:05:16+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "4ba4c47bdc18fb8d2088f8c32c0f828ab7090ac0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street Thought Artificial Intelligence (AI) Would Decimate Software Stocks, but This One Has Tripled From Its 52-Week Low",
+      "url": "https://www.fool.com/investing/2026/10/04/wall-street-ai-decimate-software-stocks-tripled-lo/?source=iedfolrf0000001",
+      "summary": "This software company is proving it can use artificial intelligence to its advantage.",
+      "published_at": "2026-10-04T10:57:00+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "35b1eccc5b93b1c8fe72098f30231b420be9b6b0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "We're Witnessing the Stock Market Do Something for Only the 6th Time in 98 Years, and History Couldn't Be Clearer What's Next for Stocks",
+      "url": "https://www.fool.com/investing/2026/10/04/witnessing-stock-market-do-something-6th-time-in-98-years-history-clear-what-next-for-stocks/?source=iedfolrf0000001",
+      "summary": "History says the music may be about to stop on Wall Street.",
+      "published_at": "2026-10-04T10:36:02+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "112beac4e4c8c438863b8f8538e76db7ce640caa",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "百胜中国(09987)10月2日斥资795.5万港元回购2.51万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3593956",
+      "summary": "",
+      "published_at": "2026-10-04T10:35:11+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "e9dc341014ce6031a5fe7559c3c6994b96108ad8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Adobe Still Has $24.5 Billion Left for Buybacks. That's About a Quarter of the Company.",
+      "url": "https://www.fool.com/investing/2026/10/04/adobe-still-has-usd24-5-billion-left-for-buybacks-that-s-about-a-quarter-of-the-company/?source=iedfolrf0000001",
+      "summary": "At its current pace, the software giant could spend it all before 2030. What might that do to earnings per share?",
+      "published_at": "2026-10-04T10:23:01+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "1471e00af7612ca67c2114addb16c86693e63ae9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "History Says Stocks Typically Fall After a Fed Hike Cycle Begins -- Then Gain 6.8% Within a Year. Here's My Plan.",
+      "url": "https://www.fool.com/investing/2026/10/04/history-says-stocks-typically-fall-after-a-fed-hike-cycle-begins-then-gain-6-8-within-a-year-here-s-my-plan/?source=iedfolrf0000001",
+      "summary": "The stock market has followed a fairly predictable cycle when the Fed starts raising rates.",
+      "published_at": "2026-10-04T10:00:01+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "8d68bf07d239bb54ad0f936e244d66ccb417731a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The S&P 500 Hasn't Looked This Cheap Based on a Popular Metric in Decades. Should You Buy Stocks Now?",
+      "url": "https://www.fool.com/investing/2026/10/04/the-sp-500-hasnt-looked-this-cheap-based-on-a-popu/?source=iedfolrf0000001",
+      "summary": "Stocks might not be as expensive as they first appear.",
+      "published_at": "2026-10-04T09:21:00+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "5f3d24aa579d6f386f126797a4f474b4fdcdb04f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "2 Dividend Stocks Down 12% in 2026 to Buy in October and Never Sell",
+      "url": "https://www.fool.com/investing/2026/10/04/dividend-stocks-down-2026-buy-never-sell/?source=iedfolrf0000001",
+      "summary": "PepsiCo and Hershey sell everyday brands that can belong in a buy-and-never-sell dividend portfolio.",
+      "published_at": "2026-10-04T08:52:00+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "82a2b9d25d762ec13fa4c9c64a3f4ff52aabf27c",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "More Hong Kong homes sell at a loss despite signs prices have bottomed: agents",
+      "url": "https://www.scmp.com/property/article/3369600/more-hong-kong-homes-sell-loss-despite-signs-prices-have-bottomed-agents?utm_source=rss_feed",
+      "summary": "Despite signs that Hong Kong property prices could have bottomed out and begun rebounding in August, market sources said at least 100 secondary residential homes were sold at a loss in September, up from at least 81 the previous month.\nHong Kong’s property market dodged an immediate setback from the US Federal Reserve’s rate increase in September, and agents estimated that home prices could end th",
+      "published_at": "2026-10-04T08:00:10+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
     {
       "id": "a0f49f1c8ffc407b5923c2c029325cceaef7a7f4",
       "site_id": "us_global",
@@ -61,7 +302,7 @@
       "url": "https://www.fool.com/investing/2026/10/03/kevin-warsh-was-confirmed-as-fed-chair-in-the-most/?source=iedfolrf0000001",
       "summary": "The new Federal Reserve chair still has a lot to prove, and political factors are making that harder.",
       "published_at": "2026-10-04T03:00:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -79,7 +320,7 @@
       "url": "https://www.fool.com/investing/2026/10/03/1-unstoppable-cryptocurrency-to-buy-before-it-soar/?source=iedfolrf0000001",
       "summary": "As investors look for ways to diversify, Bitcoin could soar to new highs.",
       "published_at": "2026-10-04T02:00:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -87,295 +328,6 @@
       "tickers": [],
       "category": "rating",
       "score": 0.52
-    },
-    {
-      "id": "145a977f7ccf82096d36e8b5c402f712653cac9c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
-      "url": "https://www.fool.com/investing/2026/10/03/3-no-brainer-stocks-to-buy-if-data-center-expendit/?source=iedfolrf0000001",
-      "summary": "The AI build-out isn't slowing down anytime soon.",
-      "published_at": "2026-10-04T01:00:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "318400ada5ef43e2165cc04c3d34ab824b287783",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/03/better-artificial-intelligence-stock-alphabet-vs-meta-platforms/?source=iedfolrf0000001",
-      "summary": "Alphabet trades at a lower valuation multiple despite slower growth, while Meta invests heavily in hardware amid regulatory headwinds.",
-      "published_at": "2026-10-04T00:46:14+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "policy",
-      "score": 0.97
-    },
-    {
-      "id": "51089c207ce05a231776c0fbd8e9639e5741b6e1",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "崔东树：9月美股汽车整车企业市值环比降5% 港股降11% A股降4%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3593873",
-      "summary": "",
-      "published_at": "2026-10-04T00:05:09+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "HK",
-      "markets": [
-        "HK",
-        "US",
-        "CN"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "ead07193e93af4cb84ab724c550f5ca0279fd3a7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Wall Street Is Bracing for the Fed's Next Move on Rates. These 3 Stocks Win Either Way.",
-      "url": "https://www.fool.com/investing/2026/10/03/wall-street-is-bracing-for-the-feds-next-move-on-r/?source=iedfolrf0000001",
-      "summary": "Rising interest rates are unlikely to change the dynamics in the healthcare sector, where people are willing to pay for care.",
-      "published_at": "2026-10-03T23:15:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "e44e8dddea033e9042b120a0dd1d53223a1e75e2",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meta's Muse AI: Good or Bad for E-Commerce? Shopify and Amazon Are Taking Opposite Approaches.",
-      "url": "https://www.fool.com/investing/2026/10/03/metas-muse-ai-good-or-bad-for-e-commerce-shopify-a/?source=iedfolrf0000001",
-      "summary": "The popular AI agent can do your shopping for you as long as you don't shop on Amazon.",
-      "published_at": "2026-10-03T22:30:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "6dfa44380ac5373c5d3ae67875ad2d2c9b17ca11",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Meta Platforms的Muse与OpenAI的Dots：两款AI智能体的全面对比",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3593841",
-      "summary": "",
-      "published_at": "2026-10-03T22:24:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "aa761a618cd7db953c32fe10675682018aa76f53",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "History Says Coca-Cola Stock Holds Up When the S&P 500 Falls",
-      "url": "https://www.fool.com/investing/2026/10/03/history-says-coca-cola-stock-holds-up-when-the-s-and-p-500-falls/?source=iedfolrf0000001",
-      "summary": "The drinks giant beat the index in seven of the market's eight losing years since 1980. But is this record worth around 26 times earnings?",
-      "published_at": "2026-10-03T21:23:01+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "72e15268cac8b62cb7b72427cf357f5b3f9539ed",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "NuScale vs. Oklo vs. GE Vernova: Ranking 3 Nuclear Stocks By Backlog, Not Hype.",
-      "url": "https://www.fool.com/investing/2026/10/03/nuscale-vs-oklo-vs-ge-vernova-ranking-the-nuclear/?source=iedfolrf0000001",
-      "summary": "Shares of small nuclear reactor providers are down big this year despite long-term growth potential.",
-      "published_at": "2026-10-03T20:05:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "5ad1919cb15351a09a178b4a48cdb939476fe373",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Berkshire Hathaway Is Buying Up Shares of This Beaten-Down Stock. Should You Invest Too?",
-      "url": "https://www.fool.com/investing/2026/10/03/berkshire-hathaway-is-buying-up-shares-of-this-bea/?source=iedfolrf0000001",
-      "summary": "The conglomerate's decision to up its stake in homebuilder Lennar fits perfectly with its broader investing style.",
-      "published_at": "2026-10-03T19:16:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "a9306fbb4112c9beb6657856cc0c6d2b0dc30859",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Dell Raised Its Quarterly Dividend by 20% This Year After Only Initiating Its Dividend Program in 2023. Can Passive Income Investors Trust the Stock?",
-      "url": "https://www.fool.com/investing/2026/10/03/dell-raised-its-quarterly-dividend-by-20-this-year/?source=iedfolrf0000001",
-      "summary": "The stock has also soared this year.",
-      "published_at": "2026-10-03T19:00:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.61
-    },
-    {
-      "id": "e5de0f20044d1d50a4e766bd2bc821f6c9a1db92",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Clorox, General Mills, and Constellation Brands Are Down Between 22% and 33%. Here's the Stock to Buy, Even if the Fed Keeps Hiking Interest Rates.",
-      "url": "https://www.fool.com/investing/2026/10/03/clorox-general-mills-and-constellation-are-down/?source=iedfolrf0000001",
-      "summary": "Consumer staples aren't looking so safe anymore. Here's why Clorox and General Mills are struggling, and why I think Constellation Brands may be better positioned for a higher-rate world.",
-      "published_at": "2026-10-03T17:45:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "a769a5ba5c65bfa65bfbae8ad89f0144e45adf53",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
-      "url": "https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/?source=iedfolrf0000001",
-      "summary": "Has Bitcoin finally hit bottom? Coinbase CEO Brian Armstrong thinks so, and Bitcoin's past cycles offer some useful clues.",
-      "published_at": "2026-10-03T17:43:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "COIN",
-          "name": "Coinbase",
-          "market": "US"
-        },
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.95
-    },
-    {
-      "id": "007c205a90b1a82563f3f5a4da93cf67090477a8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
-      "url": "https://www.fool.com/investing/2026/10/03/sp-500-not-enough-my-3-stock-starter-portfolio/?source=iedfolrf0000001",
-      "summary": "An S&amp;P 500 index fund is a fine foundation -- Amazon, Meta Platforms, and Alphabet give beginners three quality growth stocks on top of it.",
-      "published_at": "2026-10-03T17:15:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "d30e8a348dbe682249740e90af1c394520258434",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "With Shares Down 41% This Year, Could Buying SoundHound AI (SOUN) Stock Today Set You Up for Life?",
-      "url": "https://www.fool.com/investing/2026/10/03/could-buying-soundhound-ai-today-set-you-up-for/?source=iedfolrf0000001",
-      "summary": "Setting you up for life is a tall order -- but you might net some long-term profits if you buy now.",
-      "published_at": "2026-10-03T16:23:00+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "deebdbfa014ef6719a0e1b34c4c5fca4c85d80fd",
@@ -386,85 +338,13 @@
       "url": "https://www.cnbc.com/2026/10/03/stocks-to-buy-now-ahead-of-their-earnings-according-to-goldman-sachs.html",
       "summary": "The firm said this week that it sees several quality buying opportunities ahead of companies' quarterly reports.",
       "published_at": "2026-10-03T13:21:59+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
+      "first_seen_at": "2026-10-04T12:44:00.267219+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "47c8611dcd0ffb4eb58e44b1669f88c1ab852eaf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
-      "url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
-      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
-      "published_at": "2026-10-02T22:38:49+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.65
-    },
-    {
-      "id": "a595f1f8614b16db27ae969fef1177fa8cce1de7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
-      "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
-      "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
-      "published_at": "2026-10-02T22:01:17+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "policy",
-      "score": 0.52
-    },
-    {
-      "id": "9f983e55931b7d93a0b406f59d28bd0a631b6ad6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Earnings",
-      "title": "Accenture stock rallies after earnings beat expectations",
-      "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
-      "summary": "Shares of Accenture surged Thursday after the company's fiscal fourth-quarter results beat estimates.",
-      "published_at": "2026-10-02T09:10:39+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "6d6aeb00a9bdddb01887c06b4bc0ff38fe011e01",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
-      "url": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
-      "summary": "Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite.\nSeven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines among 77 debuts in the first half of the year.\nMedcaptain Medical Technology led September’s first-",
-      "published_at": "2026-10-02T09:05:40+00:00",
-      "first_seen_at": "2026-10-04T06:14:10.247081+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
       "score": 0.61
     }
   ]
