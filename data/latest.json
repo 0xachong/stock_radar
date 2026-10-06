@@ -1,31 +1,36 @@
 {
-  "generated_at": "2026-10-06T19:42:07.057612+00:00",
+  "generated_at": "2026-10-06T23:34:11.957146+00:00",
   "window_hours": 48,
-  "total_items": 17,
+  "total_items": 22,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17
+    "US": 21,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 11
     },
     {
-      "key": "guidance",
-      "count": 2
+      "key": "macro",
+      "count": 3
+    },
+    {
+      "key": "ipo",
+      "count": 3
     },
     {
       "key": "earnings",
       "count": 2
     },
     {
-      "key": "macro",
-      "count": 2
+      "key": "rating",
+      "count": 1
     },
     {
-      "key": "ipo",
+      "key": "guidance",
       "count": 1
     },
     {
@@ -37,15 +42,284 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 18
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 2
+      "count": 4
     }
   ],
   "items": [
+    {
+      "id": "9b04d9d47b41f52b452ea15e917b17bfae44cb51",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "summary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
+      "published_at": "2026-10-06T22:23:01+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "b1dc7923a77cf67304fa2558cd30b93dcdf99d15",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Joby Hit With Over $100 Million in Damages in IP Lawsuit Verdict",
+      "url": "https://www.fool.com/investing/2026/10/06/joby-hit-with-over-usd100-million-in-damages-in-ip-lawsuit-verdict/?source=iedfolrf0000001",
+      "summary": "A federal jury rejected all of Joby's counterarguments.",
+      "published_at": "2026-10-06T22:15:01+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "466e6a7beb091f88da70e928516b064882d10e90",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "波士顿动力任命前亚马逊高管Rohit Prasad担任CEO",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3597073",
+      "summary": "",
+      "published_at": "2026-10-06T22:07:54+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "8970be5f740d65c7b4b91e5c9b883dcf4cdcf143",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "First Digital eyes Nasdaq listing in $250M KOYN deal",
+      "url": "https://seekingalpha.com/news/4650775-first-digital-eyes-nasdaq-listing-in-250m-koyn-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-06T21:37:54+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "a72e58f8ab1041d74a5f1f6669c57066fc1d6eb9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.52%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3597056",
+      "summary": "",
+      "published_at": "2026-10-06T21:30:13+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "37fe1493fadb67528e9a89e8f76de179a3b306a5",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "黑山公司股价大涨5%，背后是与谷歌达成的18亿美元数据中心协议",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3597058",
+      "summary": "",
+      "published_at": "2026-10-06T21:29:12+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "96289be2765995fc82ef2a9aac574b0765ae5d4a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Sigma Lithium股价盘后涨逾4%，法院维持其采矿许可证效力",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3597054",
+      "summary": "",
+      "published_at": "2026-10-06T21:21:26+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.61
+    },
+    {
+      "id": "bc7c5699eb35af6491c56c9fa0f40bcf17067fc0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 6: Corteva Rallies 12% on Analyst Upgrade Following Spin Off",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-today-oct-6-corteva-rallies-12-on-analyst-upgrade-following-spin-off/?source=iedfolrf0000001",
+      "summary": "JPMorgan's Overweight call and $19 price target, combined with Corteva's move into the S&amp;P MidCap 400, fueled a 12% surge, today, Oct. 6, 2026.",
+      "published_at": "2026-10-06T21:12:57+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.61
+    },
+    {
+      "id": "8c1cddc592ec81000d8b0c969dbcf204ea61a56f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 6: Marvell Stock Is Up as the Company Raises FY2028 Revenue Outlook to $20 Billion",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-today-oct-6-marvell-stock-is-up-as-the-company-raises-fy2028-revenue-outlook-to-usd20-billion/?source=iedfolrf0000001",
+      "summary": "Today, Oct. 6, 2026, the chipmaker lifted near- and long-term targets at Investor Day, signaling stronger AI infrastructure demand ahead.",
+      "published_at": "2026-10-06T21:10:04+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "be95837b4f1672acb7a495aec4e1f841f597ef43",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Anthropic Pushes Its IPO to November as Investors Eye a $2 Trillion Valuation",
+      "url": "https://www.fool.com/investing/2026/10/06/anthropic-pushes-its-ipo-to-november-as-investors/?source=iedfolrf0000001",
+      "summary": "The AI leader's eagerly awaited public offering is delayed as investors weigh the big implications of owning the stock.",
+      "published_at": "2026-10-06T21:00:00+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "0beec28b5cbc6f985fd49af79654674a985ccef8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+      "published_at": "2026-10-06T20:21:00+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 1.0
+    },
+    {
+      "id": "581307c1cc1253c380c54e9f3809cfaca937f9e7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+      "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+      "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
+      "published_at": "2026-10-06T20:05:53+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "0f1c74e070a218ab21a97897c9d1ab49fcdebb40",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is Now the Time to Cash Out of the S&P 500's Top 3 Stocks of 2026?",
+      "url": "https://www.fool.com/investing/2026/10/06/is-now-the-time-to-cash-out-of-the-s-and-p-500-s-top-3-stocks-of-2026/?source=iedfolrf0000001",
+      "summary": "These stocks have all soared more than 350% this year.",
+      "published_at": "2026-10-06T20:00:02+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
     {
       "id": "b60476ba777a7771897c6441f31201f48d109a93",
       "site_id": "us_global",
@@ -55,7 +329,7 @@
       "url": "https://www.fool.com/investing/2026/10/06/anthropic-could-beat-openai-to-wall-street-by-over/?source=iedfolrf0000001",
       "summary": "Regardless of Anthropic's IPO timing, the more important question for investors is whether its explosive growth can justify the $2 trillion valuation it's seeking.",
       "published_at": "2026-10-06T19:12:00+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -63,54 +337,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.64
-    },
-    {
-      "id": "bb1c46013637dadaf27a49b3f9a1c8bff4a3fbbe",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电ADR历史高位RSI超买76.68，关键决断时刻：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3595060",
-      "summary": "",
-      "published_at": "2026-10-06T19:06:45+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "89f40114e6f06653fbd5bf9f91c03ec35991ed60",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "特斯拉$380震荡阻力区，假突破风险高：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3595059",
-      "summary": "",
-      "published_at": "2026-10-06T19:06:32+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "476bf9a74998b0762ac2c99dbda93764d9c1506a",
@@ -121,7 +347,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/10/06/amd-vs-marvell-technology-which-ai-chip-stock-better-buy-2026/?source=iedfolrf0000001",
       "summary": "AMD sells its own AI GPUs and server processors to data centers, and Marvell designs the custom chips and networking hardware that cloud providers order to their own specs.",
       "published_at": "2026-10-06T19:00:01+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -142,30 +368,6 @@
       "score": 1.0
     },
     {
-      "id": "6c13fbbb26029953287627bfa1350f13c513458b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-      "url": "https://www.cnbc.com/investingclub/2026/10/06/what-marvells-rosy-long-term-guidance-means-for-our-ai-chip-stocks.html",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "published_at": "2026-10-06T18:51:01+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 1.0
-    },
-    {
       "id": "a52a74c72ba02e9a25fcb6d477f80b15cc0848a4",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -174,7 +376,7 @@
       "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
       "summary": "Meta and OpenAI Chairman Bret Taylor’s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
       "published_at": "2026-10-06T18:48:36+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -190,30 +392,6 @@
       "score": 0.85
     },
     {
-      "id": "0beec28b5cbc6f985fd49af79654674a985ccef8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
-      "published_at": "2026-10-06T18:25:00+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "guidance",
-      "score": 1.0
-    },
-    {
       "id": "9b9ff544bb2cdafce242fc404b632e07c73560b8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -222,7 +400,7 @@
       "url": "https://www.fool.com/investing/2026/10/06/why-c-h-robinson-stock-was-sliding-again-today/?source=iedfolrf0000001",
       "summary": "Two Wall Street firms pulled back their price targets after yesterday's acquisition announcement.",
       "published_at": "2026-10-06T18:20:16+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -230,30 +408,6 @@
       "tickers": [],
       "category": "ma",
       "score": 0.64
-    },
-    {
-      "id": "2c9daa1ff95ba870b6b04cb31aa96b3fa0945406",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-      "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-      "summary": "A Wells Fargo analyst warns of a near-term profit hit from AI infrastructure spending and legal costs — but thinks that will set up massive gains by 2028.",
-      "published_at": "2026-10-06T18:20:00+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
     },
     {
       "id": "a0db30f041778d2de187c26c253c3bbf54d280c8",
@@ -264,7 +418,7 @@
       "url": "https://www.fool.com/investing/2026/10/06/why-i-don-t-think-meta-s-ai-strategy-will-be-successful/?source=iedfolrf0000001",
       "summary": "The stock has been rallying since unveiling its new AI agent, but I don't think the excitement will last.",
       "published_at": "2026-10-06T18:10:02+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -288,7 +442,7 @@
       "url": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
       "summary": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce.",
       "published_at": "2026-10-06T17:22:20+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +466,7 @@
       "url": "https://www.fool.com/investing/2026/10/06/why-marvell-stock-rallied-tuesday-morning/?source=iedfolrf0000001",
       "summary": "The chipmaker's investor day presentation included ambitious growth targets.",
       "published_at": "2026-10-06T16:37:12+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +490,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-midday-oct-6-s-and-p-500-sets-new-high-nuclear-stocks-surge/?source=iedfolrf0000001",
       "summary": "Falling oil prices eased inflation concerns and lifted equities across industrials and energy-sensitive sectors, today, Oct. 6, 2026.",
       "published_at": "2026-10-06T16:18:08+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -344,77 +498,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "581307c1cc1253c380c54e9f3809cfaca937f9e7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
-      "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-      "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
-      "published_at": "2026-10-06T16:15:07+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "53ba66be874c453e478a8867afb47fdbf20f3d87",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
-      "url": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
-      "summary": "Micron and Nvidia are among high-profile semiconductor companies that have been raking in cash and still have inexpensive stocks.",
-      "published_at": "2026-10-06T15:57:00+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "4d99264f8b44b6a2e7d37041a7715ef4c49e9992",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Alphabet vs. Meta Platforms: Which AI Stock Will Make You Richer?",
-      "url": "https://www.fool.com/investing/2026/10/06/alphabet-meta-platforms-ai-stock-make-you-richer/?source=iedfolrf0000001",
-      "summary": "Shares in both companies have considerably outpaced the overall market in the last decade.",
-      "published_at": "2026-10-06T15:00:00+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
     },
     {
       "id": "47d6425c8e0bf34f81338da6d8b426be1af23707",
@@ -425,7 +508,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/05/wells-fargo-gets-a-bold-upgrade-ahead-of-earnings-why-the-stock-can-play-catch-up.html",
       "summary": "Wells Fargo received a bold upgrade just over a week before the bank reports earnings next Tuesday.",
       "published_at": "2026-10-05T17:45:34+00:00",
-      "first_seen_at": "2026-10-06T19:42:07.057612+00:00",
+      "first_seen_at": "2026-10-06T23:34:11.957146+00:00",
       "market": "US",
       "markets": [
         "US"
