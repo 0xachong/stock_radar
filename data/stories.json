@@ -1,134 +1,444 @@
 {
-  "generated_at": "2026-10-06T07:11:56.669121+00:00",
+  "generated_at": "2026-10-06T14:22:53.432824+00:00",
   "window_hours": 48,
-  "total_stories": 10,
+  "total_stories": 11,
   "stories": [
     {
-      "key": "US:macro",
-      "label": "美股·macro",
+      "key": "AMD",
+      "label": "AMD",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "importance": 2,
+      "count": 4,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-10-06T12:48:00+00:00",
+      "earliest_at": "2026-10-06T10:50:00+00:00",
+      "primary_item": {
+        "id": "e5adf3e61242f67482a00f91a330bf9bdc3e3235",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "CNBC Top News",
+        "title": "Here are Tuesday's biggest analyst calls of the day: Nvidia, AMD, Procter & Gamble, Meta & more",
+        "url": "https://www.cnbc.com/2026/10/06/tuesday-biggest-analyst-calls-like-nvidia.html",
+        "summary": "Here are Tuesday's biggest calls on Wall Street.",
+        "published_at": "2026-10-06T12:27:47+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "AMD",
+            "name": "AMD",
+            "market": "US"
+          },
+          {
+            "symbol": "META",
+            "name": "Meta",
+            "market": "US"
+          }
+        ],
+        "category": "rating",
+        "score": 1.0
+      },
+      "items": [
+        {
+          "id": "37efec0503b8e5d82252f08ea31d6d93e4499551",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "3 Overlooked Growth Stocks Powering Every AI Chip Nvidia and AMD Build",
+          "url": "https://www.fool.com/investing/2026/10/06/growth-stocks-powering-every-chip-nvidia-amd/?source=iedfolrf0000001",
+          "summary": "These companies are essential to the development of every chip sold by Nvidia and AMD.",
+          "published_at": "2026-10-06T12:48:00+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "AMD",
+              "name": "AMD",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.97
+        },
+        {
+          "id": "e5adf3e61242f67482a00f91a330bf9bdc3e3235",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Here are Tuesday's biggest analyst calls of the day: Nvidia, AMD, Procter & Gamble, Meta & more",
+          "url": "https://www.cnbc.com/2026/10/06/tuesday-biggest-analyst-calls-like-nvidia.html",
+          "summary": "Here are Tuesday's biggest calls on Wall Street.",
+          "published_at": "2026-10-06T12:27:47+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "AMD",
+              "name": "AMD",
+              "market": "US"
+            },
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "rating",
+          "score": 1.0
+        },
+        {
+          "id": "eecdd245d807a697dfec93bd4cb5e885b2945ae2",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+          "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+          "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
+          "published_at": "2026-10-06T12:18:28+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "AMD",
+              "name": "AMD",
+              "market": "US"
+            },
+            {
+              "symbol": "META",
+              "name": "Meta",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.95
+        },
+        {
+          "id": "4f91bc1788847f59e28ac862ac5054392eb155f0",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Not Nvidia. Not AMD. This Networking Stock Is Gaining From Every AI Data Center Built.",
+          "url": "https://www.fool.com/investing/2026/10/06/not-nvidia-not-amd-this-networking-stock-is-gainin/?source=iedfolrf0000001",
+          "summary": "Arista Networks is the central nervous system for many AI data centers.",
+          "published_at": "2026-10-06T10:50:00+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "AMD",
+              "name": "AMD",
+              "market": "US"
+            }
+          ],
+          "category": "company",
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "key": "US:company",
+      "label": "美股·company",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
+      "category": "company",
       "importance": 2,
-      "count": 2,
+      "count": 3,
       "sources": [
-        "港股 / 中概",
         "美股 / 全球财经"
       ],
-      "latest_at": "2026-10-05T21:24:25+00:00",
-      "earliest_at": "2026-10-04T08:00:10+00:00",
+      "latest_at": "2026-10-06T13:15:02+00:00",
+      "earliest_at": "2026-10-06T08:48:01+00:00",
       "primary_item": {
-        "id": "81c263f594f71a2a79d15d8426591a615e453511",
+        "id": "f6bf7d103dcb11afc7f23d767bce42464aa437db",
         "site_id": "us_global",
         "site_name": "美股 / 全球财经",
         "source": "CNBC Top News",
-        "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-        "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-        "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
-        "published_at": "2026-10-05T21:24:25+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+        "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+        "url": "https://www.cnbc.com/investingclub/2026/10/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+        "summary": "Stock futures are green across the board, with the Nasdaq posed to build on yesterday's all-time closing high.",
+        "published_at": "2026-10-06T12:47:59+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
         "tickers": [],
-        "category": "macro",
-        "score": 0.52
+        "category": "company",
+        "score": 0.64
       },
       "items": [
         {
-          "id": "81c263f594f71a2a79d15d8426591a615e453511",
+          "id": "056872ae2fc08460ad0ea591c3d7a080d2f8296c",
           "site_id": "us_global",
           "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-          "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-          "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
-          "published_at": "2026-10-05T21:24:25+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+          "source": "The Motley Fool",
+          "title": "Tilray Brands: Is the Stock a Buy at Less Than $4?",
+          "url": "https://www.fool.com/investing/2026/10/06/tilray-brands-is-the-stock-a-buy-at-less-than-4/?source=iedfolrf0000001",
+          "summary": "The stock is down big this year, but that doesn't mean it's overdue for a rally.",
+          "published_at": "2026-10-06T13:15:02+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
-          "category": "macro",
+          "category": "company",
           "score": 0.52
         },
         {
-          "id": "82a2b9d25d762ec13fa4c9c64a3f4ff52aabf27c",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "SCMP Business",
-          "title": "More Hong Kong homes sell at a loss despite signs prices have bottomed: agents",
-          "url": "https://www.scmp.com/property/article/3369600/more-hong-kong-homes-sell-loss-despite-signs-prices-have-bottomed-agents?utm_source=rss_feed",
-          "summary": "Despite signs that Hong Kong property prices could have bottomed out and begun rebounding in August, market sources said at least 100 secondary residential homes were sold at a loss in September, up from at least 81 the previous month.\nHong Kong’s property market dodged an immediate setback from the US Federal Reserve’s rate increase in September, and agents estimated that home prices could end th",
-          "published_at": "2026-10-04T08:00:10+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+          "id": "f6bf7d103dcb11afc7f23d767bce42464aa437db",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "url": "https://www.cnbc.com/investingclub/2026/10/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+          "summary": "Stock futures are green across the board, with the Nasdaq posed to build on yesterday's all-time closing high.",
+          "published_at": "2026-10-06T12:47:59+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [],
-          "category": "macro",
-          "score": 0.52
+          "category": "company",
+          "score": 0.64
+        },
+        {
+          "id": "26f216c12f4f34896d0f91277ec8a5c2b0b9a153",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "The 2 Best Nasdaq-100 Stocks to Buy Now, According to Wall Street",
+          "url": "https://www.fool.com/investing/2026/10/06/2-best-nasdaq-100-stocks-buy-now-wall-street/?source=iedfolrf0000001",
+          "summary": "Wall Street says AppLovin and Axon Enterprise are the best Nasdaq-100 stocks to buy now.",
+          "published_at": "2026-10-06T08:48:01+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "company",
+          "score": 0.64
         }
       ]
     },
     {
-      "key": "HK:ma",
-      "label": "港股·ma",
+      "key": "HK:earnings",
+      "label": "港股·earnings",
       "market": "HK",
       "markets": [
         "HK"
       ],
       "tickers": [],
-      "category": "ma",
+      "category": "earnings",
       "importance": 2,
       "count": 1,
       "sources": [
         "港股 / 中概"
       ],
-      "latest_at": "2026-10-06T06:35:06+00:00",
-      "earliest_at": "2026-10-06T06:35:06+00:00",
+      "latest_at": "2026-10-06T14:15:43+00:00",
+      "earliest_at": "2026-10-06T14:15:43+00:00",
       "primary_item": {
-        "id": "ffc498901b6774b2d64eb866e33cc4723e4d3bde",
+        "id": "f5bf9615462634f103d5ddbf4790f9e6ee99926a",
         "site_id": "hk_china",
         "site_name": "港股 / 中概",
         "source": "Investing.com 中文",
-        "title": "港股异动 | 立讯精密两笔收购拓宽产业链布局 KFM金德(03816)涨超13% 致丰工业电子(01710)涨超12%",
-        "url": "https://cn.investing.com/news/stock-market-news/article-3595753",
+        "title": "达美乐披萨财报发布前夕，期权数据暗示股价或波动6.3%",
+        "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3596768",
         "summary": "",
-        "published_at": "2026-10-06T06:35:06+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+        "published_at": "2026-10-06T14:15:43+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
         "market": "HK",
         "markets": [
           "HK"
         ],
         "tickers": [],
-        "category": "ma",
-        "score": 0.76
+        "category": "earnings",
+        "score": 0.61
       },
       "items": [
         {
-          "id": "ffc498901b6774b2d64eb866e33cc4723e4d3bde",
+          "id": "f5bf9615462634f103d5ddbf4790f9e6ee99926a",
           "site_id": "hk_china",
           "site_name": "港股 / 中概",
           "source": "Investing.com 中文",
-          "title": "港股异动 | 立讯精密两笔收购拓宽产业链布局 KFM金德(03816)涨超13% 致丰工业电子(01710)涨超12%",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3595753",
+          "title": "达美乐披萨财报发布前夕，期权数据暗示股价或波动6.3%",
+          "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3596768",
           "summary": "",
-          "published_at": "2026-10-06T06:35:06+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+          "published_at": "2026-10-06T14:15:43+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
           "market": "HK",
           "markets": [
             "HK"
           ],
           "tickers": [],
-          "category": "ma",
-          "score": 0.76
+          "category": "earnings",
+          "score": 0.61
+        }
+      ]
+    },
+    {
+      "key": "AAPL",
+      "label": "苹果",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "importance": 2,
+      "count": 1,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-10-06T11:00:00+00:00",
+      "earliest_at": "2026-10-06T11:00:00+00:00",
+      "primary_item": {
+        "id": "3e46aeab775634b4c3c1ca9a667d41880f92293b",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "22%: The One Number That Matters Most for Apple (AAPL) Shareholders",
+        "url": "https://www.fool.com/investing/2026/10/06/number-matters-most-for-apple-aapl-shareholders/?source=iedfolrf0000001",
+        "summary": "Revenue growth for the company's most critical product category is robust.",
+        "published_at": "2026-10-06T11:00:00+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [
+          {
+            "symbol": "AAPL",
+            "name": "苹果",
+            "market": "US"
+          }
+        ],
+        "category": "earnings",
+        "score": 0.97
+      },
+      "items": [
+        {
+          "id": "3e46aeab775634b4c3c1ca9a667d41880f92293b",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "22%: The One Number That Matters Most for Apple (AAPL) Shareholders",
+          "url": "https://www.fool.com/investing/2026/10/06/number-matters-most-for-apple-aapl-shareholders/?source=iedfolrf0000001",
+          "summary": "Revenue growth for the company's most critical product category is robust.",
+          "published_at": "2026-10-06T11:00:00+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [
+            {
+              "symbol": "AAPL",
+              "name": "苹果",
+              "market": "US"
+            }
+          ],
+          "category": "earnings",
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "key": "US:ipo",
+      "label": "美股·ipo",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "importance": 2,
+      "count": 1,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-10-06T07:47:01+00:00",
+      "earliest_at": "2026-10-06T07:47:01+00:00",
+      "primary_item": {
+        "id": "7ae3d7c50275a7a95b8ba41fc8d5ef04689add79",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "Anthropic Is Aiming for the Biggest IPO Ever -- Here's the Chip Stock to Buy Before It Lists",
+        "url": "https://www.fool.com/investing/2026/10/06/anthropic-is-aiming-for-the-biggest-ipo-ever-here-s-the-chip-stock-to-buy-before-it-lists/?source=iedfolrf0000001",
+        "summary": "One chipmaker's shaping up as both the AI lab's supplier and its reported lender.",
+        "published_at": "2026-10-06T07:47:01+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "ipo",
+        "score": 0.61
+      },
+      "items": [
+        {
+          "id": "7ae3d7c50275a7a95b8ba41fc8d5ef04689add79",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Anthropic Is Aiming for the Biggest IPO Ever -- Here's the Chip Stock to Buy Before It Lists",
+          "url": "https://www.fool.com/investing/2026/10/06/anthropic-is-aiming-for-the-biggest-ipo-ever-here-s-the-chip-stock-to-buy-before-it-lists/?source=iedfolrf0000001",
+          "summary": "One chipmaker's shaping up as both the AI lab's supplier and its reported lender.",
+          "published_at": "2026-10-06T07:47:01+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "ipo",
+          "score": 0.61
         }
       ]
     },
@@ -157,7 +467,7 @@
         "url": "https://www.cnbc.com/investingclub/2026/10/05/wells-fargo-gets-a-bold-upgrade-ahead-of-earnings-why-the-stock-can-play-catch-up.html",
         "summary": "Wells Fargo received a bold upgrade just over a week before the bank reports earnings next Tuesday.",
         "published_at": "2026-10-05T17:45:34+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -176,7 +486,7 @@
           "url": "https://www.cnbc.com/investingclub/2026/10/05/wells-fargo-gets-a-bold-upgrade-ahead-of-earnings-why-the-stock-can-play-catch-up.html",
           "summary": "Wells Fargo received a bold upgrade just over a week before the bank reports earnings next Tuesday.",
           "published_at": "2026-10-05T17:45:34+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -188,185 +498,258 @@
       ]
     },
     {
-      "key": "TSM",
-      "label": "台积电",
+      "key": "US:macro",
+      "label": "美股·macro",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "importance": 1,
+      "count": 2,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-10-06T13:27:00+00:00",
+      "earliest_at": "2026-10-06T08:06:01+00:00",
+      "primary_item": {
+        "id": "17a0fda62a482647f8f7fc0531cc27512de8ca9f",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "MarketWatch Top Stories",
+        "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
+        "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+        "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+        "published_at": "2026-10-06T13:27:00+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "macro",
+        "score": 0.64
+      },
+      "items": [
+        {
+          "id": "17a0fda62a482647f8f7fc0531cc27512de8ca9f",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "MarketWatch Top Stories",
+          "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
+          "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+          "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+          "published_at": "2026-10-06T13:27:00+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.64
+        },
+        {
+          "id": "77cafbe89806ac3ebd35cdcf96310a5818c79839",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates.",
+          "url": "https://www.fool.com/investing/2026/10/06/donald-trump-just-threw-fed-chair-kevin-warsh-under-the-bus-over-interest-rates/?source=iedfolrf0000001",
+          "summary": "Trump admonished the Fed for raising rates, while ignoring that his own policies are fueling inflation.",
+          "published_at": "2026-10-06T08:06:01+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "macro",
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "key": "US:rating",
+      "label": "美股·rating",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "importance": 1,
+      "count": 1,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-10-06T14:10:56+00:00",
+      "earliest_at": "2026-10-06T14:10:56+00:00",
+      "primary_item": {
+        "id": "286d40829d69dd23d8d8d59751f1c4199a474877",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "Seeking Alpha Market News",
+        "title": "SentinelOne downgraded at FBN on CrowdStrike concerns",
+        "url": "https://seekingalpha.com/news/4650568-sentinelone-downgraded-at-fbn-on-crowdstrike-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "published_at": "2026-10-06T14:10:56+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "rating",
+        "score": 0.52
+      },
+      "items": [
+        {
+          "id": "286d40829d69dd23d8d8d59751f1c4199a474877",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "Seeking Alpha Market News",
+          "title": "SentinelOne downgraded at FBN on CrowdStrike concerns",
+          "url": "https://seekingalpha.com/news/4650568-sentinelone-downgraded-at-fbn-on-crowdstrike-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "summary": "",
+          "published_at": "2026-10-06T14:10:56+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "rating",
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "key": "US:guidance",
+      "label": "美股·guidance",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "importance": 1,
+      "count": 1,
+      "sources": [
+        "美股 / 全球财经"
+      ],
+      "latest_at": "2026-10-06T13:22:52+00:00",
+      "earliest_at": "2026-10-06T13:22:52+00:00",
+      "primary_item": {
+        "id": "55da10e1e9f71c2d0482b7418754a86f2ef62348",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "CNBC Top News",
+        "title": "JPMorgan and Deutsche Bank just upgraded Brazilian stocks. How to trade them",
+        "url": "https://www.cnbc.com/2026/10/06/jpmorgan-and-deutsche-bank-just-upgraded-brazilian-stocks-how-to-trade-them.html",
+        "summary": "The outlook for Brazilian stocks is getting brighter, according to two major Wall Street banks.",
+        "published_at": "2026-10-06T13:22:52+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+        "market": "US",
+        "markets": [
+          "US"
+        ],
+        "tickers": [],
+        "category": "guidance",
+        "score": 0.76
+      },
+      "items": [
+        {
+          "id": "55da10e1e9f71c2d0482b7418754a86f2ef62348",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "CNBC Top News",
+          "title": "JPMorgan and Deutsche Bank just upgraded Brazilian stocks. How to trade them",
+          "url": "https://www.cnbc.com/2026/10/06/jpmorgan-and-deutsche-bank-just-upgraded-brazilian-stocks-how-to-trade-them.html",
+          "summary": "The outlook for Brazilian stocks is getting brighter, according to two major Wall Street banks.",
+          "published_at": "2026-10-06T13:22:52+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
+          "market": "US",
+          "markets": [
+            "US"
+          ],
+          "tickers": [],
+          "category": "guidance",
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "key": "PLTR",
+      "label": "Palantir",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "TSM",
-          "name": "台积电",
+          "symbol": "PLTR",
+          "name": "Palantir",
           "market": "US"
         }
       ],
-      "category": "company",
+      "category": "capital",
       "importance": 1,
       "count": 1,
       "sources": [
-        "港股 / 中概"
+        "美股 / 全球财经"
       ],
-      "latest_at": "2026-10-06T06:35:51+00:00",
-      "earliest_at": "2026-10-06T06:35:51+00:00",
+      "latest_at": "2026-10-06T09:06:01+00:00",
+      "earliest_at": "2026-10-06T09:06:01+00:00",
       "primary_item": {
-        "id": "7e7113960b05c31a357acdf078d98b8f9b06b875",
-        "site_id": "hk_china",
-        "site_name": "港股 / 中概",
-        "source": "Investing.com 中文",
-        "title": "台积电(TSM.US)绩前获高盛唱多：AI强劲需求支撑增长势头延续至2027年 股价仍有近40%上涨空间",
-        "url": "https://cn.investing.com/news/stock-market-news/article-3595755",
-        "summary": "",
-        "published_at": "2026-10-06T06:35:51+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+        "id": "5abcd2e8b06feddd20d17d477d93e9279455d773",
+        "site_id": "us_global",
+        "site_name": "美股 / 全球财经",
+        "source": "The Motley Fool",
+        "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning",
+        "url": "https://www.fool.com/investing/2026/10/06/nvidia-palantir-alphabet-send-shockwaves-through-wall-street-with-17-billion-warning/?source=iedfolrf0000001",
+        "summary": "Insiders for this trio of artificial intelligence (AI) powerhouses are rattling investors.",
+        "published_at": "2026-10-06T09:06:01+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
         "market": "US",
         "markets": [
           "US"
         ],
         "tickers": [
           {
-            "symbol": "TSM",
-            "name": "台积电",
+            "symbol": "PLTR",
+            "name": "Palantir",
             "market": "US"
           }
         ],
-        "category": "company",
+        "category": "capital",
         "score": 1.0
       },
       "items": [
         {
-          "id": "7e7113960b05c31a357acdf078d98b8f9b06b875",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "Investing.com 中文",
-          "title": "台积电(TSM.US)绩前获高盛唱多：AI强劲需求支撑增长势头延续至2027年 股价仍有近40%上涨空间",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3595755",
-          "summary": "",
-          "published_at": "2026-10-06T06:35:51+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+          "id": "5abcd2e8b06feddd20d17d477d93e9279455d773",
+          "site_id": "us_global",
+          "site_name": "美股 / 全球财经",
+          "source": "The Motley Fool",
+          "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning",
+          "url": "https://www.fool.com/investing/2026/10/06/nvidia-palantir-alphabet-send-shockwaves-through-wall-street-with-17-billion-warning/?source=iedfolrf0000001",
+          "summary": "Insiders for this trio of artificial intelligence (AI) powerhouses are rattling investors.",
+          "published_at": "2026-10-06T09:06:01+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
           "market": "US",
           "markets": [
             "US"
           ],
           "tickers": [
             {
-              "symbol": "TSM",
-              "name": "台积电",
+              "symbol": "PLTR",
+              "name": "Palantir",
               "market": "US"
             }
           ],
-          "category": "company",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "key": "HK:capital",
-      "label": "港股·capital",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "港股 / 中概"
-      ],
-      "latest_at": "2026-10-06T06:35:06+00:00",
-      "earliest_at": "2026-10-06T06:35:06+00:00",
-      "primary_item": {
-        "id": "8376883750c16044e95212283f0002fb97e82d27",
-        "site_id": "hk_china",
-        "site_name": "港股 / 中概",
-        "source": "Investing.com 中文",
-        "title": "港股异动 | 极兔速递-W(01519)午后涨超5% 公司自9月初至今连续回购 累计金额已超5亿港元",
-        "url": "https://cn.investing.com/news/stock-market-news/article-3595752",
-        "summary": "",
-        "published_at": "2026-10-06T06:35:06+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-        "market": "HK",
-        "markets": [
-          "HK"
-        ],
-        "tickers": [],
-        "category": "capital",
-        "score": 0.76
-      },
-      "items": [
-        {
-          "id": "8376883750c16044e95212283f0002fb97e82d27",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "Investing.com 中文",
-          "title": "港股异动 | 极兔速递-W(01519)午后涨超5% 公司自9月初至今连续回购 累计金额已超5亿港元",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3595752",
-          "summary": "",
-          "published_at": "2026-10-06T06:35:06+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-          "market": "HK",
-          "markets": [
-            "HK"
-          ],
-          "tickers": [],
           "category": "capital",
-          "score": 0.76
-        }
-      ]
-    },
-    {
-      "key": "HK:company",
-      "label": "港股·company",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "港股 / 中概"
-      ],
-      "latest_at": "2026-10-06T06:35:04+00:00",
-      "earliest_at": "2026-10-06T06:35:04+00:00",
-      "primary_item": {
-        "id": "4f8f6c0b787ca3f97872a08f35f4294060b97afb",
-        "site_id": "hk_china",
-        "site_name": "港股 / 中概",
-        "source": "Investing.com 中文",
-        "title": "港股异动 | 歌礼制药-B(01672)午后涨超10% 减重复方制剂ASC36_35FDC临床前数据公布",
-        "url": "https://cn.investing.com/news/stock-market-news/article-3595749",
-        "summary": "",
-        "published_at": "2026-10-06T06:35:04+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-        "market": "HK",
-        "markets": [
-          "HK"
-        ],
-        "tickers": [],
-        "category": "company",
-        "score": 0.64
-      },
-      "items": [
-        {
-          "id": "4f8f6c0b787ca3f97872a08f35f4294060b97afb",
-          "site_id": "hk_china",
-          "site_name": "港股 / 中概",
-          "source": "Investing.com 中文",
-          "title": "港股异动 | 歌礼制药-B(01672)午后涨超10% 减重复方制剂ASC36_35FDC临床前数据公布",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3595749",
-          "summary": "",
-          "published_at": "2026-10-06T06:35:04+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-          "market": "HK",
-          "markets": [
-            "HK"
-          ],
-          "tickers": [],
-          "category": "company",
-          "score": 0.64
+          "score": 1.0
         }
       ]
     },
@@ -401,7 +784,7 @@
         "url": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
         "summary": "Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas.",
         "published_at": "2026-10-06T02:23:18+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+        "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
         "market": "US",
         "markets": [
           "US"
@@ -426,7 +809,7 @@
           "url": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
           "summary": "Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas.",
           "published_at": "2026-10-06T02:23:18+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
+          "first_seen_at": "2026-10-06T14:22:53.432824+00:00",
           "market": "US",
           "markets": [
             "US"
@@ -440,189 +823,6 @@
           ],
           "category": "company",
           "score": 0.85
-        }
-      ]
-    },
-    {
-      "key": "META",
-      "label": "Meta",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-10-05T22:18:13+00:00",
-      "earliest_at": "2026-10-05T22:18:13+00:00",
-      "primary_item": {
-        "id": "c6bafaa54670b0f4464844440c2cc3b23dd31324",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "CNBC Top News",
-        "title": "Stocks are hitting records despite surging yields. Cramer explains why",
-        "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
-        "summary": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
-        "published_at": "2026-10-05T22:18:13+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [
-          {
-            "symbol": "META",
-            "name": "Meta",
-            "market": "US"
-          }
-        ],
-        "category": "company",
-        "score": 0.97
-      },
-      "items": [
-        {
-          "id": "c6bafaa54670b0f4464844440c2cc3b23dd31324",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "CNBC Top News",
-          "title": "Stocks are hitting records despite surging yields. Cramer explains why",
-          "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
-          "summary": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
-          "published_at": "2026-10-05T22:18:13+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [
-            {
-              "symbol": "META",
-              "name": "Meta",
-              "market": "US"
-            }
-          ],
-          "category": "company",
-          "score": 0.97
-        }
-      ]
-    },
-    {
-      "key": "US:rating",
-      "label": "美股·rating",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-10-05T21:25:00+00:00",
-      "earliest_at": "2026-10-05T21:25:00+00:00",
-      "primary_item": {
-        "id": "4cfa7a8a9c7483ebbe66a613737b1f1c5eaf038b",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "MarketWatch Top Stories",
-        "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-        "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
-        "summary": "Even if Toshiba doubles its capacity, analysts say it has a ways to go to catch up with Western Digital and Seagate",
-        "published_at": "2026-10-05T21:25:00+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "rating",
-        "score": 0.64
-      },
-      "items": [
-        {
-          "id": "4cfa7a8a9c7483ebbe66a613737b1f1c5eaf038b",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "MarketWatch Top Stories",
-          "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-          "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
-          "summary": "Even if Toshiba doubles its capacity, analysts say it has a ways to go to catch up with Western Digital and Seagate",
-          "published_at": "2026-10-05T21:25:00+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "rating",
-          "score": 0.64
-        }
-      ]
-    },
-    {
-      "key": "US:company",
-      "label": "美股·company",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "importance": 1,
-      "count": 1,
-      "sources": [
-        "美股 / 全球财经"
-      ],
-      "latest_at": "2026-10-05T21:12:00+00:00",
-      "earliest_at": "2026-10-05T21:12:00+00:00",
-      "primary_item": {
-        "id": "a3b3b0787dbfc3fac93e5b2a9cc6cd4b92a30262",
-        "site_id": "us_global",
-        "site_name": "美股 / 全球财经",
-        "source": "MarketWatch Top Stories",
-        "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
-        "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-        "summary": "There’s a huge and rare divergence between the two-month returns of the Nasdaq and Dow Jones Industrial Average.",
-        "published_at": "2026-10-05T21:12:00+00:00",
-        "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-        "market": "US",
-        "markets": [
-          "US"
-        ],
-        "tickers": [],
-        "category": "company",
-        "score": 0.64
-      },
-      "items": [
-        {
-          "id": "a3b3b0787dbfc3fac93e5b2a9cc6cd4b92a30262",
-          "site_id": "us_global",
-          "site_name": "美股 / 全球财经",
-          "source": "MarketWatch Top Stories",
-          "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
-          "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-          "summary": "There’s a huge and rare divergence between the two-month returns of the Nasdaq and Dow Jones Industrial Average.",
-          "published_at": "2026-10-05T21:12:00+00:00",
-          "first_seen_at": "2026-10-06T07:11:56.669121+00:00",
-          "market": "US",
-          "markets": [
-            "US"
-          ],
-          "tickers": [],
-          "category": "company",
-          "score": 0.64
         }
       ]
     }
