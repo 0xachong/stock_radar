@@ -1,44 +1,39 @@
 {
-  "generated_at": "2026-10-09T02:24:00.589643+00:00",
+  "generated_at": "2026-10-09T09:26:14.446926+00:00",
   "window_hours": 48,
-  "total_items": 29,
+  "total_items": 21,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 5,
-    "US": 24
+    "US": 21
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 8
+      "count": 6
     },
     {
       "key": "earnings",
-      "count": 8
-    },
-    {
-      "key": "ipo",
-      "count": 4
+      "count": 6
     },
     {
       "key": "macro",
       "count": 3
     },
     {
-      "key": "guidance",
-      "count": 2
-    },
-    {
       "key": "rating",
       "count": 2
     },
     {
-      "key": "ma",
-      "count": 1
+      "key": "ipo",
+      "count": 2
     },
     {
       "key": "policy",
+      "count": 1
+    },
+    {
+      "key": "guidance",
       "count": 1
     }
   ],
@@ -46,115 +41,85 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 23
+      "count": 18
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "bfe2fd5ed22715b21eed3be86f1ec923eac6e8dc",
+      "id": "1e3aaba7af9aba50bfef61054514c1142fe8e63e",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "港股异动 | 云顶新耀(01952)早盘涨超5% 公司任命两位莫德纳肿瘤疫苗科学家 提速mRNA全球临床",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3600979",
+      "title": "苹果股价今日为何下跌？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3601529",
       "summary": "",
-      "published_at": "2026-10-09T02:05:10+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "HK",
+      "published_at": "2026-10-09T09:19:49+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "92e012401598054fb0d64e999890a4260162f643",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股盘前，纳指100期货升近1%！黄金反弹逼近4200美元，币圈超18万人遭「血洗」",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3601525",
+      "summary": "",
+      "published_at": "2026-10-09T09:08:46+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
       "category": "company",
       "score": 0.64
     },
     {
-      "id": "da7d5a1042acd290f9fd156ee1ab49ddd11c09f6",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | AI硬件股继续承压 OpenAI营收比预期少200亿美元 市场重燃对AI行业增长前景担忧",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3600978",
-      "summary": "",
-      "published_at": "2026-10-09T02:05:09+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "HK",
+      "id": "bfee5899608dd1cfb8d4e8f0b57ee641bd114185",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
+      "url": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
+      "summary": "The artificial-intelligence build-out is most often associated with the dot-com boom at the end of the last century, but quants at one Wall Street giant identify another parallel: to the bell-bottomed, polyester suit, high-inflation era of the late 1970s.",
+      "published_at": "2026-10-09T08:49:00+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "b63136efb67bb2d7b97d4fb0e69cdc26cc507ee7",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股开盘 | 恒指高开0.65% 金融及综合板块走强 信达生物(01801)涨1.89%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3600974",
-      "summary": "",
-      "published_at": "2026-10-09T02:05:08+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.76
-    },
-    {
-      "id": "9d6a9c11a1dce19b0fd3acb71e2b51f83f5f07bc",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 京西国际(02339)一度涨超15% 潜在收购事项落实完成 立讯精密成公司最终控股股东",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3600975",
-      "summary": "",
-      "published_at": "2026-10-09T02:05:08+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.76
-    },
-    {
-      "id": "3cb575738bffb0304162516baa5e5042c0adcc17",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 集运股集体走高 马士基将紧急燃油附加费上调至20% 节后运价企稳预期升温",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3600976",
-      "summary": "",
-      "published_at": "2026-10-09T02:05:08+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "guidance",
+      "category": "macro",
       "score": 0.52
     },
     {
-      "id": "61c8153b18964d166d5353ad74f1d26677272ee2",
+      "id": "1741f73497db6dd887e0f08e902fb8504b66ece9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Stock futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates",
+      "title": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates",
       "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-      "summary": "The Nasdaq Composite dropped more than 1% on Thursday, marking its biggest one-day loss since mid August.",
-      "published_at": "2026-10-09T01:41:21+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "summary": "The Nasdaq Composite dropped more than 1% on Thursday, marking its biggest one-day loss since mid-August.",
+      "published_at": "2026-10-09T08:46:40+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -164,22 +129,46 @@
       "score": 0.76
     },
     {
-      "id": "2242281b04586524815c9d56ad2c13d938620899",
+      "id": "e481772c1d1e04cefd84cbed19604d31de0ddabf",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Veea regains full Nasdaq listing compliance; shares surge",
-      "url": "https://seekingalpha.com/news/4651623-veea-regains-full-nasdaq-listing-compliance-shares-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-09T00:18:19+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "source": "The Motley Fool",
+      "title": "Here's Where Palantir and 4 Other AI Software Stocks Could Be in 5 Years",
+      "url": "https://www.fool.com/investing/2026/10/09/where-palantir-ai-software-stock-crwd-soun-app/?source=iedfolrf0000001",
+      "summary": "Palantir isn't the only AI software stock worth watching. Here's how I'd rank all five over the next five years.",
+      "published_at": "2026-10-09T08:15:00+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "9f9d4bfa86ed4fb05149a05f5e0ddc66f77b4b97",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: Earnings Growth Will Push Coca-Cola Stock to $100 Before 2028",
+      "url": "https://www.fool.com/investing/2026/10/09/prediction-earnings-growth-will-push-coca-cola-stock-to-usd100-before-2028/?source=iedfolrf0000001",
+      "summary": "Shares have to rise about 14% over the next 15 months or so. Can earnings growth get them there?",
+      "published_at": "2026-10-09T07:17:01+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.64
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "8dfb7cd17057cede6b9a81a17d458f8f819bcee4",
@@ -189,8 +178,8 @@
       "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
       "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
       "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-      "published_at": "2026-10-08T23:57:23+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "published_at": "2026-10-09T06:30:01+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -198,6 +187,48 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "591b5d5b65b38a0a925a30edb265421c2a19e861",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Hong Kong faces limited impact if Fed curbs access to US dollar funding facility: analysts",
+      "url": "https://www.scmp.com/business/banking-finance/article/3370283/hong-kong-faces-limited-impact-if-fed-curbs-access-us-dollar-funding-facility-analysts?utm_source=rss_feed",
+      "summary": "A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve facility that provides short-term US dollar funding would have limited impact on the city as it is not a regular source of financing, according to analysts, who said any restriction could instead weaken the US dollar’s global dominance.\nJohn Moolenaar, chairman of the House Select Committee on China, has written to US Fed",
+      "published_at": "2026-10-09T05:08:34+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "02bd923eefe99374cbd30cd71ee75400562dcb88",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Forget Waiting for an Nvidia Split: NVDA's Real Value Has Nothing to Do With Share Price",
+      "url": "https://www.fool.com/investing/2026/10/09/forget-waiting-for-an-nvidia-split-nvdas-real-valu/?source=iedfolrf0000001",
+      "summary": "The leading chipmaker continues to deliver impressive financial results.",
+      "published_at": "2026-10-09T04:00:00+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
     },
     {
       "id": "09e319dc97288d0f8476831a3a28f9db0312ebec",
@@ -208,7 +239,7 @@
       "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
       "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
       "published_at": "2026-10-08T23:14:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,7 +257,7 @@
       "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
       "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
       "published_at": "2026-10-08T22:08:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -244,7 +275,7 @@
       "url": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
       "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
       "published_at": "2026-10-08T21:56:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -268,7 +299,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/10/08/stock-market-today-oct-8-chipotle-surges-6-on-renewed-starbucks-takeover-report/?source=iedfolrf0000001",
       "summary": "On Oct. 8, 2026, deal speculation lifted shares 6.10% as traders ramped call volume on the strategic bid rumor.",
       "published_at": "2026-10-08T20:46:41+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -286,7 +317,7 @@
       "url": "https://www.fool.com/investing/2026/10/08/why-marvell-stock-rocketed-higher-last-month/?source=iedfolrf0000001",
       "summary": "A booming semiconductor industry, positive CEO comments, and new tech pushed Marvell higher.",
       "published_at": "2026-10-08T20:13:52+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -302,24 +333,6 @@
       "score": 0.97
     },
     {
-      "id": "fc9011d3f1637e3e2528cbd5a57386390e8a3325",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
-      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-      "summary": "Traders digested comments from a top Federal Reserve official while awaiting another long-dated bond auction.",
-      "published_at": "2026-10-08T20:06:52+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "9eb58288dafbdd443841b3008a1f80abf43c171a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -328,7 +341,7 @@
       "url": "https://www.cnbc.com/2026/10/08/stocks-reporting-next-week-with-track-record-of-earnings-beats-share-gains.html",
       "summary": "CNBC Pro screened data from Bespoke Investment Group to find companies that have a solid history of beating earnings estimates and seeing shares rise.",
       "published_at": "2026-10-08T19:34:21+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -346,7 +359,7 @@
       "url": "https://www.fool.com/investing/2026/10/08/heres-what-a-10000-investment-in-marvell-stock-cou/?source=iedfolrf0000001",
       "summary": "As artificial intelligence (AI) infrastructure spending accelerates, Marvell is quietly positioned for lucrative gains.",
       "published_at": "2026-10-08T19:15:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -362,60 +375,6 @@
       "score": 0.97
     },
     {
-      "id": "df7c4f190ef556ca9eb07a121dbb78cc7af25d03",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Nuclear Energy Stocks Down 40% or More From Their Highs -- Only 1 Is a Real Opportunity Right Now.",
-      "url": "https://www.fool.com/investing/2026/10/08/3-nuclear-energy-stocks-down-40-or-more-from-their/?source=iedfolrf0000001",
-      "summary": "NuScale, Oklo, and BWX Technologies have all pulled back from their record highs.",
-      "published_at": "2026-10-08T19:05:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "60d456155cf0eb5e23bbc407c78de9d9173d20da",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Starbucks May Be Eyeing a Potential Takeover Bid for Chipotle. Here's What It Could Mean for Investors",
-      "url": "https://www.fool.com/investing/2026/10/08/starbucks-may-be-eyeing-a-potential-takeover-bid-for-chipotle-here-s-what-it-could-mean-for-investors/?source=iedfolrf0000001",
-      "summary": "Such a deal would mark the biggest restaurant acquisition in history.",
-      "published_at": "2026-10-08T18:09:03+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "4cfa3fed7b05a24f965541a7ed293d2c653fdc44",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "url": "https://www.fool.com/coverage/charts/2026/10/08/applied-materials-vs-qualcomm-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?source=iedfolrf0000001",
-      "summary": "Applied Materials has nearly closed a once-wide revenue gap, posting consecutive quarterly gains while Qualcomm's latest results show a marked slowdown.",
-      "published_at": "2026-10-08T18:08:14+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
       "id": "2d164099ae41204fd54ae92de1eb2bfd9fc7f998",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -424,7 +383,7 @@
       "url": "https://www.cnbc.com/2026/10/08/trump-media-ban-court-hearing-lawsuit-cnn-msnow-politico.html",
       "summary": "An attorney for CNN, MSNOW and Politico asked a federal judge to prevent the White House from banning the three outlets, saying it violated the First Amendment.",
       "published_at": "2026-10-08T17:53:41+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -442,7 +401,7 @@
       "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
       "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
       "published_at": "2026-10-08T17:31:03+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -450,90 +409,6 @@
       "tickers": [],
       "category": "policy",
       "score": 0.52
-    },
-    {
-      "id": "ec2d59947a2ed3e2598096fe8921a1678f9d2190",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Stat That Makes Roblox Hard to Ignore Right Now",
-      "url": "https://www.fool.com/investing/2026/10/08/1-stat-that-makes-roblox-hard-to-ignore-right-now/?source=iedfolrf0000001",
-      "summary": "Roblox stock is down more than 40% this year, but its popular video game platform is far from dead.",
-      "published_at": "2026-10-08T17:25:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "92e914b78e981202e75e0637cca570edad3c7e17",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
-      "url": "https://www.fool.com/investing/2026/10/08/palantir-looks-like-a-consulting-company-its-numbe/?source=iedfolrf0000001",
-      "summary": "Palantir is often criticized by skeptics of being a consulting firm and not a software-as-a-service company.",
-      "published_at": "2026-10-08T17:15:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "abf60151efb483101fd815013185c4c6055893ab",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is SoFi Stock a Buy in October 2026?",
-      "url": "https://www.fool.com/investing/2026/10/08/is-sofi-stock-a-buy-in-october-2026/?source=iedfolrf0000001",
-      "summary": "This beaten-down fintech stock appears undervalued relative to its growth prospects.",
-      "published_at": "2026-10-08T17:10:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "0f981266a41c4ca3e09af1ec2f243a42872e064a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "AMD vs. Intel: Which Chip Stock Has More Upside From Here?",
-      "url": "https://www.fool.com/investing/2026/10/08/amd-vs-intel-which-chip-stock-has-more-upside-from/?source=iedfolrf0000001",
-      "summary": "They are both profiting from the AI boom, but one of them looks more attractive right now.",
-      "published_at": "2026-10-08T16:30:00+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
     },
     {
       "id": "8b5654ffb76d32ffe5f499d452ba3532f8bcaca8",
@@ -544,7 +419,7 @@
       "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
       "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
       "published_at": "2026-10-08T14:43:38+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -562,7 +437,7 @@
       "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
       "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
       "published_at": "2026-10-07T18:44:36+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -580,7 +455,7 @@
       "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
       "summary": "Third-quarter earnings season kicks off this week and as results roll in they should reveal what the market is eagerly anticipating: blockbuster profits.",
       "published_at": "2026-10-07T18:19:53+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
+      "first_seen_at": "2026-10-09T09:26:14.446926+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -588,24 +463,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.52
-    },
-    {
-      "id": "2af3e6e9dc71da00aa7e100e08549aec22b1fe76",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "US firm ArriVent’s plunge shows risks facing China’s biotech expansion into global markets",
-      "url": "https://www.scmp.com/business/china-business/article/3369985/us-firm-arrivents-plunge-shows-risks-facing-chinas-biotech-expansion-global-markets?utm_source=rss_feed",
-      "summary": "US firm ArriVent BioPharma’s shares plummeted after a late-stage trial failure involving a cancer drug licensed from China, a setback that analysts said highlighted the challenges facing Chinese biotech companies expanding overseas.\nNew York-listed ArriVent closed down nearly 47 per cent on Tuesday after reporting that its cancer treatment firmonertinib failed to meet its main goal in a phase 3 tr",
-      "published_at": "2026-10-07T04:20:31+00:00",
-      "first_seen_at": "2026-10-09T02:24:00.589643+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
     }
   ]
 }
