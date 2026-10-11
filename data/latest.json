@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-10T22:13:18.560027+00:00",
+  "generated_at": "2026-10-11T01:07:47.037276+00:00",
   "window_hours": 48,
-  "total_items": 16,
+  "total_items": 19,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 15,
+    "US": 18,
     "CN": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 5
+      "count": 6
     },
     {
       "key": "earnings",
@@ -23,7 +23,11 @@
     },
     {
       "key": "rating",
-      "count": 2
+      "count": 3
+    },
+    {
+      "key": "guidance",
+      "count": 1
     },
     {
       "key": "capital",
@@ -34,7 +38,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 14
+      "count": 17
     },
     {
       "site_id": "hk_china",
@@ -44,6 +48,71 @@
   ],
   "items": [
     {
+      "id": "636bf1d6d43bba5facd256072ff1c5ba41a576f6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Consumer Check-In & AI’s Progress",
+      "url": "https://www.fool.com/investing/2026/10/10/consumer-check-in-ais-progress/?source=iedfolrf0000001",
+      "summary": "Sales are down, guidance has been rough, and with oil and interest rates rising, what is the future for the consumer?",
+      "published_at": "2026-10-11T00:13:00+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.52
+    },
+    {
+      "id": "bf478a21a9de31de1d54a0539c30e1c1e1e4d600",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Better Artificial Intelligence Stock: Arm vs. Marvell Technology",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/10/better-artificial-intelligence-stock-arm-vs-marvell-technology/?source=iedfolrf0000001",
+      "summary": "Arm commands smartphone architecture and is moving into AI CPUs; Marvell dominates data center connectivity with 32.6% net margins.",
+      "published_at": "2026-10-10T23:11:50+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "b25dc9d8151fd209a5d6395508db771afc8bfcf0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Moderna Now Trades 61% Above Wall Street's Average Price Target. Should You Sell?",
+      "url": "https://www.fool.com/investing/2026/10/10/moderna-now-trades-61-percent-above-price-target/?source=iedfolrf0000001",
+      "summary": "After a few years of stagnation, this stock is soaring.",
+      "published_at": "2026-10-10T22:15:00+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
       "id": "bdb542269a3971b8da610c327bbd7ebfc650921d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -52,7 +121,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/is-it-too-late-to-buy-palantir-stock/?source=iedfolrf0000001",
       "summary": "Palantir stock is up more than 1,000% in the last three years.",
       "published_at": "2026-10-10T18:30:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -76,7 +145,7 @@
       "url": "https://www.fool.com/coverage/etfs/2026/10/10/silver-etf-faceoff-will-slv-or-sil-give-you-better-exposure-to-the-shiny-metal/?source=iedfolrf0000001",
       "summary": "iShares Silver Trust offers lower fees and $30.5B in assets, while Global X Silver Miners ETF delivers dividend income and operational leverage from mining companies.",
       "published_at": "2026-10-10T18:09:02+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -100,7 +169,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/the-nasdaq-100-has-gained-20-or-more-3-years-running-this-streak-rests-on-far-stronger-earnings-than-1999-s/?source=iedfolrf0000001",
       "summary": "The two earlier streaks like it both ended with a down year of over 30%. Is today's run built any differently?",
       "published_at": "2026-10-10T17:58:01+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -118,7 +187,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/1-reason-the-meta-muse-ai-agent-has-the-upper-hand/?source=iedfolrf0000001",
       "summary": "Investors should be thinking about monetization strategies.",
       "published_at": "2026-10-10T17:30:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -142,7 +211,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/joby-just-flew-an-aircraft-across-the-united-state/?source=iedfolrf0000001",
       "summary": "Joby's technology impressed, but Wall Street is waiting for revenue.",
       "published_at": "2026-10-10T16:45:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -160,7 +229,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/10/10/advanced-micro-devices-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
       "published_at": "2026-10-10T16:43:01+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -184,7 +253,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/expectations-of-another-fed-rate-hike-this-month/?source=iedfolrf0000001",
       "summary": "Suddenly, it appears the Fed may hit pause on rate hikes in October.",
       "published_at": "2026-10-10T15:45:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -202,7 +271,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/like-metas-muse-ai-agents-4-ai-semiconductor-stock/?source=iedfolrf0000001",
       "summary": "The data center CPU market looks set to explode.",
       "published_at": "2026-10-10T15:30:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -226,7 +295,7 @@
       "url": "https://www.fool.com/investing/2026/10/10/coinbase-ceo-brian-armstrong-bitcoin-update/?source=iedfolrf0000001",
       "summary": "Brian Armstrong is sticking with his $400,000 Bitcoin target. His direction looks sound, but the 2030 deadline is a stretch.",
       "published_at": "2026-10-10T15:27:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -255,7 +324,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3602776",
       "summary": "",
       "published_at": "2026-10-10T13:05:46+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -273,7 +342,7 @@
       "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
       "summary": "The Nasdaq Composite rose on Friday following a losing session.",
       "published_at": "2026-10-09T20:14:57+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -291,7 +360,7 @@
       "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
       "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
       "published_at": "2026-10-09T19:19:00+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -309,7 +378,7 @@
       "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
       "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
       "published_at": "2026-10-09T15:07:46+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -327,7 +396,7 @@
       "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
       "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
       "published_at": "2026-10-09T13:09:19+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -345,7 +414,7 @@
       "url": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
       "summary": "Margin debt has surged to record levels as investors like 29-year-old Hy Luu borrow more against their portfolios. Here’s how leverage can amplify stock losses.",
       "published_at": "2026-10-09T13:03:19+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -363,7 +432,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3370283/hong-kong-faces-limited-impact-if-fed-curbs-access-us-dollar-funding-facility-analysts?utm_source=rss_feed",
       "summary": "A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve facility that provides short-term US dollar funding would have limited impact on the city as it is not a regular source of financing, according to analysts, who said any restriction could instead weaken the US dollar’s global dominance.\nJohn Moolenaar, chairman of the House Select Committee on China, has written to US Fed",
       "published_at": "2026-10-09T05:08:34+00:00",
-      "first_seen_at": "2026-10-10T22:13:18.560027+00:00",
+      "first_seen_at": "2026-10-11T01:07:47.037276+00:00",
       "market": "US",
       "markets": [
         "US"
