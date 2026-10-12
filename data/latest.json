@@ -1,36 +1,40 @@
 {
-  "generated_at": "2026-10-12T10:15:16.539549+00:00",
+  "generated_at": "2026-10-12T19:55:49.517390+00:00",
   "window_hours": 48,
-  "total_items": 17,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 14,
-    "HK": 3
+    "US": 22,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 7
+      "count": 11
+    },
+    {
+      "key": "rating",
+      "count": 3
     },
     {
       "key": "macro",
       "count": 3
     },
     {
-      "key": "earnings",
-      "count": 3
+      "key": "ma",
+      "count": 2
     },
     {
       "key": "capital",
       "count": 2
     },
     {
-      "key": "rating",
+      "key": "product",
       "count": 1
     },
     {
-      "key": "guidance",
+      "key": "ipo",
       "count": 1
     }
   ],
@@ -38,7 +42,7 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 13
+      "count": 19
     },
     {
       "site_id": "hk_china",
@@ -48,177 +52,15 @@
   ],
   "items": [
     {
-      "id": "726bc746fde1aa4af54a45653b4734ff10a2f4f2",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美股盘前，布油升至105美元，美债高位回落！人民币汇率创四年新高",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3604048",
+      "id": "389e9f688475f4370e982f8e1f4be35b0b52153a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Google holds big lead over Anthropic, Meta, OpenAI in race for best October AI model",
+      "url": "https://seekingalpha.com/news/4652226-google-holds-big-lead-over-anthropic-meta-openai-in-race-for-best-october-ai-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "summary": "",
-      "published_at": "2026-10-12T10:09:50+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "32b0d3b26f4d8d71fb1751e77a180b90987fee46",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "中电控股(00002)将于12月15日派发第三季度普通股息每股0.63港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3604030",
-      "summary": "",
-      "published_at": "2026-10-12T10:05:20+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "32da2981cc41545c5ec0c26b3a2f792e78b25c0a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "天星医疗(01609)10月12日斥资12.61万港元回购2000股",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3604027",
-      "summary": "",
-      "published_at": "2026-10-12T10:05:19+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.64
-    },
-    {
-      "id": "2780b161eb8f7a8870f8557aac06de42e28cbbdd",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "壁仞科技(06082)完成配售合共1.3亿股 净筹约40.2亿港元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3604028",
-      "summary": "",
-      "published_at": "2026-10-12T10:05:19+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "aad8dac19b235408f9f8eb755eb5bd153e6ac5b1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends",
-      "url": "https://www.fool.com/investing/2026/10/12/what-the-fed-warning-means-for-stock-market-invest/?source=iedfolrf0000001",
-      "summary": "The Federal Reserve is warning that higher interest rates are to come -- but that doesn't have to be bad news for your stock portfolio.",
-      "published_at": "2026-10-12T09:45:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "ee7ca63201f318d2d7b33bd4d7758662c25e91e7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "S&P 500 futures rise as big banks set to kick off earnings season: Live updates",
-      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-      "summary": "Investors are looking ahead to a busy week of earnings results from the big banks and inflation data.",
-      "published_at": "2026-10-12T09:28:27+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "fbd91c32387bd9a426d6e898a2b28adb3b790db7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
-      "summary": "A stronger dollar, higher bond market yields and elevated gas prices are already tightening financial conditions in the U.S. to the point that Kevin Warsh may not even need to hike rates.",
-      "published_at": "2026-10-12T09:23:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "493ae168906652e044c71075f2bcc552bfadf5e9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
-      "url": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
-      "summary": "Goldman Sachs is leaning more heavily into stocks for the remainder of the year. That’s down to earnings and a market that has overall gotten cheaper.",
-      "published_at": "2026-10-12T09:14:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "1ef2782666c65ac28e1bfdda8b2b6dd747b0fdb1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "These 2 AI Stocks Have Stumbled. Now They May Soar Nearly 75%, According to Wall Street.",
-      "url": "https://www.fool.com/investing/2026/10/12/these-2-ai-stocks-have-stumbled-now-they-may-soar-nearly-75-according-to-wall-street/?source=iedfolrf0000001",
-      "summary": "These companies are delivering record revenue.",
-      "published_at": "2026-10-12T09:10:02+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "54387104e0fa1240f1ac509af2845458bdb48d4e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "President Trump Just Dropped Over $1 Million Into 3 Tech Stocks -- Should You Buy Them Too?",
-      "url": "https://www.fool.com/investing/2026/10/12/president-trump-just-dropped-over-1-million-into-3/?source=iedfolrf0000001",
-      "summary": "President Trump's investment team was buying shares of Meta Platforms, Microsoft, and Netflix in August.",
-      "published_at": "2026-10-12T09:00:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
+      "published_at": "2026-10-12T19:54:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,49 +73,26 @@
         }
       ],
       "category": "company",
-      "score": 1.0
+      "score": 0.85
     },
     {
-      "id": "58ac030f20004375643e7cd9c80cfc9a29ff6702",
+      "id": "74e5e712b5792f500d67d1d8a8103225de47cecf",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History",
-      "url": "https://www.fool.com/investing/2026/10/12/fed-chair-kevin-warsh-fomc-fired-warning-shot-at-second-priciest-stock-market-in-history/?source=iedfolrf0000001",
-      "summary": "The central bank’s rate-hiking cycle is just getting started.",
-      "published_at": "2026-10-12T08:06:02+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "8ae3d61051d29ca487ab44406738b6eed8a70316",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "3 Tech Stocks Wall Street Upgraded Last Week, and the One I'd Buy First",
-      "url": "https://www.fool.com/investing/2026/10/11/stocks-wall-street-upgraded-last-week-one-id-buy/?source=iedfolrf0000001",
-      "summary": "Microsoft, Palantir, and Marvell all got upgrades last week -- but Marvell is the one I'd pick.",
-      "published_at": "2026-10-12T02:30:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "summary": "The company’s stock was up more than 3% following the release of Muse Wonder and Muse Wonder Full, which analysts expect to drive new business opportunities.",
+      "published_at": "2026-10-12T19:43:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        },
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
@@ -281,75 +100,15 @@
       "score": 1.0
     },
     {
-      "id": "ac04d20ff01ba361d09651d35c7f40a1334518d2",
+      "id": "ea00e4efa5fb4187d2314e31f18d2598868e9a70",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Butterfield's 2026 Outlook: Reliable Fee Income Growth and a Major Acquisition Doubling the Size of Its Business",
-      "url": "https://www.fool.com/coverage/moneyball/2026/10/11/butterfield-s-2026-outlook-reliable-fee-income-growth-and-a-major-acquisition-doubling-the-size-of-its-business/?source=iedfolrf0000001",
-      "summary": "This under-the-radar financial stock boasts a Superscore of 75 from our Hidden Gems Primary database, part of The Motley Fool's Moneyball Database system. Here's why.",
-      "published_at": "2026-10-12T00:42:55+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.61
-    },
-    {
-      "id": "033a6e97a3125ee058c24661af4cb26195e38246",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Prediction: A $5,000 Investment in IonQ Could Be Worth This Much by 2028",
-      "url": "https://www.fool.com/investing/2026/10/11/prediction-a-5000-investment-in-ionq-could-be-wort/?source=iedfolrf0000001",
-      "summary": "IonQ stock is down 12% on the year, but could a turnaround be in the works?",
-      "published_at": "2026-10-12T00:00:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "4cf0da915154892e5c58ead939b18cf5e754afa6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Which Precious Metals ETF Is the Better Buy: abrdn’s Silver SIVR or VanEck’s Gold Miners GDX?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/11/which-precious-metals-etf-is-the-better-buy-abrdn-s-silver-sivr-or-vaneck-s-gold-miners-gdx/?source=iedfolrf0000001",
-      "summary": "Physical silver offers lower costs and no dividend, while gold miners provide equity diversification and income. Which metals strategy fits your portfolio?",
-      "published_at": "2026-10-11T22:44:09+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "capital",
-      "score": 0.97
-    },
-    {
-      "id": "1bf867f96b80200d3c23e5ecf59147fa657c5f01",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "History Says This Will Happen to AMD Stock in 2027",
-      "url": "https://www.fool.com/investing/2026/10/11/history-says-this-will-happen-to-amd-stock-in-2027/?source=iedfolrf0000001",
-      "summary": "The chipmaker has had a great year, but its stock has risen too far, too fast.",
-      "published_at": "2026-10-11T21:15:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
+      "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer.",
+      "url": "https://www.fool.com/investing/2026/10/12/nvidia-and-amd-reached-a-historic-valuation-split/?source=iedfolrf0000001",
+      "summary": "Nvidia and AMD traded closely for a long time, but that's no longer the case.",
+      "published_at": "2026-10-12T19:30:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -365,28 +124,417 @@
       "score": 0.97
     },
     {
-      "id": "48be678ccfd3e3c5511424e8e1d1c514cbe68066",
+      "id": "2e6781a2cd3772e059aa2233855a17a8415504fe",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "History Says This Will Happen to Palantir Stock by 2028",
-      "url": "https://www.fool.com/investing/2026/10/11/history-says-this-will-happen-to-palantir-stock-by/?source=iedfolrf0000001",
-      "summary": "The AI data analytics company's stock is extremely pricey.",
-      "published_at": "2026-10-11T19:10:00+00:00",
-      "first_seen_at": "2026-10-12T10:15:16.539549+00:00",
+      "title": "These S&P 500 Stocks Are Down More Than 80% From Their All-Time Highs. Could They Be Good Contrarian Buys?",
+      "url": "https://www.fool.com/investing/2026/10/12/these-s-and-p-500-stocks-are-down-more-than-80-from-their-all-time-highs-could-they-be-good-contrarian-buys/?source=iedfolrf0000001",
+      "summary": "Going against the grain and buying stocks that are down big can involve risks, but it also may lead to terrific returns later on.",
+      "published_at": "2026-10-12T19:25:02+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "ffc987242e7479cd0032de61243b989f0009f0f0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Bumble股价今日暴涨近50%，传闻私有化交易估值约10亿美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3604931",
+      "summary": "",
+      "published_at": "2026-10-12T19:20:58+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.61
+    },
+    {
+      "id": "8616ea12926b246eb2b06b9e3bafd16d6603709e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Meta Platforms Stock Rallied Monday Morning",
+      "url": "https://www.fool.com/investing/2026/10/12/why-meta-platforms-stock-rallied-monday-morning/?source=iedfolrf0000001",
+      "summary": "The social media company unveiled its Muse Wonder AI model.",
+      "published_at": "2026-10-12T19:08:25+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "PLTR",
-          "name": "Palantir",
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.97
+    },
+    {
+      "id": "4f284a181928f4e51d6ea738240ecc8a20347314",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Nasdaq 100跌破云层极度超卖：实时关键位更新",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3604687",
+      "summary": "",
+      "published_at": "2026-10-12T19:06:04+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "468f3e5aa83b41187535086138614e682adfa890",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "特斯拉5小时K线区间震荡：367至389美元临界点实时追踪",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3604685",
+      "summary": "",
+      "published_at": "2026-10-12T19:05:49+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
           "market": "US"
         }
       ],
       "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "4faad916d059225f292f1233de2a38aea276f30a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "台积电ADR测试$446颈线支撑，破位或指向$430：实时更新",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3604691",
+      "summary": "",
+      "published_at": "2026-10-12T19:05:38+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "6fcc2aa1362f50db5da6df1f2e0f4890b60e89ee",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
+      "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "published_at": "2026-10-12T18:47:58+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 0.85
+    },
+    {
+      "id": "43d85caca059848622d5bb39d35dac17ea95fbb1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+      "url": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+      "summary": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
+      "published_at": "2026-10-12T18:29:28+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "e5ef3987433f75d24b93ed4fb99ba82f4bc46464",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Starbucks Shuts Down Chipotle Takeover Rumors. Here’s What Investors Need to Know.",
+      "url": "https://www.fool.com/investing/2026/10/12/starbucks-shuts-down-chipotle-takeover-rumors-heres-what-investors-need-to-know/?source=iedfolrf0000001",
+      "summary": "Rumors that swirled last week have finally been put to rest.",
+      "published_at": "2026-10-12T17:59:29+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.64
+    },
+    {
+      "id": "26350fdc8c527d0255345c5cf91ee85f3d9d8248",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Silver Falls to $60. Is Now the Time to Load Up on the Precious Metal?",
+      "url": "https://www.fool.com/investing/2026/10/12/silver-falls-to-60-is-now-the-time-to-load-up-on-the-precious-metal/?source=iedfolrf0000001",
+      "summary": "The iShares Silver Trust has made for a terrific long-term investment, generating returns of 160% in five years, but it's been struggling of late.",
+      "published_at": "2026-10-12T17:46:02+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
       "score": 0.97
+    },
+    {
+      "id": "690f1715cf6ceb2c0f4438a3fb1a19f94e240164",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Not Sandisk, Not Intel. This Stock Will Lead the S&P 500 Next Year",
+      "url": "https://www.fool.com/investing/2026/10/12/not-sandisk-not-intel-this-stock-will-lead-the-sp/?source=iedfolrf0000001",
+      "summary": "Nvidia has the potential to lead the S&amp;P 500 in performance next year.",
+      "published_at": "2026-10-12T17:45:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "89386fa148d33995bd17df1afabed21bb85f968a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "summary": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.",
+      "published_at": "2026-10-12T17:34:35+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "7e312e00f3271b2562f7a121c8f8d307d813eca3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Why older Americans' wealth may be helping keep consumer spending strong",
+      "url": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
+      "summary": "Boomers report more financial confidence as Federal Reserve and JPMorgan data show older households hold more wealth and draw more from investments.",
+      "published_at": "2026-10-12T17:23:35+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "966264115ba703bbdb76af017c03cd4c674af7d9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "published_at": "2026-10-12T17:15:21+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "5f39e1f941837daff035e5c3ea73f12a1d565ea0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Banco Bradesco Top Legal Executive Purchases $1 Million Shares. Has the Brazil Bank Stock Turned the Corner?",
+      "url": "https://www.fool.com/coverage/filings/2026/10/12/banco-bradesco-top-legal-executive-purchases-usd1-million-shares-has-the-brazil-bank-stock-turned-the-corner/?source=iedfolrf0000001",
+      "summary": "Bueno's acquisition increased his direct holding by 20%, bringing total shares to 336,549. The purchase price of $17.98 per share contrasts sharply with the stock's subsequent market valuation.",
+      "published_at": "2026-10-12T17:11:01+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.61
+    },
+    {
+      "id": "5155c0df15fe3981e93a1b45c9081559623d292f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
+      "url": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+      "summary": "As more money flows toward AI software offerings, Salesforce could deepen its customer relationships while Adobe looks vulnerable, analysts say.",
+      "published_at": "2026-10-12T16:47:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        },
+        {
+          "symbol": "ADBE",
+          "name": "Adobe",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "b4d3b2bafb760b39a03fc9ef5c56c1d8bbd4ca1b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Lucid Group Stock Is Moving in Reverse Today",
+      "url": "https://www.fool.com/investing/2026/10/12/why-lucid-group-stock-is-moving-in-reverse-today/?source=iedfolrf0000001",
+      "summary": "The market's enthusiasm for this EV stock is powering down.",
+      "published_at": "2026-10-12T16:24:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "6cbc2571b46596ef70f5d053ed022979c4f65271",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Midday, Oct. 12: Dow Edges Higher as Investors Rotate Into Value Stocks",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-midday-oct-12-dow-edges-higher-as-investors-rotate-into-value-stocks/?source=iedfolrf0000001",
+      "summary": "Tech weakness pressures Nasdaq while crude oil climbs to $106 per barrel amid Middle East developments, today, Oct. 12, 2026.",
+      "published_at": "2026-10-12T16:05:19+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "5d65327adedbba3a5a070862aa7db32f830b40c4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Investors can now see how Meta's big AI spending will pay off with Muse. Why I am buying now",
+      "url": "https://www.cnbc.com/2026/10/12/investors-can-now-see-how-metas-big-ai-spending-will-pay-off-with-muse-why-i-am-buying-now.html",
+      "summary": "Meta's push into consumer and enterprise AI could lead to new growth opportunities.",
+      "published_at": "2026-10-12T15:54:41+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "1b37551b3b10995cc2b8d9f8f47325e8d6a598a5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy.",
+      "url": "https://www.fool.com/investing/2026/10/12/schd-is-down-6-from-its-peak-heres-why-history-say/?source=iedfolrf0000001",
+      "summary": "Even if the S&amp;P 500 goes into a sell-off, dividend stocks could have more room to grow.",
+      "published_at": "2026-10-12T15:45:00+00:00",
+      "first_seen_at": "2026-10-12T19:55:49.517390+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
     }
   ]
 }
