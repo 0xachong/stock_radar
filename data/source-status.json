@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T23:02:46.519042+00:00",
+  "generated_at": "2026-10-12T02:33:56.208869+00:00",
   "sites": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "status": "error",
-      "count": 9,
+      "count": 10,
       "errors": [
         "Yahoo Finance: 404 Client Error: Not Found for url: https://finance.yahoo.com/news/rssindex",
         "Nasdaq Stocks: HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=20)"
@@ -15,12 +15,12 @@
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "status": "ok",
-      "count": 1,
+      "count": 8,
       "errors": []
     }
   ],
   "successful_sites": 1,
   "failed_sites": 1,
   "fetched_raw_items": 277,
-  "items_in_window": 10
+  "items_in_window": 18
 }
