@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-10-14T05:49:44.727259+00:00",
+  "generated_at": "2026-10-14T11:14:00.166973+00:00",
   "window_hours": 48,
-  "total_items": 18,
+  "total_items": 9,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 18
+    "US": 8,
+    "HK": 2
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 8
+      "count": 3
     },
     {
       "key": "earnings",
-      "count": 6
+      "count": 2
     },
     {
-      "key": "capital",
-      "count": 1
+      "key": "macro",
+      "count": 2
     },
     {
       "key": "ipo",
@@ -27,227 +28,31 @@
     {
       "key": "rating",
       "count": 1
-    },
-    {
-      "key": "macro",
-      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 15
+      "count": 5
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
     {
-      "id": "fe11bd65da235520fc64b577c6a4ed4edf4e93a1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Earnings Snapshot: ASML Q3 GAAP EPS beats at €12.93; raises Q4 guidance above estimates and updates FY26 sales outlook",
-      "url": "https://seekingalpha.com/news/4652736-earnings-snapshot-asml-q3-gaap-eps-beats-at-1293-raises-q4-guidance-above-estimates-and-updates-fy26-sales-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-14T05:43:15+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "30e78e6c0b140e8dce201ee1f45db22572eb2737",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "澳大利亚股市收低；截至收盘澳大利亚S&P/ASX200指数下跌0.64%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3607477",
-      "summary": "",
-      "published_at": "2026-10-14T05:30:14+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "4823068990cb6c4c73cb6697d8a90ad882ddfd91",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电股价上涨，市场静待备受关注的第三季度财报",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3607473",
-      "summary": "",
-      "published_at": "2026-10-14T05:12:41+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "7c40e7f7186238bac5e2f15751626b9a4298be55",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies",
-      "url": "https://www.fool.com/coverage/charts/2026/10/14/alphabet-vs-meta-platforms-here-s-what-revenue-trends-tell-investors-about-these-media-giants-turned-artificial-intelligence-companies/?source=iedfolrf0000001",
-      "summary": "Alphabet's revenue lead has grown substantially over eight quarters, but Meta's growth rate tells a different story for investors weighing the two tech giants.",
-      "published_at": "2026-10-14T05:04:49+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "9efc9153ff652b043dd6149bee2fbfb66a08237a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Intel Stock Has Nearly Tripled in 2026. A $10,000 Stake From 2016 Still Trails the S&P 500.",
-      "url": "https://www.fool.com/investing/2026/10/14/intel-stock-has-nearly-tripled-in-2026-a-usd10-000-stake-from-2016-still-trails-the-s-and-p-500/?source=iedfolrf0000001",
-      "summary": "The chipmaker's share price went nowhere for nine years. How much of the turnaround are investors already paying for?",
-      "published_at": "2026-10-14T04:43:01+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.52
-    },
-    {
-      "id": "14dc9c127bfd68cae9d2841fff755db2af268c2c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "url": "https://www.fool.com/coverage/charts/2026/10/14/intel-vs-marvell-technology-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?source=iedfolrf0000001",
-      "summary": "Intel's revenue jumped 18% in its latest quarter while Marvell posted eight straight quarters of growth — but the gap between them tells a different story.",
-      "published_at": "2026-10-14T04:37:53+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "92e8b379b4e80fafa3d8f35125efbcf52adcd753",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Forget Selling Netflix: NFLX Is the Streaming Stock I'm Buying More Of",
-      "url": "https://www.fool.com/investing/2026/10/14/forget-selling-netflix-im-buying-nflx-stock/?source=iedfolrf0000001",
-      "summary": "Netflix shares have lost 42% in a year. Here's why I'm not selling a single share.",
-      "published_at": "2026-10-14T04:25:11+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "a5d412b2790ada68fc1200f04a69e61cbcccfa75",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "S&P Global Stock: Buy, Hold, or Sell?",
-      "url": "https://www.fool.com/investing/2026/10/13/sp-global-stock-buy-hold-or-sell/?source=iedfolrf0000001",
-      "summary": "S&amp;P Global is taking a similar approach to other software companies in combating AI disruptions.",
-      "published_at": "2026-10-14T03:52:01+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "535db5ac24d03c9530e7803c4c61a115aa8ad709",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm",
-      "url": "https://www.fool.com/investing/2026/10/13/best-semiconductor-stocks-to-buy-in-october-marvel/?source=iedfolrf0000001",
-      "summary": "Marvell and Qualcomm are in different parts of the business cycle right now.",
-      "published_at": "2026-10-14T03:35:14+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "MRVL",
-          "name": "Marvell",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "13fcfd3f20d54319faab74c8b23a431acd289435",
+      "id": "22d0f13db36db20b3915e4098aa7287cf6f568b6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
       "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-      "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
-      "published_at": "2026-10-14T01:35:51+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
+      "summary": "Anthropic is asking a federal court in Washington, D.C., to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+      "published_at": "2026-10-14T11:01:42+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -257,100 +62,88 @@
       "score": 0.52
     },
     {
-      "id": "efa7f95b1a9514e61505cb08de0e6b24aaef1490",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Down 12.5% in 2 Months, Is the Sell-Off in Realty Income a Buying Opportunity for Income Investors?",
-      "url": "https://www.fool.com/investing/2026/10/13/down-125-in-2-months-is-the-sell-off-in-realty-inc/?source=iedfolrf0000001",
-      "summary": "Realty Income's stock price has substantially underperformed the S&amp;P 500 over the last couple of months.",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
+      "id": "4bb0c60c9ee09078c13a49ea5795889d240d0861",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "Chinese memory giant YMTC to grow revenue 6 times faster than peers as IPO nears: report",
+      "url": "https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report?utm_source=rss_feed",
+      "summary": "Yangtze Memory Technologies Corporation (YMTC), China’s leading flash-memory maker, is set to grow revenue six times faster than its industry peers this year as it expands into server-related business ahead of a planned initial public offering (IPO), according to Counterpoint Research.\nThe company’s server-related revenue was effectively zero in 2024, but could account for nearly 39 per cent of it",
+      "published_at": "2026-10-14T11:00:10+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
+      "market": "HK",
       "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "e5dc7f58c10b21bea22626ce1f83501a48e6ad60",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "CrowdStrike vs. Palantir Technologies: What Revenue Trends Tell Investors About These High-Growth Tech Companies",
-      "url": "https://www.fool.com/coverage/charts/2026/10/13/crowdstrike-vs-palantir-technologies-what-revenue-trends-tell-investors-about-these-high-growth-tech-companies/?source=iedfolrf0000001",
-      "summary": "Palantir has pulled ahead in total revenue, but CrowdStrike's steady growth pattern tells a different story about momentum.",
-      "published_at": "2026-10-13T23:35:49+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "7ae7b69f180b18a228b7f47f0fae54dbea5f6987",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "SpaceX Stock Has Climbed About 50% Through 6 Insider Share Unlocks. The Biggest Is Still Ahead.",
-      "url": "https://www.fool.com/investing/2026/10/13/spacex-stock-has-climbed-about-50-through-6-insider-share-unlocks-the-biggest-is-still-ahead/?source=iedfolrf0000001",
-      "summary": "The next big release is up to 1.3 billion shares, and it lands just after third-quarter earnings.",
-      "published_at": "2026-10-13T23:19:01+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
-      "market": "US",
-      "markets": [
-        "US"
+        "HK"
       ],
       "tickers": [],
       "category": "earnings",
       "score": 0.61
     },
     {
-      "id": "992f0d91473000d0ae75f5c42e2bfcd2fedd9ce3",
+      "id": "87c3ac80328935ced280bc5af52743b02d720fbb",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "盘前异动：阿里巴巴因新款AI眼镜上涨，Liquidia因法律和解大涨",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3608130",
+      "summary": "",
+      "published_at": "2026-10-14T10:41:22+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
+      "market": "HK",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "09988",
+          "name": "阿里巴巴",
+          "market": "HK"
+        },
+        {
+          "symbol": "BABA",
+          "name": "阿里巴巴",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "fe11259dfbd6e6503dcdc5226f5c79c6fadc6f1c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, Oct. 13: Rate Pressures and Analyst Downgrades Weigh on Rocket Companies",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-rate-pressures-and-analyst-downgrades-weigh-on-rocket-companies/?source=iedfolrf0000001",
-      "summary": "Mortgage lender Rocket sank to its lowest level in a year after key analysts reduced their price targets, today, Oct. 13, 2026.",
-      "published_at": "2026-10-13T21:35:32+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+      "url": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
+      "summary": "Slowing flows into tech stocks as valuations deteriorate has one strategist lowering the firm’s rating on tech stocks.",
+      "published_at": "2026-10-14T10:00:00+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "rating",
-      "score": 0.76
+      "score": 0.64
     },
     {
-      "id": "40abdc8a8118751e0f1bfe414c66a94d02545b4c",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Today, Oct. 13: Bank of America Dips After $1.2 Billion Fine From Treasury Department",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-bank-of-america-dips-after-usd1-2-billion-fine-from-treasury-department/?source=iedfolrf0000001",
-      "summary": "Bank of America stock is down 3% after hours as of 5 p.m. ET following the announcement of a $1.2 billion fine from the U.S. Treasury Department, today, Oct. 13, 2026.",
-      "published_at": "2026-10-13T21:20:45+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
+      "id": "414a864045664d83fd7c47539942129123019387",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Business",
+      "title": "China’s EV industry faces double blow from EU export quota, VAT rebate cut",
+      "url": "https://www.scmp.com/business/china-business/article/3370851/chinas-ev-industry-faces-double-blow-eu-export-quota-vat-rebate-cut?utm_source=rss_feed",
+      "summary": "China’s electric vehicle (EV) makers have been hit with a double blow as both Beijing and Brussels introduce measures that will affect their exports, leading analysts to revise down their earnings forecasts for the industry.\nThe twin measures – combined with a sales decline in China’s domestic market – could create a “do-or-die moment” for some of the country’s 50-odd EV makers, ramping up financi",
+      "published_at": "2026-10-14T08:00:07+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "company",
-      "score": 0.52
+      "category": "earnings",
+      "score": 0.64
     },
     {
       "id": "f257e9172cc313e752d275df77896d4df1450b0c",
@@ -361,7 +154,7 @@
       "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
       "summary": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
       "published_at": "2026-10-13T21:15:32+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -379,7 +172,7 @@
       "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
       "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
       "published_at": "2026-10-13T21:02:00+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -387,6 +180,24 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
+    },
+    {
+      "id": "0c6284aeca53905eb0de8b161daa3f1841282a35",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
+      "published_at": "2026-10-13T19:46:12+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
     },
     {
       "id": "2b6285c85fb37939a788a2e18bb9e0bb27ac3682",
@@ -397,7 +208,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3370671/china-tighten-leash-futures-quant-trading-contain-risks-amid-stock-slump?utm_source=rss_feed",
       "summary": "China’s futures exchanges will intensify a crackdown on malfeasance linked to programme trading by defining specific violations, as Beijing seeks to contain any cross-asset risk that could place additional strain on the nation’s already struggling stock markets.\nParticipants who failed to report and inspect clients’ programme trading, also known as quantitative trading, in compliance with the rule",
       "published_at": "2026-10-13T03:35:59+00:00",
-      "first_seen_at": "2026-10-14T05:49:44.727259+00:00",
+      "first_seen_at": "2026-10-14T11:14:00.166973+00:00",
       "market": "US",
       "markets": [
         "US"
