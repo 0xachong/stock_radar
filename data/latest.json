@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-14T23:06:41.373455+00:00",
+  "generated_at": "2026-10-15T01:39:19.583596+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 27,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 22,
-    "HK": 1
+    "US": 25,
+    "HK": 2
   },
   "category_stats": [
     {
-      "key": "earnings",
-      "count": 7
+      "key": "company",
+      "count": 9
     },
     {
-      "key": "company",
-      "count": 7
+      "key": "earnings",
+      "count": 6
     },
     {
       "key": "macro",
@@ -23,10 +23,14 @@
     },
     {
       "key": "guidance",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "ma",
       "count": 1
     },
     {
@@ -42,33 +46,15 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 16
+      "count": 18
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 7
+      "count": 9
     }
   ],
   "items": [
-    {
-      "id": "8e5965a45bab2795507c64a8382ec2761a665a38",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
-      "summary": "All six banks fell following their earnings reports, even as some delivered strong results, reflecting concerns about interest rates and the economic outlook.",
-      "published_at": "2026-10-14T22:48:06+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
     {
       "id": "790c294ffc96de10c1425aa3af73de2db05bbc6a",
       "site_id": "hk_china",
@@ -77,8 +63,8 @@
       "title": "隔夜美股 | 9月通胀居高不下 三大指数下跌 Coreweave(CRWV.US)跌超15%",
       "url": "https://cn.investing.com/news/stock-market-news/article-3609246",
       "summary": "",
-      "published_at": "2026-10-14T22:35:47+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "published_at": "2026-10-15T01:12:38+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -95,8 +81,8 @@
       "title": "美股平静期宣告结束！标普500终结连续53个交易日未跌超1%纪录 AI股抛售潮加剧市场担忧",
       "url": "https://cn.investing.com/news/stock-market-news/article-3609244",
       "summary": "",
-      "published_at": "2026-10-14T22:35:09+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "published_at": "2026-10-15T01:11:40+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -106,15 +92,81 @@
       "score": 0.64
     },
     {
-      "id": "fa4f0a298cf7a2751fe4ea1cfe512d03010762fd",
+      "id": "3075eee357c2f912f409274663fb48ef038e2686",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "比特币跌破8.2万美元关口 美联储加息预期打压不改分析师持续看涨",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3609245",
+      "title": "特斯拉(TSLA.US)SpaceX(SPCX.US)合并进入倒计时？巴克莱：今年可能官宣，障碍在股东投票",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3609268",
       "summary": "",
-      "published_at": "2026-10-14T22:35:09+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "published_at": "2026-10-15T01:10:20+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "market": "US"
+        }
+      ],
+      "category": "ma",
+      "score": 0.97
+    },
+    {
+      "id": "579b6c3630a5175280be43a81a3bbb530518325a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "智通港股早知道 | 美国9月CPI高于市场预期 龙源电力(00916) 第三季风力发电有所改善",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3609320",
+      "summary": "",
+      "published_at": "2026-10-15T01:09:38+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "33c2f73d08ed133ed59627133e0aabec925de5e2",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "AI硬件神话遇冷？戴尔(DELL.US)暴跌11%，巴克莱三箭齐发下调服务器三巨头评级",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3609357",
+      "summary": "",
+      "published_at": "2026-10-15T01:09:22+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "DELL",
+          "name": "戴尔",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "15003b7281a81134038efd6260205f0e17a816dc",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股芯片板块暴跌加剧、市值蒸发逾万亿美元！通胀超预期重燃加息预期，AI基建融资瓶颈引发估值重估",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3609381",
+      "summary": "",
+      "published_at": "2026-10-15T01:08:58+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -124,22 +176,76 @@
       "score": 0.8
     },
     {
-      "id": "6691bf41f1dd67b39987226fe3e8e06f64096513",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美联储褐皮书：美国经济温和扩张但通胀压力加剧 AI提高生产率抑制部分企业招聘需求",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3609242",
-      "summary": "",
-      "published_at": "2026-10-14T22:35:08+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "id": "8b03271cd66031bca02915a9207a1fcdb94a99dd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "published_at": "2026-10-15T01:07:01+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.64
+      "score": 0.8
+    },
+    {
+      "id": "2315dcd2849355903a4c203fc4688ff1d1336af7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27",
+      "url": "https://www.fool.com/investing/2026/10/14/history-says-nvidia-stock-usually-rises-in-the-fourth-quarter-it-has-in-20-of-the-last-27/?source=iedfolrf0000001",
+      "summary": "Two of the seven down years erased over half the stock's value. What went wrong?",
+      "published_at": "2026-10-14T23:51:02+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "abe112598d7906f0247055dc397bed86096f890b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
+      "url": "https://www.fool.com/investing/2026/10/14/invesco-qqq-doesn-t-own-a-single-bank-and-that-s-not-the-only-thing-the-nasdaq-100-leaves-out/?source=iedfolrf0000001",
+      "summary": "Two simple rules also keep Berkshire Hathaway, Visa, and Oracle out of the popular fund.",
+      "published_at": "2026-10-14T23:23:01+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "8e5965a45bab2795507c64a8382ec2761a665a38",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+      "summary": "All six banks fell following their earnings reports, even as some delivered strong results, reflecting concerns about interest rates and the economic outlook.",
+      "published_at": "2026-10-14T22:48:06+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
     },
     {
       "id": "7e60e0de094ee903fcdc8c58f8c913605d8efc6a",
@@ -150,7 +256,7 @@
       "url": "https://www.fool.com/coverage/better-buy/2026/10/14/broadcom-vs-marvell-technology-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
       "summary": "Broadcom has AI revenue commitments locked in years ahead from the world’s largest technology companies. Marvell just set a revenue record with Nvidia’s backing and guided for accelerating growth ahead.",
       "published_at": "2026-10-14T22:02:09+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -174,7 +280,7 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/10/14/stock-market-today-oct-14-bank-of-america-shares-fall-5-on-earnings-miss-and-compliance-penalty/?source=iedfolrf0000001",
       "summary": "Adjusted EPS of $1.08 fell short of estimates, while a $1.2 billion anti-money-laundering penalty weighed on sentiment today, Oct. 14, 2026.",
       "published_at": "2026-10-14T21:42:45+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -182,24 +288,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "675f70e954e42bd5606fe317b1e476c7f423fde6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-      "published_at": "2026-10-14T21:40:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "2e2ba0e5401b41beb79b3ff1b2cde42e72e1d621",
@@ -210,7 +298,7 @@
       "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
       "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
       "published_at": "2026-10-14T20:19:25+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -228,7 +316,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/musings-about-the-agentic-future/?source=iedfolrf0000001",
       "summary": "How will Meta make money from Muse, and who will the other winners in the agentic industry be?",
       "published_at": "2026-10-14T20:19:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -252,7 +340,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/3-trillion-dollar-giants-that-could-be-the-next-bi/?source=iedfolrf0000001",
       "summary": "Micron, Microsoft, and Meta Platforms could soon split their shares, and investors have different reasons to keep watching each of them.",
       "published_at": "2026-10-14T20:15:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -276,7 +364,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/warren-buffetts-berkshire-hathaway-just-invested-3/?source=iedfolrf0000001",
       "summary": "Berkshire Hathaway just announced an additional $330 million into Bending Spoons.",
       "published_at": "2026-10-14T19:45:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -294,7 +382,7 @@
       "url": "https://www.cnbc.com/2026/10/14/these-stocks-offer-some-of-the-best-risk-adjusted-upside-on-wall-street.html",
       "summary": "Recent stock market volatility has created some potentially attractive opportunities for investors willing to look past near-term choppiness.",
       "published_at": "2026-10-14T19:34:36+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -312,7 +400,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/why-arm-holdings-stock-was-falling-today/?source=iedfolrf0000001",
       "summary": "A hot CPI report hit tech stocks hard.",
       "published_at": "2026-10-14T19:32:27+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -336,7 +424,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/over-25-stocks-sp-500-down-bargain-tech-buy/?source=iedfolrf0000001",
       "summary": "Netflix, Oracle, ServiceNow, and AppLovin are well off their highs with the potential to rebound.",
       "published_at": "2026-10-14T19:30:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +442,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/why-sandiskstock-keeps-going-down/?source=iedfolrf0000001",
       "summary": "Worries about China's CXMT cause a third straight day of losses at Sandisk.",
       "published_at": "2026-10-14T19:01:51+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -372,7 +460,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/is-constellation-stock-a-buy-after-jumping-12-on/?source=iedfolrf0000001",
       "summary": "The stock, after a 12% jump, is now down more than 3% since Alphabet, the parent company of Google, announced its power purchase agreement.",
       "published_at": "2026-10-14T18:30:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -390,7 +478,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/palantir-stock-buy-sell-or-hold/?source=iedfolrf0000001",
       "summary": "Palantir's growth and profitability are exceptional, but its valuation leaves little room for disappointment. Here's the metric that helps explain both sides of the investment case.",
       "published_at": "2026-10-14T18:30:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -414,7 +502,7 @@
       "url": "https://www.fool.com/investing/2026/10/14/vanguard-economist-says-fed-rate-hikes-wont-hurt/?source=iedfolrf0000001",
       "summary": "Based on the past 50 years of Fed interest rates, the Fed still has room to hike rates -- and buying the S&amp;P 500 is still a smart choice for long-term investors.",
       "published_at": "2026-10-14T18:15:00+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -432,7 +520,7 @@
       "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
       "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
       "published_at": "2026-10-14T17:20:23+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -450,7 +538,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report?utm_source=rss_feed",
       "summary": "Yangtze Memory Technologies Corporation (YMTC), China’s leading flash-memory maker, is set to grow revenue six times faster than its industry peers this year as it expands into server-related business ahead of a planned initial public offering (IPO), according to Counterpoint Research.\nThe company’s server-related revenue was effectively zero in 2024, but could account for nearly 39 per cent of it",
       "published_at": "2026-10-14T11:00:10+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -468,7 +556,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3370851/chinas-ev-industry-faces-double-blow-eu-export-quota-vat-rebate-cut?utm_source=rss_feed",
       "summary": "China’s electric vehicle (EV) makers have been hit with a double blow as both Beijing and Brussels introduce measures that will affect their exports, leading analysts to revise down their earnings forecasts for the industry.\nThe twin measures – combined with a sales decline in China’s domestic market – could create a “do-or-die moment” for some of the country’s 50-odd EV makers, ramping up financi",
       "published_at": "2026-10-14T08:00:07+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -486,7 +574,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3370671/china-tighten-leash-futures-quant-trading-contain-risks-amid-stock-slump?utm_source=rss_feed",
       "summary": "China’s futures exchanges will intensify a crackdown on malfeasance linked to programme trading by defining specific violations, as Beijing seeks to contain any cross-asset risk that could place additional strain on the nation’s already struggling stock markets.\nParticipants who failed to report and inspect clients’ programme trading, also known as quantitative trading, in compliance with the rule",
       "published_at": "2026-10-13T03:35:59+00:00",
-      "first_seen_at": "2026-10-14T23:06:41.373455+00:00",
+      "first_seen_at": "2026-10-15T01:39:19.583596+00:00",
       "market": "US",
       "markets": [
         "US"
