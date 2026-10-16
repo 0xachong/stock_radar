@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-10-16T08:23:41.794690+00:00",
+  "generated_at": "2026-10-16T13:24:56.830864+00:00",
   "window_hours": 48,
-  "total_items": 26,
+  "total_items": 28,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 22,
-    "CN": 1,
-    "HK": 3
+    "US": 28
   },
   "category_stats": [
     {
       "key": "macro",
-      "count": 10
+      "count": 8
     },
     {
       "key": "company",
+      "count": 6
+    },
+    {
+      "key": "ipo",
       "count": 5
     },
     {
       "key": "earnings",
-      "count": 5
-    },
-    {
-      "key": "ipo",
       "count": 4
     },
     {
-      "key": "policy",
+      "key": "rating",
+      "count": 2
+    },
+    {
+      "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "guidance",
       "count": 1
     },
     {
@@ -39,25 +45,43 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 25
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 7
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "acbff9a71c4dadb0b051a2a5a25eb9ed4cb87dee",
+      "id": "6e1d21f10b86029cf3f12162aaa745bbfe08e4fb",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Our top 10 things to watch in the stock market Friday",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "summary": "Wall Street is headed for a mixed open, as CoreWeave shares tumble again.",
+      "published_at": "2026-10-16T13:19:30+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "b919a2aa725a29c11b70f4758df9cc62fa9f10b2",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market",
-      "url": "https://www.fool.com/investing/2026/10/16/35-chance-fed-hikes-rates-at-least-4-times-by-september-2027-decimate-ai-driven-bull-market/?source=iedfolrf0000001",
-      "summary": "An aggressive rate-hiking cycle might be just the catalyst needed to send a historically pricey stock market past its tipping point.",
-      "published_at": "2026-10-16T08:06:02+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "title": "What the Latest Fed Decision Means for Costco, Walmart, Target, and Home Depot",
+      "url": "https://www.fool.com/investing/2026/10/16/what-the-latest-fed-decision-means-for-costco-walm/?source=iedfolrf0000001",
+      "summary": "Higher interest rates bring different risks and opportunities for four leading retail stocks.",
+      "published_at": "2026-10-16T12:54:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -67,21 +91,243 @@
       "score": 0.64
     },
     {
-      "id": "7f96dce0ea8eb986610d704bef7df543f8a40189",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "A股收评 | 沪指涨0.24% 军工、飞行汽车概念走强",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3611960",
-      "summary": "",
-      "published_at": "2026-10-16T07:53:44+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "CN",
+      "id": "8bc081f2e5e583e115177992d8b6d6c9e775ded3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Defense ETF Duel: Old Guard Aerospace or Next-Gen Tech?",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/16/the-defense-etf-duel-old-guard-aerospace-or-next-gen-tech/?source=iedfolrf0000001",
+      "summary": "Invesco's $7.4 billion fund delivers higher dividends and lower volatility, while First Trust's concentrated 39-holding portfolio offers tech-heavy exposure including Palantir and SpaceX.",
+      "published_at": "2026-10-16T12:45:02+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
       "markets": [
-        "CN"
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 0.97
+    },
+    {
+      "id": "8a258198d403270a0ceac280e3a0b0a4cbc57fe5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+      "published_at": "2026-10-16T12:36:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "8333f263ff7403ff6f9e92d7e7fe466b4b411e19",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Mobileye, EchoStar, Toll Brothers & more",
+      "url": "https://www.cnbc.com/2026/10/16/friday-analyst-calls-spacex-nvidia-tesla-apple.html",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "published_at": "2026-10-16T12:22:29+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "26807b433fd9a19fc52928421105e8bc39e59c35",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Got $1,000? 1 Top Stock to Buy Amid the Semiconductor Sell-Off Before It Triples by 2030",
+      "url": "https://www.fool.com/investing/2026/10/16/got-usd1-000-1-top-stock-to-buy-amid-the-semiconductor-sell-off-before-it-triples-by-2030/?source=iedfolrf0000001",
+      "summary": "Marvell Technology's long-term guidance suggests that the stock could become a multibagger.",
+      "published_at": "2026-10-16T11:56:01+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 1.0
+    },
+    {
+      "id": "af8dc5ebc7f06f0ef68ccb9290da7169dbaaa074",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meet the New Nasdaq-100 Stock That’s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy?",
+      "url": "https://www.fool.com/investing/2026/10/16/meet-the-new-nasdaq-100-stock-that-s-crushing-nvidia-micron-and-sandisk-is-it-too-late-to-buy/?source=iedfolrf0000001",
+      "summary": "This stock has soared more than 600% this year.",
+      "published_at": "2026-10-16T11:05:02+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
       "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "f46e062b9d9b7c8bf670c7461fd40b5d20583e84",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
+      "url": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
+      "summary": "The S&amp;P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, nearly 40% of the index’s stocks are down at least 20% from their 52-week highs.",
+      "published_at": "2026-10-16T10:56:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.64
+    },
+    {
+      "id": "95e3e7d06f432da4d8ca36c5cc9ae193f25afce5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: Palantir Stock Will Be Worth This Much by the End of 2027",
+      "url": "https://www.fool.com/investing/2026/10/16/prediction-palantir-stock-will-be-worth-this-much/?source=iedfolrf0000001",
+      "summary": "Palantir's own numbers are genuinely extraordinary. The real question is whether that growth can hold up long enough to justify today's price by 2027.",
+      "published_at": "2026-10-16T09:45:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "3e022dc2ffc106d4066eae58e1683d1fc66361f9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+      "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+      "summary": "Federal Reserve Chairman Kevin Warsh had the opportunity Thursday night to shape expectations before the central bank’s interest-rate-setting meeting in two weeks — and in keeping with his practice of leaving markets guessing, he chose not to.",
+      "published_at": "2026-10-16T09:16:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "9879fe3895598fbed4e65832f9f03e0fe39ddcc8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Hot Artificial Intelligence IPO Stock Is Down 52%, but It Could Double From Here, According to Wall Street",
+      "url": "https://www.fool.com/investing/2026/10/16/hot-artificial-intelligence-ipo-stock-down-cbrs/?source=iedfolrf0000001",
+      "summary": "This risky bet could pay off well if analysts are right and management can execute.",
+      "published_at": "2026-10-16T08:57:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.8
+    },
+    {
+      "id": "630bcecdaaf94fb743ffc6805dbbbce708d6b231",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "History Says a Stock Market Downturn Is Coming, and Investors Should Do This When It Happens",
+      "url": "https://www.fool.com/investing/2026/10/16/stock-market-downturn-coming-investors-should-do-this/?source=iedfolrf0000001",
+      "summary": "Stock market downturns have historically been excellent buying opportunities.",
+      "published_at": "2026-10-16T08:48:02+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "75c9745db9b21818ac965586b92e286e0f0e809c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Not AMD. Not Broadcom. This is the Chip Designer Nvidia Investors Should Be Watching",
+      "url": "https://www.fool.com/investing/2026/10/16/not-amd-not-broadcom-this-is-the-chip-designer-nvi/?source=iedfolrf0000001",
+      "summary": "Nvidia can't win without this chip designer.",
+      "published_at": "2026-10-16T08:44:00+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "acbff9a71c4dadb0b051a2a5a25eb9ed4cb87dee",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market",
+      "url": "https://www.fool.com/investing/2026/10/16/35-chance-fed-hikes-rates-at-least-4-times-by-september-2027-decimate-ai-driven-bull-market/?source=iedfolrf0000001",
+      "summary": "An aggressive rate-hiking cycle might be just the catalyst needed to send a historically pricey stock market past its tipping point.",
+      "published_at": "2026-10-16T08:06:02+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
       "score": 0.64
     },
     {
@@ -93,7 +339,7 @@
       "url": "https://www.fool.com/investing/2026/10/16/micron-stock-is-25-below-its-june-record-is-it-a-buy-now/?source=iedfolrf0000001",
       "summary": "The memory maker now sees more earnings a quarter than it did when its shares peaked. Has the sell-off been overdone?",
       "published_at": "2026-10-16T07:37:02+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -101,78 +347,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "02a96b574446f4ae86a50d033e7b6c117a1ab86c",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美联储主席沃什力挺AI提振经济 新兴市场情绪获提振",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3611970",
-      "summary": "",
-      "published_at": "2026-10-16T07:35:23+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "d4147ad6ef75d7a64c40c5136ff187b82b92e612",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 中远海能(01138)再跌逾2%  美国拟放宽“影子船队“制裁以遏制运价飙升",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3611968",
-      "summary": "",
-      "published_at": "2026-10-16T07:35:22+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "policy",
-      "score": 0.64
-    },
-    {
-      "id": "b3b21403008363d469042b21641e67229d51345a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-      "published_at": "2026-10-16T07:11:22+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "3e022dc2ffc106d4066eae58e1683d1fc66361f9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-      "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-      "summary": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.",
-      "published_at": "2026-10-16T07:07:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     },
     {
       "id": "cc9a6506f8645fc3221d43ef02bdc4b7fd93368c",
@@ -183,7 +357,7 @@
       "url": "https://www.scmp.com/business/markets/article/3371124/ipo-fraud-chinas-export-boom-us-inflation-5-figures-investors-are-watching?utm_source=rss_feed",
       "summary": "Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar asset freeze, while mainland trade momentum surged on robust tech demand. Meanwhile, mainland Chinese traders ramped up their exposure to local equities, and the city cemented its status as a top global destination for wealth philanthropy.\nHere are some of the figures that have drawn the most market attention this week.",
       "published_at": "2026-10-16T07:04:10+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -201,7 +375,7 @@
       "url": "https://www.fool.com/investing/2026/10/16/history-says-q4-chipotle-cmg-stock/?source=iedfolrf0000001",
       "summary": "With shares trading 56% off their peak, investors hope the rest of this year tells a different story.",
       "published_at": "2026-10-16T06:30:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -219,7 +393,7 @@
       "url": "https://www.fool.com/investing/2026/10/16/bill-ackman-is-directing-up-to-3-billion-into-howa/?source=iedfolrf0000001",
       "summary": "The billionaire investor has unveiled his \"master plan\" to diversify this master planned community developer into an insurance and investment holding company.",
       "published_at": "2026-10-16T06:05:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -243,7 +417,7 @@
       "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
       "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
       "published_at": "2026-10-16T05:00:01+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -261,7 +435,7 @@
       "url": "https://www.fool.com/investing/2026/10/16/xrp-treasury-company-evernorth-is-finally-going-pu/?source=iedfolrf0000001",
       "summary": "New digital asset treasury companies, no matter how big they become, are unlikely to boost the price of XRP.",
       "published_at": "2026-10-16T05:00:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -279,7 +453,7 @@
       "url": "https://www.scmp.com/business/banking-finance/article/3371074/hong-kongs-ipo-fraud-clampdown-sends-shock-waves-across-financial-sector?utm_source=rss_feed",
       "summary": "Hong Kong regulators’ tough action to crack down on fraudulent activity in the initial public offering market is sending ripples across the city’s financial industry, with insiders predicting short-term turbulence as some listings are scaled back or even cancelled.\nFinancial intermediaries and IPO sponsors in particular find themselves in a “difficult position”, as they are now expected to conduct",
       "published_at": "2026-10-16T01:06:30+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -287,108 +461,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.64
-    },
-    {
-      "id": "9dc51c3334c1bf6097b6f779f492a559b28effec",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Elon Musk Promised \"a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
-      "url": "https://www.fool.com/investing/2026/10/15/elon-musk-promised-a-million-robotaxis-by-2020-non/?source=iedfolrf0000001",
-      "summary": "Timelines may not mean much to Tesla, but they do to shareholders.",
-      "published_at": "2026-10-16T01:05:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [
-        {
-          "symbol": "02020",
-          "name": "安踏体育",
-          "market": "HK"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "7cb8525fe679ba09ddb4acc746fe6a3e501c2bd3",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-      "url": "https://www.cnbc.com/2026/10/15/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "summary": "Investors shunned corners of the AI trade on Thursday. The Dow gained more than 550 points, benefiting from the rotation away from some tech names.",
-      "published_at": "2026-10-15T23:49:14+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "1b41e5beffec58aa36093217ae06d1f4671d7669",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
-      "url": "https://www.fool.com/investing/2026/10/15/the-fed-is-fighting-inflation-again/?source=iedfolrf0000001",
-      "summary": "Restrictive policy rates and slowing growth are usually a bad sign for the S&amp;P 500.",
-      "published_at": "2026-10-15T22:41:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "a2bd622173a4b3e513e37c1621d74cf0c67d30cb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Arm vs. Credo Technology Group: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/15/arm-vs-credo-technology-group-which-semiconductor-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Credo is growing at triple-digit rates supplying AI data center connectivity. Arm compounds quietly through royalties on billions of devices worldwide.",
-      "published_at": "2026-10-15T21:10:19+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "macro",
-      "score": 0.97
-    },
-    {
-      "id": "b45956e0ad3ed62dbfe554466773113eb76eec8a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-      "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-      "published_at": "2026-10-15T21:03:00+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "f07de49e7989ab7019b8ecc5cadb500353e6132a",
@@ -399,7 +471,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/15/bny-stock-pops-on-strong-earnings-showing-exactly-why-we-like-this-bank-in-this-market.html",
       "summary": "Wall Street clearly liked what it heard on the post-earnings conference call because BNY stock went from flat to up more than 3% on the day.",
       "published_at": "2026-10-15T18:16:41+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -417,7 +489,7 @@
       "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
       "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
       "published_at": "2026-10-15T15:37:59+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -435,7 +507,7 @@
       "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
       "published_at": "2026-10-15T12:11:15+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -453,7 +525,7 @@
       "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
       "summary": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
       "published_at": "2026-10-15T03:48:58+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -471,7 +543,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3370932/mainland-china-hong-kong-stocks-fall-us-inflation-spurs-fed-tightening-concerns?utm_source=rss_feed",
       "summary": "Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment.\nThe CSI 300 Index slid 1.2 per cent to 4,166.01 at the close, the lowest since August 12, 2025. The c",
       "published_at": "2026-10-15T02:04:32+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -489,7 +561,7 @@
       "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
       "summary": "All six banks fell following their earnings reports, even as some delivered strong results, reflecting concerns about interest rates and the economic outlook.",
       "published_at": "2026-10-14T22:48:06+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -507,7 +579,7 @@
       "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
       "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
       "published_at": "2026-10-14T17:20:23+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
+      "first_seen_at": "2026-10-16T13:24:56.830864+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -515,24 +587,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
-    },
-    {
-      "id": "4bb0c60c9ee09078c13a49ea5795889d240d0861",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Chinese memory giant YMTC to grow revenue 6 times faster than peers as IPO nears: report",
-      "url": "https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report?utm_source=rss_feed",
-      "summary": "Yangtze Memory Technologies Corporation (YMTC), China’s leading flash-memory maker, is set to grow revenue six times faster than its industry peers this year as it expands into server-related business ahead of a planned initial public offering (IPO), according to Counterpoint Research.\nThe company’s server-related revenue was effectively zero in 2024, but could account for nearly 39 per cent of it",
-      "published_at": "2026-10-14T11:00:10+00:00",
-      "first_seen_at": "2026-10-16T08:23:41.794690+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     }
   ]
 }
