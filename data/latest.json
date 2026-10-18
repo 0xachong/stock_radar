@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-18T03:07:54.151876+00:00",
+  "generated_at": "2026-10-18T08:13:56.883082+00:00",
   "window_hours": 48,
-  "total_items": 17,
+  "total_items": 16,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 17
+    "US": 16
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 9
+      "count": 7
     },
     {
       "key": "earnings",
       "count": 3
     },
     {
-      "key": "ipo",
+      "key": "rating",
       "count": 2
     },
     {
@@ -25,7 +25,11 @@
       "count": 2
     },
     {
-      "key": "rating",
+      "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "ipo",
       "count": 1
     }
   ],
@@ -33,15 +37,97 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 16
+      "count": 14
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
+    {
+      "id": "f4374c32bf252de761fed8ef342558d403d25807",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Here's What $10,000 Split Across SpaceX, Palantir, and 3 AI Chip Stocks Could Be Worth in 2035",
+      "url": "https://www.fool.com/investing/2026/10/18/heres-what-10000-split-across-spacex-palantir-and/?source=iedfolrf0000001",
+      "summary": "Investing in Space Exploration Technologies, Palantir, Broadcom, AMD, and TSMC spreads your AI and space bets across businesses with very different roles in the sectors.",
+      "published_at": "2026-10-18T08:07:00+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "7d91b660e17c99ac6b0ae1255ca5ddf5293091c7",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "五大分析师AI动向：Meta Platforms获华尔街最高目标价；Salesforce获双重上调",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3613449",
+      "summary": "",
+      "published_at": "2026-10-18T07:29:34+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        },
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "e08c6d49be5abeb8b7eb21ae23ae4a38177ac835",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "SCMP Companies",
+      "title": "China’s youth draw upon Long March spirit to navigate modern uncertainties",
+      "url": "https://www.scmp.com/news/china/politics/article/3371269/chinas-youth-draw-upon-long-march-spirit-navigate-modern-uncertainties?utm_source=rss_feed",
+      "summary": "As China marks the 90th anniversary of the Red Army’s victory in the Long March, some young Chinese are looking to the historic journey for guidance as they face uncertainty in their lives and future.\nFor Lyu Leiyiyi, a 22-year-old student at the Communication University of China, the spirit of the Long March offers a sense of stability at a time when people and the environment around her are chan",
+      "published_at": "2026-10-18T04:00:19+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 0.97
+    },
     {
       "id": "2c0f1f553144a3238f5474316f10f79364f4b85e",
       "site_id": "us_global",
@@ -51,7 +137,7 @@
       "url": "https://www.fool.com/investing/2026/10/17/kraken-robotics-stock-in-3-years-boom-bust-or-quie/?source=iedfolrf0000001",
       "summary": "Down more than 60%, can Kraken Robotics stock mount a huge comeback?",
       "published_at": "2026-10-18T02:00:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -69,7 +155,7 @@
       "url": "https://www.fool.com/investing/2026/10/17/cathie-wood-keeps-buying-beam-therapeutics-on-the/?source=iedfolrf0000001",
       "summary": "The gene-editing biotech stock is down more than 12% this year.",
       "published_at": "2026-10-18T01:00:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -87,7 +173,7 @@
       "url": "https://www.fool.com/investing/2026/10/17/35-analysts-cover-spacex-heres-why-their-price-tar/?source=iedfolrf0000001",
       "summary": "Wall Street analysts have vastly different price targets for SpaceX.",
       "published_at": "2026-10-18T00:30:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -105,7 +191,7 @@
       "url": "https://www.fool.com/investing/2026/10/17/mark-zuckerbergs-second-act/?source=iedfolrf0000001",
       "summary": "Meta had a big week as Muse continues to be the hottest product in AI. But is this another flash in the pan or a fundamental change in how the world uses technology?",
       "published_at": "2026-10-18T00:18:05+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -129,7 +215,7 @@
       "url": "https://www.fool.com/investing/2026/10/17/prediction-oracle-stock-trails-the-s-and-p-500-through-2030/?source=iedfolrf0000001",
       "summary": "The cloud giant's stock looks cheap on earnings. So why would an index fund beat it?",
       "published_at": "2026-10-17T23:46:02+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -147,7 +233,7 @@
       "url": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?source=iedfolrf0000001",
       "summary": "Another major Wall Street analyst also downgraded Pershing Square stock.",
       "published_at": "2026-10-17T23:05:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -155,54 +241,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.8
-    },
-    {
-      "id": "e84f0c4dee874ee6b27a55d451c7850aa7419c13",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Is Palantir Stock a Buy Right Now?",
-      "url": "https://www.fool.com/investing/2026/10/17/is-palantir-stock-a-buy-right-now/?source=iedfolrf0000001",
-      "summary": "The data-aggregating company has a bright future, but it's trading at a premium valuation.",
-      "published_at": "2026-10-17T17:05:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "770a0c2d6baa8efbfc6f387d2c0bc1fd72aa8217",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "1 Red Flag That AMD Investors Should Be Aware Of Now",
-      "url": "https://www.fool.com/investing/2026/10/17/1-red-flag-that-amd-investors-should-be-aware-of/?source=iedfolrf0000001",
-      "summary": "Advanced Micro Devices' stock has gotten ahead of its business.",
-      "published_at": "2026-10-17T16:30:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "1a3383a1dc6db0bdb7005cf5731fc74398524167",
@@ -213,7 +251,7 @@
       "url": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
       "summary": "Bank of America says there are several technology stocks that have more room to run heading into their next quarterly results.",
       "published_at": "2026-10-17T12:49:53+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -231,7 +269,7 @@
       "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
       "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
       "published_at": "2026-10-17T12:46:21+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -249,7 +287,7 @@
       "url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
       "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
       "published_at": "2026-10-17T12:01:00+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -267,7 +305,7 @@
       "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
       "published_at": "2026-10-16T22:33:05+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -285,25 +323,7 @@
       "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
       "summary": "Investors shunned the artificial intelligence trade and oil prices spiked on Friday, dragging the three major averages to losses.",
       "published_at": "2026-10-16T20:27:46+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "10d124c2bf99b7124e9113423c40918ab1cab532",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-      "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-      "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
-      "published_at": "2026-10-16T19:28:10+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -321,7 +341,7 @@
       "url": "https://www.cnbc.com/2026/10/16/ja.html",
       "summary": "For JPMorgan, the upside potential appears greater than the downside risk.",
       "published_at": "2026-10-16T19:19:28+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -339,31 +359,13 @@
       "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
       "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
       "published_at": "2026-10-16T16:27:31+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
+      "first_seen_at": "2026-10-18T08:13:56.883082+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "cc9a6506f8645fc3221d43ef02bdc4b7fd93368c",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "IPO fraud, China’s export boom, US inflation: 5 figures investors are watching",
-      "url": "https://www.scmp.com/business/markets/article/3371124/ipo-fraud-chinas-export-boom-us-inflation-5-figures-investors-are-watching?utm_source=rss_feed",
-      "summary": "Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar asset freeze, while mainland trade momentum surged on robust tech demand. Meanwhile, mainland Chinese traders ramped up their exposure to local equities, and the city cemented its status as a top global destination for wealth philanthropy.\nHere are some of the figures that have drawn the most market attention this week.",
-      "published_at": "2026-10-16T07:04:10+00:00",
-      "first_seen_at": "2026-10-18T03:07:54.151876+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
       "score": 0.64
     }
   ]
