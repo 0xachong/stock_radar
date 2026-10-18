@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T12:42:42.662139+00:00",
+  "generated_at": "2026-10-18T16:21:18.861372+00:00",
   "window_hours": 48,
-  "total_items": 19,
+  "total_items": 23,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 18,
+    "US": 22,
     "CN": 1
   },
   "category_stats": [
@@ -15,22 +15,26 @@
     },
     {
       "key": "earnings",
-      "count": 4
+      "count": 6
     },
     {
       "key": "macro",
-      "count": 3
+      "count": 4
     },
     {
       "key": "guidance",
       "count": 2
+    },
+    {
+      "key": "rating",
+      "count": 1
     }
   ],
   "site_stats": [
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 17
+      "count": 21
     },
     {
       "site_id": "hk_china",
@@ -40,15 +44,99 @@
   ],
   "items": [
     {
-      "id": "98ec02e9b60bcf41169470d2df536fed51fac4bd",
+      "id": "4078890e49dd0fdd1b9beeca85e8ea3d9581a898",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Here are the 3 big things we're watching in the stock market this week",
+      "url": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "summary": "Meta and Capital One are set to report earnings. We'll also hear from plenty of important companies outside the Club portfolio.",
+      "published_at": "2026-10-18T15:24:37+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "f09568f3208d93b877b2fad86af5f86b40c62f8e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Anthropic is said to propose federal AI safety rules with limits on government",
+      "url": "https://seekingalpha.com/news/4654063-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-18T14:41:41+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "7df3e865e23143b8c3ce9ed5da13f01694114887",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
+      "published_at": "2026-10-18T14:00:00+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "046db24f54ab5fe2e067b942be2dfa0ae03971bb",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "The Motley Fool",
-      "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet",
-      "url": "https://www.fool.com/investing/2026/10/18/quantinuum-vs-ionq-why-wall-street-firm-better/?source=iedfolrf0000001",
-      "summary": "Morgan Stanley chose Quantinuum as its top quantum computing stock pick, but don't count IonQ out just yet.",
-      "published_at": "2026-10-18T12:30:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "title": "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
+      "url": "https://www.fool.com/investing/2026/10/18/anthropic-quarter-revenue-growth-cash-flow-ipo/?source=iedfolrf0000001",
+      "summary": "Anthropic held a private investor day recently.",
+      "published_at": "2026-10-18T13:45:00+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "eb37a28d1c6e427aa57b40d9ef4c81217b09d7f4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
+      "url": "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?source=iedfolrf0000001",
+      "summary": "This Vanguard tech ETF has beaten the Nasdaq-100 for the past 10 years -- but its portfolio is surprisingly top-heavy with just four big names.",
+      "published_at": "2026-10-18T13:08:00+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -58,38 +146,100 @@
       "score": 0.52
     },
     {
-      "id": "f241fecb60fb5fc098b8959979e47ca918713b3e",
+      "id": "f4a7f6aa599cc922b1150e99a3b4e4014d24bf32",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Earnings Week Ahead: TSLA, META, NFLX, CMCSA, GE, GM, T, VZ, and more",
-      "url": "https://seekingalpha.com/news/4653825-earnings-week-ahead-tsla-meta-nflx-cmcsa-ge-gm-t-vz-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-18T12:07:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "4df0c913071be31008ee52790a35e5b80681e23e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Moderna Just Joined the Nasdaq-100. Here's What That Means for Investors.",
+      "url": "https://www.fool.com/investing/2026/10/18/moderna-join-nasdaq-100-what-means-invest/?source=iedfolrf0000001",
+      "summary": "It was a head-turning headline. Here's why the market was buzzing.",
+      "published_at": "2026-10-18T12:45:00+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "2586dd402343a64d336c52a204d55a7a8d4515c6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect",
+      "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
+      "summary": "Meta, General Motors, major airlines and more companies will report earnings this week. Here's what analysts forecast and what's happened in the past.",
+      "published_at": "2026-10-18T12:41:18+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        },
-        {
           "symbol": "META",
           "name": "Meta",
-          "market": "US"
-        },
-        {
-          "symbol": "NFLX",
-          "name": "奈飞",
           "market": "US"
         }
       ],
       "category": "earnings",
       "score": 1.0
+    },
+    {
+      "id": "01222d0927dd8b346c8d7c3946028a866fb27970",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+      "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
+      "published_at": "2026-10-18T12:34:51+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.76
+    },
+    {
+      "id": "98ec02e9b60bcf41169470d2df536fed51fac4bd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet",
+      "url": "https://www.fool.com/investing/2026/10/18/quantinuum-vs-ionq-why-wall-street-firm-better/?source=iedfolrf0000001",
+      "summary": "Morgan Stanley chose Quantinuum as its top quantum computing stock pick, but don't count IonQ out just yet.",
+      "published_at": "2026-10-18T12:30:00+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
     },
     {
       "id": "11dab16b8c729c87ae0997ddb41442f79678eba0",
@@ -100,7 +250,7 @@
       "url": "https://www.fool.com/investing/2026/10/18/archer-stock-is-down-50-this-year-heres-why/?source=iedfolrf0000001",
       "summary": "Archer is down but not out.",
       "published_at": "2026-10-18T12:05:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -118,7 +268,7 @@
       "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
       "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
       "published_at": "2026-10-18T12:00:01+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -142,7 +292,7 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3613519",
       "summary": "",
       "published_at": "2026-10-18T11:05:06+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "CN",
       "markets": [
         "CN"
@@ -160,7 +310,7 @@
       "url": "https://www.fool.com/investing/2026/10/18/just-witnessed-unique-stock-market-measure-do-something-4th-time-since-1997-chilling-outlook-for-wall-street/?source=iedfolrf0000001",
       "summary": "When this set of circumstances arises, it’s been a historical red flag for stocks.",
       "published_at": "2026-10-18T10:36:02+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -178,7 +328,7 @@
       "url": "https://www.fool.com/investing/2026/10/18/micron-technology-mu-stock-is-down-24-from-its-pea/?source=iedfolrf0000001",
       "summary": "A lot will have to go right for that kind of growth. Still, Micron is likely to keep growing at a robust rate.",
       "published_at": "2026-10-18T09:50:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -202,7 +352,7 @@
       "url": "https://www.fool.com/investing/2026/10/18/a-record-number-of-s-and-p-500-companies-issued-upbeat-guidance-before-earnings-season-should-you-buy-an-index-fund-now/?source=iedfolrf0000001",
       "summary": "When 72 companies say Wall Street's numbers are too low, is the market still a buy near its high?",
       "published_at": "2026-10-18T09:17:02+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -220,7 +370,7 @@
       "url": "https://www.fool.com/investing/2026/10/18/prediction-1000-invested-in-taiwan-semiconductor-t/?source=iedfolrf0000001",
       "summary": "TSMC benefits from the successes of Nvidia, AMD, and others.",
       "published_at": "2026-10-18T09:10:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -236,35 +386,6 @@
       "score": 0.85
     },
     {
-      "id": "f4374c32bf252de761fed8ef342558d403d25807",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Here's What $10,000 Split Across SpaceX, Palantir, and 3 AI Chip Stocks Could Be Worth in 2035",
-      "url": "https://www.fool.com/investing/2026/10/18/heres-what-10000-split-across-spacex-palantir-and/?source=iedfolrf0000001",
-      "summary": "Investing in Space Exploration Technologies, Palantir, Broadcom, AMD, and TSMC spreads your AI and space bets across businesses with very different roles in the sectors.",
-      "published_at": "2026-10-18T08:07:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        },
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
       "id": "e08c6d49be5abeb8b7eb21ae23ae4a38177ac835",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -273,7 +394,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3371269/chinas-youth-draw-upon-long-march-spirit-navigate-modern-uncertainties?utm_source=rss_feed",
       "summary": "As China marks the 90th anniversary of the Red Army’s victory in the Long March, some young Chinese are looking to the historic journey for guidance as they face uncertainty in their lives and future.\nFor Lyu Leiyiyi, a 22-year-old student at the Communication University of China, the spirit of the Long March offers a sense of stability at a time when people and the environment around her are chan",
       "published_at": "2026-10-18T04:00:19+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -289,42 +410,6 @@
       "score": 0.97
     },
     {
-      "id": "2c0f1f553144a3238f5474316f10f79364f4b85e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?",
-      "url": "https://www.fool.com/investing/2026/10/17/kraken-robotics-stock-in-3-years-boom-bust-or-quie/?source=iedfolrf0000001",
-      "summary": "Down more than 60%, can Kraken Robotics stock mount a huge comeback?",
-      "published_at": "2026-10-18T02:00:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "1a3383a1dc6db0bdb7005cf5731fc74398524167",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "These tech stocks are a buy ahead of their earnings reports, Bank of America says",
-      "url": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
-      "summary": "Bank of America says there are several technology stocks that have more room to run heading into their next quarterly results.",
-      "published_at": "2026-10-17T12:49:53+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "d54d2ba2812e73b2f72ca29b3be1bae96f355903",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -333,7 +418,7 @@
       "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
       "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
       "published_at": "2026-10-17T12:46:21+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -341,24 +426,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "af8d99b9facb6283b07101ba1b19e3a717fc307e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-      "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
-      "published_at": "2026-10-17T12:01:00+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
     },
     {
       "id": "385923c4424527774a515cc65b026d51a7fac929",
@@ -369,7 +436,7 @@
       "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
       "published_at": "2026-10-16T22:33:05+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -387,7 +454,7 @@
       "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
       "summary": "Investors shunned the artificial intelligence trade and oil prices spiked on Friday, dragging the three major averages to losses.",
       "published_at": "2026-10-16T20:27:46+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -405,7 +472,7 @@
       "url": "https://www.cnbc.com/2026/10/16/ja.html",
       "summary": "For JPMorgan, the upside potential appears greater than the downside risk.",
       "published_at": "2026-10-16T19:19:28+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -423,7 +490,7 @@
       "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
       "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
       "published_at": "2026-10-16T16:27:31+00:00",
-      "first_seen_at": "2026-10-18T12:42:42.662139+00:00",
+      "first_seen_at": "2026-10-18T16:21:18.861372+00:00",
       "market": "US",
       "markets": [
         "US"
