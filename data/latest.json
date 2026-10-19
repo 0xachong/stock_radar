@@ -1,36 +1,39 @@
 {
-  "generated_at": "2026-10-19T20:21:58.655881+00:00",
+  "generated_at": "2026-10-19T23:51:21.117631+00:00",
   "window_hours": 48,
   "total_items": 20,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 19,
-    "HK": 1
+    "US": 20
   },
   "category_stats": [
     {
       "key": "company",
-      "count": 8
+      "count": 9
     },
     {
       "key": "earnings",
-      "count": 5
+      "count": 4
     },
     {
       "key": "rating",
       "count": 2
     },
     {
-      "key": "macro",
-      "count": 2
-    },
-    {
-      "key": "ma",
+      "key": "capital",
       "count": 1
     },
     {
       "key": "product",
+      "count": 1
+    },
+    {
+      "key": "ipo",
+      "count": 1
+    },
+    {
+      "key": "macro",
       "count": 1
     },
     {
@@ -42,25 +45,223 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 17
+      "count": 15
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 5
     }
   ],
   "items": [
     {
-      "id": "03fe43c0290988d61df56644ea72a1e79507248c",
+      "id": "c30d2a5d1339667d1216d0c1e93cf44055b5a1bc",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Nasdaq climbs more than 1% as AI trade makes a comeback",
-      "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-      "summary": "The S&amp;P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
-      "published_at": "2026-10-19T20:20:15+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "source": "The Motley Fool",
+      "title": "Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It's a Buy in October.",
+      "url": "https://www.fool.com/investing/2026/10/19/meet-the-dividend-king-stock-that-yields-more-than/?source=iedfolrf0000001",
+      "summary": "Procter & Gamble has built an impressive track record of dividends.",
+      "published_at": "2026-10-19T23:30:00+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.76
+    },
+    {
+      "id": "f7ad2179a102c7047eb55abef68d91e439609e1d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "英伟达(NVDA.US)“借力”欧洲超级计算机实现创纪录容错模拟！物理量子比特减少90%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615387",
+      "summary": "",
+      "published_at": "2026-10-19T23:05:39+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "bb5febe2d8d2eeeefdb0d4b0500a8cab00275e6a",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Metals Focus分析师坚定看好黄金：在盘整而非转熊，4000美元附近有底",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615385",
+      "summary": "",
+      "published_at": "2026-10-19T23:05:05+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "56ae60b5724c4d8a14bd9af6d915ce43cebaa849",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "隔夜美股 | 三大指数涨跌不一 科技股强势反弹 美光科技(MU.US)涨近3%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615358",
+      "summary": "",
+      "published_at": "2026-10-19T22:35:39+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "2beaa7b8aeb8b326a07b64257a22af407d62373f",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "苹果(AAPL.US)官宣下周举行新品发布会 首款触屏MacBook Pro有望亮相",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615357",
+      "summary": "",
+      "published_at": "2026-10-19T22:35:38+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "market": "US"
+        }
+      ],
+      "category": "product",
+      "score": 0.85
+    },
+    {
+      "id": "f4a0d50f38e85f8c5507201ef312edee785ea0e1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Pre-IPO Anduril Stock Climbs 50% in 5 Months",
+      "url": "https://www.fool.com/investing/2026/10/19/pre-ipo-anduril-stock-climbs-50-in-5-months/?source=iedfolrf0000001",
+      "summary": "Anduril is a great business, but what about Anduril stock?",
+      "published_at": "2026-10-19T22:30:00+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "d0ef31af0824b8f574a58ff40d79c9603fa59a0a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Gold market consolidating rather than entering bear market, Metals Focus analyst says",
+      "url": "https://seekingalpha.com/news/4654434-gold-market-consolidating-rather-than-entering-bear-market-metals-focus-analyst-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-19T21:43:09+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 0.97
+    },
+    {
+      "id": "6846fe2b6b419bc747a411c23ab8bbc74c615240",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 19: Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target/?source=iedfolrf0000001",
+      "summary": "Today, Oct. 19, 2026, Morgan Stanley's upgrade reinforced Amazon Web Services and AI momentum ahead of October 29 earnings.",
+      "published_at": "2026-10-19T21:11:03+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "9355259fad38c6b0fcabbe0cd66d9df8815df159",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+      "published_at": "2026-10-19T21:06:00+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "dd989777a581689d325e36fd86cdfc3dae318e5f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "2 Stocks Down About 70% to Buy Now and Hold for the Next Decade",
+      "url": "https://www.fool.com/investing/2026/10/19/2-stocks-down-68-and-71-to-buy-now-and-hold-for/?source=iedfolrf0000001",
+      "summary": "Two beaten-down consumer goods stocks, one 155-year-old whiskey maker and one protein snack company, are building their next decade while the market prices them for their worst year.",
+      "published_at": "2026-10-19T21:05:00+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -78,7 +279,7 @@
       "url": "https://www.fool.com/investing/2026/10/19/why-coreweave-s-struggles-could-weigh-down-nvidia-s-stock/?source=iedfolrf0000001",
       "summary": "The two companies have a close relationship, and that could be problematic for Nvidia.",
       "published_at": "2026-10-19T20:09:01+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,24 +287,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "3180d8ae108bd920d7dba13c7052a8140adf39ce",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "LiveRamp股价上涨2%，FTC批准阳狮集团收购案",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3615212",
-      "summary": "",
-      "published_at": "2026-10-19T19:48:07+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.61
     },
     {
       "id": "cb07500fd9f13c966b96ab73f567a781d2e28d7b",
@@ -114,7 +297,7 @@
       "url": "https://www.fool.com/investing/2026/10/19/3-dow-stocks-buy-before-october-end/?source=iedfolrf0000001",
       "summary": "These Dow stocks are outperforming in 2026 and could hit more new highs in 2027.",
       "published_at": "2026-10-19T19:30:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -122,48 +305,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "072adf39b2afade3a8bc9f4bb037c19dd193cdcf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
-      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
-      "summary": "Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.",
-      "published_at": "2026-10-19T19:17:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "727aa6cc276973ea8b95da426988cc3cea5b2011",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电ADR触61.8%斐波那契支撑，RSI深度超卖：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3614919",
-      "summary": "",
-      "published_at": "2026-10-19T19:05:46+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     },
     {
       "id": "8cadaffd1d5aaf8ff9fa9a8ba7afeac446466acb",
@@ -174,7 +315,7 @@
       "url": "https://www.fool.com/investing/2026/10/19/amazon-amzn-stock-costs-250-a-share-heres-why-id-s/?source=iedfolrf0000001",
       "summary": "Amazon's stock has grown powerfully over decades -- and it still seems like a good value.",
       "published_at": "2026-10-19T19:05:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -198,7 +339,7 @@
       "url": "https://www.fool.com/investing/2026/10/19/palantir-stock-is-near-a-record-high-should-invest/?source=iedfolrf0000001",
       "summary": "Palantir's AI opportunity could be enormous. But existing shareholders must decide whether the potential rewards still justify the risks.",
       "published_at": "2026-10-19T19:00:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -222,7 +363,7 @@
       "url": "https://www.fool.com/investing/2026/10/19/heres-what-a-5000-investment-in-amd-could-be-worth/?source=iedfolrf0000001",
       "summary": "AMD has room to run higher over the long run, even after delivering healthy gains to investors in 2026.",
       "published_at": "2026-10-19T18:46:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -246,7 +387,7 @@
       "url": "https://www.fool.com/earnings/takeaways/2026/10/19/commercial-metals-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
       "summary": "Margin expansion from operational discipline is now funding accelerated shareholder returns as capital spending winds down.",
       "published_at": "2026-10-19T18:00:02+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -260,114 +401,6 @@
       ],
       "category": "macro",
       "score": 1.0
-    },
-    {
-      "id": "9355259fad38c6b0fcabbe0cd66d9df8815df159",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-      "published_at": "2026-10-19T16:59:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "084068970f52403b565a060af4e58840411f79cf",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why AMD Stock Popped on Monday",
-      "url": "https://www.fool.com/investing/2026/10/19/why-amd-stock-popped-on-monday/?source=iedfolrf0000001",
-      "summary": "AMD's TAM just doubled -- and this analyst says it's a buy.",
-      "published_at": "2026-10-19T16:46:53+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "18ff6b54498fe10bdbf0017dcf9286454c20644f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Palantir Technologies Stock Rallied Today",
-      "url": "https://www.fool.com/investing/2026/10/19/why-palantir-technologies-stock-rallied-today/?source=iedfolrf0000001",
-      "summary": "The data mining and AI specialist announced another expansive partnership.",
-      "published_at": "2026-10-19T16:31:07+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir",
-          "market": "US"
-        }
-      ],
-      "category": "product",
-      "score": 0.97
-    },
-    {
-      "id": "25c6c74ad4c4d3daa0b832b1d5069d92d41ff502",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Arista Networks Is Heading for a Big Test on Nov. 3. Here's What Could Send the Stock Soaring.",
-      "url": "https://www.fool.com/investing/2026/10/19/arista-networks-is-heading-for-a-big-test-on-nov-3/?source=iedfolrf0000001",
-      "summary": "Forget third-quarter earnings. I'm more interested in management guidance for the fourth quarter.",
-      "published_at": "2026-10-19T16:30:00+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "ce2e2c1eaba9415a197c41bd2ddc98ebc6bbf398",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Stock Market Midday, Oct. 19: Tech Stocks Rebound as AI Confidence Returns",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-midday-oct-19-tech-stocks-rebound-as-ai-confidence-returns/?source=iedfolrf0000001",
-      "summary": "Nasdaq climbs, lifted by semiconductor and cloud infrastructure plays ahead of mega-cap earnings, today, Oct. 19, 2026.",
-      "published_at": "2026-10-19T16:17:49+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
     },
     {
       "id": "f97056ac014e046e2d42caac99d4a69e201c7df0",
@@ -378,7 +411,7 @@
       "url": "https://www.cnbc.com/2026/10/19/gm-abbott-earnings-momentum.html",
       "summary": "Capital One and General Motors are among the names reporting earnings next week with accelerating profit froecasts from analysts.",
       "published_at": "2026-10-19T16:01:30+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -388,22 +421,22 @@
       "score": 0.61
     },
     {
-      "id": "a68676a058c5843b3e86e1bfe3f0d0c57ec2a129",
+      "id": "082a96c695e007505c01d4f4f83024248447943d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Supreme Court won't review Trump's firing of labor board member",
-      "url": "https://www.cnbc.com/2026/10/19/supreme-court-trump-firing-labor-board.html",
-      "summary": "The court's action follows its June decision backing Trump's firing of Rebecca Slaughter, a Democratic Federal Trade Commission member.",
-      "published_at": "2026-10-19T14:59:29+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+      "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
+      "summary": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
+      "published_at": "2026-10-19T03:00:33+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
-      "score": 0.52
+      "category": "rating",
+      "score": 0.64
     },
     {
       "id": "2586dd402343a64d336c52a204d55a7a8d4515c6",
@@ -414,7 +447,7 @@
       "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
       "summary": "Meta, General Motors, major airlines and more companies will report earnings this week. Here's what analysts forecast and what's happened in the past.",
       "published_at": "2026-10-18T12:41:18+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -430,30 +463,6 @@
       "score": 1.0
     },
     {
-      "id": "2eb294b5582824ebaf444924b503eddbe5a6a10d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-      "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
-      "published_at": "2026-10-18T12:00:01+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
       "id": "e08c6d49be5abeb8b7eb21ae23ae4a38177ac835",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
@@ -462,7 +471,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3371269/chinas-youth-draw-upon-long-march-spirit-navigate-modern-uncertainties?utm_source=rss_feed",
       "summary": "As China marks the 90th anniversary of the Red Army’s victory in the Long March, some young Chinese are looking to the historic journey for guidance as they face uncertainty in their lives and future.\nFor Lyu Leiyiyi, a 22-year-old student at the Communication University of China, the spirit of the Long March offers a sense of stability at a time when people and the environment around her are chan",
       "published_at": "2026-10-18T04:00:19+00:00",
-      "first_seen_at": "2026-10-19T20:21:58.655881+00:00",
+      "first_seen_at": "2026-10-19T23:51:21.117631+00:00",
       "market": "US",
       "markets": [
         "US"
