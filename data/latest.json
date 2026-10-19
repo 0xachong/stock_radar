@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-10-19T07:19:59.111628+00:00",
+  "generated_at": "2026-10-19T14:51:27.691434+00:00",
   "window_hours": 48,
-  "total_items": 14,
+  "total_items": 22,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 13,
+    "US": 21,
     "HK": 1
   },
   "category_stats": [
+    {
+      "key": "company",
+      "count": 8
+    },
     {
       "key": "earnings",
       "count": 4
     },
     {
-      "key": "company",
+      "key": "rating",
       "count": 3
     },
     {
       "key": "macro",
-      "count": 2
+      "count": 3
     },
     {
-      "key": "rating",
+      "key": "capital",
       "count": 2
     },
     {
       "key": "ma",
-      "count": 1
-    },
-    {
-      "key": "capital",
       "count": 1
     },
     {
@@ -42,25 +42,43 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 11
+      "count": 16
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 3
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "3d626a390c9e60c88da0c7e66fba18602df76a35",
+      "id": "0a54f24ffc34498c7487dfcfe2c00bfb0fca37f6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%",
+      "url": "https://www.fool.com/investing/2026/10/19/the-most-important-number-in-taiwan-semiconductors/?source=iedfolrf0000001",
+      "summary": "High-performance computing accounted for more than two-thirds of TSMC's quarterly revenue.",
+      "published_at": "2026-10-19T14:45:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "533fe2e52e0749475184642c26b06df6fad85d40",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+      "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
       "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
       "summary": "The S&amp;P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
-      "published_at": "2026-10-19T07:15:52+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "published_at": "2026-10-19T14:41:23+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -70,15 +88,81 @@
       "score": 0.52
     },
     {
-      "id": "abecea5decf76afce43d0e0db44f50a1229124d8",
+      "id": "5f14d12a664fb96c7d671232912cb9464e55c111",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "红猫控股发出收购要约，Steyr Motors盘前股价飙升逾20%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3613956",
+      "title": "美股异动 |  亚马逊(AMZN.US)涨近4% 大摩将其列为首选股并上调目标价至350美元",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615005",
       "summary": "",
-      "published_at": "2026-10-19T06:49:35+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "published_at": "2026-10-19T14:35:50+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "48952254f882fa1ec9810ee06e8007ece0ec3807",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "AI智能体普及或受算力瓶颈制约 大摩仍看好Meta(META.US)长期商业化前景 上调目标价至820美元并维持“增持”评级",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615006",
+      "summary": "",
+      "published_at": "2026-10-19T14:35:50+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "capital",
+      "score": 1.0
+    },
+    {
+      "id": "1c6abeab8cfd6158006d3e97059db5e29bba9fbc",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "美股异动 | Moderna(MRNA.US)涨5% 股价逼近历史高点",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615007",
+      "summary": "",
+      "published_at": "2026-10-19T14:35:50+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "0a3492373032ead382941581ae6eb201c4f794c0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "三峡新材(600293.SH)拟收购锂离子电池电解液企业珠海赛纬100%股权 股票复牌",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3615002",
+      "summary": "",
+      "published_at": "2026-10-19T14:35:06+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -88,23 +172,65 @@
       "score": 0.61
     },
     {
-      "id": "fe6a5e93f896d971474ccc337847893cf8954be4",
+      "id": "3e42b6069da641d3a740d65e93197ea9d7eead24",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "财报前瞻 | 奈飞(NFLX.US)Q3财报看点：涨价推高利润率 广告与直播如何填补营收降速?",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3613931",
+      "title": "美光科技股价今日大涨，原因何在？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3614993",
       "summary": "",
-      "published_at": "2026-10-19T06:36:41+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "published_at": "2026-10-19T14:32:54+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [
         {
-          "symbol": "NFLX",
-          "name": "奈飞",
+          "symbol": "MU",
+          "name": "美光",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "e02992eaf9d20547f5e35d56d866afae5b91a99c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "3 Wall Street Analysts See Intuitive Surgical Hitting $500. Here's the Bull Case.",
+      "url": "https://www.fool.com/investing/2026/10/19/3-wall-street-analysts-see-intuitive-surgical-500/?source=iedfolrf0000001",
+      "summary": "Robotic surgery is growing, procedures are climbing, and da Vinci 5 is rolling out. Is Intuitive Surgical's premium valuation worth paying?",
+      "published_at": "2026-10-19T13:30:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "rating",
+      "score": 0.52
+    },
+    {
+      "id": "9355259fad38c6b0fcabbe0cd66d9df8815df159",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+      "published_at": "2026-10-19T13:22:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
           "market": "US"
         }
       ],
@@ -112,15 +238,33 @@
       "score": 1.0
     },
     {
-      "id": "810da95fb38c30337543bcdfc560c77bc192db5f",
+      "id": "c493d1596953eefd8654c6d9930edcee907f0549",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Will the Fed Raise Rates This Month? Here's What Markets Say.",
+      "url": "https://www.fool.com/investing/2026/10/19/will-the-fed-raise-rates-this-month-heres-what-mar/?source=iedfolrf0000001",
+      "summary": "The latest inflation data suggests another rate hike this month.",
+      "published_at": "2026-10-19T13:22:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "1c9eab7b1d8ad8a550ae2b5c8832cfe1bb9be63a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+      "title": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
       "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
       "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-      "published_at": "2026-10-19T06:06:58+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "published_at": "2026-10-19T13:21:27+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -128,6 +272,138 @@
       "tickers": [],
       "category": "macro",
       "score": 0.52
+    },
+    {
+      "id": "b145de585b403c29c2d0c06a7b8f6d50f9a3d077",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Arm vs. Lumentum: Which Tech Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/19/arm-vs-lumentum-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "Arm commands premium valuations on its dominant licensing model, while Lumentum trades cheaper despite explosive growth, but faces customer concentration risks.",
+      "published_at": "2026-10-19T13:00:01+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "edbde0959ed2e36b913841151430fa3ade124b9c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "USA Rare Earth: Millionaire Maker or Market Hype? The Honest Truth.",
+      "url": "https://www.fool.com/investing/2026/10/19/usar-millionaire-maker-or-market-hype-the-honest/?source=iedfolrf0000001",
+      "summary": "USA Rare Earth has government support and a growing pipeline. Can the beaten-down stock mint new millionaires?",
+      "published_at": "2026-10-19T12:30:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "2a15f9f62cc2e931281acb0a6c8bde3ede9de756",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Tesla Stock vs. the S&P 500: Which Investment Wins Through 2030?",
+      "url": "https://www.fool.com/investing/2026/10/19/tesla-stock-vs-the-sp-500-which-investment-wins-th/?source=iedfolrf0000001",
+      "summary": "Could SpaceX wind up being the key factor in whether Tesla stock beats the market?",
+      "published_at": "2026-10-19T12:12:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "f4a7f6aa599cc922b1150e99a3b4e4014d24bf32",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+      "published_at": "2026-10-19T11:53:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "abaa1dd282b169a0f7692c61006c6c267d26a8b6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
+      "url": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
+      "summary": "A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.",
+      "published_at": "2026-10-19T11:30:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "ddf63f6759a4156382ffda8556a814e59993559c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The S&P 500's Worst Day Was 39 Years Ago Today. Should You Buy When Stocks Crash?",
+      "url": "https://www.fool.com/investing/2026/10/19/the-s-and-p-500-s-worst-day-was-39-years-ago-today-should-you-buy-when-stocks-crash/?source=iedfolrf0000001",
+      "summary": "Black Monday buyers got in around a third under the index's August 1987 record. Did it feel like a bargain?",
+      "published_at": "2026-10-19T11:13:02+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "b38cbd58fddc2787bb766d72f5fe1413eae9f083",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "All It Takes Is 472 Shares of Coca-Cola Stock to Earn $1,000 a Year in Dividends. Is It Worth It?",
+      "url": "https://www.fool.com/investing/2026/10/19/all-it-takes-is-472-shares-of-coca-cola-stock-to-e/?source=iedfolrf0000001",
+      "summary": "Generating $1,000 a year in dividends with Coca-Cola stock isn't cheap, but it is a worthy endeavor.",
+      "published_at": "2026-10-19T11:11:00+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.61
     },
     {
       "id": "082a96c695e007505c01d4f4f83024248447943d",
@@ -138,127 +414,25 @@
       "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
       "summary": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
       "published_at": "2026-10-19T03:00:33+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "a6e0085b759f97438f131808ee8b5e6364820aec",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "This Is AMD's Biggest Hurdle in an AI Sell-Off (and No, It's Not Nvidia)",
-      "url": "https://www.fool.com/investing/2026/10/18/this-is-amds-biggest-hurdle-in-an-ai-sell-off-and/?source=iedfolrf0000001",
-      "summary": "The problem is more with AMD stock than with AMD as a company.",
-      "published_at": "2026-10-19T01:00:00+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "AMD",
-          "name": "AMD",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "4e4ba088e23c8db43dda32988b74d7f21e25d681",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Independent Bank: 3 Key Takeaways for Long-Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/18/independent-bank-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "summary": "Over $500 million in maturing securities are repricing toward 6%, structurally expanding margins without waiting for Fed moves.",
-      "published_at": "2026-10-19T00:25:59+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "3be35f53f61cf7ad94399d27ccff2096cb27bd96",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Should You Buy Costco Stock Before Oct. 30? Here's the Clear Answer.",
-      "url": "https://www.fool.com/investing/2026/10/18/should-you-buy-costco-stock-before-oct-30-history/?source=iedfolrf0000001",
-      "summary": "Investors who plan to hold Costco shares for the long term can reap the benefits of its stock price appreciation, special dividends, and quarterly dividend payouts.",
-      "published_at": "2026-10-18T17:30:00+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.65
-    },
-    {
-      "id": "7df3e865e23143b8c3ce9ed5da13f01694114887",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-      "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
-      "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
-      "published_at": "2026-10-18T14:00:00+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "f4a7f6aa599cc922b1150e99a3b4e4014d24bf32",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-      "published_at": "2026-10-18T13:00:00+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
       "score": 0.64
     },
     {
       "id": "2586dd402343a64d336c52a204d55a7a8d4515c6",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Earnings",
       "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect",
       "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
       "summary": "Meta, General Motors, major airlines and more companies will report earnings this week. Here's what analysts forecast and what's happened in the past.",
       "published_at": "2026-10-18T12:41:18+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -272,24 +446,6 @@
       ],
       "category": "earnings",
       "score": 1.0
-    },
-    {
-      "id": "01222d0927dd8b346c8d7c3946028a866fb27970",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-      "published_at": "2026-10-18T12:34:51+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.76
     },
     {
       "id": "2eb294b5582824ebaf444924b503eddbe5a6a10d",
@@ -300,7 +456,7 @@
       "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
       "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
       "published_at": "2026-10-18T12:00:01+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -324,7 +480,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3371269/chinas-youth-draw-upon-long-march-spirit-navigate-modern-uncertainties?utm_source=rss_feed",
       "summary": "As China marks the 90th anniversary of the Red Army’s victory in the Long March, some young Chinese are looking to the historic journey for guidance as they face uncertainty in their lives and future.\nFor Lyu Leiyiyi, a 22-year-old student at the Communication University of China, the spirit of the Long March offers a sense of stability at a time when people and the environment around her are chan",
       "published_at": "2026-10-18T04:00:19+00:00",
-      "first_seen_at": "2026-10-19T07:19:59.111628+00:00",
+      "first_seen_at": "2026-10-19T14:51:27.691434+00:00",
       "market": "US",
       "markets": [
         "US"
