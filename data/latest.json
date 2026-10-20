@@ -1,28 +1,24 @@
 {
-  "generated_at": "2026-10-20T18:36:05.956139+00:00",
+  "generated_at": "2026-10-20T22:07:03.617095+00:00",
   "window_hours": 48,
-  "total_items": 22,
+  "total_items": 24,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 20,
-    "HK": 2
+    "US": 21,
+    "HK": 3
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 8
+      "count": 10
     },
     {
       "key": "company",
-      "count": 6
+      "count": 9
     },
     {
-      "key": "ma",
-      "count": 3
-    },
-    {
-      "key": "rating",
+      "key": "macro",
       "count": 2
     },
     {
@@ -30,7 +26,7 @@
       "count": 2
     },
     {
-      "key": "macro",
+      "key": "ma",
       "count": 1
     }
   ],
@@ -38,79 +34,25 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 16
+      "count": 17
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "47deb551fa76973ea01dfffd657c784557ee788c",
+      "id": "32389ace91c1f7b4a485c3c306883cecc0a31b2a",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates",
-      "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-      "summary": "A number of upbeat earnings reports and a drop in oil prices overshadowed recent pressure seen among artificial intelligence-related stocks.",
-      "published_at": "2026-10-20T18:34:34+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.64
-    },
-    {
-      "id": "67d5c3238b0d8bc6cd9549020f02c7fdb8a7ffe7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "General Mills Stock Is Down 30%, and Wall Street Analysts Keep Cutting Their Price Targets. Here's Why History Says They're Missing the Bigger Picture.",
-      "url": "https://www.fool.com/investing/2026/10/20/general-mills-stock-is-down-30-and-wall-street-ana/?source=iedfolrf0000001",
-      "summary": "General Mills is facing material headwinds, and Wall Street analysts are increasingly downbeat, but you may still want to own the ultra-high-yield stock.",
-      "published_at": "2026-10-20T18:15:00+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "rating",
-      "score": 0.64
-    },
-    {
-      "id": "d15fe53aa5cd24d90d6f59f7d52dd96c25b18dc1",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-      "published_at": "2026-10-20T18:03:57+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.64
-    },
-    {
-      "id": "9a901d384572011aef3ff3fc6664468c8348ccb9",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX earnings live updates: Here's why analysts are bullish ahead of the report",
+      "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
       "summary": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
-      "published_at": "2026-10-20T17:57:36+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "published_at": "2026-10-20T22:03:15+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -120,15 +62,159 @@
       "score": 0.65
     },
     {
-      "id": "4781b66519b43b2f89cc6b214b832817107a32da",
+      "id": "581484ebb45f2bc1783135f49af0c9d87bd41f62",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
-      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
-      "summary": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
-      "published_at": "2026-10-20T17:38:00+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "source": "CNBC Top News",
+      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.",
+      "published_at": "2026-10-20T22:01:11+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "879851dd1f590f643f983afabaf274fd53c54f49",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "奈飞股价盘后大跌近6%，营收指引不及预期",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3617764",
+      "summary": "",
+      "published_at": "2026-10-20T21:44:23+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NFLX",
+          "name": "奈飞",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "36270089dc4c5fe21a155e844dca1b44ca5f003e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.36%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3617753",
+      "summary": "",
+      "published_at": "2026-10-20T21:30:12+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "5fb791e7e52d3d51146a00a1d0bb22d9124f6f04",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
+      "published_at": "2026-10-20T21:30:06+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.8
+    },
+    {
+      "id": "91e8a660c8c9cc8483a021a6514d80dfa2dc939d",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Alpha Teknova宣布公开募股，股价盘后暴跌22.3%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3617747",
+      "summary": "",
+      "published_at": "2026-10-20T21:17:19+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.61
+    },
+    {
+      "id": "3dff47ae6ad5dfd21aed433ddb1e1d3946e10198",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Mercantile Bank: 3 Key Takeaways for Long-Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/mercantile-bank-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "summary": "A regional bank's ability to hold margins steady depends less on Fed policy than on disciplined funding decisions.",
+      "published_at": "2026-10-20T21:15:02+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "69b6767e03f795c2e68b259ff4f8564bad2948d0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The U.S. Army Is Spending $2.2 Billion on Micro Nuclear Reactors. This Stock Could Benefit.",
+      "url": "https://www.fool.com/investing/2026/10/20/the-us-army-is-spending-22-billion-on-micro-nuclea/?source=iedfolrf0000001",
+      "summary": "The U.S. Army's Janus Program is bringing opportunities to nuclear energy investors.",
+      "published_at": "2026-10-20T21:05:00+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "5ed95b0c7efcef9bf3eb6340317abf637c0934a7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Archer vs Joby: What's the Better eVTOL Stock to Buy Right Now?",
+      "url": "https://www.fool.com/investing/2026/10/20/archer-vs-joby-what-s-the-better-evtol-stock-to-buy-right-now/?source=iedfolrf0000001",
+      "summary": "These electric vertical take-off and landing stocks both have a lot of promise, but both are also down big this year.",
+      "published_at": "2026-10-20T20:50:01+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -138,15 +224,68 @@
       "score": 0.52
     },
     {
-      "id": "0191b22db79e9507feffe67e97c26bf04cff2447",
+      "id": "1cbba2c91d8b6facbfb8707d972642de0fdaf182",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 20: Salesforce Agrees to Acquire Braze for $5.66 Billion: BRZE Stock Soars 52%",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-salesforce-agrees-to-acquire-braze-for-usd5-66-billion-brze-stock-soars-52/?source=iedfolrf0000001",
+      "summary": "On Oct. 20, 2026, the customer engagement software maker's board unanimously backed the $47.50-per-share offer, confirming shareholder support.",
+      "published_at": "2026-10-20T20:49:42+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "cd0bc85bf8d443ca9c583ab6c9d6b7f4f9262700",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "Meta Platforms向巴西法院表示已确保竞选活动获得平等对待",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3617546",
+      "title": "盘后异动股：NFLX、SPCX、SMCI、ISRG、COF、UAL、PEGA",
+      "url": "https://cn.investing.com/news/stock-market-news/article-432SI-3617716",
       "summary": "",
-      "published_at": "2026-10-20T17:34:39+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "published_at": "2026-10-20T20:43:02+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "NFLX",
+          "name": "奈飞",
+          "market": "US"
+        },
+        {
+          "symbol": "SMCI",
+          "name": "超微",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "88c378c80c2b33c3945c46fd25f7664305c43b91",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta vs. Alphabet: Meta Is Better Built for AGI",
+      "url": "https://www.fool.com/investing/2026/10/20/meta-vs-alphabet-meta-is-better-built-for-agi/?source=iedfolrf0000001",
+      "summary": "People open social apps to keep up with friends and enjoy content, which is not something they’ll hand off to AI agents. That gives Meta's ad revenue firmer protection than Alphabet's.",
+      "published_at": "2026-10-20T20:23:01+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -158,55 +297,37 @@
           "market": "US"
         }
       ],
-      "category": "company",
-      "score": 0.85
+      "category": "earnings",
+      "score": 0.97
     },
     {
-      "id": "e5c5e828dfc0b480e5df675a049d2675e1b00be9",
+      "id": "b084df657dd19912ecbd8535b86b60def653bf8e",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Hasbro (HAS) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/hasbro-has-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Magic: The Gathering revenue surged 34% as Hasbro raised full-year guidance.",
-      "published_at": "2026-10-20T17:24:55+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "source": "CNBC Top News",
+      "title": "Dow jumps 500 points as earnings optimism steadies market: Live updates",
+      "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+      "summary": "A number of upbeat earnings reports and a drop in oil prices overshadowed recent pressure seen among artificial intelligence-related stocks.",
+      "published_at": "2026-10-20T20:13:16+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
       "category": "earnings",
-      "score": 0.61
+      "score": 0.64
     },
     {
-      "id": "8a586ac69c12b3807ef0e4fd1c9e9baa948f1008",
+      "id": "f3ffa5b5e23ecf45a3cd5abe9334476fee3cbd40",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Dime Commercial (DCOM) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/dime-commercial-dcom-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Record revenue and expanded NIM guidance signal strong momentum in business lending.",
-      "published_at": "2026-10-20T17:23:21+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "2bf5733fd27a78d1ea8cd4db83d3831f7b5f2bbd",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Klaviyo Stock Rallied Today",
-      "url": "https://www.fool.com/investing/2026/10/20/why-klaviyo-stock-rallied-today/?source=iedfolrf0000001",
-      "summary": "The CRM and marketing specialist caught a tailwind from the acquisition of a competitor.",
-      "published_at": "2026-10-20T17:18:47+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "source": "CNBC Top News",
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "summary": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
+      "published_at": "2026-10-20T20:10:30+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -222,81 +343,69 @@
       "score": 1.0
     },
     {
-      "id": "d4776269a46b46729ececf547dbc7c184a804bf2",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Revolut部分服务在谷歌云故障后逐步恢复",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3617528",
-      "summary": "",
-      "published_at": "2026-10-20T17:17:00+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "id": "467b04185d0976334409c6fd0be2bc465829735d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Earnings",
+      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+      "published_at": "2026-10-20T20:08:44+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
     },
     {
-      "id": "64b1dded507c3b937a28abc5aace67bd20339d8c",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "凯杰股价大涨逾7%，据报EQT正就收购事宜进行深入谈判",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3617509",
-      "summary": "",
-      "published_at": "2026-10-20T16:42:25+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "HK",
+      "id": "8c8042e7856963248c1a3bdc6a001fa80aff6158",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Home Bancorp: 3 Key Takeaways for Long-Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/home-bancorp-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "summary": "Credit pressures dented quarterly earnings, yet core revenue resilience and a $440 million loan pipeline suggest the bank's foundation remains solid for long-term growth.",
+      "published_at": "2026-10-20T19:58:28+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
-      "category": "ma",
+      "category": "earnings",
       "score": 0.61
     },
     {
-      "id": "cb52c4bb9beed7aa2b49ab8f94d78e0054d91d35",
+      "id": "d15fe53aa5cd24d90d6f59f7d52dd96c25b18dc1",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meta Stock Climbed 25% in September. Here’s Why There’s More Upside Ahead",
-      "url": "https://www.fool.com/investing/2026/10/20/meta-stock-climbed-25-in-september-here-s-why-there-s-more-upside-ahead/?source=iedfolrf0000001",
-      "summary": "Meta is proving the doubters wrong.",
-      "published_at": "2026-10-20T16:35:02+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "source": "CNBC Top News",
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+      "published_at": "2026-10-20T19:28:43+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
     },
     {
-      "id": "3d0240375943dd9484077fe12f6efc3e138c9dce",
+      "id": "4781b66519b43b2f89cc6b214b832817107a32da",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-      "url": "https://www.fool.com/investing/2026/10/20/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?source=iedfolrf0000001",
-      "summary": "Ark Invest added to three existing positions on Monday, all of them down sharply from recent highs.",
-      "published_at": "2026-10-20T16:30:00+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "summary": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
+      "published_at": "2026-10-20T17:38:00+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -314,7 +423,7 @@
       "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
       "summary": "Neocloud stocks are still feeling the squeeze after last week's sell-off",
       "published_at": "2026-10-20T15:45:47+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -322,72 +431,6 @@
       "tickers": [],
       "category": "ipo",
       "score": 0.61
-    },
-    {
-      "id": "467b04185d0976334409c6fd0be2bc465829735d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
-      "published_at": "2026-10-20T15:43:44+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
-    },
-    {
-      "id": "f04cf80fa1a44e729f885f01373f03a20469ee59",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-      "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-      "summary": "An analyst calls it “a bit odd” that Salesforce plans to buy Braze at such a high premium to its recent stock price.",
-      "published_at": "2026-10-20T15:27:00+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "rating",
-      "score": 1.0
-    },
-    {
-      "id": "26cb79850cef9339edd28e2466524704c5c813fa",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
-      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-      "summary": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
-      "published_at": "2026-10-20T14:09:16+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "CRM",
-          "name": "Salesforce",
-          "market": "US"
-        }
-      ],
-      "category": "ma",
-      "score": 1.0
     },
     {
       "id": "2007b8cc2680f648e8605d512235e9cedec0bbe2",
@@ -398,7 +441,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3371545/chinese-battery-giant-catl-hit-profit-slowdown-ev-headwind-fears-grow",
       "summary": "Chinese battery giant Contemporary Amperex Technology Limited (CATL) has recorded a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year.\nThe world’s largest electric vehicle battery maker posted a net profit of 21.25 billion yuan (US$3.18 billion) for the July-September period, up 14.54 per cent ",
       "published_at": "2026-10-20T12:56:18+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -416,7 +459,7 @@
       "url": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
       "summary": "The key level traders are watching on the S&amp;P 500 that could mean an even bigger decline is ahead.",
       "published_at": "2026-10-20T12:52:29+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -434,7 +477,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
       "summary": "Japan says it has spotted PLA aircraft, spy drones and warships, including a supply ship that could support the Liaoning aircraft carrier, in recent days as Tokyo and Washington started drills focused on a potential Taiwan contingency.\nThree People’s Liberation Army military aircraft – two drones and a reconnaissance plane – flew through international airspace between Japanese islands into the Pac",
       "published_at": "2026-10-20T12:00:07+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -458,7 +501,7 @@
       "url": "https://www.scmp.com/business/companies/article/3371493/suzhou-dongshans-us18b-hong-kong-ipo-trails-expectations-amid-us-trade-risk-concerns",
       "summary": "Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for mega listings, analysts said.\nThe company has started taking investor orders for a Hong Kong listing, offering 113.7 million shares at a maximum price of HK$93.80 ",
       "published_at": "2026-10-20T08:37:13+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -476,7 +519,7 @@
       "url": "https://www.cnbc.com/2026/10/19/gm-abbott-earnings-momentum.html",
       "summary": "Capital One and General Motors are among the names reporting earnings next week with accelerating profit froecasts from analysts.",
       "published_at": "2026-10-19T16:01:30+00:00",
-      "first_seen_at": "2026-10-20T18:36:05.956139+00:00",
+      "first_seen_at": "2026-10-20T22:07:03.617095+00:00",
       "market": "US",
       "markets": [
         "US"
