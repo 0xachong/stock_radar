@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-21T20:17:21.103041+00:00",
+  "generated_at": "2026-10-21T23:31:00.208445+00:00",
   "window_hours": 48,
-  "total_items": 26,
+  "total_items": 35,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 24,
-    "HK": 2
+    "US": 31,
+    "HK": 4
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 14
+      "count": 19
     },
     {
       "key": "company",
@@ -23,6 +23,14 @@
     },
     {
       "key": "ipo",
+      "count": 2
+    },
+    {
+      "key": "ma",
+      "count": 2
+    },
+    {
+      "key": "capital",
       "count": 1
     }
   ],
@@ -30,25 +38,121 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 16
+      "count": 27
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 10
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "b97440a55976a8bb5a5c5589ddb2d1c94e8e38b8",
+      "id": "b0a6b8323d4080074edfafa9a257fe8c8a017490",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "published_at": "2026-10-21T23:07:00+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "831273a50062d07326e5e62d90b40b653a3ded72",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "新股消息 | 芯德半导体通过港交所聆讯 专注于半导体封测技术解决方案",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3620423",
+      "summary": "",
+      "published_at": "2026-10-21T23:05:05+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.52
+    },
+    {
+      "id": "b5532c2fe789ce1aeb9556e1d4fdc357bffc318a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Vanguard Short-Term Treasury ETF vs Tax-Exempt Bond ETF",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-short-term-treasury-etf-vs-tax-exempt-bond-etf/?source=iedfolrf0000001",
+      "summary": "VGSH delivers stronger returns and lower volatility, while VTES offers federal tax-exempt income for high-earners.",
+      "published_at": "2026-10-21T23:00:02+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "221d118bccc4b149537aea17f26c1c3a4e3949f9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
+      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+      "published_at": "2026-10-21T22:50:35+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "720c7b6c621dcc2fab1fa02552c0ed54a73d3067",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "普达特科技(00650)10月21日斥资9.88万港元回购49.8万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3620402",
+      "summary": "",
+      "published_at": "2026-10-21T22:35:06+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "0423ee73ec9fa46b624b4ef3649512c698dfc6af",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Zuckerberg commits to staying in California for 8 years as part of creation of new class of Meta shares: Live updates",
       "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
       "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
-      "published_at": "2026-10-21T20:10:16+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "published_at": "2026-10-21T22:14:10+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -64,6 +168,192 @@
       "score": 1.0
     },
     {
+      "id": "969399329b2b40f1d5312a917f251d14f3b5162b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Buying This Stock Right Now Could Be a Once-in-a-Generation Opportunity",
+      "url": "https://www.fool.com/investing/2026/10/21/buying-this-stock-right-now-could-be-incredible/?source=iedfolrf0000001",
+      "summary": "Marvell's stock could more than triple by fiscal 2031.",
+      "published_at": "2026-10-21T21:53:00+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "MRVL",
+          "name": "Marvell",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "d416b41f7ea64a4f6c1a2d06c380532741a8bfa4",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
+      "published_at": "2026-10-21T21:44:00+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.52
+    },
+    {
+      "id": "a388ae8518dcb4dc7e189ee16246416f966d32b8",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 21: Airline Shares Rise After United Issues Stronger Revenue Guidance",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-airline-shares-rise-after-united-issues-stronger-revenue-guidance/?source=iedfolrf0000001",
+      "summary": "American Airlines climbed alongside sector peers on Oct. 21, 2026, as United's upbeat outlook reignited investor appetite for the group.",
+      "published_at": "2026-10-21T21:33:11+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "84a41e220b8a240e57da8b0d7f941b56e58d4bd5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This $40 Gold Mining Stock Could Turn $5,000 Into a Fortune",
+      "url": "https://www.fool.com/investing/2026/10/21/this-40-gold-mining-stock-could-turn-5000-into-a-f/?source=iedfolrf0000001",
+      "summary": "Barrick Mining's shares are down more than 6% this year, but all signs point to growth for the tier 1 gold mining company.",
+      "published_at": "2026-10-21T21:30:00+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.64
+    },
+    {
+      "id": "dab5714180d583bcffa7c4f3fdf5be26771b7497",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 21: Space Exploration Technologies Surges on Q3 Earnings Beat",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-space-exploration-technologies-surges-on-q3-earnings-beat/?source=iedfolrf0000001",
+      "summary": "On Oct. 21, 2026, the rocket and satellite broadband provider posted $14.6 billion in quarterly revenue with $4.4 billion net income, rewarding investors with a 7.79% session gain.",
+      "published_at": "2026-10-21T21:20:01+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "f8038f5dee73d134fbacb2c3e7e6d6d2a2d6d289",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Danaher Stock Bounced Higher Today",
+      "url": "https://www.fool.com/investing/2026/10/21/why-danaher-stock-bounced-higher-today/?source=iedfolrf0000001",
+      "summary": "The conglomerate posted its latest set of quarterly earnings that morning.",
+      "published_at": "2026-10-21T21:06:22+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "e11a8ae48b4d829933afc6c7f7bd0624520dfca2",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Tesla Merger: Elon Musk Just Called it a Good Idea",
+      "url": "https://www.fool.com/investing/2026/10/21/spacex-tesla-merger-elon-musk-just-called-it-a-good-idea/?source=iedfolrf0000001",
+      "summary": "A SpaceX-Tesla merger is officially under discussion. Whether it makes sense for shareholders will come down to the price and the terms.",
+      "published_at": "2026-10-21T21:03:01+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.52
+    },
+    {
+      "id": "340100e7d7c53cebf0b52f4281a13f526d3e00e1",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 21: Super Micro Computer Raises Full-Year Revenue Guidance on Strong AI Demand",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-super-micro-computer-raises-full-year-revenue-guidance-on-strong-ai-demand/?source=iedfolrf0000001",
+      "summary": "The server maker raised its outlook to between $18.5 billion and $19.5 billion and signaled margin expansion.",
+      "published_at": "2026-10-21T21:01:36+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "78a5c9daaa06fd49469896a663a1bf0c0f98b4c0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 21: AT&T Beats Earnings on Strong Fiber Growth, Raises 2026 Profit Outlook",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-at-and-t-beats-earnings-on-strong-fiber-growth-raises-2026-profit-outlook/?source=iedfolrf0000001",
+      "summary": "Today, Oct. 21, 2026, the telecom giant posted record internet additions and advanced connectivity gains, signaling momentum in its capital-intensive fiber strategy.",
+      "published_at": "2026-10-21T20:52:04+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "125466eb862b7471c454f3f2ce486a3ac76fd46e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Oct. 21: Netflix Cuts Ad Revenue Guidance, Stock Slides 5%",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-netflix-cuts-ad-revenue-guidance-stock-slides-5/?source=iedfolrf0000001",
+      "summary": "On Oct. 21, 2026, Netflix slashed ad guidance and Q4 revenue outlook, leaving investors questioning whether advertising can reaccelerate growth.",
+      "published_at": "2026-10-21T20:48:48+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
       "id": "43cc6944aad1eba0be2847b80548a9996bf7fe3d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -72,7 +362,7 @@
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
       "published_at": "2026-10-21T20:04:07+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -96,7 +386,7 @@
       "url": "https://www.fool.com/investing/2026/10/21/two-customers-account-for-a-fifth-of-anthropics-re/?source=iedfolrf0000001",
       "summary": "The AI juggernaut relies heavily on SpaceX and Microsoft.",
       "published_at": "2026-10-21T19:55:00+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -114,7 +404,7 @@
       "url": "https://www.fool.com/investing/2026/10/21/4000-in-these-4-non-nvidia-chip-stocks-could-be-wo/?source=iedfolrf0000001",
       "summary": "Investing today in Broadcom, Marvell, AMD, and Arm could produce big returns by 2030.",
       "published_at": "2026-10-21T19:45:00+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -140,24 +430,6 @@
       "score": 1.0
     },
     {
-      "id": "e760a532db38628042b7ed412d88523c97361e71",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "美联储或可将资产负债表缩减至约4.5万亿美元",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3620147",
-      "summary": "",
-      "published_at": "2026-10-21T19:31:28+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "d2390498bf8b5c9e6920c2dee870d9078019b065",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -166,7 +438,7 @@
       "url": "https://www.fool.com/investing/2026/10/21/netflix-is-down-38-since-completing-its-10-for-1-s/?source=iedfolrf0000001",
       "summary": "Netflix's quarterly results were solid, but a few key metrics are weighing on the stock.",
       "published_at": "2026-10-21T19:30:00+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -174,108 +446,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "70a74456346c84845d14ebb6dc2eefa85f7c9100",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Meta Platforms考虑发行无投票权股票以资助AI扩张计划",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3620145",
-      "summary": "",
-      "published_at": "2026-10-21T19:25:07+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "cccfc385892824eefb3d6e7e87f17ed16dc4e15a",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "台积电ADR触及关键阻力区，多空激烈博弈：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3614919",
-      "summary": "",
-      "published_at": "2026-10-21T19:05:50+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "1f7833b01cee6c415a27383d110c7aa48209cd96",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "Nasdaq 100徘徊关键区间，突破30,400才算反转：实时更新",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3614901",
-      "summary": "",
-      "published_at": "2026-10-21T19:05:45+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "ab2504fc1c519f386edb6228a0fffb1701b175b6",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Winnebago: 3 Key Takeaways for Long-Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/21/winnebago-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "summary": "Aftermarket and mobility ventures aim to cushion earnings from retail sales cycles, a hedge against cyclical downturns.",
-      "published_at": "2026-10-21T19:01:52+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "ef49b6c2162f9abffef3cae7f1836964a119de6f",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
-      "url": "https://www.fool.com/investing/2026/10/21/asml-has-incredible-news-for-nvidia-stock-and-micron-stock-investors/?source=iedfolrf0000001",
-      "summary": "ASML management's recent comments indicate that the AI infrastructure build-out won't be slowing down.",
-      "published_at": "2026-10-21T18:32:02+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
     },
     {
       "id": "fe4eface4556bc08b5c927ea2545acdc020bf667",
@@ -286,7 +456,7 @@
       "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
       "summary": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
       "published_at": "2026-10-21T16:35:48+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -310,7 +480,7 @@
       "url": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html",
       "summary": "Morgan Stanley expects a handful of stocks that are reporting quarterly results soon to see big gains. Here's the list",
       "published_at": "2026-10-21T16:20:51+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -328,7 +498,7 @@
       "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
       "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
       "published_at": "2026-10-21T16:08:50+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -346,7 +516,7 @@
       "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
       "published_at": "2026-10-21T15:30:50+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -364,7 +534,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
       "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say.\nThe US Department of Homeland Security (DHS) ordered federal civilian agencies to remove DeepSeek products and third-party services built on the Chinese AI model ",
       "published_at": "2026-10-21T14:00:12+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -382,7 +552,7 @@
       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
       "summary": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.",
       "published_at": "2026-10-21T12:08:16+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -400,7 +570,7 @@
       "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
       "published_at": "2026-10-21T11:20:58+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -418,7 +588,7 @@
       "url": "https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase",
       "summary": "Sun Hung Kai Properties (SHKP), one of Hong Kong’s largest developers, has sold out the latest batch of flats at its Sierra Sea project in the New Territories, where units were offered at discounted prices ahead of a possible US Federal Reserve interest-rate increase by year-end.\nBy 5.40pm on Wednesday, SHKP had found buyers for all 128 flats offered at listed prices in Phase 2C(2) of the developm",
       "published_at": "2026-10-21T10:00:41+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -436,7 +606,7 @@
       "url": "https://www.scmp.com/business/article/3371566/chinas-pharma-stocks-gain-favours-amid-greater-progress-innovative-drugs",
       "summary": "Chinese pharmaceutical companies are ramping up global expansion and the sector, expected to sustain rapid growth in coming third-quarter earnings releases, could see a further lift in market sentiment, analysts said.\nIn the first three quarters, domestic innovative drugs accounted for 80 per cent of all innovative medicines approved in China, according to the Ministry of Industry and Information ",
       "published_at": "2026-10-21T01:00:13+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -454,7 +624,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
       "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings.",
       "published_at": "2026-10-20T23:34:14+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -472,7 +642,7 @@
       "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
       "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
       "published_at": "2026-10-20T22:29:45+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -490,7 +660,7 @@
       "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
       "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
       "published_at": "2026-10-20T20:08:44+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -508,7 +678,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3371545/chinese-battery-giant-catl-hit-profit-slowdown-ev-headwind-fears-grow",
       "summary": "Chinese battery giant Contemporary Amperex Technology Limited (CATL) extended its stock price rout after recording a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year.\nThe world’s largest electric vehicle (EV) battery maker saw its shares continue to tumble by over 10 per cent in Shenzhen and 8",
       "published_at": "2026-10-20T12:56:18+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -526,7 +696,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
       "summary": "Japan says it has spotted PLA aircraft, spy drones and warships, including a supply ship that could support the Liaoning aircraft carrier, in recent days as Tokyo and Washington started drills focused on a potential Taiwan contingency.\nThree People’s Liberation Army military aircraft – two drones and a reconnaissance plane – flew through international airspace between Japanese islands into the Pac",
       "published_at": "2026-10-20T12:00:07+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -550,7 +720,7 @@
       "url": "https://www.scmp.com/business/companies/article/3371493/suzhou-dongshans-us18b-hong-kong-ipo-trails-expectations-amid-us-trade-risk-concerns",
       "summary": "Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for mega listings, analysts said.\nThe company has started taking investor orders for a Hong Kong listing, offering 113.7 million shares at a maximum price of HK$93.80 ",
       "published_at": "2026-10-20T08:37:13+00:00",
-      "first_seen_at": "2026-10-21T20:17:21.103041+00:00",
+      "first_seen_at": "2026-10-21T23:31:00.208445+00:00",
       "market": "HK",
       "markets": [
         "HK"
