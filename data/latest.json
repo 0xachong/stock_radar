@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-22T03:23:34.202362+00:00",
+  "generated_at": "2026-10-22T08:49:53.834042+00:00",
   "window_hours": 48,
-  "total_items": 31,
+  "total_items": 35,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "HK": 5,
-    "US": 27
+    "US": 31,
+    "HK": 4
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 14
+      "count": 17
     },
     {
       "key": "company",
@@ -19,15 +19,11 @@
     },
     {
       "key": "macro",
-      "count": 4
+      "count": 6
     },
     {
       "key": "ipo",
       "count": 3
-    },
-    {
-      "key": "guidance",
-      "count": 1
     },
     {
       "key": "ma",
@@ -38,104 +34,43 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 22
+      "count": 27
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 9
+      "count": 8
     }
   ],
   "items": [
     {
-      "id": "68da5f61e03029af02a6c3d8fd31d9189688a138",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 汽车股延续跌势 本月前18日全国零售同比下滑26% 机构指国内需求仍然偏弱",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3620647",
-      "summary": "",
-      "published_at": "2026-10-22T02:56:11+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "5142f6252b55c2d80a583c6c5bd64c30c6b04ea6",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 黄金股集体走低 中东紧张局势升温油价高企  通胀风险及加息预期仍压制金价",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3620652",
-      "summary": "",
-      "published_at": "2026-10-22T02:56:02+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "guidance",
-      "score": 0.76
-    },
-    {
-      "id": "d4302b3e3f8b1cc259879cb32535841a16cb5448",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 兆威机电(02692)涨近19% 特斯拉新一代Optimus做好量产准备 公司布局灵巧手打开市场空间",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3620654",
-      "summary": "",
-      "published_at": "2026-10-22T02:35:09+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "US",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 1.0
-    },
-    {
-      "id": "1df92a73d7857328485915c735344f0349fc9666",
+      "id": "98f25221f21c2c6cd8b792a1a16179492b95b88f",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching.",
-      "url": "https://www.fool.com/investing/2026/10/21/forget-the-anthropic-ipo-here-are-6-stocks-worth-w/?source=iedfolrf0000001",
-      "summary": "What would it take for these six next-generation tech stocks to double?",
-      "published_at": "2026-10-22T02:21:00+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "source": "MarketWatch Top Stories",
+      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "url": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+      "summary": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+      "published_at": "2026-10-22T08:47:00+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "ipo",
-      "score": 0.61
+      "category": "macro",
+      "score": 0.52
     },
     {
-      "id": "4d4a1745f3091159d8942fca0e3a24066796a75f",
+      "id": "6ddca50cfd7c35c2cc1885b4ee534454bcb26dfd",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+      "title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates",
       "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
       "summary": "The S&amp;P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
-      "published_at": "2026-10-22T02:09:37+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "published_at": "2026-10-22T08:31:13+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -151,6 +86,252 @@
       "score": 1.0
     },
     {
+      "id": "938e681246dc61294263e0c43939b18614ca2ba0",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "ID Logistics第三季度营收强劲增长，股价上涨9%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3621260",
+      "summary": "",
+      "published_at": "2026-10-22T08:27:54+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "72bbb0a54ce81041f6a029ea537877829dd8c818",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "De Tubize股价因UCB上调业绩指引大涨9.3%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3621259",
+      "summary": "",
+      "published_at": "2026-10-22T08:27:47+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.65
+    },
+    {
+      "id": "a739beee5009bf858d6cfb3a2c67928f863f5f9c",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Chipotle shares hit lowest since January 2023 as RSI enters oversold territory",
+      "url": "https://seekingalpha.com/news/4655723-chipotle-shares-hit-lowest-since-january-2023-as-rsi-enters-oversold-territory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-22T08:26:48+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "c8814d5b19279b6d75275769b61429cbff84b3a0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market",
+      "url": "https://www.fool.com/investing/2026/10/22/inflation-data-bad-news-kevin-warsh-stock-market/?source=iedfolrf0000001",
+      "summary": "The stock market looks especially vulnerable to a sharp correction right now.",
+      "published_at": "2026-10-22T08:23:00+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "e3518dc4c583aabd06775f52eb3556343e306c50",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "港股异动 | 光伏股延续跌势 机构指行业需求偏弱且盈利拐点尚不明确 整体修复仍以渐进为主",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3621205",
+      "summary": "",
+      "published_at": "2026-10-22T08:17:50+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.76
+    },
+    {
+      "id": "89bc848d7e7d8c4c7e2e877a69d415da0bcffadf",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street's Biggest Bubble (No, Not AI) Appears Ready to Burst",
+      "url": "https://www.fool.com/investing/2026/10/22/wall-street-biggest-bubble-no-not-ai-appears-ready-to-burst/?source=iedfolrf0000001",
+      "summary": "Outsized risk-taking by investors might be the biggest red flag for a historically pricey stock market.",
+      "published_at": "2026-10-22T08:06:02+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "b32c56b6a92da7c243840f4b8738753c28e79825",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Tesla (TSLA) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "Musk charts course toward autonomy and robotics amid flat revenue and margin pressures.",
+      "published_at": "2026-10-22T07:38:46+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "6efda0a08068caace6687074852c7542656c89d7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
+      "url": "https://www.fool.com/investing/2026/10/22/wall-street-firm-names-amazon-its-top-pick-with-mo/?source=iedfolrf0000001",
+      "summary": "Morgan Stanley sees strong upside in Amazon stock.",
+      "published_at": "2026-10-22T07:05:00+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "43c377b0a37c91f981ab0a5b8be1a766b21ee48d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Nestlé CEO says cash-strapped U.S. shoppers make for tough market",
+      "url": "https://www.cnbc.com/video/2026/10/22/nestle-earnings-q3-ceo-consumer.html",
+      "summary": "Nestlé CEO Philipp Navratil sits down exclusively with CNBC's Carolin Roth to discuss the company's better-than-expected third-quarter earnings, growth in emerging markets, the health of the U.S. consumer, and deconsolidation in Russia.",
+      "published_at": "2026-10-22T06:41:46+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.52
+    },
+    {
+      "id": "4e56c2a28426962fcca2a698d569e5cc10b56cee",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Big Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?",
+      "url": "https://www.fool.com/investing/2026/10/22/big-blues-wild-wednesday-ride-ibm-crushes-q3-earnings-so-why-did-the-stock-tank-mid-call/?source=iedfolrf0000001",
+      "summary": "IBM delivered a double beat and raised guidance on Wednesday. Then management delivered a dose of reality that rattled the entire AI sector.",
+      "published_at": "2026-10-22T06:37:01+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "84ada3b59327c9749b42031c15c7ecf2df6955c0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
+      "url": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
+      "summary": "U.S. Treasury yields could be poised for a breakout ahead of the Federal Reserve's Oct. 28 policy meeting, according to BMO Capital Markets.",
+      "published_at": "2026-10-22T06:11:40+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "d57c98452003fc1741986e5a5d18caf836d46858",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta Delivers Another Blowout Earnings Report. Here's What Investors Need To Know",
+      "url": "https://www.fool.com/investing/2026/10/21/meta-delivers-another-blowout-earnings-report-here-s-what-investors-need-to-know/?source=iedfolrf0000001",
+      "summary": "Meta gave investors a lot to like in its latest earnings report.",
+      "published_at": "2026-10-22T03:45:02+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "1df92a73d7857328485915c735344f0349fc9666",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching.",
+      "url": "https://www.fool.com/investing/2026/10/21/forget-the-anthropic-ipo-here-are-6-stocks-worth-w/?source=iedfolrf0000001",
+      "summary": "What would it take for these six next-generation tech stocks to double?",
+      "published_at": "2026-10-22T02:21:00+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
       "id": "472ea26c1590eead2c8e346c405645c6c4cbebf8",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -159,7 +340,7 @@
       "url": "https://www.fool.com/earnings/takeaways/2026/10/21/meta-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
       "summary": "Lower unit costs from AI-powered content processing are strengthening profit margins as engagement scales across Meta's social platforms.",
       "published_at": "2026-10-22T02:01:49+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -183,7 +364,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
       "summary": "Investors liked what they saw.",
       "published_at": "2026-10-22T00:53:01+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -207,7 +388,7 @@
       "url": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
       "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
       "published_at": "2026-10-22T00:48:00+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -223,48 +404,6 @@
       "score": 0.97
     },
     {
-      "id": "253755a0e1166c2c39ba47a8e9c97559d5531aff",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meta (META) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/meta-meta-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Revenue surged 26% as AI tools and Muse adoption drive engagement gains.",
-      "published_at": "2026-10-22T00:38:15+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "98be31ed5384d5496a6db9b8ddea7e5b5bd7ca07",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "UnitedHealth's Earnings Jumped 60%. Is the Comeback Stock a Buy, Sell, or Hold?",
-      "url": "https://www.fool.com/investing/2026/10/21/unitedhealths-earnings-jumped-60-is-the-comeback-s/?source=iedfolrf0000001",
-      "summary": "UnitedHealth's third-quarter results beat estimates and lifted its outlook. Can tighter cost control and an Optum rebound keep the recovery going?",
-      "published_at": "2026-10-22T00:00:00+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
       "id": "25766189b45bffcd1fe9d271854eb4d1ce175b5c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -273,7 +412,7 @@
       "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
       "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
       "published_at": "2026-10-21T23:45:42+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -297,7 +436,7 @@
       "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
       "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
       "published_at": "2026-10-21T23:07:00+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -313,24 +452,6 @@
       "score": 0.97
     },
     {
-      "id": "b5532c2fe789ce1aeb9556e1d4fdc357bffc318a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Vanguard Short-Term Treasury ETF vs Tax-Exempt Bond ETF",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-short-term-treasury-etf-vs-tax-exempt-bond-etf/?source=iedfolrf0000001",
-      "summary": "VGSH delivers stronger returns and lower volatility, while VTES offers federal tax-exempt income for high-earners.",
-      "published_at": "2026-10-21T23:00:02+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
       "id": "221d118bccc4b149537aea17f26c1c3a4e3949f9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -339,7 +460,7 @@
       "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
       "published_at": "2026-10-21T22:50:35+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -357,7 +478,7 @@
       "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-after-hours-meta-tsla-lrcx-ibm.html",
       "summary": "Here are some of the companies making headlines in extended trading.",
       "published_at": "2026-10-21T22:50:12+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -381,7 +502,7 @@
       "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
       "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
       "published_at": "2026-10-21T21:44:00+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -399,7 +520,7 @@
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
       "published_at": "2026-10-21T20:04:07+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -415,30 +536,6 @@
       "score": 0.85
     },
     {
-      "id": "fe4eface4556bc08b5c927ea2545acdc020bf667",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-      "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-      "summary": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
-      "published_at": "2026-10-21T16:35:48+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
       "id": "7a1d9cce658ef96d684917398c21693f709e1398",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -447,7 +544,7 @@
       "url": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html",
       "summary": "Morgan Stanley expects a handful of stocks that are reporting quarterly results soon to see big gains. Here's the list",
       "published_at": "2026-10-21T16:20:51+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -455,24 +552,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.61
-    },
-    {
-      "id": "a99ef243d4912abd53f67ae18d56edc0ac9723a5",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-      "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-      "published_at": "2026-10-21T16:08:50+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.65
     },
     {
       "id": "877ce822595587b7c4495dda73ea6ee7be87373b",
@@ -483,7 +562,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
       "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say.\nThe US Department of Homeland Security (DHS) ordered federal civilian agencies to remove DeepSeek products and third-party services built on the Chinese AI model ",
       "published_at": "2026-10-21T14:00:12+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -501,7 +580,7 @@
       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
       "summary": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.",
       "published_at": "2026-10-21T12:08:16+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -519,7 +598,7 @@
       "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
       "published_at": "2026-10-21T11:20:58+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -537,7 +616,7 @@
       "url": "https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase",
       "summary": "Sun Hung Kai Properties (SHKP), one of Hong Kong’s largest developers, has sold out the latest batch of flats at its Sierra Sea project in the New Territories, where units were offered at discounted prices ahead of a possible US Federal Reserve interest-rate increase by year-end.\nBy 5.40pm on Wednesday, SHKP had found buyers for all 128 flats offered at listed prices in Phase 2C(2) of the developm",
       "published_at": "2026-10-21T10:00:41+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -555,7 +634,7 @@
       "url": "https://www.scmp.com/business/article/3371566/chinas-pharma-stocks-gain-favours-amid-greater-progress-innovative-drugs",
       "summary": "Chinese pharmaceutical companies are ramping up global expansion and the sector, expected to sustain rapid growth in coming third-quarter earnings releases, could see a further lift in market sentiment, analysts said.\nIn the first three quarters, domestic innovative drugs accounted for 80 per cent of all innovative medicines approved in China, according to the Ministry of Industry and Information ",
       "published_at": "2026-10-21T01:00:13+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -573,7 +652,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
       "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings.",
       "published_at": "2026-10-20T23:34:14+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -591,7 +670,7 @@
       "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
       "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
       "published_at": "2026-10-20T22:29:45+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -609,7 +688,7 @@
       "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
       "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
       "published_at": "2026-10-20T20:08:44+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -627,7 +706,7 @@
       "url": "https://www.scmp.com/business/china-business/article/3371545/chinese-battery-giant-catl-hit-profit-slowdown-ev-headwind-fears-grow",
       "summary": "Chinese battery giant Contemporary Amperex Technology Limited (CATL) extended its stock price rout after recording a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year.\nThe world’s largest electric vehicle (EV) battery maker saw its shares continue to tumble by over 10 per cent in Shenzhen and 8",
       "published_at": "2026-10-20T12:56:18+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -645,7 +724,7 @@
       "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
       "summary": "Japan says it has spotted PLA aircraft, spy drones and warships, including a supply ship that could support the Liaoning aircraft carrier, in recent days as Tokyo and Washington started drills focused on a potential Taiwan contingency.\nThree People’s Liberation Army military aircraft – two drones and a reconnaissance plane – flew through international airspace between Japanese islands into the Pac",
       "published_at": "2026-10-20T12:00:07+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
+      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -659,24 +738,6 @@
       ],
       "category": "company",
       "score": 0.85
-    },
-    {
-      "id": "f559a53d3aef5105a2f2854f9a861d6694251760",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns",
-      "url": "https://www.scmp.com/business/companies/article/3371493/suzhou-dongshans-us18b-hong-kong-ipo-trails-expectations-amid-us-trade-risk-concerns",
-      "summary": "Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for mega listings, analysts said.\nThe company has started taking investor orders for a Hong Kong listing, offering 113.7 million shares at a maximum price of HK$93.80 ",
-      "published_at": "2026-10-20T08:37:13+00:00",
-      "first_seen_at": "2026-10-22T03:23:34.202362+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.65
     }
   ]
 }
