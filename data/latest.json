@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-10-22T08:49:53.834042+00:00",
+  "generated_at": "2026-10-22T14:21:08.602658+00:00",
   "window_hours": 48,
-  "total_items": 35,
+  "total_items": 37,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 31,
-    "HK": 4
+    "US": 36,
+    "HK": 1
   },
   "category_stats": [
     {
       "key": "earnings",
-      "count": 17
+      "count": 15
     },
     {
       "key": "company",
-      "count": 8
+      "count": 10
     },
     {
       "key": "macro",
       "count": 6
     },
     {
-      "key": "ipo",
-      "count": 3
+      "key": "rating",
+      "count": 2
     },
     {
       "key": "ma",
+      "count": 1
+    },
+    {
+      "key": "guidance",
+      "count": 1
+    },
+    {
+      "key": "capital",
+      "count": 1
+    },
+    {
+      "key": "ipo",
       "count": 1
     }
   ],
@@ -34,43 +46,287 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 27
+      "count": 30
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 8
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "98f25221f21c2c6cd8b792a1a16179492b95b88f",
+      "id": "e48c78e97fbbdb4e6ccb8d3f257b4e59305061b0",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
-      "url": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
-      "summary": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
-      "published_at": "2026-10-22T08:47:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "source": "CNBC Top News",
+      "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+      "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+      "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue.",
+      "published_at": "2026-10-22T14:19:40+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
       ],
       "tickers": [],
-      "category": "macro",
-      "score": 0.52
+      "category": "earnings",
+      "score": 0.76
     },
     {
-      "id": "6ddca50cfd7c35c2cc1885b4ee534454bcb26dfd",
+      "id": "15eb8f603e78e6ae359c2adfe89c2ba4eff3e7cd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Meta’s AI spending push sends credit risk to fresh highs",
+      "url": "https://seekingalpha.com/news/4655964-metas-ai-spending-push-sends-credit-risk-to-fresh-highs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-22T14:15:24+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "aa3f7a3021b214de35094b7316901db98c6aa270",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "英特尔公司股票或将在10月29日财报发布后波动8.3%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3622551",
+      "summary": "",
+      "published_at": "2026-10-22T14:14:37+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "a378526fe65cbb4d0ff991da52d93709d5585cf9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "超微电脑股价今日为何下跌？",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3622550",
+      "summary": "",
+      "published_at": "2026-10-22T14:14:11+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "SMCI",
+          "name": "超微",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "c8f466a9967716144db05fae20361c36e6d18277",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "亚马逊财报发布在即，期权数据预示股价或波动6.6%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3622537",
+      "summary": "",
+      "published_at": "2026-10-22T14:10:09+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "10aad6dc5c3a60557bd5d38ac89d55f3cace46b9",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
       "source": "CNBC Top News",
-      "title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates",
+      "title": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates",
       "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
-      "summary": "The S&amp;P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
-      "published_at": "2026-10-22T08:31:13+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "summary": "U.S. equities slid on Thursday, bogged down by declines in mega-cap names Meta Platforms and Tesla as worries around the artificial intelligence trade increase.",
+      "published_at": "2026-10-22T14:09:51+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "46bfaff8d9b8f83aa2e4c3e46422730673c7cdbb",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "Coinbase股票或将在下周财报发布时波动6.8%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3622532",
+      "summary": "",
+      "published_at": "2026-10-22T14:08:17+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "484bd37e4ef190f928c3b95877574f5fc5ae2a67",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Biggest stock movers Thursday: TSLA, BABA, TTMI, PG, and more",
+      "url": "https://seekingalpha.com/news/4655729-biggest-stock-movers-thursday-tsla-baba-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-22T14:05:20+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "market": "US"
+        },
+        {
+          "symbol": "BABA",
+          "name": "阿里巴巴",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "e566ab65d358de428872c1f012125c2e1d0b1697",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "Seeking Alpha Market News",
+      "title": "Wall Street sells off, markets dragged by META and other tech stocks",
+      "url": "https://seekingalpha.com/news/4655951-sp500-nasdaq-composite-dow-jones-wall-street-news?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "summary": "",
+      "published_at": "2026-10-22T14:04:04+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "3cfd1525a3574eef308612bb2aa948634282b0cd",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "SpaceX Just Crushed Wall Street's Q3 Targets -- but a Potential Tesla Merger Is Even Bigger News",
+      "url": "https://www.fool.com/investing/2026/10/22/spacex-crush-wall-street-q3-target-merger-tesla/?source=iedfolrf0000001",
+      "summary": "CEO Elon Musk's companies could be on the verge of the biggest merger in history.",
+      "published_at": "2026-10-22T13:51:27+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ma",
+      "score": 0.52
+    },
+    {
+      "id": "9e9eef0601197bb15acf5565473e8edd3fa06530",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Not Intel. Not AMD. This Is the CPU Stock I'd Buy for the AI Agent Era.",
+      "url": "https://www.fool.com/investing/2026/10/22/not-intel-not-amd-this-is-the-cpu-stock-id-buy-for/?source=iedfolrf0000001",
+      "summary": "Arm Holdings could be the biggest winner of the AI-fueled server CPU boom.",
+      "published_at": "2026-10-22T13:06:00+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "name": "AMD",
+          "market": "US"
+        },
+        {
+          "symbol": "ARM",
+          "name": "Arm",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 1.0
+    },
+    {
+      "id": "a20833a3761822984710c138c64b6ac92333362f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Our top 10 things to watch in the stock market Thursday",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "summary": "Meta and Tesla are falling after earnings.",
+      "published_at": "2026-10-22T12:51:20+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,51 +342,267 @@
       "score": 1.0
     },
     {
-      "id": "938e681246dc61294263e0c43939b18614ca2ba0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "ID Logistics第三季度营收强劲增长，股价上涨9%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3621260",
-      "summary": "",
-      "published_at": "2026-10-22T08:27:54+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "HK",
+      "id": "346f1686af9ea755a5f907e3c160a30baa3ff197",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "Meta Platforms beat the Street. Here's why analysts are bullish on the stock",
+      "url": "https://www.cnbc.com/2026/10/22/meta-platforms-beat-the-street-heres-why-analysts-are-bullish-on-the-stock.html",
+      "summary": "Meta posted third-quarter financial results postmarket Wednesday. Afterward, analysts said there is a lot to like about the Instagram parent's stock.",
+      "published_at": "2026-10-22T12:48:13+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "5e1ae07c3c52833dca851defb24861332fc6396e",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Earnings",
+      "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+      "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+      "summary": "Investors liked what they saw.",
+      "published_at": "2026-10-22T12:45:06+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "b16b9bcdc94ecfd8615ce508cedc0aaf56874e67",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is AGNC Investment’s 16.5%-Yielding Dividend Still Safe? Its Earnings Are Declining, But the CEO Just Said Another Metric Matters More.",
+      "url": "https://www.fool.com/investing/2026/10/22/is-agnc-investment-s-16-5-yielding-dividend-still-safe-its-earnings-are-declining-but-the-ceo-just-said-another-metric-matters-more/?source=iedfolrf0000001",
+      "summary": "AGNC Investment's core dividend sustainability metric isn't its quarterly earnings.",
+      "published_at": "2026-10-22T12:45:02+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
       ],
       "tickers": [],
       "category": "earnings",
       "score": 0.61
     },
     {
-      "id": "72bbb0a54ce81041f6a029ea537877829dd8c818",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "De Tubize股价因UCB上调业绩指引大涨9.3%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3621259",
-      "summary": "",
-      "published_at": "2026-10-22T08:27:47+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "HK",
+      "id": "1df0dc817d72c29466e3d53f2c29be95b21dddd6",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Dutch Bros vs. Chipotle Mexican Grill: Which Consumer Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/22/dutch-bros-vs-chipotle-mexican-grill-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+      "summary": "Dutch Bros' 27.9% revenue growth comes with a 44.7x forward P/E, while Chipotle's 12.9% net margin trades at 26.0x, a valuation puzzle that reshapes the growth-versus-value trade-off.",
+      "published_at": "2026-10-22T12:45:02+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
       "markets": [
-        "HK"
+        "US"
       ],
       "tickers": [],
       "category": "earnings",
       "score": 0.65
     },
     {
-      "id": "a739beee5009bf858d6cfb3a2c67928f863f5f9c",
+      "id": "7ec206f141f9e8fc8f58d64f03f50e3f5f5a307d",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "Seeking Alpha Market News",
-      "title": "Chipotle shares hit lowest since January 2023 as RSI enters oversold territory",
-      "url": "https://seekingalpha.com/news/4655723-chipotle-shares-hit-lowest-since-january-2023-as-rsi-enters-oversold-territory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "summary": "",
-      "published_at": "2026-10-22T08:26:48+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "source": "CNBC Top News",
+      "title": "Here are Thursday's biggest analyst calls: Nvidia, Tesla, SpaceX, Meta, CoreWeave, IBM, Block & more",
+      "url": "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
+      "summary": "Here are Thursday's biggest calls on Wall Street.",
+      "published_at": "2026-10-22T12:29:36+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "rating",
+      "score": 1.0
+    },
+    {
+      "id": "4e426f35d5439025ed3644d1975fedb77abcbb31",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Palantir Stock: Buy, Sell, or Hold After a Research Firm's AI Warning?",
+      "url": "https://www.fool.com/investing/2026/10/22/palantir-stock-buy-sell-or-hold-after-a-research-f/?source=iedfolrf0000001",
+      "summary": "A major AI forecast is putting Palantir's operating model under the microscope. The numbers investors watch next could reveal whether its unusual strategy is a weakness or a lasting advantage.",
+      "published_at": "2026-10-22T12:24:34+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "market": "US"
+        }
+      ],
+      "category": "guidance",
+      "score": 0.97
+    },
+    {
+      "id": "bf082bab289370e8fcc9c1e13e9eda0d8a804aa9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "IBM’s stock falls as investors struggle to shake off July earnings miss",
+      "url": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
+      "summary": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
+      "published_at": "2026-10-22T12:04:00+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "dd6f89618af9eb92ec8f4b4217715437ba467e92",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
+      "url": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "published_at": "2026-10-22T11:57:00+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.52
+    },
+    {
+      "id": "a0f27916ed00218bd04de65b4031ff56f971c8ce",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Breakfast News: Tesla’s Slow Wheels, Fast Dreams",
+      "url": "https://www.fool.com/investing/breakfast-news/2026/10/22/breakfast-news-tesla-s-slow-wheels-fast-dreams/?source=iedfolrf0000001",
+      "summary": "Tesla sets its eyes on 2027 AI milestones, Meta’s revenue climbs 26% thanks to Muse, and more…",
+      "published_at": "2026-10-22T11:30:02+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 0.97
+    },
+    {
+      "id": "27e0fddc5713573825b340d95984f78ab306ed1b",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "All It Takes Is 1,220 Shares of Nike Stock to Generate $2,000 a Year in Dividends. Is It Worth It?",
+      "url": "https://www.fool.com/investing/2026/10/22/1220-shares-nike-stock-2000-year-dividends/?source=iedfolrf0000001",
+      "summary": "Current interest rate trends and turnaround uncertainty call into question buying Nike for its relatively high forward dividend yield.",
+      "published_at": "2026-10-22T11:30:00+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.61
+    },
+    {
+      "id": "c245712241cf381fd59653bcaef107e42c53324f",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "What Happens to AI Stocks if the Fed Hikes Rates Again?",
+      "url": "https://www.fool.com/investing/2026/10/22/what-happens-to-ai-stocks-if-the-fed-hikes-rates-again/?source=iedfolrf0000001",
+      "summary": "Short answer: Higher rates hurt some AI companies a lot more than others.",
+      "published_at": "2026-10-22T11:17:02+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "2a518aaff759fb66b41558a70e7635736894ac95",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "Meta teases an opportunity even bigger than advertising — but its stock is falling",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "published_at": "2026-10-22T09:55:00+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.97
+    },
+    {
+      "id": "81011f8791256db78e1cf1295e252fb14082edff",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027",
+      "url": "https://www.fool.com/investing/2026/10/22/why-anthropic-is-racing-to-ipo-while-openai-waits/?source=iedfolrf0000001",
+      "summary": "The AI labs behind ChatGPT and Claude have seen their paths to the stock market diverge.",
+      "published_at": "2026-10-22T08:53:00+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -148,7 +620,7 @@
       "url": "https://www.fool.com/investing/2026/10/22/inflation-data-bad-news-kevin-warsh-stock-market/?source=iedfolrf0000001",
       "summary": "The stock market looks especially vulnerable to a sharp correction right now.",
       "published_at": "2026-10-22T08:23:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -156,24 +628,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "e3518dc4c583aabd06775f52eb3556343e306c50",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "港股异动 | 光伏股延续跌势 机构指行业需求偏弱且盈利拐点尚不明确 整体修复仍以渐进为主",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3621205",
-      "summary": "",
-      "published_at": "2026-10-22T08:17:50+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
     },
     {
       "id": "89bc848d7e7d8c4c7e2e877a69d415da0bcffadf",
@@ -184,7 +638,7 @@
       "url": "https://www.fool.com/investing/2026/10/22/wall-street-biggest-bubble-no-not-ai-appears-ready-to-burst/?source=iedfolrf0000001",
       "summary": "Outsized risk-taking by investors might be the biggest red flag for a historically pricey stock market.",
       "published_at": "2026-10-22T08:06:02+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -192,227 +646,17 @@
       "tickers": [],
       "category": "company",
       "score": 0.52
-    },
-    {
-      "id": "b32c56b6a92da7c243840f4b8738753c28e79825",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Tesla (TSLA) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Musk charts course toward autonomy and robotics amid flat revenue and margin pressures.",
-      "published_at": "2026-10-22T07:38:46+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 1.0
-    },
-    {
-      "id": "6efda0a08068caace6687074852c7542656c89d7",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
-      "url": "https://www.fool.com/investing/2026/10/22/wall-street-firm-names-amazon-its-top-pick-with-mo/?source=iedfolrf0000001",
-      "summary": "Morgan Stanley sees strong upside in Amazon stock.",
-      "published_at": "2026-10-22T07:05:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "43c377b0a37c91f981ab0a5b8be1a766b21ee48d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Nestlé CEO says cash-strapped U.S. shoppers make for tough market",
-      "url": "https://www.cnbc.com/video/2026/10/22/nestle-earnings-q3-ceo-consumer.html",
-      "summary": "Nestlé CEO Philipp Navratil sits down exclusively with CNBC's Carolin Roth to discuss the company's better-than-expected third-quarter earnings, growth in emerging markets, the health of the U.S. consumer, and deconsolidation in Russia.",
-      "published_at": "2026-10-22T06:41:46+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.52
-    },
-    {
-      "id": "4e56c2a28426962fcca2a698d569e5cc10b56cee",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Big Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?",
-      "url": "https://www.fool.com/investing/2026/10/22/big-blues-wild-wednesday-ride-ibm-crushes-q3-earnings-so-why-did-the-stock-tank-mid-call/?source=iedfolrf0000001",
-      "summary": "IBM delivered a double beat and raised guidance on Wednesday. Then management delivered a dose of reality that rattled the entire AI sector.",
-      "published_at": "2026-10-22T06:37:01+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "84ada3b59327c9749b42031c15c7ecf2df6955c0",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
-      "url": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
-      "summary": "U.S. Treasury yields could be poised for a breakout ahead of the Federal Reserve's Oct. 28 policy meeting, according to BMO Capital Markets.",
-      "published_at": "2026-10-22T06:11:40+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
-    },
-    {
-      "id": "d57c98452003fc1741986e5a5d18caf836d46858",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meta Delivers Another Blowout Earnings Report. Here's What Investors Need To Know",
-      "url": "https://www.fool.com/investing/2026/10/21/meta-delivers-another-blowout-earnings-report-here-s-what-investors-need-to-know/?source=iedfolrf0000001",
-      "summary": "Meta gave investors a lot to like in its latest earnings report.",
-      "published_at": "2026-10-22T03:45:02+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "1df92a73d7857328485915c735344f0349fc9666",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Forget the Anthropic IPO. Here Are 6 Stocks Worth Watching.",
-      "url": "https://www.fool.com/investing/2026/10/21/forget-the-anthropic-ipo-here-are-6-stocks-worth-w/?source=iedfolrf0000001",
-      "summary": "What would it take for these six next-generation tech stocks to double?",
-      "published_at": "2026-10-22T02:21:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
-    },
-    {
-      "id": "472ea26c1590eead2c8e346c405645c6c4cbebf8",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Meta: 3 Key Takeaways for Long-Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/21/meta-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "summary": "Lower unit costs from AI-powered content processing are strengthening profit margins as engagement scales across Meta's social platforms.",
-      "published_at": "2026-10-22T02:01:49+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.85
-    },
-    {
-      "id": "5e1ae07c3c52833dca851defb24861332fc6396e",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
-      "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
-      "summary": "Investors liked what they saw.",
-      "published_at": "2026-10-22T00:53:01+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "126e19a9ef8498e5bb6cbad24b620a9a523468da",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-      "url": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
-      "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
-      "published_at": "2026-10-22T00:48:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "ipo",
-      "score": 0.97
     },
     {
       "id": "25766189b45bffcd1fe9d271854eb4d1ce175b5c",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Earnings",
       "title": "Meta reports third-quarter revenue beat and issues strong guidance",
       "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
       "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
       "published_at": "2026-10-21T23:45:42+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -426,30 +670,6 @@
       ],
       "category": "earnings",
       "score": 1.0
-    },
-    {
-      "id": "b0a6b8323d4080074edfafa9a257fe8c8a017490",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
-      "published_at": "2026-10-21T23:07:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
     },
     {
       "id": "221d118bccc4b149537aea17f26c1c3a4e3949f9",
@@ -460,7 +680,7 @@
       "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
       "published_at": "2026-10-21T22:50:35+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -468,90 +688,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "e9d98b3c0b40139fc99b6d298240d2c68f6e3eba",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stocks making the biggest moves after hours: Meta Platforms, Tesla, Lam Research, IBM & more",
-      "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-after-hours-meta-tsla-lrcx-ibm.html",
-      "summary": "Here are some of the companies making headlines in extended trading.",
-      "published_at": "2026-10-21T22:50:12+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.97
-    },
-    {
-      "id": "d416b41f7ea64a4f6c1a2d06c380532741a8bfa4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "MarketWatch Top Stories",
-      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-      "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
-      "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
-      "published_at": "2026-10-21T21:44:00+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ma",
-      "score": 0.52
-    },
-    {
-      "id": "43cc6944aad1eba0be2847b80548a9996bf7fe3d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
-      "published_at": "2026-10-21T20:04:07+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
-    },
-    {
-      "id": "7a1d9cce658ef96d684917398c21693f709e1398",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Earnings season is in full swing. These are Morgan Stanley's highest conviction plays",
-      "url": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html",
-      "summary": "Morgan Stanley expects a handful of stocks that are reporting quarterly results soon to see big gains. Here's the list",
-      "published_at": "2026-10-21T16:20:51+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "877ce822595587b7c4495dda73ea6ee7be87373b",
@@ -562,7 +698,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
       "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say.\nThe US Department of Homeland Security (DHS) ordered federal civilian agencies to remove DeepSeek products and third-party services built on the Chinese AI model ",
       "published_at": "2026-10-21T14:00:12+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -580,7 +716,7 @@
       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
       "summary": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.",
       "published_at": "2026-10-21T12:08:16+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -593,12 +729,12 @@
       "id": "d15fe53aa5cd24d90d6f59f7d52dd96c25b18dc1",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Markets",
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
       "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
       "published_at": "2026-10-21T11:20:58+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -616,7 +752,7 @@
       "url": "https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase",
       "summary": "Sun Hung Kai Properties (SHKP), one of Hong Kong’s largest developers, has sold out the latest batch of flats at its Sierra Sea project in the New Territories, where units were offered at discounted prices ahead of a possible US Federal Reserve interest-rate increase by year-end.\nBy 5.40pm on Wednesday, SHKP had found buyers for all 128 flats offered at listed prices in Phase 2C(2) of the developm",
       "published_at": "2026-10-21T10:00:41+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -634,7 +770,7 @@
       "url": "https://www.scmp.com/business/article/3371566/chinas-pharma-stocks-gain-favours-amid-greater-progress-innovative-drugs",
       "summary": "Chinese pharmaceutical companies are ramping up global expansion and the sector, expected to sustain rapid growth in coming third-quarter earnings releases, could see a further lift in market sentiment, analysts said.\nIn the first three quarters, domestic innovative drugs accounted for 80 per cent of all innovative medicines approved in China, according to the Ministry of Industry and Information ",
       "published_at": "2026-10-21T01:00:13+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "HK",
       "markets": [
         "HK"
@@ -652,7 +788,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
       "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings.",
       "published_at": "2026-10-20T23:34:14+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -670,7 +806,7 @@
       "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
       "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
       "published_at": "2026-10-20T22:29:45+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -688,7 +824,7 @@
       "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
       "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
       "published_at": "2026-10-20T20:08:44+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
+      "first_seen_at": "2026-10-22T14:21:08.602658+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -696,48 +832,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.76
-    },
-    {
-      "id": "a5b1a066b9e6ceb8077d771ab264c28a2fe73dc0",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Battery giant CATL posts surprise profit slowdown, mainland China shares tumble over 10%",
-      "url": "https://www.scmp.com/business/china-business/article/3371545/chinese-battery-giant-catl-hit-profit-slowdown-ev-headwind-fears-grow",
-      "summary": "Chinese battery giant Contemporary Amperex Technology Limited (CATL) extended its stock price rout after recording a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year.\nThe world’s largest electric vehicle (EV) battery maker saw its shares continue to tumble by over 10 per cent in Shenzhen and 8",
-      "published_at": "2026-10-20T12:56:18+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.76
-    },
-    {
-      "id": "4944c026b5ccfbe82c0639c91be7a6d59a644b64",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Companies",
-      "title": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
-      "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
-      "summary": "Japan says it has spotted PLA aircraft, spy drones and warships, including a supply ship that could support the Liaoning aircraft carrier, in recent days as Tokyo and Washington started drills focused on a potential Taiwan contingency.\nThree People’s Liberation Army military aircraft – two drones and a reconnaissance plane – flew through international airspace between Japanese islands into the Pac",
-      "published_at": "2026-10-20T12:00:07+00:00",
-      "first_seen_at": "2026-10-22T08:49:53.834042+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ARM",
-          "name": "Arm",
-          "market": "US"
-        }
-      ],
-      "category": "company",
-      "score": 0.85
     }
   ]
 }
