@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-10-23T05:44:39.090286+00:00",
+  "generated_at": "2026-10-23T11:02:51.107671+00:00",
   "window_hours": 48,
-  "total_items": 23,
+  "total_items": 35,
   "source_count": 12,
   "site_count": 2,
   "market_stats": {
-    "US": 22,
-    "HK": 1
+    "US": 28,
+    "HK": 7
   },
   "category_stats": [
     {
-      "key": "company",
-      "count": 8
+      "key": "earnings",
+      "count": 12
     },
     {
-      "key": "earnings",
-      "count": 8
+      "key": "company",
+      "count": 10
+    },
+    {
+      "key": "capital",
+      "count": 5
     },
     {
       "key": "macro",
@@ -23,14 +27,14 @@
     },
     {
       "key": "ipo",
+      "count": 2
+    },
+    {
+      "key": "guidance",
       "count": 1
     },
     {
       "key": "product",
-      "count": 1
-    },
-    {
-      "key": "capital",
       "count": 1
     },
     {
@@ -42,25 +46,193 @@
     {
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "count": 19
+      "count": 28
     },
     {
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
-      "count": 4
+      "count": 7
     }
   ],
   "items": [
     {
-      "id": "a78b490648639ef0f64598a650b7fdf2c3d5379c",
+      "id": "b9f7f8605b65f9519d20a01011159eaf8dc854d5",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Even With SOXX and DRAM Down Between 24% and 42% From Their Highs, I'd Still Rather Buy This Vanguard ETF for Semiconductor Stock Exposure",
+      "url": "https://www.fool.com/investing/2026/10/23/even-with-soxx-and-dram-down-between-24-and-42-fro/?source=iedfolrf0000001",
+      "summary": "Semiconductor stocks have sold off in recent months, but the industry is still up big on the year.",
+      "published_at": "2026-10-23T11:00:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "1ea0f27fb7913bed9ec59f0c39ae47dd463cc198",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar?",
+      "url": "https://www.fool.com/investing/2026/10/23/is-meta-platforms-stock-a-buy-as-revenue-continues/?source=iedfolrf0000001",
+      "summary": "Meta Platform stock looks like a buy as revenue surges and its Muse AI agents open up another revenue stream.",
+      "published_at": "2026-10-23T10:41:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "earnings",
+      "score": 1.0
+    },
+    {
+      "id": "ea957ac902e86f1ca751eca840bccdf9272a6749",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "What's Wrong With Roblox Stock?",
+      "url": "https://www.fool.com/investing/2026/10/23/whats-wrong-with-roblox-stock/?source=iedfolrf0000001",
+      "summary": "Roblox's downturn looks partly self-inflicted, while one catalyst emerges that could benefit the gaming platform.",
+      "published_at": "2026-10-23T10:39:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "fd33c7332291ea010cf542fca36dbc8e78661dd4",
       "site_id": "hk_china",
       "site_name": "港股 / 中概",
       "source": "Investing.com 中文",
-      "title": "澳大利亚股市上涨；截至收盘澳大利亚S&P/ASX200指数上涨0.02%",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3623705",
+      "title": "天鸽互动(01980)10月23日耗资3.15万港元回购5万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3624427",
       "summary": "",
-      "published_at": "2026-10-23T05:30:15+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "published_at": "2026-10-23T10:35:18+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "adc25f8d619529ce240ddafeb58927369c06badd",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "骆驼股份(601311.SH)发布前三季度业绩，归母净利润3.54亿元，同比下降42.81%",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3624428",
+      "summary": "",
+      "published_at": "2026-10-23T10:35:18+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "3ea23a35026d27635caced7f85e98f573e0a90c9",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "绿源集团控股(02451)10月23日斥资202.86万港元回购14.65万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3624429",
+      "summary": "",
+      "published_at": "2026-10-23T10:35:18+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "f1c0bad77d9f0cb32a893821a98167b632d6b175",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "复锐医疗科技(01696)10月23日斥资18.51万港元回购10万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3624426",
+      "summary": "",
+      "published_at": "2026-10-23T10:35:17+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "1a7d1a630f4bfd5b05f8cbc19b807270549a0aed",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "猫眼娱乐(01896)10月23日耗资约258.82万港元回购74万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3624421",
+      "summary": "",
+      "published_at": "2026-10-23T10:35:16+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "25bed04cfb905746dca0ce6dcf650767a992797e",
+      "site_id": "hk_china",
+      "site_name": "港股 / 中概",
+      "source": "Investing.com 中文",
+      "title": "高伟电子(01415)10月23日斥资1493万港元回购70万股",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3624422",
+      "summary": "",
+      "published_at": "2026-10-23T10:35:16+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [],
+      "category": "capital",
+      "score": 0.64
+    },
+    {
+      "id": "a5b0916d5809dd60dbc3c25ea81335808e475856",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "If a Stock Market Crash Is on the Way, Warren Buffett Says This Is the Best Thing Investors Can Do for Their Portfolio",
+      "url": "https://www.fool.com/investing/2026/10/23/if-a-stock-market-crash-is-on-the-way-warren-buffe/?source=iedfolrf0000001",
+      "summary": "The S&amp;P 500 and Nasdaq Composite are sliding, making portfolio structure increasingly important.",
+      "published_at": "2026-10-23T10:30:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -68,6 +240,234 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
+    },
+    {
+      "id": "b24d22a7e3e86b0a9637910fa2b19f81a6611023",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "McDonald's Has Lost a Fifth of Its Value in 2026. Is It Time to Buy?",
+      "url": "https://www.fool.com/investing/2026/10/23/mcdonalds-has-lost-fifth-value-2026-time-buy/?source=iedfolrf0000001",
+      "summary": "McDonald's stock is now down nearly 28% from its high and yields 3%.",
+      "published_at": "2026-10-23T10:27:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "company",
+      "score": 0.52
+    },
+    {
+      "id": "1c90c5b4c296320aa2b357642bb78c737dc67cb7",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "History Says This Is What Happens to Mega-IPO Stocks in Their First 12 Months",
+      "url": "https://www.fool.com/investing/2026/10/23/history-what-happens-mega-ipo-stock-12-months/?source=iedfolrf0000001",
+      "summary": "Following Warren Buffett's advice may make sense for most investors.",
+      "published_at": "2026-10-23T10:15:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
+    },
+    {
+      "id": "b3586370a24627f3147b2881b96ca6228862d407",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Investors Just Got Bad News From the Federal Reserve. Here's What History Says Comes Next.",
+      "url": "https://www.fool.com/investing/2026/10/23/investors-got-bad-news-fed-history-says-come-next/?source=iedfolrf0000001",
+      "summary": "More rate hikes are likely ahead. That may not necessarily mean doom for the S&amp;P 500.",
+      "published_at": "2026-10-23T10:04:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "macro",
+      "score": 0.64
+    },
+    {
+      "id": "607b03cde238eaf75acc34deb05893d8808e07d0",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Prediction: Intel Stock Will Take Off After Oct. 29",
+      "url": "https://www.fool.com/investing/2026/10/23/prediction-intel-stock-will-take-off-after-oct-29/?source=iedfolrf0000001",
+      "summary": "Intel can deliver stronger-than-expected results and guidance when it releases its Q3 earnings report on Oct. 29.",
+      "published_at": "2026-10-23T10:00:02+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "6f61c69fa6bf9a92c5299a93eaadd556e5ebbdb9",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+      "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+      "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a post-results bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+      "published_at": "2026-10-23T09:19:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "276a5414946a17c6abf4a900a7600383f99fe78a",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "MarketWatch Top Stories",
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+      "published_at": "2026-10-23T09:15:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "HK",
+      "markets": [
+        "HK"
+      ],
+      "tickers": [
+        {
+          "symbol": "02020",
+          "name": "安踏体育",
+          "market": "HK"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "c0e78b0c3859681c385bf510c3d27ae32e57d74d",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "argenx (ARGX) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/23/argenx-argx-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "summary": "VYVGART revenue surged 54% year-over-year amid strategic Forte Biosciences acquisition.",
+      "published_at": "2026-10-23T08:22:48+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.61
+    },
+    {
+      "id": "1b308d8b8420013eedc9a28f57e07033aff9e161",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "This Dividend King Yielding 3X the S&P 500 Looks Like a Buy Right Now.",
+      "url": "https://www.fool.com/investing/2026/10/23/dividend-king-yield-3x-sp-500-buy-now-tgt/?source=iedfolrf0000001",
+      "summary": "Target's dividend is benefiting from high-margin revenue from advertising and memberships.",
+      "published_at": "2026-10-23T08:15:00+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "bbfe231141de44db14be8efd2e45b49150d4f303",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street",
+      "url": "https://www.fool.com/investing/2026/10/23/federal-reserve-latest-october-inflation-forecast-has-arrived-terrible-news-wall-street/?source=iedfolrf0000001",
+      "summary": "The newest inflation update offers a double whammy for the stock market.",
+      "published_at": "2026-10-23T08:06:02+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "guidance",
+      "score": 0.64
+    },
+    {
+      "id": "cb2b975dba563d16a8f301355421ab9ea3845f51",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "Meta Is Doing Something It’s Never Done Before. Here’s What It Means for Investors.",
+      "url": "https://www.fool.com/investing/2026/10/23/meta-is-doing-something-it-s-never-done-before-here-s-what-it-means-for-investors/?source=iedfolrf0000001",
+      "summary": "The move offers Meta valuable flexibility.",
+      "published_at": "2026-10-23T07:50:01+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "market": "US"
+        }
+      ],
+      "category": "company",
+      "score": 0.85
+    },
+    {
+      "id": "faace4833c72960b355b30bd253fcc1f0bc9e7e3",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "The Motley Fool",
+      "title": "IBM's Software Growth Sped Up and Its Stock Barely Moved. I'd Start Buying.",
+      "url": "https://www.fool.com/investing/2026/10/23/ibm-s-software-growth-sped-up-and-its-stock-barely-moved-i-d-start-buying/?source=iedfolrf0000001",
+      "summary": "The software slowdown that kept me out of the stock just reversed. Is an unchanged revenue forecast reason to wait longer?",
+      "published_at": "2026-10-23T07:41:02+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "earnings",
+      "score": 0.64
+    },
+    {
+      "id": "20c66d5b9fbc98edf1d03a5679be6369c821b885",
+      "site_id": "us_global",
+      "site_name": "美股 / 全球财经",
+      "source": "CNBC Top News",
+      "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
+      "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "summary": "SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U.S.",
+      "published_at": "2026-10-23T06:45:04+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
+      "market": "US",
+      "markets": [
+        "US"
+      ],
+      "tickers": [],
+      "category": "ipo",
+      "score": 0.61
     },
     {
       "id": "219d6bcad4ae254ea953f364d3bea016dbeae2b8",
@@ -78,7 +478,7 @@
       "url": "https://www.fool.com/investing/2026/10/23/if-the-ai-bubble-bursts-these-stocks-will-be-winners/?source=iedfolrf0000001",
       "summary": "On a day when the Nasdaq plunged, housing stocks were surprising winners.",
       "published_at": "2026-10-23T05:30:02+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -86,60 +486,6 @@
       "tickers": [],
       "category": "company",
       "score": 0.64
-    },
-    {
-      "id": "48bbb304e4b45ea9d8759c94160bd5336493d5bb",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "Stock futures trade mixed after tech sector sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-      "summary": "The Nasdaq Composite posted its worst day since June as the tech sector sold off Thursday.",
-      "published_at": "2026-10-23T05:15:48+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "6d81333da338fd02633994fab0095715f95c11af",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "Investing.com 中文",
-      "title": "小马智行港股今日为何上涨？",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3623698",
-      "summary": "",
-      "published_at": "2026-10-23T05:10:22+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "HK",
-      "markets": [
-        "HK"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.64
-    },
-    {
-      "id": "e531420491a6ced69a8be6ed2466920acf30041d",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
-      "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "summary": "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
-      "published_at": "2026-10-23T05:01:31+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "ipo",
-      "score": 0.61
     },
     {
       "id": "73e1884738d743afdd13802a2ec4cd34fd1f2a3c",
@@ -150,7 +496,7 @@
       "url": "https://www.fool.com/earnings/takeaways/2026/10/22/nasdaq-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
       "summary": "The company is converting capital markets infrastructure into high-margin recurring revenue, a structural shift that insulates profitability from trading volatility.",
       "published_at": "2026-10-23T02:43:40+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -158,84 +504,6 @@
       "tickers": [],
       "category": "earnings",
       "score": 0.64
-    },
-    {
-      "id": "b87005faf99e7c4e08453b53f06c572f1b29fda4",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Adobe vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/22/adobe-vs-arista-networks-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Adobe trades at a fraction of Arista's valuation multiple, while Arista boasts nearly double the profit margin -- a classic comparison between value and growth.",
-      "published_at": "2026-10-23T01:39:02+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe",
-          "market": "US"
-        }
-      ],
-      "category": "earnings",
-      "score": 0.97
-    },
-    {
-      "id": "4f1cf27e234c1ac221dc6b1a34f01ad0d27bad89",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Airbnb vs. DoorDash: Which Consumer Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/22/airbnb-vs-doordash-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-      "summary": "Airbnb produces higher margins, but analysts expect DoorDash to post higher earnings growth.",
-      "published_at": "2026-10-23T01:15:02+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
-    },
-    {
-      "id": "7d727722478ba92328ef14ccdfbf2ee7e0bd6f9a",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity?",
-      "url": "https://www.fool.com/investing/2026/10/22/why-is-bigbear-ai-stock-crashing-and-is-it-a-buying-opportunity/?source=iedfolrf0000001",
-      "summary": "BigBear.ai stock is down over 60% year-to-date in 2026.",
-      "published_at": "2026-10-23T00:17:02+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "company",
-      "score": 0.52
-    },
-    {
-      "id": "1df9bf00f7e12c5c5be0cf78247489a9dd1c318b",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "The Motley Fool",
-      "title": "First Industrial (FR) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/first-industrial-fr-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "summary": "Occupancy beat guidance; management raised FFO outlook on improving fundamentals.",
-      "published_at": "2026-10-22T23:38:28+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "earnings",
-      "score": 0.61
     },
     {
       "id": "5ccc240d228d4b17631f36bd5c7c96bfe219f76d",
@@ -246,7 +514,7 @@
       "url": "https://www.cnbc.com/2026/10/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
       "summary": "The Nasdaq Composite dropped 2.6% on Thursday as worries over spending on artificial intelligence ramped up.",
       "published_at": "2026-10-22T23:26:43+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -264,7 +532,7 @@
       "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
       "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
       "published_at": "2026-10-22T22:21:08+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -280,24 +548,6 @@
       "score": 0.85
     },
     {
-      "id": "efaf5bd94a04d314a4d9b7af0747eb0492da4605",
-      "site_id": "us_global",
-      "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
-      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-      "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
-      "published_at": "2026-10-22T21:58:42+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "capital",
-      "score": 0.52
-    },
-    {
       "id": "3d8c8daa350f40b5cca07bb74108a877be7db000",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
@@ -306,7 +556,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/22/meta-stock-why-were-staying-bullish-after-the-post-earnings-sell-off.html",
       "summary": "Meta's in-house AI lab is not getting enough credit on Wall Street.",
       "published_at": "2026-10-22T20:11:55+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -325,12 +575,12 @@
       "id": "2fc2914f7b835de0e3fcd8053a4433b823acb660",
       "site_id": "us_global",
       "site_name": "美股 / 全球财经",
-      "source": "CNBC Top News",
+      "source": "CNBC Earnings",
       "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
       "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
       "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
       "published_at": "2026-10-22T20:03:03+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -354,7 +604,7 @@
       "url": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
       "summary": "Meta's Muse is taking off, but analysts say it's only the beginning",
       "published_at": "2026-10-22T18:07:55+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -378,7 +628,7 @@
       "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
       "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue.",
       "published_at": "2026-10-22T14:19:40+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -396,7 +646,7 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
       "summary": "Investors liked what they saw.",
       "published_at": "2026-10-22T12:45:06+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -420,7 +670,7 @@
       "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
       "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
       "published_at": "2026-10-21T23:45:42+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -444,7 +694,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
       "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say.\nThe US Department of Homeland Security (DHS) ordered federal civilian agencies to remove DeepSeek products and third-party services built on the Chinese AI model ",
       "published_at": "2026-10-21T14:00:12+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -462,7 +712,7 @@
       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
       "summary": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.",
       "published_at": "2026-10-21T12:08:16+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -480,7 +730,7 @@
       "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
       "published_at": "2026-10-21T11:20:58+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
+      "first_seen_at": "2026-10-23T11:02:51.107671+00:00",
       "market": "US",
       "markets": [
         "US"
@@ -488,24 +738,6 @@
       "tickers": [],
       "category": "macro",
       "score": 0.64
-    },
-    {
-      "id": "b28481934e62cfc96f1255932af38233ddbb8df4",
-      "site_id": "hk_china",
-      "site_name": "港股 / 中概",
-      "source": "SCMP Business",
-      "title": "Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase",
-      "url": "https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase",
-      "summary": "Sun Hung Kai Properties (SHKP), one of Hong Kong’s largest developers, has sold out the latest batch of flats at its Sierra Sea project in the New Territories, where units were offered at discounted prices ahead of a possible US Federal Reserve interest-rate increase by year-end.\nBy 5.40pm on Wednesday, SHKP had found buyers for all 128 flats offered at listed prices in Phase 2C(2) of the developm",
-      "published_at": "2026-10-21T10:00:41+00:00",
-      "first_seen_at": "2026-10-23T05:44:39.090286+00:00",
-      "market": "US",
-      "markets": [
-        "US"
-      ],
-      "tickers": [],
-      "category": "macro",
-      "score": 0.52
     }
   ]
 }
